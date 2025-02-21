@@ -1,4 +1,4 @@
-# Assignment 3
+# Final Project
 Phornchanok (Paula) Tepkham\(Feb 3, 2025)
 ---
 
@@ -102,6 +102,22 @@ To improve the original baseline graph (figure 2.1), several customizations were
 The visualization is truthful, accurately depicting Thailand’s export, import, and net export trends while aligning with historical events like the 1997 Asian Financial Crisis. It is functional, with a clear layout, well-positioned legend, and interactive hover mode for easy interpretation. The color scheme and transparency enhance readability, making it visually appealing. It is insightful, highlighting Thailand’s shift from a net importer to a net exporter, with the net export line clearly marking this transition. Finally, it is enlightening, providing a deeper understanding of how economic shocks and trade policies shaped Thailand’s trade balance over time.
 
 ---
+## Comment for Assignment 3: 
+You did a great job on the submissions / making things work. The comparison table is excellent.
+
+It is clear that you worked very hard on your plot 1. However, the x axis needs to be more clearly labeled (recall how we talked about converting from log to displaying values). I like the idea of the animation, but you get little information about the other states. We will do an animation segment later and you can revisit this then. In the meantime, I think plot 1 would have worked better. make the points larger and maybe try gglabel to get it a little clearer.
+
+alternative plots: the graphical setup is nice, but I would reverse the coloring.
+
+plot 2: this is stronger than the first plots. I would suggest using area under the curves of 'net exports'. it reads as a bit odd otherwise. the line you have with the text is nice. I would probably use a charcoal instead of black.
+---
+
+# Final Project Proposal 
+1) Alternating plot 1 to make it more clear.
+2) Create a website that reader can choose the country that they need to highlight it.
+3) Change the color of plot 2. 
+
+
 
 References:
 - https://bookdown.org/pbaumgartner/gdswr-notes/91-creating-maps.html
