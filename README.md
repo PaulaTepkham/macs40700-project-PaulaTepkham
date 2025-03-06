@@ -1,5 +1,7 @@
 # Assignment 5: Interactive/Animated graphics 
-Phornchanok (Paula) Tepkham\(March 5, 2025) \
+Phornchanok (Paula) Tepkham 
+
+(March 5, 2025) 
 
 This analysis is a part of master thesis, named "A More Robust Monetary Policy Shock: A Natural Language Processing Approach of Thailand’s Monetary Policy Reports"
 ---
