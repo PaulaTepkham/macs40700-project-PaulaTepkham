@@ -1,5 +1,6 @@
 # Assignment 5: Interactive/Animated graphics 
-Phornchanok (Paula) Tepkham\(March 5, 2025)
+Phornchanok (Paula) Tepkham\(March 5, 2025) \
+
 This analysis is a part of master thesis, named "A More Robust Monetary Policy Shock: A Natural Language Processing Approach of Thailand’s Monetary Policy Reports"
 ---
 
@@ -30,8 +31,8 @@ I read raw text from each document into a computer and process it in the followi
 ### Word Count Trends in Monetary Policy Reports
 
 The figure below illustrates the trends in the word count of the **Monetary Policy Reports** from 2013 to 2023.  
-Over the decade, the **average word count per quarterly document** was approximately **33,145 words** before Q2 2021.  
-However, a **significant reduction occurred after Q2 2021**, with word counts dropping to below **26,482 words**  
+Over the decade, the **average word count per quarterly document** was approximately **20,852 words** before Q2 2021.  
+However, a **significant reduction occurred after Q2 2021**, with word counts dropping to below **14,158 words**  
 per document. This shift may indicate **changes in reporting style or content emphasis**, which warrants further investigation.
 
 ![Word Count Trends](final_project/word_count.png)  

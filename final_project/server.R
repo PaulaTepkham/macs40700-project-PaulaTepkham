@@ -28,7 +28,16 @@ comparison_data <- readRDS("rds/comparison_data.RDS")
 
 server <- function(input, output) { 
   
-  ##### INTERACTIVE PLOTLY PLOT #########
+  # Render table for MPC Documents
+  output$mpc_table <- renderTable({
+    data.frame(
+      "Released after each meeting" = c("MPC Decision Announcement", "MPC Minutes"),
+      "Released on a quarterly basis" = c("Monetary Policy Report", "Analyst Meeting Slides")
+    )
+  }, align = "c", bordered = TRUE, striped = TRUE)
+  
+  
+  ##### TAB OVERVIEW: INTERACTIVE PLOTLY PLOT #########
   output$plot_word_count <- renderPlotly({
     
     avg_early <- word_count_per_period %>%
@@ -41,32 +50,29 @@ server <- function(input, output) {
       summarise(avg = mean(n)) %>%
       pull(avg)
     
-    # Create the Plotly visualization
     fig <- plot_ly(word_count_per_period, 
                    x = ~year_quarter, 
                    y = ~n, 
                    type = 'scatter', 
                    mode = 'lines+markers',
-                   line = list(color = 'navyblue', width = 2),
-                   marker = list(color = 'navyblue', size = 6),
+                   line = list(color = 'navy', width = 2),
+                   marker = list(color = 'lightgrey', size = 2),
                    name = "Word Count")
     
-    # Add average lines
     fig <- fig %>%
       add_trace(y = rep(avg_early, nrow(word_count_per_period)), 
                 x = ~year_quarter, 
                 type = 'scatter', 
                 mode = 'lines',
                 line = list(dash = "dash", color = "lightgrey", width = 1),
-                name = "Early Avg") %>%
+                name = "Avg: 2013-2021") %>%
       add_trace(y = rep(avg_late, nrow(word_count_per_period)), 
                 x = ~year_quarter, 
                 type = 'scatter', 
                 mode = 'lines',
                 line = list(dash = "dash", color = "lightgrey", width = 1),
-                name = "Late Avg")
+                name = "Avg: 2021-2023")
     
-    # Add text annotations for averages
     fig <- fig %>%
       layout(
         title = list(
@@ -84,6 +90,67 @@ server <- function(input, output) {
       )
     
     fig
+  })
+  
+  ##### TAB Words: INTERACTIVE PLOTLY PLOT #########
+  filtered_words_year <- reactive({
+    req(input$selected_year)
+    
+    top_words_q %>%
+      filter(year == input$selected_year) %>%
+      slice_head(n = 10)  # select 10 words
+  })
+  
+  filtered_words_trends <- reactive({
+    req(input$selected_words)  
+    
+    selected_words <- strsplit(input$selected_words, ",\\s*")[[1]]
+    
+    top_words_q %>%
+      filter(word %in% selected_words) %>%
+      mutate(year = as.numeric(year)) %>% 
+      arrange(year)  
+  })
+  
+  output$plot_common_words <- renderPlotly({
+    data <- filtered_words_year()
+    
+    plot_ly(data, 
+            x = ~n, 
+            y = ~reorder(word, n), 
+            type = 'bar', 
+            orientation = 'h',
+            marker = list(color = 'lightblue')) %>%
+      layout(
+        title = list(text = paste0("<b>Most Common Words in Monetary Policy Report: ", input$selected_year, "</b>"),
+                     x = 0.5, font = list(size = 16)),
+        xaxis = list(title = "Count"),
+        yaxis = list(title = ""),
+        margin = list(l = 100),
+        plot_bgcolor = "white"
+      )
+  })
+  
+  # Render Plotly Line Chart for Word Trends Over Time
+  output$plot_word_trends <- renderPlotly({
+    data <- filtered_words_trends()
+    
+    plot_ly(data, 
+            x = ~year, 
+            y = ~ngram_percentage, 
+            color = ~word, 
+            text = ~paste("Year:", year, "<br>Percentage:", round(ngram_percentage, 2)), 
+            type = 'scatter', 
+            mode = 'lines+markers',  
+            line = list(shape = "linear")) %>%
+      layout(
+        title = list(text = paste0("<b>Word Trends: ", input$selected_words, "</b>"),
+                     x = 0.5, font = list(size = 16)),
+        xaxis = list(title = "Year", tickmode = "array", tickvals = unique(data$year), tickangle = 45),
+        yaxis = list(title = "Percentage"),
+        margin = list(l = 100),
+        plot_bgcolor = "white"
+      )
   })
   
 }

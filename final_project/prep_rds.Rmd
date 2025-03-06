@@ -126,7 +126,7 @@ ggsave("img/word_count.png", plot = plot, width = 12, height = 8, dpi = 300)
 # gg part 
 ```
 ```{r}
-remove_words <- c("january", "february", "march", "april", "may", "june","july","august","september","october","november","december","jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec","q1", "q2", "q3", "q4","policy", "economic", "monetary", "thai", "term", "rate","growth")
+remove_words <- c("january", "february", "march", "april", "may", "june","july","august","september","october","november","december","jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec","q1", "q2", "q3", "q4","policy", "economic", "monetary", "thai", "term", "rate","growth",'percent','previous','report','chart','due','n.a','quarter','expected')
 
 data("stop_words")  # Load predefined stopwords
 top_words <- tokens %>%
@@ -161,15 +161,13 @@ top_words_q <- tokens %>%
   anti_join(stop_words, by = "word") %>%      # Remove stopwords
   filter(!(word %in% remove_words)) %>%       # Remove specified words
   filter(!str_detect(word, "^[0-9]+(\\.[0-9]+)?$")) %>%  # Remove numbers
-  count(word, year, quarter, sort = TRUE) %>% 
-  mutate(year_quarter = paste0(year, "-", quarter)) %>%
-  group_by(year_quarter) %>%
+  count(word, year, sort = TRUE) %>% 
+  group_by(year) %>%
   mutate(
     total_words = sum(n),               # Compute total word count per quarter
     ngram_percentage = (n / total_words) * 100  # Compute percentage
   ) %>%
-  ungroup() %>%
-  select(-year, -quarter)
+  ungroup()
 head(top_words_q )
 saveRDS(top_words_q, file = "rds/top_words_q.RDS") 
 top_words_q <- readRDS("rds/top_words_q.RDS")
@@ -179,14 +177,14 @@ top_words_q <- readRDS("rds/top_words_q.RDS")
 # plot word count each year
 # keep only top 25 of each year 
 top_words_q_select <-  top_words_q %>% 
-  filter(year_quarter == '2020-Q1') %>%                # Count word frequencies
+  filter(year == '2020') %>%                # Count word frequencies
   slice_head(n = 25) 
 
 plot2_q <- ggplot(top_words_q_select, aes(y = reorder(word, n), x = n))  +
   geom_col(fill = "lightblue") +
   labs(
     x = "Count", y = NULL,
-    title = "<span style='font-size:14pt;'><b>Most common words in Monetary Policy Report: 2020-Q1</b></span>") +
+    title = "<span style='font-size:14pt;'><b>Most common words in Monetary Policy Report: 2020</b></span>") +
   # Theme settings
   theme_minimal() +   
   theme(
@@ -205,11 +203,11 @@ ggsave("img/word_common_2020_Q1.png", plot = plot2_q, width = 12, height = 8, dp
 top_words_word_select <-  top_words_q %>% 
   filter(word %in% c('financial', 'covid'))
 
-plot2_word <- ggplot(top_words_word_select, aes(x = year_quarter, y = ngram_percentage, color = word, group = word)) +
+plot2_word <- ggplot(top_words_word_select, aes(x = year, y = ngram_percentage, color = word, group = word)) +
   geom_line(size = 1) +  # Line graph
   geom_point(size = 2) +  # Add points for emphasis
   labs(
-    x = "Year-Quarter", y = "Percentage",
+    x = "Year", y = "Percentage",
     title = "<span style='font-size:14pt;'><b>Most common words in Monetary Policy Report: financial, covid</b></span>"
   ) +
   theme_minimal() +
