@@ -5,7 +5,7 @@ account: phornchanokt
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14171409
-bundleId:
+bundleId: 9900158
 url: https://phornchanokt.shinyapps.io/final_project_phornchanokt/
 version: 1
 asMultiple: FALSE
