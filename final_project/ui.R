@@ -133,8 +133,14 @@ ui <- dashboardPage(
       ##### TAB Topic Modeling #########
       tabItem(
         tabName = "topics",
-        h2("Topic Modelings"),
-        plotOutput("plot_topic_modeling")  # Placeholder for visualization
+        h2("Intertopic Distance Map (t-SNE Projection)"),
+        plotlyOutput("plot_topic_map"),
+        br(),
+        h2("Comparison of Term Frequencies Across Topics"),
+        selectInput("selected_topic", "Select Topic:",
+                    choices = unique(comparison_data$topic_name),  
+                    selected = unique(comparison_data$topic_name)[1]),  
+        plotlyOutput("plot_term_frequencies")
       )
     )
   )

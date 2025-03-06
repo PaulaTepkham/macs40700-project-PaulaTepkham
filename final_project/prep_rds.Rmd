@@ -428,17 +428,24 @@ lda_model <- LDA(dtm, k = num_topics, control = list(seed = 1234))
 # Extract topics
 lda_topics <- tidy(lda_model, matrix = "beta")
 
+topic_names <- c(
+  "1" = "Output",
+  "2" = "Financial Markets",
+  "3" = "Inflation"
+)
+
 top_terms <- lda_topics %>%
   group_by(topic) %>%
   slice_max(beta, n = 15) %>%
   ungroup() %>%
-  arrange(topic, -beta)
+  arrange(topic, -beta) %>%
+  mutate(topic_name = topic_names[as.character(topic)])
 
 print(top_terms)
 
-plot6 <- ggplot(top_terms, aes(x = reorder_within(term, beta, topic), y = beta, fill = as.factor(topic))) +
+plot6 <- ggplot(top_terms, aes(x = reorder_within(term, beta, topic), y = beta, fill = as.factor(topic_name))) +
   geom_col(show.legend = FALSE) +
-  facet_wrap(~ topic, scales = "free") +  # Facet by discovered topics
+  facet_wrap(~ topic_name, scales = "free") +  # Facet by discovered topics
   coord_flip() +
   labs(title = "<span style='font-size:14pt;'><b>Discovered Topics via LDA</b></span>",
        x = "Term",
@@ -462,6 +469,7 @@ tsne_model <- Rtsne(topic_term_matrix, dims = 2, perplexity = 0.5, verbose = TRU
 topic_coords <- as.data.frame(tsne_model$Y)
 colnames(topic_coords) <- c("X", "Y")
 topic_coords$Topic <- factor(1:num_topics)
+topic_coords$Topic <- factor(topic_names[as.character(topic_coords$Topic)])
 
 # save into rds file 
 saveRDS(topic_coords, file = "rds/topic_coords.RDS") 
@@ -506,12 +514,12 @@ saveRDS(comparison_data, file = "rds/comparison_data.RDS")
 comparison_data <- readRDS("rds/comparison_data.RDS")
 
 # Create the faceted plot comparing topic-specific vs overall term frequencies
-plot8 <- ggplot(comparison_data, aes(x = reorder_within(term, beta, topic), y = beta)) +   
+plot8 <- ggplot(comparison_data, aes(x = reorder_within(term, beta, topic_name), y = beta)) +   
   geom_col(aes(y = overall_beta, fill = "Overall Frequency"), alpha = 0.5) +   
   geom_col(aes(y = beta, fill = "Selected Topic"), alpha = 0.8) +   
   coord_flip() +  # Flip for better readability   
   scale_fill_manual(values = c("grey", "#000080")) +   
-  facet_wrap(~ topic, scales = "free") +  # Facet for each topic  
+  facet_wrap(~ topic_name, scales = "free") +  # Facet for each topic  
   labs(
     title = "Comparison of Term Frequencies Across Topics",
     x = "Term",

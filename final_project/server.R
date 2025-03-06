@@ -131,7 +131,6 @@ server <- function(input, output) {
       )
   })
   
-  # Render Plotly Line Chart for Word Trends Over Time
   output$plot_word_trends <- renderPlotly({
     data <- filtered_words_trends()
     
@@ -153,4 +152,60 @@ server <- function(input, output) {
       )
   })
   
+  ##### TAB LDA #########
+  output$plot_topic_map <- renderPlotly({
+    
+    plot_ly(topic_coords, 
+            x = ~X, 
+            y = ~Y, 
+            text = ~paste("", Topic), 
+            type = "scatter", 
+            mode = "markers+text",
+            textposition = "top center",
+            color = ~Topic, 
+            marker = list(size = 10, opacity = 0.7)) %>%
+      layout(
+        title = list(text = "<b>Intertopic Distance Map (t-SNE Projection)</b>", x = 0.5),
+        xaxis = list(title = "t-SNE Dimension 1"),
+        yaxis = list(title = "t-SNE Dimension 2"),
+        legend = list(title = list(text = "Topic")),
+        plot_bgcolor = "white"
+      )
+  })
+  
+  filtered_terms <- reactive({
+    req(input$selected_topic)  # Ensure input is available
+    
+    comparison_data %>%
+      filter(topic_name == input$selected_topic)  # Filter data for the selected topic
+  })
+  
+  output$plot_term_frequencies <- renderPlotly({
+    data <- filtered_terms()
+    
+    plot_ly(data, 
+            x = ~beta, 
+            y = ~reorder(term, beta), 
+            type = 'bar', 
+            orientation = 'h',
+            name = "Selected Topic",
+            marker = list(color = '#000080', opacity = 0.8)) %>%
+      
+      add_trace(x = ~overall_beta, 
+                y = ~reorder(term, beta), 
+                type = 'bar', 
+                name = "Overall Frequency",
+                marker = list(color = 'grey', opacity = 0.5)) %>%
+      
+      layout(
+        title = list(text = paste0("<b>Term Frequencies for Topic: ", input$selected_topic, "</b>"),
+                     x = 0.5, font = list(size = 16)),
+        xaxis = list(title = "Beta Value (Topic Probability)"),
+        yaxis = list(title = "Term"),
+        barmode = "overlay",  # Overlay bars for comparison
+        margin = list(l = 150),  # Adjust left margin for readability
+        plot_bgcolor = "white",
+        legend = list(title = list(text = "Frequency Type"))
+      )
+  })
 }

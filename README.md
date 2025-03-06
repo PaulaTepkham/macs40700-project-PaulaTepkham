@@ -35,17 +35,26 @@ Over the decade, the **average word count per quarterly document** was approxima
 However, a **significant reduction occurred after Q2 2021**, with word counts dropping to below **14,158 words**  
 per document. This shift may indicate **changes in reporting style or content emphasis**, which warrants further investigation.
 
-![Word Count Trends](final_project/word_count.png)  
+![Word Count Trends](final_project/img/word_count.png)  
 
 This figure highlights the declining word count in Monetary Policy Reports from 2013 to 2023, showing a sharp reduction after Q2 2021. This change may indicate a shift in policy communication, reporting style, or content emphasis. A line chart is the best choice for this time-series data, as it effectively captures trends and fluctuations. Dashed horizontal lines represent the average word counts before and after 2021, allowing for an easy comparison. Also, plotly’s interactivity helps storytelling by enabling hover tooltips, zooming, and panning, helping users explore specific time periods dynamically.
 
 ## Tab 2 Analysis 
 ### Subtab 2.1 Common words
+
+On this Common words tab, these visualizations analyze word frequency and trends in Thailand’s Monetary Policy Reports (MPRs) over time. The bar chart highlights the most common words in a selected year, allowing users to see which terms were emphasized, while the line chart tracks the frequency of selected words across multiple years, revealing shifts in policy focus. For example, “COVID” appears prominently post-2020, reflecting the pandemic’s impact on monetary discussions, while terms like “inflation” and “financial” remain consistently relevant.
+
+![Common Words Analysis](final_project/img/tab1_word_count.png)  
+![Word Trend Analysis](final_project/img/tab1_word_trend.png)  
+
 ### Subtab 2.2 Common Bigrams
-### Subtab 2.3 Common Triigrams
+### Subtab 2.3 Common Trigrams (to be updated)
 ### Subtab 2.4 Topic Modeling: LDA 
 
+The topic modeling resulting from Thailand’s Monetary Policy Reports helps to understand key themes and word distributions across topics. The t-SNE projection scatter plot provides an intertopic distance map, visually representing how distinct or related topics are. Each topic is labeled for clarity, with color-coded markers enhancing differentiation. This form is effective because it allows users to quickly identify clustering and relationships between topics. The bar chart comparing term frequencies highlights key words within each topic compared to their overall usage. This enables users to see what makes each topic unique. The interactive dropdown selection lets users explore different topics dynamically.
 
+![Intertopic Distance Map](final_project/img/tab4_lda.png) 
+![Term Frequencies](final_project/img/tab4_lda_comparisons.png)  
 
 Reference: 
 - https://rstudio.github.io/shinythemes/ 
