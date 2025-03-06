@@ -126,8 +126,11 @@ ui <- dashboardPage(
       ##### TAB Bigrams #########
       tabItem(
         tabName = "bigrams",
-        h2("Common Bigrams Analysis"),
-        plotOutput("plot_common_bigrams")  # Placeholder for visualization
+        h2("Most Common Bigrams in Monetary Policy Reports"),
+        plotlyOutput("plot_common_bigrams"),
+        br(),
+        h2("Bigram Network in Monetary Policy Reports"),
+        plotlyOutput("plot_bigram_network")
       ),
       
       ##### TAB Topic Modeling #########

@@ -152,6 +152,70 @@ server <- function(input, output) {
       )
   })
   
+  ##### TAB bigrams #########
+  
+  bigrams_overall <- bigrams_united %>%
+    count(bigram, sort = TRUE) %>%
+    slice_max(n, n = 10) 
+  
+  output$plot_common_bigrams <- renderPlotly({
+    plot_ly(bigrams_overall, 
+            x = ~n, 
+            y = ~reorder(bigram, n), 
+            type = 'bar', 
+            orientation = 'h',
+            marker = list(color = 'lightblue')) %>%
+      layout(
+        title = list(text = "<b>Most Common Bigrams in Monetary Policy Reports</b>",
+                     x = 0.5, font = list(size = 16)),
+        xaxis = list(title = "Count"),
+        yaxis = list(title = ""),
+        margin = list(l = 100),
+        plot_bgcolor = "white"
+      )
+  })
+  
+  edges <- as_data_frame(bigram_network, what = "edges")  
+  nodes <- as_data_frame(bigram_network, what = "vertices")  
+  
+  layout <- layout_with_fr(bigram_network)  
+  
+  nodes_df <- data.frame(layout)
+  colnames(nodes_df) <- c("x", "y")
+  nodes_df$name <- nodes$name  # Add bigram word labels
+  
+  edges_df <- edges %>%
+    left_join(nodes_df, by = c("from" = "name")) %>%
+    rename(x_start = x, y_start = y) %>%
+    left_join(nodes_df, by = c("to" = "name")) %>%
+    rename(x_end = x, y_end = y)
+  
+  output$plot_bigram_network <- renderPlotly({
+    
+    plot_ly() %>%
+      add_segments(
+        x = ~edges_df$x_start, y = ~edges_df$y_start,
+        xend = ~edges_df$x_end, yend = ~edges_df$y_end,
+        line = list(color = 'gray', width = 1),
+        hoverinfo = "none"
+      ) %>%
+      add_trace(
+        data = nodes_df,
+        x = ~x, y = ~y, 
+        text = ~name, 
+        type = "scatter", mode = "markers+text",
+        textposition = "top center",
+        marker = list(size = 10, color = "lightblue", opacity = 0.8)
+      ) %>%
+      
+      layout(
+        title = list(text = "<b>Bigram Network in Monetary Policy Reports</b>", x = 0.5),
+        xaxis = list(title = "", showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+        yaxis = list(title = "", showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+        plot_bgcolor = "white"
+      )
+  })
+  
   ##### TAB LDA #########
   output$plot_topic_map <- renderPlotly({
     

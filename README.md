@@ -48,6 +48,12 @@ On this Common words tab, these visualizations analyze word frequency and trends
 ![Word Trend Analysis](final_project/img/tab1_word_trend.png)  
 
 ### Subtab 2.2 Common Bigrams
+
+![Most Common Bigrams](final_project/img/tab2_bi_count.png) 
+![Bigrams Network](final_project/img/tab2_bi_net.png) 
+
+The bigram frequency bar chart and bigram network graph provide complementary insights into the language used in Monetary Policy Reports. The bar chart effectively highlights the most commonly used bigrams, allowing users to quickly compare word pair frequencies. A horizontal layout was chosen to accommodate longer phrases, ensuring readability. Using plot_ly(), the chart enhances user interaction by allowing hovering for exact values, making it easier to explore dominant economic terms over time. The bigram network graph, on the other hand, focuses on semantic relationships, revealing how words connect in the reports. This visualization uncovers clusters of related terms and highlights recurring themes in monetary policy discussions. The force-directed layout groups strongly associated words together, providing a clear structure. Interactive zooming, panning, and tooltips further enhance exploration. By combining these visualizations, users can analyze both the frequency and context of key economic terms, offering a comprehensive view of language trends in monetary policy.
+
 ### Subtab 2.3 Common Trigrams (to be updated)
 ### Subtab 2.4 Topic Modeling: LDA 
 
