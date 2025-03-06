@@ -1,0 +1,3608 @@
+ 
+Monetary Policy Report  March 2020                                                                                                                       1 
+Monetary Policy Report  
+ 
+ 
+The Monetary Policy Report  is prepared quarterly by staff of the 
+Bank of Thailand with the approval of the Monetary Policy Committee 
+(MPC).  It serves two purposes: ( 1 )  to communicate to the public the  
+MPC’s consideration and rationales for the conduct of monetary policy,  
+and (2)  to present the latest set of economic and inflation forecasts, based 
+on which the monetary policy decisions were made.  
+ 
+The Mon etary Policy Committee  
+March  2020 
+ 
+Mr. Veerathai Santiprabhob   Chairman  
+Mr. Mathee Supapongse  Vice Chairman  
+Mr. Paiboon Kittisrikangwan  Member  
+Mr. Sethaput Suthiwart -Narueput  Member  
+Mr. Kanit Sangsubhan  Member  
+Mr. Subhak Siwaraksa  Member  
+Mr. Somchai Jitsuchon  Member  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Monetary Policy Report  March 2020                                                                                                                      2 
+Monetary Policy in Thailand  
+Monetary Policy Committee  
+Under the Bank of Thailand Act, the Monetary Policy Committee (MPC) comprise s the governor 
+and two deputy governors, as well as four distinguished external members representing various 
+sectors of the economy , with the aim of ensuring  that monetary policy decisions are effective and 
+transparent.  
+Monetary Policy Objective   
+The MPC implements monetary policy under  the flexible inflation targeting regime. While regarding 
+medium–term price stability  as its primary objective, the MPC also aims at supporting sustainable , 
+full-potential economic growth and preserving financial stability, attributing to long -term price s tability  
+and economic sustainability  
+Monetary Policy Target  
+On December  24, 2019, the Cabinet approved the monetary policy target for 2020, which was 
+mutually agreed between the MPC  and the Minister of Finance  to set t he headline inflation  within 
+the range  of 1–3 percent as the target for the medium -term horizon and for 2020.  
+In the event  that average headline inflation in the past 12 months or a forecast of average headline 
+inflation over  12 months ahead breach es the target  range, the MPC shall send  an ope n letter to 
+the Minister of Finance to explain  reasons  for the breach of the target range,  together with 
+measures taken and estimated time to bring inflation back to the target . In addition, the MPC will 
+write an additional open letter to the Minister of F inance every six months if average headline 
+inflation based on  the above criteria remains outside the target range . 
+Monetary Policy Instrument  
+The MPC utilizes the 1 -day bilateral repurchase transaction rate as the policy interest rate to signal 
+the monet ary policy stance.  
+Evaluation of Economic Conditions and Forecasts  
+The Bank of Thailand takes into account  information from all sources, the macroeconomic model, 
+data from each economic sector, as well as surveys  of large enterprises , together with  small and 
+medium -sized enterprises from all over the country, and various financial institutions  to ensure that 
+economic evaluations and forecasts are accurate and cover all aspects, both at the macro and 
+micro levels.  
+Monetary Policy Communication  
+Recognizing the importance of monetary policy communication to the public, the MPC employs  
+various  channel s of communication, both in Thai and English, such as (1) organizing a press 
+statement at 14 :00 on the day of the Committee meeting, (2) publishing edited minutes of the MPC 
+meeting two weeks after the meeting, and (3) publishing the Monetary Policy Report  every quarter.   
+ 
+Monetary Policy Report  March 2020                                                                                                                      3 Content  
+Key Highlights ………………………………………………………………………………………………… ……... 4  
+Executive Summary ................................ ................................ ................................ .........................  5 
+1. Global Economy  ................................ ................................ ................................ ..........................  9 
+Advanced economies   
+Chinese and Asian economies  
+Global financial markets  
+Financial and fiscal measures  
+Forecast assumptions for trading partners’ economic growth  
+Oil prices  
+2. The Thai Economy  ................................ ................................ ................................ .....................  16 
+2.1 Recent Developments  ................................ ................................ ................................ . 16 
+ Overall economy  
+ Labor market   
+ Inflation  
+ Financial conditions  
+ Exchange rates  
+ Financial stability  
+2.2 Outlook for the Thai Economy  ................................ ................................ ....................  28 
+Key forecast assumptions  
+Growth forecast and outlook  
+Inflation forecast and outlook  
+Risks to growth and inflation forecasts  
+BOX: Government relief measures to alleviate the impact of COVID -19 
+3. Monetary Policy Decision  ................................ ................................ ................................ ..........  37 
+BOX: Credit assistance measures to support borrowers  
+BOX: Measures to stabilize the Thai financial markets  
+4. Appendix  ................................ ................................ ................................ ................................ .... 46 
+4.1 Table  ................................ ................................ ................................ ............................  46 
+ Dashboard of indicators for the Thai economy   
+ Dashboard of indicators for financial stability  
+ Probability distribution of growth and inflation forecast  
+4.2 Chart Pack  ................................ ................................ ................................ ...................  50 
+  Economic assessment  
+Financial stability assessment   
+ 
+ 
+ Note: Data in this report is as of March  24, 2020 (one day before the Monetary Policy Committee meeting)   
+ 
+Monetary Policy Report  March 2020                                                                                                                      4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•Policy rate was at historically low level
+•MLR and MRR  continued to fall   
+•Measures to stabilize the financial markets 
+(22 Mar 20) helped curb volatilities in the bond 
+marketsEconomic growth projection
+Financial conditionsInflation projection
+Financial stabilityKey factors
+        COVID -19 outbreak
+        More severe impact of the drought
+Government ’s relief measures
+Lower demand in line with 
+economic conditions
+Lower crude oil prices
+•NPLs and SM loans were expected to rise
+•Debt servicing ability of businesses and 
+households was expected to deteriorate due 
+to income shocksKey Highlights of the Monetary Policy Report, March 2020
+Key factors
+Key factors Key factors
+2.82.4
+-5.33.0
+-6-226
+             
+Dec-19 forecast Mar-20 forecastGDP growth
+Note     Outturn
+Source   NESDC, estimated by Bank of Thailand  %YOY
+0.8 0.7 0.7
+-1.00.30.5
+-0.10.1
+-101
+                          
+Dec-19 forecast Mar-20 forecastHeadline inflation Core inflation%YOY
+Note     Outturn
+Source   Ministry of Commerce, estimated by Bank of Thailand  
+5.936.66
+0.751.15
+0.51.01.52.02.5
+3.04.05.06.07.08.0
+Jul-19 Sep-19 Nov-19 Jan-20 Mar-20MLR
+MRR
+Policy rate (RHS)
+5Y Gov bond (RHS)%YOY
+Source: ThaiBMA and Bank of Thailand  (data as of 24 March 2020 )
+Note: MLR  and  MRR are averages of 5 largest commercial banks ’ lending rates  %YOY
+5 Feb 20
+20 Mar 20
+2.903.29
+3.01
+2.60
+1.52.53.54.5
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019NPL - consumer loan SM - consumer loan
+NPL - business loan SM - business loan
+Source: Bank of Thailand (data as of end of Q 4 2019 )%Non-performing loans (NPLs) and 
+special mention (SM) loans to total credit 
+ 
+Monetary Policy Report  March 2020                                                                                                                      5 Executive Summary  
+Monetary Policy Conduct in the First Quarter of 2020  
+At the meeting on February 5, 2020, the Committee voted unanimously to cut the policy rate by 0.25 
+percentage point from 1.25 to 1.00 percent.  The Committee  assessed that the Thai economy would 
+expand at a much lower rate than the previous forecast and much further below its potential due to the 
+coronavirus (COVID -19) outbreak, the delayed Annual Budget Expenditure Act, and the drought. In this 
+situation, the re was an urgent need to coordinate financial  and fiscal measures , as well as to support liquidity 
+provision and debt restructuring for businesses and households. Later  on March 20, 2020, the Committee  
+held a special meeting  and voted unanimously to cut th e policy rate by 0.25 percentage point from 
+1.00 to 0.75 percent, effective on March 23, 2020. This was because  the impact of the COVID -19 outbreak  
+in the period ahead would be more severe than previously expected , which would severely affect the Thai 
+economy.  The outbreak also raised concerns among  global financial markets  and affected liquidity of Thai 
+financial markets. At the meeting on March 25, 2020, the Committee voted 4 to 2 to maintain the policy 
+rate at 0.75 percent. Two members voted to cut t he policy rate by 0.25 percentage point , while one 
+MPC member did not vote1  . The Committee  viewed that the economic and inflation outlook remained 
+consistent with the assessment at the special meeting. Most members would wait to assess the adjustment 
+in the financial markets as well as additional reduction in interest rates by financial institutions . Most members 
+deemed it appropriate to preserve policy space. Meanwhile, all members  viewed that the government’s 
+announced relief measures and the loan repay ment measures to assist borrowers affected by the COVID -
+19 were more targeted in addressing the problems. However, two members voted to cut the policy rate by 
+0.25 percentage point, as the extra accommodative monetary policy would in their view be commensu rate 
+with the significant economic contraction . 
+Looking ahead, the Committee would stand ready to use additional policy tools in an appropriate 
+and timely manner.  Such tools included the policy rate and other financial  measures that would help 
+enhance the policy rate transmission as well as loan extension by financial institutions to reach the target 
+groups.  
+Assessment of the Economic and Financial Outlook as the Basis for Policy Formulation  
+1. Global Economy  
+The global economy was projected to slow down significantly as the COVID -19 pandemic severely  
+affected tourism, manufacturing, and exporting sectors, as well as private consumption. The outbreak also 
+led to excessive volatility in the global financial mark ets. Major advanced economies were expected to enter 
+into a recession in 2020. The Committee thus revised down economic growth projections for 
+Thailand’s trading partners to  .  percent in      and  .  percent in     .  Nonetheless, risks that 
+trading partner economies would underperform the baseline projection increased.  Such risks 
+included, for example, the COVID -19 outbreak which could become more severe and prolong ed than 
+expected, and financial stability risks which could deteriorate in many countr ies. On the other hand, there 
+were possibilities that trading partners’ economic growth would outperform the baseline projection owing to 
+a faster -than-expected ending of the outbreak due to a successful development of vaccines or medicines, 
+or larger -than-expected effects of financial  and fiscal measures in many countries in stimulating the economy.  
+Governments and central banks in various countries worldwide promptly released measures to 
+alleviate the impact of the COVID -19 outbreak.  Such m easures include d greater government spending  
+and extra accommodative monetary polic y in conjunction with measures to safeguard financial stability and 
+                                            
+1  The MPC member attended the meeting through video conference to consider the economic outlook, financial 
+stability, and the appropriate monetary policy  formulation but did not vote.   
+ 
+Monetary Policy Report  March 2020                                                                                                                      6 provide liquidity to financial markets. The Federal Reserve (Fed) held two unscheduled meetings in March 
+2020  and decide d to cut the policy rate to a range of 0.00 -0.25 percent and announced to purchase Treasury 
+and agency mortgage -backed securities as much as needed to support the well -functioning of the financial 
+markets. Meanwhile, the European Central Bank (ECB) and the Bank  of Japan (BOJ) maintained negative 
+policy rates and announced additional liquidity measures. Regional central banks eased their monetary 
+policy further and also introduced measures to ensure stability of the financial markets following sustained 
+capital o utflows.  
+2. Financial Conditions and Financial Stability  
+Thai financial markets encountered volatilities similar to  global financial markets.  In March, 
+investors’ concerns over the COVID -19 pandemic increased, causing Thai government bond yields to 
+rise ra pidly across all tenors. However, BOT measures helped improve stability of the financial 
+markets. These measures included government bond purchase s, the policy rate cut at the 
+special meeting, and measures to stabilize the Thai financial markets.  As a resu lt, government 
+bond yields declined and overall financial conditions became more accommodative, partly reflected in 
+the decreased lending rates. Meanwhile, overall corporate financing remained mostly unchanged . 
+Financial institutions became more tightened in extending loans  in line with economic conditions. 
+Therefore, the BOT, together with related agencies, continued to implement measures to assist borrowers  
+affected by the outbreak. These measures included both liquidity provision and debt restructuring. With 
+regard to exchange rates, the baht against the U.S. dollar and the real effect exchange rate (REER) 
+index depreciated considerably from the previous quarter.   
+The financial system faced greater risks from the short -term impact of the COVID -19 outbreak , 
+although stability of financial institutions, external, and fiscal sectors, remained robust. Further  risks 
+that warranted monitoring were as follows.  First, some investors rushed to redeem their investment units in 
+daily fixed income funds, which were op en for daily redemption, especially the funds investing in foreign 
+assets. Some mutual funds therefore sold off their government bonds, thereby impacting liquidity and the 
+functioning of the financial markets. Second, corporate bonds default risks increase d in tandem with 
+economic conditions, triggering knock -on effects to other related parties in the financial system, including 
+cross -default and some saving cooperatives with corporate bond holdings. Third, ability to manage liquidity 
+and debt servicing abi lity of households and businesses deteriorated. This could impact decisions to extend 
+loans of financial institutions and in turn affect economic activities , resulting in a  negative feedback loop. 
+Fourth, oversupply in the real estate market was expected t o rise due to falling demand for housing.  
+3. Economic and Inflation Outlook  
+The economy would contract  significantly , expanding at a much lower rate than the assessment in 
+the previous  Monetary Policy Report . The Thai economy was expected to contract 5.3 percent in 
+2020 but would recover and expand 3.0 percent in 2021 . The economy would remain at a level below 
+its potential throughout the forecast horizon. This was mainly owing to the severe impact of the COVID -
+19 outbreak. In addition, farm income would b e depressed by the drought, while public expenditure would 
+experience a larger impact than previously assessed due to the delayed enactment of the Annual Budget 
+Expenditure Act, B.E. 2563 (A.D. 2020). Nevertheless, government’s implemented measures would b e the 
+key mechanism to alleviate the impact on the economy despite being unable to offset a significant contraction  
+in aggregate demand.  
+Assumptions underlying the economic projection in this Report  includ e (1) the COVID -19 outbreak in 
+Thailand would be co ntained within the second quarter of 2020 according to the Ministry of Public Health 
+estimate, and (2) the projection took into account financial  and fiscal measures implemented before March 
+25, 2020, not including any  measures  thereafter .   
+ 
+Monetary Policy Report  March 2020                                                                                                                      7 The value of Thai merchandise exports in 2020 would markedly shrink both in terms of volume and 
+prices. Export volume would be affected by the COVID -19 outbreak, which resulted in a significant demand 
+slowdown of trading partner economies and supply chain disruptions. Meanwhile, export prices would 
+significantly decline in line with crude oil prices. However, the value of merchandise exports was expected 
+to expand slightly in 2021 once the spread of COVID -19 subsided. Nevertheless, the Committee assessed 
+that the value of merchandise exports would contract 8.8 percent in 2020, before expanding sl ightly 
+at 0.2 percent in 2021.  
+Exports of services was expected to severely contract as the COVID -19 outbreak led to travel 
+restrictions  that affected foreign touris t figures of all nationalities. Moreover, there would also be an impact 
+on tourist spending per head. However, the number of foreign tourists was expected to gradually improve in 
+the second half of 2020. Nevertheless, tourists would start to travel once th e vaccines for the coronavirus 
+were to be widely distributed.  The number of foreign tourists was projected to be 15.0 and 20.0 million 
+in 2020 and 2021, respectively.  
+The current account balance was projected to register a surplus of 19.4 and 19.2 billion U.S. dollar s 
+in 2020 and 2021, respectively. The services balance was revised from being in surplus to deficit, as tourist 
+receipts declined considerably in line with  the decline in the number of tourists and spending per head. 
+Meanwhile, the trade balance  was expected to record a larger surplus due to a large contraction in imports 
+value. Import volume contracted in line with imports of raw materials, intermediate and capital goods, while 
+import prices declined in tandem with global crude oil prices.   
+Private consumption was expected to contract in 2020, which was the first contraction since 2009. 
+Suspension  of a wide range of economic activities affected consumption in the services and away -from-
+home  spending categories. Meanwhile, farm income was expected  to decline due to a more -severe -than-
+expected impact of the drought. However, government measures to alleviate the impact of the COVID -19 
+outbreak would partly help relieve the  impact on private consumption to a certain level.  
+Private investment was proj ected to contract in 2020 in line with both domestic and external demand.  
+However, private investment was expected to improve in 2021 thanks to a gradual recovery in exports, 
+the PPP projects in infrastructure investment projects that had been postponed, as well as a greater clarity 
+pertaining to investment in the 5G network following the auction in the first quarter  of 2020.  
+Public expenditure, both consumption and investment, was expected to expand and would be a key 
+driver of the Thai economy. However, although government agencies adjusted the procurement process 
+for a faster disbursement, this could not offset the impact of the delayed enactment of the Annual Budget 
+Expenditure Act in the previous period. SOE investment was revised down in line with pro ject postponement 
+and a lower fiscal budget on transportation projects. Meanwhile, the first and second package s of 
+government measures to mitigate the impact of the COVID -19 outbreak, totaling 464 billion baht or 2.8 
+percent of GDP (excluding tax relief m easures worth approximately 260 billion baht or 1.5 percent of GDP), 
+were mostly measures on credit and transfers. This was expected to directly cushion  private consumption 
+and investment, not through public consumption and investment.   
+Headline inflation would be negative due to  the sharp decline in  crude oil and energy prices . Core 
+inflation was expected to be negative  as well  in line with a large decrease in demand -pull inflationary 
+pressures. Headline inflation was projected to be negative at -1.0 perce nt in 2020, before gradually 
+increasing to 0.3 percent in 2021 consistent with  the gradual economic recovery outlook. However, 
+headline inflation would remain  below the inflation target.  
+Economic and inflation projections were highly uncertain and mainly depended on the situation of 
+the COVID -19 spread and the success of the  containment  measures. Risks to the projections tilted 
+downward . The possibilities that the Thai economy would underp erform the baseline projection 
+would be due to  the following factors. F irst, the global economy could enter into a recession should the  
+ 
+Monetary Policy Report  March 2020                                                                                                                      8 outbreak become more severe and prolonged than expected, exerting additional adverse impact s on 
+Thailand’s merchandise e xports. Second, global financial stability  risks might affect the Thai economy in the 
+medium term. Third, Thailand’s tourism might not recover in the second half of 2020 if the outbreak in 
+Thailand and other countries could not be contained within the seco nd quarter of 2020. Fourth, the 
+government might need to implement stricter measures to control the outbreak, which might cause some 
+businesses to shut down operations or significantly reduce employment. Fifth, more -severe -than-expected 
+impact of the droug ht could affect farm income. However,  there were possibilities that the Thai economy 
+would outperform the baseline projection due to (1) a faster -than-expected development of vaccines and 
+medicines for the COVID -19, (2) better -than-expected impacts of additional government’s stimulus 
+measures and measures to assist borrowers, and (3) a higher -than-expected domestic demand as a result 
+of public infrastructure investment and PPP projects, which might incentivize the private sector to in vest 
+more  and faster. M oreover, there remained downside risks to headline and core inflation projections  
+in line with risks to crude oil prices and  the economic growth projection.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Monetary Policy Report  March 2020                                                                                                                      9 1. Global Economy  
+The COVID -19 pandemic significantly weighed on the outlook of Thailand’s trading partner 
+economies, particularly major advanced economies that were expected to enter into a 
+recession in 2020. However, financial and fiscal measures would help alleviate the impact 
+and shore up the economy in the period ahead . 
+In the  fourth quarter of 2019, the U.S. economy  expanded with growth rate largely 
+unchanged from the  previous quarter. Exports improved , while  private consumption could still 
+grow on account of robust labor markets and acc ommodative monetary conditions. Meanwhile,  
+private investment continued to contract. The euro area economy  expanded at a slower pace 
+due to country -specific factors  in certain countries . For example, the protest  in France  against 
+the pension reforms toward the end of the year led private  consumption to decelerate.  The 
+Japanese economy  contracted, as private consumption was affected by an increase in 
+consumption tax in October, while investment and manufacturing sector  also contracted as a 
+result of Typhoon Hagibis.  
+In 2020, major advanced  economies were projected to continue to contract and 
+enter into a recession as a result of the COVID -19 pandemic . Private consumption and 
+tourism -related businesses were severely affected as the U.S. imposed travel restrictions on 
+European countries. Several European countries announced border closures and lockdown 
+of cities, as well as advised its citizens against all but essential travel. Japan also announced 
+a postponement of the Summer Olympic Games. Meanwhile, production and exports in certain 
+industries, such as automotive and electronics, encountered supply chain disruptions, while 
+the U.S. energy sector was a ffected by a significant fall in oil prices. Nevertheless, financial 
+and fiscal measures which were already implemented  and forthcoming  would help alleviate 
+the impact and shore up the economies of major advanced countries in the period ahead.  
+The Chinese  and Asian economies expanded at a slower pace due to the COVID -19 
+outbreak. However, financial and fiscal measures would help alleviate the impact and 
+support the economic expansion to some extent . 
+The Chinese economy in the 
+fourth quarter of 2019 expand ed at a 
+pace similar to that of the previous 
+quarter.  Exports and investment improved, 
+while private consumption slowed down 
+slightly. In 2020,  the Chinese economy 
+was projected to slow down significantly  
+as a result of the COVID -19 outbreak, which 
+started  to intensify since the Chinese New 
+Year. The Chinese authorities, therefore, 
+announced a lockdown of several major 
+cities, particularly in Hubei province,  and 
+extended holiday  period s. This resulted in  
+a severe impact on economic activities, 
+especially in the manufacturing sector. 
+49.5
+44.647.2
+434547495153555759
+Mar-17
+Jun-17
+Sep-17
+Dec-17
+Mar-18
+Jun-18
+Sep-18
+Dec-18
+Mar-19
+Jun-19
+Sep-19
+Dec-19DM EM Global
+Feb-20Chart 1.1 Global manufacturing was expected to decline 
+significantly in both major advanced and emerging economies.
+Note: DM  = Developed Markets; EM = Emerging Markets
+Source:  CEIC, Markit PMI, JP Morgan (Global PMI)Diffusion Index (par = 50 )Global manufacturing Purchasing Manager Index (PMI) 
+ 
+Monetary Policy Report  March 2020                                                                                                                      10 (Chart 1.1).  Although the number of new infections in China fell significantly and the authorities 
+allowed some  businesses to resume operations after the extended holiday s, quarantine 
+measures and travel restrictions between cities that remained in place prevented businesses 
+from performing full operations. Moreover, since there were still infected  patients travelling into 
+China , it would take some time before the situation ret urned to normal. Nevertheless, fiscal 
+measures which were continuously introduced would in part help to alleviate the impact and 
+prevent the Chinese economy from entering into a recession.  
+In the fourth quarter of 2019, 
+Asian economies (excluding Japan an d 
+China) expanded at a slower pace than 
+the previous quarter . This was because 
+production and exports continued to be 
+affected by trade tensions, as reflected in  
+a slower -than-expected recovery in global  
+trade volume (Chart 1.2).  Moreover, prolonged  
+protests in Hong Kong resulted in continued  
+contraction of the economy. In 2020, Asian 
+economies were projected to slow down 
+significantly from the previous assessment , 
+as the COVID -19 spread to many countries  
+such as South Korea, Hong Kong, Malaysia, and the Philippines. Moreover, nationwide or 
+citywide lockdown measures imposed  by many countries weighed on private consumption and 
+tourism sector. Meanwhile, the manufacturing and export sectors were affected by supply chain  
+disruptions from linkages with  China’s production chain , and slower -than-expected recovery 
+of the electronics cycle. Nevertheless, governments in many countries had introduced  stimulus 
+measures which should help support the recovery of Asian economies in the period ahead.  
+The COVID -19 outbreak and a sharp fall in oil prices contributed to excessive volatility in 
+the global financial markets, both in major advanced economies and emerging market s. 
+In the first quarter of 2020, concerns in the global financial markets  heightened, 
+triggerin g risk-off sentiment , as a result of the COVID -19 outbreak and a marked decline in oil 
+prices. This was reflected in a sharp increase in the VIX Index2/ since  late February. Investors 
+thus continued to sell off  their risky assets . This was  particularly the case in major advanced 
+economies , where massive  equity sell -offs led to  sharp plummets of  stock market indices and 
+triggered circuit breaker s in some countries. As a result , long -term U.S. treasury yield s were 
+volatile , reaching historical low levels at the beginning of March. This was due to increased 
+demand for U.S. treasuries following a fall in prices of risky assets. However, U.S. treasury 
+yields rose rapid ly in the middle of March, as investors cut their holdings of all types of assets, 
+including safe-haven  asset s, in exchange for  U.S. dollar cash. The sharp surge in demand for 
+U.S. dollars in the global financial markets resulted in a dollar liquidity squeeze , as reflected 
+in a more negative cross currency basis  (Chart 1.3).  Meanwhile, U.S. corpor ate bond yields 
+rose markedly due to  concerns over debt servic ing ability of affected businesses.  
+                                            
+2/ VIX Index is a measure of the stock market volatility implied by S&P 500 Index options.  
+Chart 1.2  Global PMI for New Export Orders reflected a much 
+slower -than-expected recovery in global trade volume 
+-0.8
+-5.0
+-30-20-100102030
+-15-10-5051015
+20  20 3 20 5 20  20  World Trade volume, 3mma, %YoY (Dec 19, RHS)
+Global PMI for New Export Orders (Feb 20, adv. 1m)
+Feb 20
+Source: CPB, JP Morgan3mma, %YoY %YoY, Deviation from par 
+ 
+Monetary Policy Report  March 2020                                                                                                                      11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In emerging markets, there were signs of capital outflows since when the outbreak was 
+still contained in China and Asia. Outflows, from both equity and bond markets , then increased  
+since late  February  (Chart 1.4), causing  the stock market index to fall sharply and government 
+bond yields to rise. Overall global financial conditions tightened significantly. Going forward, 
+the global financial markets would remain highly volatile due to short -term risks . These 
+includ ed uncertainties regarding the impact of COVID -19 on the economy and financial 
+stabil ity, as well as  competition on  price s and production volume among major oil  produc ers, 
+which would weigh on the outlook of both oil and commodity prices  in the period ahead.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chart 1.3  Sharp surge in demand for U.S. dollars of investors amid 
+uncertainties in the global financial markets resulted in a dollar liquidity 
+squeeze.
+0102030405060708090100
+-125-105-85-65-45-25-51535
+1-Jan-19
+1-Feb-19
+1-Mar-19
+1-Apr-19
+1-May-19
+1-Jun-19
+1-Jul-19
+1-Aug-19
+1-Sep-19
+1-Oct-19
+1-Nov-19
+1-Dec-19
+1-Jan-20
+1-Feb-20
+1-Mar-20Basis points Basis points
+LIBOR-OIS spread (RHS) JPY-USD Basis 3M
+EUR-USD Basis 3M GBP-USD Basis 3MCross currency basis LIBOR -OIS spread
+Note: a more negative cross currency basis reflected increased demand for holding U.S. 
+dollar cash relative to other currencies. A surge in LIBOR -OIS spread indicated higher 
+term premium due toinvestors’ views of higher credit risks in lending markets.
+Source : Bloomberg, compiled by the BOT (data as of 19 March 2020 )
+Net capital inflows to EMs* and VIX index (weekly)
+010203040506070
+-10,000-8,000-6,000-4,000-2,00002,0004,0006,000
+03-Aug-18
+24-Aug-18
+14-Sep-18
+05-Oct-18
+26-Oct-18
+16-Nov-18
+07-Dec-18
+28-Dec-18
+18-Jan-19
+08-Feb-19
+01-Mar-19
+22-Mar-19
+12-Apr-19
+03-May-19
+24-May-19
+14-Jun-19
+05-Jul-19
+26-Jul-19
+16-Aug-19
+06-Sep-19
+27-Sep-19
+18-Oct-19
+08-Nov-19
+29-Nov-19
+20-Dec-19
+24-Jan-20
+14-Feb-20
+06-Mar-20Equity securities Debt securities VIX index (RHS)Index Million USD
++ Net capital inflows
+-Net capital outflowsChart 1.4 EMs experienced capital outflows from both equity and 
+bond markets  following rising concerns among investors as a result 
+of the COVID -19 outbreak and a marked decline in oil prices.
+Note: *EMs include Thailand, Indonesia, India, South Africa, and Turkey 
+Sources:  Bloomberg and  Institutional Institute of Finance  
+ 
+Monetary Policy Report  March 2020                                                                                                                      12 Governments world wide introduced financial and fiscal measures in order to alleviate the 
+economic impact of COVID -19 and curb volatilities in the financial markets.  
+Governments in various countries worldwide promptly released measures to 
+mitigate the impact of the economic slowdown. In major advanced economies and 
+emerging markets, governments announced a series of measures to shore up the 
+economy, as well as introduced targeted measures.  This particularly included measures to 
+support businesses and SMEs, and m easures to  support households and employment. 
+Meanwhile, advanced economies ’ central banks eased their monetary policy further.  
+The Federal Reserve (Fed) cut its policy rate from 1.50 -1.75 percent to 0.00 -0.25 percent in 
+two unscheduled meetings in March 2020. Meanwhile, the European Central Bank (ECB) kept 
+its policy rate at a low level and injected liquidity in the financial system through longer -term 
+refinancing operations (LTROs). Moreover, the ECB undertook targeted  longer -term refin ancing 
+operations (TLTROs) in order to support credit extension  by financial institutions  to the real 
+economy. The Bank of Japan (BOJ) maintained its policy rate at a low level, expanded its 
+asset purchases in the equity market, and introduced Special Fund s-Supplying Operations in 
+order to facilitate greater access to credits for businesses. Regional central banks  also 
+eased their monetary policy further  by cutting the policy rates in order to help mitigate the 
+economic impact of the COVID -19 outbreak. Some  central banks introduced measures to 
+reduce financial costs for borrowers, such as temporary debt moratorium  measures , and a 
+low-interest loan program for financial institutions to extend credits to the private sector.  
+In addition , many countries  simultan eously  introduced measures to safeguard 
+stability  of the financial markets  stemming from tightening liquidity conditions in the global 
+financial markets . The Fed injected liquidity in the bond market through the purchases of 
+treasuries and agency mortgage -backed securities in the amounts  as much as needed to 
+support the well –functioning of the financial markets.  Moreover, the Fed  established facilities 
+to support the issuance s of bonds in the primary and secondary markets3/, and also  injected 
+liquidity into the financial institutions ’ system via the establishments of various funds . This 
+would ensure sustained flows of credit from financial institutions to businesses and 
+households4/. Meanwhile, the ECB increased the size of its purcha ses of government and 
+corporate bonds  via the Pandemic Emergency Purchase Program (PEPP) worth 750 billion 
+euros. The program was made more flexible than the previous one, for instance, by allowing 
+extensive  holdings of bonds  issued by any single member co untry. Regional central banks 
+announced measures to ensure stability of the financial markets following sustained 
+capital outflows.  These  included increasing the purchases of government bonds , as well as 
+providing liquidity via other instruments such as FX  swap transactions, expanding the set of 
+                                            
+3/  The Fed established the Primary Market Corporate Credit Facility (PMCCF) and the Secondary Market Corporate 
+Credit Facility (SMCCF) to support credit extension to large corporates. The facilities would purchase newly 
+issued investment grade corporate bonds in the primary market, and purchase debt securities and exchange -
+traded funds (ETFs) in the secondary market.  
+4/ The liquidity facilities included following examples. (1) Under the Primary Dealer Credit Facility (PDCF), the Fed 
+would extend credit to its primary dealers. The loan would be fully collateralized with maturities up to 90 days. 
+(2) Under the Money Market  Liquidity Facility (MMLF), the Fed would provide liquidity, with maximum maturities 
+of 12 months, to financial institutions to purchase assets from primary money market fund according to conditions 
+under the MMLF. (3) Under the Term Asset -Backed Securitie s Loan Facility (TALF), the Fed would extend loans 
+fully collateralized by eligible asset -backed security (ABS) to finance student, auto, and credit card loans. This 
+would increase flows of credit to households and businesses.   
+ 
+Monetary Policy Report  March 2020                                                                                                                      13 eligible collaterals for open market operations, and cutting reserve requirement ratio (RRR). 
+Meanwhile, some  countries announced temporary closures of their financial markets5/.  
+Growth projections for Thailand’s t rading partner economies in 2020 were revised down 
+significantly due to impact of the COVID -19. In 2021, however, trading partner economies 
+were expected to recover once the spread gradually subsided. Nonetheless, risks that 
+trading partner economies would  underperform the baseline projection increased, as the 
+COVID -19 pandemic could become more severe and prolonged than expected . 
+Trading partner economies in 2020 were expected to expand at  a much  slower 
+pace th an previously assessed  in the previous Monetary Policy Report . This was 
+because global  COVID -19 pandemic severely affected manufacturing, consumption, and 
+investment. Moreover, the services sector was significantly disrupted and was expected  to 
+recover more slowly than  the manufacturing sector.  Nevertheless, private consumption would 
+be somewhat supported by falling oil prices . At the same time, financial and fiscal measures 
+that were already implemented and forthcoming w ould partly help shore up the economy.  
+In 2021, the COVID -19 outbreak was expected to gradually subside . Consequently, trading 
+partner economies would somewhat  recover. The Committee thus revised down economic 
+growth projections for Thailand’s trading partners to  .  percent in      and  .  
+percent in 2021  (Table 1.1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            
+5/  The Philippines announced  closures of the stock, bond, and currency markets during March 17 -18, 2020 in an 
+attempt to cope with the volatility and the speculation in the financial markets following the COVID -19 outbreak.  
+Weight (%) 2019 * 2020 2021
+United States 18.2 2.3  -0.3 (1.8) 1.4
+Euro area 9.9 1.2  -2.6 (1.1) -0.3
+Japan 14.3 0.7  -1.7 (0.4) 0.7
+China 17.0 6.1   3.9 (5.9) 5.5
+Asia (excluding Japan and China)** 32.4 2.7   0.2 (3.2) 2.1
+Total*** 100 2.7   0.2 (2.7) 2.0
+Note:   *Outturn
+ **Weighted by   trading partners’ shares in Thailand’s exports in 20  , namely,
+    Singapore (5.1%), Hong Kong (6.8%), Malaysia (6.1%), Taiwan (2.3%), Indonesia (5.3%), 
+    South Korea (2.7%), and the Philippines (4.0%)
+***Weighted by  3 trading partners’ shares in Thailand’s exports in 20   (including the
+    United Kingdom and Australia)
+( ) as reported in Monetary Policy Report, December 2019Table 1.1 Assumption on trading partner growth
+Annual change (%YoY)  
+ 
+Monetary Policy Report  March 2020                                                                                                                      14 The Committee assessed that there were higher possibilities that trading partner 
+economies would underperform the baseline projection, as the COVID -19 outbreak 
+could become more severe and prolonged than expected. Moreover, there were other 
+risk facto rs, such as (1) financial stability risks which could arise in many countries as a result 
+of high volatility and tightening liquidity in the global financial markets , particular ly risks of a 
+sudden stop in emerging market economies, (2) geopolitical risks which could escalate and 
+weigh on the commodity market, (3) trade tensions  which could intensi fy once again , (4) 
+uncertainties regarding trade deal between the European Union and the United Kingdom, and 
+(5) wealth effect  arising from volatile financial mar kets and a sharp fall in asset prices .  
+On the other hand, there were possibilities that trading partners’ economic growth 
+would outperform the baseline projection owing to  (1) a faster -than-expected ending of 
+the outbreak due to effective healthcare measu res in many countries and successful 
+development of vaccines and medicines  for the COVID -19, and (2) larger -than-expected 
+effects of financial and fiscal measures in many countries in stimulating the economy.  
+Dubai crude oil prices in the first quarter of 2020 declined markedly from the previous 
+quarter . This was  in line with the global economic slowdown as a result of the COVID -19 
+outbreak and the announcement on oil price reduction by Saudi Arabia after the OPEC 
+and Russia failed to reach an agreement on a crude oil production cut.  
+Dubai crude oil prices in the first quarter of 2020 fell sharply from the previous 
+quarter due to the following factors . First,  the COVID -19 outbreak  resulted in a lower 
+demand for oil in line with the global economic conditions, particularly fuels used in 
+transportation and travel. Second,  Saudi Arabia announce d a reduction on crude oil 
+price s after Russia failed to agree to the OPEC’s proposal  to additionally cut o il production 
+at the meeting on March 6, 2020. Saudi Arabia also intended to gain market shares from other 
+higher -cost oil producers such as the U.S. Moreover, Saudi Arabia and Russia announced an 
+increase in their crude oil production s by 2.5 million and 0.5 million barrels pe r day 
+respectively, starting in April 2020. As a result, Dubai crude oil prices fell substantially from 
+their average of  54.2 U.S. dollars per barrel in February 2020 to below 30.0 U.S. dollars per 
+barrel since the middle of March 202 0 (Chart  1.5). 
+Due to factors mentioned above, together with uncertainties surrounding the COVID -19 
+outbreak situation that could potentially impact global oil demand  significantly , the Committee 
+thus revised down the projection for Dubai crude oil prices in 2020 from 62.5 U.S. dollars 
+per barrel to 35.0 U.S. dollars per barrel. In 2021 , Dubai crude oil prices were expected to 
+remain low at 34.0 U.S. dollars per barrel . Crude oil prices would gradually increase in line 
+with the global economic recovery and a reduction in oil supply from high -cost producers such 
+as the U.S. Meanwhile, risks to the projection of Dubai crude oil prices were expected 
+to tilt downward,  as the COVID -19 outbreak could become more prolonged and affect the 
+global economy more than ex pected. Nevertheless, Dubai oil prices could increase somewhat 
+as a result of geopolitical factors and the possibility of the OPEC and Russia reaching  
+a production cut agreement.  
+ 
+  
+ 
+Monetary Policy Report  March 2020                                                                                                                      15  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20406080100
+Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Q1
+2020Q1
+2021U.S. dollar/barrel
+     Dec 19                      Mar 19Crude oil price projection Chart 1.5 Dubai crude oil prices in the first quarter of 2020 fell sharply 
+from the previous quarter due to slowing global economy as a result of 
+the COVID -19 outbreak and Saudi Arabia’s announcement to cut crude 
+oil prices after the OPEC and Russia failed to agree on crude oil 
+production cut 
+ 
+Monetary Policy Report  March 2020                                                                                                                      16 2. The Thai Economy  
+2.1 Recent Developments  
+The Thai economy in the fourth quarter of 2019 expanded at a slower pace due to both 
+domestic and external demand.  
+ In the fourth quarter of 2019 , the Thai economy expanded 1.6 percent from the same 
+period last year. The growth rate was lower than the assessment in the previous Monetary 
+Policy Report , mainly due to domestic and external demand slowdown. The prolonged contraction  
+in Thai merchandise  exports prompted firms to reduce the number of workers and working 
+hours. Firms also adjusted their employment pattern from monthly to daily contract. Household 
+income and consumer confidence, that continued to weaken, caused private consumption to 
+modera te. The government thus introduced short -term economic stimulus measures toward 
+the end of 2019, which helped shore up purchasing power to some extent. However, the 
+government was unable to lend sufficient support to the economy on account of the delayed 
+enactment of the Annual Budget Expenditure Act, B.E. 2563 (A.D. 2020). Therefore, public 
+expenditures contracted in both current and capital expenditures. Tourism growth moderated 
+as a result of both the waning low base effect from the Phuket tour boat sink ing incident and 
+lower tourist spending in line with slower economic growth of trading partners. Moreover, 
+weaker economic activities resulted in the continued slowdown of private investment.  
+The Thai economy experienced a more severe impact of the COVID -19 outbreak.  
+ In the first quarter of 2020 , the Thai economy faced a more severe impact of the 
+COVID -19 outbreak, which started to intensify since late January. Following the Chinese 
+government’s prohibition of the Chinese outbound travel and the rapid spre ad of the virus to 
+other countries, the number of foreign tourist arrivals sharply contracted in almost all nationalities.  
+As a result, tourism and related businesses were severely affected. Moreover, the COVID -19 
+outbreak triggered supply chain disruption s and closure of transport routes in some countries, 
+further affecting Thai merchandise exports (excluding gold). Nonetheless, some Thai export 
+products benefited from export substitution of Chinese goods in the U.S. market as well as 
+exports of medical -related products and other basic necessities during the COVID -19 
+outbreak. However, this was not sufficient to offset the negative impact of weaker demand 
+from trading partners.  
+ In addition, the COVID -19 outbreak resulted in broader economic impacts, especi ally 
+for SMEs that were short of liquidity and had to shut down operations. As more workers  
+lost their jobs and consumer confidence dropped to its lowest level in 19 years, private 
+consumption indicators thus pointed to a slowdown. In particular, consumer  spending in 
+services category contracted considerably, where only spending on necessities that could still 
+expand. Private investment indicators further contracted, driven by substantially weaker 
+domestic and external demand and problem in transporting im ported capital goods from 
+China. Despite the introduction of a series of measures to alleviate the impact on those 
+affected by the outbreak, the government was unable to provide a sufficient support to  
+the economy in this quarter as problem regarding parl iamentary voting process to approve  
+the Annual Budget Expenditure Act caused further delay in the enactment.   
+ 
+Monetary Policy Report  March 2020                                                                                                                      17 Overall household purchasing power significantly weakened. The COVID -19 outbreak 
+further affected employment and non -farm income, while the droug ht might cause a more -
+severe -than-expected impact on farm income . 
+ The COVID -19 outbreak further weakened an already -fragile household purchasing 
+power. Non-farm households  faced greater downside risks due to changes in employment 
+pattern from monthly to daily contract (Chart 2.1), temporary or partial suspension of business 
+operations (Chart 2.2), and a reduction in overtime (OT)  working  hours. These downside risks, 
+which h ad initially been concentrated in export -related manufacturing sectors, spread to 
+tourism -related services sector, such as hotel and restaurants and retail trade. As a result, 
+non-farm income declined sharply.6/  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Farm income  in 2020 was projected  to contract more than previously assessed, mainly  
+due to a significantly lower agricultural output, especially off -season rice and sugarcane, as a 
+result of the drought. Although prices of these agricultural products would rise somewhat due 
+to the drought , the price increase would not offset the impact of such large fall in output. 
+Moreover, the drought situation could be more severe than expected because the level of 
+usable dam water (including dams in the northern and central regions) was at a similarly critical 
+level as in 2015 -2016 (Chart 2.3), while risk of El Nino increased. Should the rainy season in 
+Thailand delay, the usable dam water level would not be sufficient to support farming in the 
+latter half of 2020. This would further affect output, especially in -season rice and other crops 
+including cassava, vegetable, and fruits.  
+ 
+ 
+                                            
+6/ The COVID -19 severely affected the labor market because o ver half of tourism -related workers were 
+self-employed with unstable income. Moreover, most workers were employed in jobs where “work 
+from home” was not possible. For more information, please see the link Thai labor market conditions 
+and outlook  (March 202 0). 
+-100100300500700
+05001,0001,500
+Jan
+2014Jan
+2015Jan
+2016Jan
+2017Jan
+2018Jan 
+2019Jan
+2020Tourism-Related Services (LHS)
+Vehicles and Parts (RHS)
+Rubber and Plastics (RHS)
+Electronics (RHS)ThousandsDifferences between the number of monthly -and daily -paid workers  
+Note : The decrease in the difference between monthly -and daily -paid workers 
+implies a higher number of daily employment contract
+Source : National Statistics OfficeFeb 20Chart 2.1 Businesses in tourism -related services and export -related 
+manufacturing sectors changed employment patterns substituting 
+monthly to daily employment contract
+Thousands
+Oct-19 Nov-19 Dec-19 Jan-20 Feb-20 Mar-20Firms EmployeesTemporary suspension of business  operation  (Section  75)
+114163 161
+11333,46542,051 40,102
+15339,303
+20160,729
+Note: Section 75 figures are the sum of firms reported to the Ministry of Labor 
+in each month for the temporary suspension of business operation. 
+*Data as of 23 March 2020
+Source:  Department of Labor Protection and Welfare, Ministry of LaborChart 2.2 Non-farm income fell sharply as the number of 
+employees and firms affected from the temporary suspension of 
+business operation (section 75) was expected to rise 
+22,842
+* 
+ 
+Monetary Policy Report  March 2020                                                                                                                      18  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Headline inflation in January -February increased due to the base effect of energy prices, 
+but was projected to decline in March in line with global crude oil prices.  
+ Headline inflation in the first 
+two months of the first quarter of 2020 
+averaged at 0.90 percent, up from 0.40 
+percent in the previous quarter (Chart 
+2.4). The increase was in tandem with 
+the smaller decline in energy prices,  
+as domestic retail oil prices decreased 
+from the same period last year following 
+the decision to reduce contributions to 
+the Oil Fund. Fresh food inflation was 
+largely unchanged from the previous 
+quarter. Fresh food prices in several 
+product categories decreased, such as 
+vegetables and fruits, eggs and dairy 
+products, as well as rice, flour, and flour  
+products. However, the decrease was 
+in part offset by higher meat prices, mainly in line with pork prices given lower pork output. 
+Headline inflation in March was projected to f all in line with global crude oil prices.  
+ Core inflation in the first two months of the first quarter of 2020 averaged at 0.53 
+percent, up from 0.47 percent in the previous quarter. Food -in-core inflation increased  
+(Chart 2.5), driven by higher prices of seasonings and condiments. This was partly owing to 
+an increase in vegetable oil prices on account of higher palm costs. Core inflation in the  
+non-food categories declined slightly in line with prices of personal ca re products (Chart 2.6). 
+This was partly because firms rolled out more promotional activities. In other categories, prices 
+slightly increased due to weaker demand in line with economic conditions (Table 2.1).  
+Usable water volume to total dam capacity (%)
+Source:  Royal Irrigation Department, calculations by Bank of Thailand 
+Note: usable water volume to total dam capacity at end month0102030405060
+Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr May Jun20 5 20 6 20   20  20   2020Chart 2.3 Usable dam water was at a similarly critical level as 
+in 2015 -2016
+-3-2-1012345
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Jan -Feb
+2020Fresh food (15.69%) Energy (11.75%)
+Core inflation (72.56%) Headline inflationPercent
+Note : Headline inflation for the first 2 months of 2020 recorded 0.90 percent
+( ) denotes share in inflation baskets
+Source: Ministry of Commerce, calculations by Bank of ThailandChart 2.4 Headline inflation in Jan –Feb increased from the 
+previous quarter mainly due to the base effect of energy prices
+Inflation target in 2015 -2019 (2.5  1.5%)Headline inflation and inflation target
+Inflation target in 2020 (1 -3%) 
+ 
+Monetary Policy Report  March 2020                                                                                                                      19  Short -term (one -year ahead) inflation expect ations  according to the survey of 
+professional forecasters in March 2020 recorded 1.1 percent, a slight decline from 1.2 percent 
+in the previous quarter. Inflation expectations based on the survey of businesses in February 
+2020 stood at 1.6 percent, down s lightly from 1.7 percent in the previous quarter. Long -term 
+(five-year ahead) inflation expectations  according to the survey of professional forecasters 
+in October 2019 remained at 2.0 percent. In addition, long -term inflation expectations based 
+on a macro -finance term structure model with bond yields and macroeconomic data stabilized 
+at 1.6 percent in the fourth quarter of 2019.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Short -term government bond yields and commercial banks’ interest rates fell in line with 
+the policy rate. Long -term government bond yields also declined in tandem with U.S. 
+treasury yields, before rising rapidly towards the end of the quarter on the back of concerns 
+over the COVID -19 situation . 
+ During January -February 2020, short -term money market rates and short -term  
+government bond yields fell from the previous quarter in line with the policy rate cut on 
+February 5, 2020 (Chart 2.7). Medium -term and long -term government bond yields  
+(Chart 2.8) decreased in tandem with U.S. treasury yields, as investors viewed that t he 
+COVID -19 began to become widespread from originally contained within China, which could 
+significantly affect the global economy. In addition, two -year Thai government bond yields 
+were subjected to additional pressures from increased demand from investor s. This was on 
+account of the Ministry of Finance’s bond switching transactions in which two -year government 
+bonds were set as the source bond.  Meanwhile,  overall corporate bond yields decreased 
+in line with government bond yields.  
+0.00.51.01.5
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Jan -Feb
+2020Non-alcoholic beverages
+Seasoning and condiments
+Prepared foodPercentContribution* to core inflation in the food categoryChart 2.5 Core inflation in the food category (28% of core 
+inflation) increased mainly on account of a rise in seasoning 
+and condiments prices
+Note: *Contributions to core inflation decompose core inflation into inflation 
+of each component within the basket , weighted by its corresponding share. 
+Source: Ministry of Commerce, calculations by Bank of ThailandJan-Feb
+-0.50.00.51.01.5
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Jan -Feb
+2020Housing and furnishing
+Transport and communication
+Medical and personal care
+Recreation and reading
+Apparel and footwear
+Tobacco and alcoholic beveragesPercentChart 2.6 Core inflation in the non-food category 
+(72% of core inflation) slightly declined mainly in line with 
+personal care prices
+Contribution* to core inflation in the non -food category
+Note : * Contributions to core inflation decompose core inflation into inflation of 
+each component within the basket, weighted by its corresponding share.
+Source: Ministry of Commerce, calculations by Bank of ThailandJan-Feb
+Table 2.1 Inflation
+2018 2019 2020
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Jan-Feb
+Headline Consumer Price Index (Headline CPI) 0.64 1.31 1.47 0.84 0.74 1.08 0.61 0.40 0.90
+Core Consumer Price Index (Core CPI) 0.61 0.76 0.78 0.71 0.62 0.54 0.45 0.47 0.53
+Fresh food -1.04 -0.35 -0.82 -0.35 2.51 4.98 5.79 3.58 3.47
+Energy 3.01 7.30 9.11 3.39 -0.78 -0.67 -4.95 -4.09 -0.26
+Source: Bureau of Trade and Economic Indices, Ministry of CommerceAnnual percentage change 
+ 
+Monetary Policy Report  March 2020                                                                                                                      20  However, in March 2020, Thai government bond yields increased rapidly across 
+all tenors after the World Health Organization (WHO) declared COVID -19 as a pandemic. 
+Foreign investors quickly sold off Thai government bonds in exchange for cash in U.S. dollars . 
+Meanwhile, some domestic investors rushed to redeem their investment units in daily fixed 
+income funds, which allowed for daily redemption, especially the funds investing in foreign 
+assets. Some mutual funds thus sold off quality assets before their matu rities, particularly  
+Thai government bonds, in order to have enough cash to return to unitholders. Consequently,  
+Thai government bond yields rose quickly in some tenors, putting a strain on the liquidity and 
+functioning of the financial markets. This was  reflected in the abnormally high bid -ask spreads. 
+However, Thai government bond yields decreased slightly, thanks to the Bank of Thailand’s 
+government bond purchase program to provide liquidity in the bond markets, the policy rate 
+cut at the special meeti ng of the MPC on March 20, 2020, and the joint announcement of 
+measures to stabilize the Thai financial markets in corp oration with related agencies. As a 
+result, mutual funds slowed their sell -off of government bonds to some extent (Box: Measures  
+to stabi lize the Thai financial markets  in chapter 3 ).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The five largest commercial banks reduced lending rates in all categories  
+in February and March 2020. The average minimum loan rates (MLR) decreased to 5.93 
+percent, the average minimum retail rates (MRR) slightly declined to 6.66 percent, and the 
+average minimum overdraft rates (MOR) fell to 6.64 percent (Chart 2.9). Meanwhile, the new 
+loan rates (NLR)7/ in January 2020 remained low at 3.83 percent (Chart 2.10). Deposit rates  
+of the top five co mmercial banks continued to decline in tandem with lending rates, especially 
+for 3-month, 6 -month and 12 -month fixed deposits as well as savings rates (Chart 2.11).  
+                                            
+7/ NLR is the weighted average of interest rates on new loan contracts extended by 14 Thai commercial banks 
+each month. The loan contracts exclude consumer loans, credit card loans, repurchase agreements, bank 
+guarantees, as well as loans extended to financial intermediaries, the public sector and non -residents. The 
+dataset covers loans with value of 20 million baht or higher for all loan types, purposes and maturities, and 
+includes both secured and unsecured loans. Moreover, interest rates used in the  calculation refer to the mid -rate 
+between the lowest and the highest rates in each loan contract . 
+0.000.250.500.751.001.251.501.752.00
+Jan Apr Jul Oct Jan% p.a.
+Policy Rate
+ O/N Interbank
+1 month BIBOR
+3 month Gov bond
+6 month Gov bondChart 2.7 Short -term government bond yields declined in 
+line with the policy rate but temporarily increased toward 
+the end of the quarter driven by investors ’ concerns over 
+the COVID -19 situation 
+Sources: Bank of Thailand and Thai Bond Market Association (Thai BMA) 
+(data as of 24 March 2020 )2019Short -term rates in financial markets
+0.650.81
+0.81
+0.80
+0.75
+2020
+Chart 2.8 Government bond yields continued to decline, 
+before temporarily rising toward the end of the quarter due to 
+investors’ accelerated sell -off from concerns over COVID -19
+Source: Thai Bond Market Association (Thai BMA) (data as of 24 March 2020 )2019Government bond yields
+0.00.51.01.52.02.53.03.5
+Jan Apr Jul Oct Jan1Y 2Y 3Y 5Y 7Y 10Y% p.a.
+1.49
+1.40
+1.150.96
+0.89
+0.82
+2020 
+ 
+Monetary Policy Report  March 2020                                                                                                                      21  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Private sector financing remained mostly unchanged from the end of the fourth quarter of 
+2019.  Business credit expanded at a slightly faster pace, while household credit slowed 
+down slightly.  
+Private credit8/ expanded 3.4 percent in January 2020 (Chart 2.12), largely unchanged  
+from December 2019, after having decelerated in 2019 in line with economic conditions. 
+Business credits expanded slightly  by 2.2 percent in January 2020, as  business loans 
+contracted slightly by 0.6 percent while corporate bond issuance grew at a relatively steady 
+pace of 13.1 percent (Chart 2.13). Real estate and manufacturing businesses continued to 
+raise funds through bond issuance, mainly for working capit al and to repay their matured debt. 
+Household credit growth slowed down slightly to 4.5 percent, largely due to slower growth 
+in auto -leasing.  
+ In the first quarter of 2020, demand for private sector financing rose, especially among 
+businesses affected by the COVID -19 outbreak. Nevertheless, based on the survey in January 
+2020, financial institutions were expected to tighten credit underwriting standards in the first 
+                                            
+8/  Loans extended to the private sector consist of those extended by (1) other depository corporations (ODCs) 
+including commercial banks, specialized financ ial institutions, finance companies, saving cooperatives and 
+market mutual funds (2) other financial institutions (OFCs) and (3) non -residents.  
+Note : Averages of 5 largest commercial banks ’ lending rates 
+Source: Bank of Thailand (data as of 24 March 2020 )6.287.097.19
+0123456
+5678
+Jan Apr Jul Oct JanPolicy rate (RHS) MLR MOR MRR
+0.755.936.646.66% p.a.
+1.75% p.a.Chart 2.9 MLR, MOR, and MRR of commercial banks 
+declined in tandem with the policy rate
+2019 2020
+Chart 2.10 Overall New Loan Rate (NLR)  of commercial 
+banks slightly increased but remained low
+Source: Bank of Thailand (data as of 24 March 2020)0.00.51.01.52.02.53.0
+0.01.02.03.04.05.06.07.0
+Jan Apr Jul Oct JanPolicy rate (RHS)
+Overall NLR
+NLR (under 500 million Baht)
+NLR (over 500 million Baht)
+2019% p.a.
+Jan 20
+1.754.05
+3.414.64
+3.213.834.42
+1.25% p.a.
+2020
+Chart 2.11 Commercial banks gradually reduced deposit 
+rates of 3, 6, and 12 months fixed deposits and savings 
+0.460.931.201.37
+0123
+012
+Jan Apr Jul Oct JanPolicy rate (RHS) Savings
+3 months 6 months
+12 months
+0.750.440.580.730.83
+2019 20201.75
+Note : Averages of 5 largest commercial banks’ lending rates 
+Source: Bank of Thailand (data as of 24 March 2020)% p.a. % p.a. 
+ 
+Monetary Policy Report  March 2020                                                                                                                      22 quarter of 20209/, especially for business loans extended to large businesses and SMEs,  
+as well as credit card loans, mainly given concerns over economic conditions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Since the beginning of the first quarter, the Bank of Thailand, the government, related 
+agencies, and financial institutions had been introducing a series of measure s to alleviate debt 
+servicing burden and enhance liquidity for businesses and households affected by unfavorable 
+economic conditions (Box: Credit assistance measures to support borrowers  in Chapter 3).   
+In addition, the MPC cut the policy rate twice in February and March to ease financial 
+conditions further. The real policy rate declined from the previous quarter and remained at a 
+low level relative to those of other emerging markets (EMs) (Chart 2.14).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            
+9/  Results of financial institutions’ survey as published in the Report on Credit Conditions Q4/20   and Outloo k for 
+Q1/2020,  
+Source:  Bank of ThailandChart  2.12 Private credit remained largely unchanged as 
+household credit slowed down slightly while business credit 
+slightly expanded
+Growth of private credit
+Note: 1) Private credits include credit extended by (1) Other Depository Corporations 
+(ODCs) namely commercial banks, specialized financial institutions, finance 
+companies, saving cooperatives, and money market mutual funds, (2) Other 
+Financial Corporations (OFCs), and (3) non -resident 
+2) The definition of private credit was redefined to cover broader types of lenders 
+and financial instruments. The data was first published in the MPR in 2019Q4, 
+where the data was available from January 2012.  %YOY
+2.24.5
+3.4
+024681012
+Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Jul Jan
+2019Jul Jan
+2020Business credit Household credit Total private credit
+Jan 20
+Chart 2.13  Private sector financing accelerated slightly 
+mainly on account of a smaller contraction in credit growth
+Growth of business credit and corporate bond outstanding
+%YOY
+Note:  Business loans covers lending activities of Other Depository 
+Corporation (ODCs), Other Financial Corporations (OFCs), and non -resident
+** The definition of private credit was redefined to cover broader types of lenders 
+and financial instruments. The data was first published in the MPR in 2019 Q4,  
+while the data was available from January 2012 . 
+Sources: Thai Bond Market Association (Thai BMA) and Bank of Thailand13.1
+-0.62.2
+-10010203040
+Jan
+2015Jan
+2016Jan
+2017Jan
+2018Jan
+2019Jan
+2020Corporate bond Business credit* Total financing**
+Jan 20
+-2024
+US NZ JP UK EU ID IN PH MY TH KRChart  2.14  Thailand’s real policy rate  decreased due to the policy 
+rate cut and remained at a low level relative to those of other EM 
+countries.
+Real policy rates *
+Note:  *Calculated from policy rate subtracted by one -year-ahead inflation  
+expectation according to the survey by Consensus Economics 
+on 9 March 2020 ( data as of 24 March 2020)
+Sources : Bloomberg  and  Consensus Economics, calculation by Bank of Thailand% Advanced economies Emerging markets 
+ 
+Monetary Policy Report  March 2020                                                                                                                      23 The baht against the U.S. dollar and the nominal effective exchange rate (NEER) index 
+depreciated due to the COVID -19 outbreak . 
+ The baht against the U.S. dollar  
+in the first quarter of 2020 depreciated 
+significantly relative to the end of the 
+previous quarter (Chart 2.15). At the 
+beginning of the quarter, the baht 
+depreciation was in line with risk -off 
+sentiments caused by concerns over 
+the COVID -19 outbreak as th e number 
+of infections and deaths continued to 
+rise in China. The baht depreciation 
+was also driven by better -than-expected  
+U.S. economic data outturns and market  
+expectations of a policy rate cut ahead of 
+the MPC meeting on February 5, 2020. 
+Subsequently,  the baht weakened rapidly 
+toward the end of the quarter in line with regional currencies after the WHO declared COVID -19 
+as a pandemic. Foreign investors in need of U.S. dollar liquidity thus continued to sell off their 
+risky assets, including regional an d Thai assets. The MPC’s policy rate cut at the special 
+meeting on March 20, 2020 also prompted the baht to weaken somewhat. The baht averaged 
+at 31.93 baht to U.S. dollar in March 2020, a 5.4 percent depreciation from an average of 
+December 2019.  
+ The no minal effective exchange rate (NEER) index averaged at 121.9 in March  
+(as of March 24, 2020), a depreciation of 3.8 percent from December 2019. This was 
+attributable to the baht depreciation against most trading partner currencies (Chart 2.16). 
+Meanwhile,  the preliminary  real effective exchange rate (REER)  in February weakened  
+3.3 percent from December 2019. Going forward, exchange rates would likely remain volatile 
+due to high uncertainties surrounding the COVID -19 pandemic, monetary policy and additiona l 
+economic stimulus measures of major advanced and regional economies, as well as investor 
+confidence towards emerging market assets.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38 859095100105110115120125130
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+JanREER
+USDTHB (RHS)DXYNEER
+Source: Bank of Thailand, Bloomberg and Reuters (data as of 24 March 2020)2016 2017 2018Appreciation
+Chart 2.15 The Baht depreciated against the U.S. dollar as 
+non-residents sold off EMs assets to hold low risks assets
+USDTHB, NEER, DXY
+Baht per U.S. dollar Index
+2019 2020
+-10%-8%-6%-4%-2%0%2%4%
+AUD
+IDR
+THB
+GBP
+INR
+SGD
+KRW
+MYR
+PHP
+EUR
+CNY
+TWD
+JPYPercentChart 2.16 The Baht depreciated against the U.S. dollar in line 
+with movements of most regional currencies 
+(Avg. in Mar 20 compared to avg. in Dec 19)
+Positive value indicates appreciation against the U.S. dollar
+Source: Bank of Thailand and Reuters (data as of 24 March 2020) 
+ 
+Monetary Policy Report  March 2020                                                                                                                      24 The COVID -19 outbreak led to heightened risks to financial system in the short run and 
+greater investors’ concerns, resulting in rapid redemption of investment units in some 
+mutual funds. Looking ahead, debt servicing ability of households and businesses w ould 
+deteriorate, which could restrict decisions of financial institutions to extend loans.  
+Should  credit extension slow down considerably, this would in turn affect economic 
+activities, resulting in a negative feedback loop.  
+ Thailand’s financial stabil ity risks increased in the short term due to the COVID -19 
+outbreak. Nevertheless, Thailand’s financial institutions maintained robust financial positions, 
+as reflected by adequately high levels of commercial banks’ capital buffers and reserves, 
+providing c ushion against risks of deteriorating credit quality. Likewise, external stability 
+remained sound, as indicated by high level of international reserves, low external debt to GDP, 
+and sustained current account surpluses. This would be adequate to cushion ag ainst the  
+U.S. dollar liquidity squeeze in the global financial markets. In addition, Thailand’s public debt 
+remained low, providing room for borrowing to finance greater government spending in case 
+of emergency. Nevertheless, there remained other risks t hat warranted monitoring:  
+ 1. Risks in the bond markets increased as some investors rushed to redeem 
+their investment units from some mutual funds. In March, foreign asset prices were 
+excessively volatile due to the COVID -19 pandemic, affecting net asset v alues (NAVs) of some 
+mutual funds in Thailand with majority of investment in foreign debt instruments. Some major 
+investors therefore rushed to redeem their investment units from these funds, especially daily 
+fixed income funds (Daily FI), which allowed fo r daily redemption and invested in foreign 
+assets. As a result, these mutual funds became short of liquidity and had to sell off their 
+government bonds prior to their maturities in order to have enough cash to return to 
+unitholders. Consequently, prices of  government bonds fell, in turn affecting NAVs of other 
+mutual funds and encouraging investors to redeem their investment units from these mutual 
+funds. If this problem was not urgently addressed in order to restore financial market stability, 
+the problem could exacerbate and pose systemic risks to the functioning of the Thai financial 
+markets. In particular, if mutual funds could not generate enough liquidity from selling off 
+government bonds, they might be forced to sell off corporate bonds. This would im pact both 
+prices and liquidity of corporate bond markets, as well as NAVs of other mutual funds.  
+2. Corporate bond default risks increased, which could trigger knock -on effects 
+on other related parties in the financial system. Falling corporate income due to impacts 
+of the COVID -19 and a sharp fall in oil prices could heighten default risks or rollover risks of 
+Thai companies that raised funds through the bond markets. This was as investors have lower 
+risk tolerance. In terms of credit rating, most Thai cor porate bonds maturing in 2020 were rated 
+A and BBB. The latter group was vulnerable to being downgraded to non -investment grade 
+should the issuing companies experience impacts from the economic contraction (Chart 2.17). 
+Nevertheless, if corporate bond defa ult risks continued to rise, it would trigger knock -on effects 
+to other related parties in the financial system. These included cross -default, especially in the case 
+that creditors were commercial banks, and some saving cooperatives with high corporate bon d 
+holdings to total assets.  
+ In light of the above financial stability risks, the Bank of Thailand continued to 
+support liquidity provision in the bond markets through government bond purchase 
+program, the policy rate cut, and joint announcement of measures to stabilize the Thai  
+ 
+Monetary Policy Report  March 2020                                                                                                                      25 finan cial markets in collaboration with other related agencies. These were preventive 
+measures against systemic risks, including measures to support mutual funds affected  
+by liquidity shortage in the financial markets and the establishment of the Corporate Bon d 
+Stabilization Fund (BSF) to mitigate rollover risks  in the corporate bond markets  
+(Box: Measures to stabilize the Thai financial markets in Chapter 3).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. Weakening ability of households and businesses to manage liquidity and 
+service debt amid the economic slowdown would affect credit extension and economic 
+activities, resulting in a negative feedback loop.  
+ Prior to the spread of COVID -19, 
+household debt to GDP ratio in the fourth 
+quarter of 2019 rose to 79.5 percent (Chart 
+2.18). Meanwhile, the quality of household 
+credit was expected  to deteriorate due to 
+income shocks, such as the drought, which 
+would raise default risk of the household 
+sector. The NPL ratio  of consumer loans 
+in the fourth quarter of 2019 also increased 
+from the previous quarter to 2.9 percent, 
+mainly in line  with deteriorating quality of 
+mortgage loans and personal loans with 
+housing as collateral.  
+ 
+ 
+ 
+ 
+Debt outstanding (Billion baht)
+Source: ThaiBMA, compiled the Bank of ThailandChart 2.17 Most corporate bonds maturing in 2020 were rated A 
+or BBB. The latter group was vulnerable to being downgraded to 
+non-investment grade due to the impact of economic slowdownDebt outstanding
+79.5
+557085
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2018Q1
+2019Percent of GDP
+Note: *Loans to households by financial institutions 
+**Calculated by averaging the 4 latest quarterly GDP 
+Houehold debt and GDP data are revised, resulting in the difference 
+in household debt to GDP ratios compared with the previous MPR. 
+Source : Bank of ThailandChart  2.18 Household debt* exhibited an increasing trend.
+The ratio of household debt to GDP** 
+ 
+Monetary Policy Report  March 2020                                                                                                                      26  An analysis on household financial positions, based on household socio -economic 
+survey in the first three quarters of 2019, showed that agricultural households and households 
+with monthly income of less than 30,000 baht were the most vulnerable with high d efault risks. 
+This was because these households had higher proportion of negative cash flows relative to 
+other groups. Some of these households had financial assets that could only cover their 
+expenses for less than 6 months, resulting in limited ability t o cope with income shocks  
+(Chart 2.19). This situation also reflected the outlook of household debt in some categories 
+that might increase in the period ahead, as some households would face liquidity problems 
+and thus need to borrow to cover their spendin g. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall financial position of businesses became more vulnerable, especially SMEs. 
+This was reflected by the sustained decline of operating profit margin (OPM) and negative 
+interest coverage ratio (ICR) of some enterprises.10/ Meanwhile, cre dit quality of business 
+loans deteriorated across almost all categories, having extended to include larger enterprises.  
+The NPL ratio of SME loans remained high at 4.6 percent in the fourth quarter of 2019.11/  
+ Looking ahead, the spread of COVID -19 could cause a severe impact on the revenue 
+of some businesses, especially those related to tourism, transportation and some segments 
+of the manufacturing sector. This would have repercussions for employment, debt servicing 
+ability, and credit extension of financ ial institutions. This would in turn affect economic activities, 
+resulting in a negative feedback loop. However, the Bank of Thailand and the government, in 
+                                            
+10/ As reflected by the ICR and OPM of 25th -percentile small -sized listed companies, which remained in the 
+negative territory.  
+11/ The NPL ratio of SME loans from 2013 to date averaged at 4.0 percent.  
+020406080100
+Agriculture
+Non-agricutural
+business
+Specialists
+Employees
+Low income
+Middle income
+High incomeNegative cash flows with financial assets to cover expenses for less than 6 months
+Negative cash flows with financial assets to cover expenses for more than 6 months
+Positive cash flows
+Note:  
+(1)Cash flow is calculated from monthly income minuses total expenses and monthly 
+debt burden, where negative cash flows reflects insufficient income for expenses 
+each month.
+(2)The number of months that households survive or have enough financial assets 
+to liquidate to support negative cash flows is calculated households ’ financial assets 
+divided by negative cash flows. The calculation is under the assumption that 
+households need to liquidate assets in order to cover the negative cash flows.  % to total householdsChart  2.19 Farmers and low -income employees had low capacity 
+to absorb income shocks 
+Proportion of households classified by financial positions
+Source: Socio -Economic Survey (SES) Q1-Q3 2019, calculated by Bank of Thailand. 
+ 
+Monetary Policy Report  March 2020                                                                                                                      27 collaboration with financial institutions and financial service providers, introduced measures to 
+assist borrowers affected by the economic conditions. This was expected to help relieve the 
+impact to a certain level (Box:  Credit assistance measures to support borrowers in Chapter 3).  
+ 4. Oversupply in the real estate market would increase due to weaker demand 
+for residences from domestic and foreign buyers.  
+In January 2020, the Bank of Thailand relaxed the loan -to-value (LTV) measure in 
+order to facilitate home ownership. The relaxed c onditions included, first, for the first mortgage 
+contract of residential units with value  under 10 million baht, homebuyers would be allowed to 
+borrow an extra 10 percent above the collateral value to cover necessary moving expenses. 
+Second, for the secon d mortgage contract, homebuyers would be subject to 90 -percent  
+LTV ratio provided that the first contract had been serviced for at least two years, and  
+80-percent LTV ratio if the first contract had been serviced for less than two years (from three 
+years  in the previous regulation).12/  
+Going forward, the real estate market would experience greater risks due to substantial 
+oversupply. At the end of 2019, unsold units of low -rise residences and condominiums 
+increased from 2018 by 5.9 and 14.6 percent respec tively. This corresponded to the longer 
+time-to-go from 45 to 49 months for low -rise residences, and from 18 to 22 months for 
+condominiums. This occurred as developers continued to launch new projects despite 
+weakening demand, particularly small - and mediu m-sized developers that were not listed in 
+the stock exchange and able to adjust themselves slower than large, listed developers.  
+(Chart 2.20).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            
+12/ For the first mortgage contract for residential units with value  exceeding 10 million baht, the LTV ratio was 
+adjusted to 90 percent (from 80 percent previously).  
+Chart  2.20 Risk in real estate market increased from oversupply and a longer 
+time-to-go in both low -rise residences and condominiums
+Source: AREA, calculated by Bank of Thailand115 118 118125
+45 46 4549
+40455055
+ - 40 80 120
+20 6 20  20  20  Unsold
+units
+Time-to-go
+(RHS)Unsold units and Time -to-go
+months
+70778294
+18 18 1822
+1015202530
+ - 30 60 90
+20 6 20  20  20  Unsold
+units
+Time-to-go
+(RHS)Unsold unis (thousand units)Low-rise residences CondominiumsNew property launches
+34 38 40 3618 13 11 175153
+0204060
+20 620  20  20  non-SET
+SETFirmsThousand units
+44 51 52 41151322
+2574
+66
+020406080
+20 620  20  20  non-SET
+SETThousand units
+Firmsmonths Unsold units (thousand units) 
+ 
+Monetary Policy Report  March 2020                                                                                                                      28 In addition, the real estate market was impacted by the COVID -19 outbreak as 
+residential demand from domestic and foreign buyers continued to weaken from the previous 
+year. However, the impact of falling foreign demand was expected to be limited because 
+foreign buyers accounted for only 10 percent of total ownership transfers, or 16 percent of the 
+total value of condominium transfers in 2019 (Chart 2.21).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 Outlook for the Thai Economy  
+The Thai economy would contract significantly, expanding at a much lower rate than the 
+assessment in the previous Monetary Policy Report . Headline inflation  would be negative 
+in line with energy prices.  
+The Thai economy would contract significantly, expanding at a much lower rate 
+than the assessment in the previous Monetary Policy Report.  The Thai economy was 
+expected to contract 5.3 percent in 2020 but would recover and expand 3.0 percent  
+in 2021, despite at a level below its potential throughout the forecast horizon.   
+The spread of COVID -19, which was declared as a pandemic, would have a severe impact on 
+Thailand’s trading partner economies, causing some economies to enter into recession.  
+The spread of COVID -19 also caused supply chain disruptions in several countries, affecting 
+the Thai economy through multiple channels. In particular,  tourism and merchandise exports 
+were severely affected. As a result, some businesses and households that relied on foreign 
+sources of income received lower revenue and faced liquidity problems. Business and 
+consumer confidence also fell to the lowest leve ls in many years, triggering knock -on effects 
+on domestic economic activities, both consumption and investment. Moreover, farm income 
+would still be depressed by the drought, while public expenditure would experience a larger 
+impact than previously assesse d due to the delayed enactment of the Annual Budget 
+Expenditure Act B.E. 2563 (A.D. 2020).  
+Source: Real Estate Information Center (REIC), calculated by Bank of ThailandChart  2.21 Overall impact from a fall in foreign demand due to the COVID -19
+could be limited as foreign buyers’ proportion to total condominium ownership
+transfers remained small
+6 4 
+    
+Thai
+China (mainland)
+& Hong Kong
+Other
+nationalitiesProportion of condominium ownership transfers in 2019
+Total number of condominium 
+ownership transfers
+125,725 unitsTotal value of condominium 
+ownership transfers
+317 billion baht 
+ 
+Monetary Policy Report  March 2020                                                                                                                      29  
+ 
+ 
+ 
+ 
+  Nevertheless, the government’s implemented measures13/ would be the key 
+mechanism in alleviating the impact on the economy, by providing support to vulnerable 
+busin esses and households to some extent. However, the measures would be unable to offset 
+a significant contraction in aggregate demand. The Thai economy would therefore contract 
+substantially in 2020, which was the first contraction since 2009. Moreover, the C ommittee 
+assessed that the tourism sector would take some time to begin to recover, and would not 
+return to its previous growth path in the following periods.  
+ Additional assumptions underlying the economic projection in this Report  
+include (1) the COVID -19 outbreak in Thailand would be contained within the second quarter 
+of 2020 according to the Ministry of Public Health estimate, and (2) the projection took into 
+account measures implemented before March 25, 2020, not including any measures thereafter.   
+ Headline inflation would be negative due to the sharp decline in energy prices 
+in line with crude oil price assumptions. Headline inflation was projected to be negative 
+at -1.0 percent in 2020, before gradually increasing to 0.3 percent in 2021 consistent  with 
+the gradual economic recovery outlook. However, headline inflation would remain below the 
+inflation target.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Summary of the key forecast assumptions  
+ Trading partner economies  were projected to slow down significantly in 2020 as several 
+economies would enter into recession due to the COVID -19 outbreak. However, trading 
+partner economies would expand in 2021, partly owing to the very -low-base effect, benefits 
+from financial and fiscal measures in many countries, and improving COVID -19 situation.  
+ The federal funds rate was cut twice in March 2020 to 0.00 -0.25 percent to support the 
+economy and the financial system that were severely affected by the COVID -19 outbreak. 
+The federal funds rate was projected to remain at this level throug hout the forecast horizon.  
+ Regional currencies (excluding the Chinese yuan) depreciated throughout the forecast 
+horizon. This was because regional economies were affected by the COVID -19 outbreak 
+before other regions, which led to deterioration of investo r confidence in holding regional 
+securities. This resulted in capital outflows from regional stock markets, although the situation  
+would start to improve in 2021.  
+                                            
+13/ Government measures that were announced before March 25, 2020.  
+Percent 2019 * 2020 2021
+GDP growth 2.4 -5.3 (2.8) 3.0
+Headline inflation 0.7 -1.0 (0.8) 0.3
+Core inflation 0.5 -0.1 (0.7) 0.1
+Note: * Outturn 
+         ( ) Monetary Policy Report December 2019             
+Sources: NESDC, Ministry of Commerce, Bank of Thailand’s estimatesTable 2.2 Forecast summary 
+ 
+Monetary Policy Report  March 2020                                                                                                                      30  
+ 
+ 
+ 
+ 
+  Dubai crude oil prices were revised down substantially throughout the forecast horizon due 
+to both the decline in global demand as a result of the COVID -19 outbreak and the decision 
+of Saudi Arabia, which was the largest oil producer, to lower crude oil prices. This was 
+followin g the failure of the OPEC and Russia to agree on the crude oil production cut, 
+causing crude oil prices to sink to the lowest level in 17 years.  
+ Farm income, excluding government support measure, was revised down in 2020 in line with 
+the decline in agricu ltural output, especially off -season rice and sugarcane, mainly caused 
+by a larger -than-expected impact of the drought in the first half of the year. Meanwhile, 
+agriculture prices were expected to rise, especially prices of palm oil, glutinous rice and 
+sugarcane. In addition, farm income in 2021 was expected to increase due to the lower 
+base of agricultural output in 2020 and better assumptions on the weather and dam water 
+levels than in 2020.  
+ Public spending at current prices , both public consumption and i nvestment,  was lower than 
+previously assessed on account of a larger -than-expected impact of the delayed enactment 
+of the Annual Budget Expenditure Act B.E. 2563 (A.D. 2020), the change in the structure 
+of the annual budget expenditure for fiscal year 2021 , as well as a smaller investment 
+budget and a prolonged delay of some state -owned enterprise (SOE) investment.  
+ 
+ 
+ 
+ 
+ 
+ 
+Merchandise exports would decline markedly in the short term due to the significant global 
+economic slowdown.  
+The value of merchandise exports was expected to markedly shrink both in 
+terms of volume and prices. Global trade volume would contract in response to global 
+economic conditions, as several countries would enter into recession as a result of the  
+COVID -19 outbreak. Moreover, Thai merchandise exports would be additionally affected by 
+supply chain disruptions, as well as lower demand from oil -exporting countries on account of 
+the substantial fall in crude oil prices. Nonetheless, exports of some products woul d benefit 
+from rising external demand, despite being unable to offset overall contraction in merchandise 
+exports. In particular, the benefit would be seen in necessities such as rice and canned fish, 
+and medical equipment such as rubber gloves and cassava,  which was a raw material for 
+alcohol production. Meanwhile, prices of merchandise exports would significantly decline in 
+Table:  Summary of forecast assumptions
+2019* 2020 2021
+Dubai crude oil price (U.S. dollar per barrel) 63.5 35.0 (63.0) 34.0
+Farm income (% YoY) 3.3 -2.5 (-0.8) 5.0
+Government consumption at current price (billion baht )1/2,723                          2,863 (2,889) 2,993                          
+Public investment at current price (billion baht )1/966                             1,040 (1,067) 1,141                          
+Fed funds rate (% at year end) 2.125 0.125 (1.625) 0.125
+Trading partners ’ GDP growth (% YoY)2/2.7 0.2 (2.7) 2.0
+Regional currencies (excl. China) vis-à-vis the U.S. dollar (index)3/ 156.6 158.7 (157.4) 158.7
+Notes: 1/ Assumption includes spending on infrastructure investment plans
+2/ Weighted by each trading partner 's share in Thailand 's total exports
+                     3/ Increasing index represents depreciation , decreasing index represents appreciation
+               * Outturns
+              ( ) Monetary Policy Report December 2019Annual percentage change 
+ 
+Monetary Policy Report  March 2020                                                                                                                      31 tandem with crude oil prices. Prices of export products, which were sensitive to crude oil 
+prices, such as petroleum  products, and petrochemical and chemical products, would be 
+significantly lower than previously assessed. Nonetheless, the value of merchandise exports 
+was projected to expand slightly in 2021, on account of the gradual recovery of the global 
+economy and g lobal trade volume once the spread of COVID -19 subsided. The Committee 
+assessed that the value of merchandise exports would contract 8.8 percent in 2020, 
+before expanding slightly at 0.2 percent in 2021.  
+Exports of services were expected to severely contra ct in the short run due to the   
+COVID -19 outbreak  
+Exports of services would severely contract  as the COVID -19 outbreak led to travel 
+restrictions, including flight suspension and border closure in several countries. Many airlines 
+then had to temporarily s uspend flight services, resulting in decline in foreign tourist figures of 
+all nationalities (Chart 2.22). In addition, the significant economic slowdown in several 
+countries due to the COVID -19 outbreak led to declines, not only in foreign tourist figures , but 
+also in tourist spending per head. However, foreign tourist figures were expected to gradually 
+increase in the second half of 2020, based on the assumption that the spread of COVID -19 
+would be contained within the second quarter of 2020. Nevertheless , tourists would start to 
+travel once the vaccines for the coronavirus were to be widely distributed. The foreign tourist 
+figures were projected to be 15.0 and 20.0 million persons in 2020 and 2021, respectively.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current account balance was p rojected to record a surplus of 19.4 and 19.2 
+billion U.S. dollars in 2020 and 2021, respectively. The services balance was revised from 
+being in surplus to deficit, as tourist receipts declined considerably in line with the decline in 
+the number of touris ts and spending per head. Meanwhile, the trade balance was expected to 
+register a larger surplus due to a substantial contraction in imports value. Import volume 
+contracted in line with imports of raw materials and intermediate goods for export -related 
+manufacturing, and capital goods for domestic investment. Meanwhile, import prices declined 
+in tandem with global crude oil prices.  
+Source: TAT Intelligence, Ministry of Tourism and Sports , compiled by Bank of Thailand.Chart 2.22 Foreign tourist figures were expected to fall significantly
+Persons
+020,00040,00060,00080,000100,000120,000140,000
+1 Jan 10 Jan 19 Jan 28 Jan 6 Feb 15 Feb 24 Feb 4 Mar 13 Mar 22 Mar20  2020
+Note: *5 major airports include  Suvarnabhumi   Don Mueang,  Chiang Mai, Hat Yai and 
+Phuket International Airports, which account 83 percent of total foreign tourists.The Chinese 
+government announced 
+a travel ban on 
+outbound group tours 
+from January 24, 2020
+22 Mar 20 = 1,846Number of daily foreign tourist arrivals through 5 major airports* 
+ 
+Monetary Policy Report  March 2020                                                                                                                      32 Private consumption would contract in the short term despite government relief measures, 
+but would expand in the subsequent per iod in line with the gradual recovery in tourism 
+and merchandise exports.  
+Private consumption was expected to contract in 2020, which would be the first 
+contraction since 2009. The COVID -19 outbreak led to severe contraction of tourism sector. 
+In addition,  suspension of a wide range of economic activities and the enactment of the 
+emergency decree from March 26, 2020, affected consumption in the services and away -from-
+home spending categories. Meanwhile, non -farm income decreased substantially because the 
+manufacturing sectors were affected by the sharp decline in both domestic and external 
+demand. Moreover, farm income was expected to decline due to a more -severe -than-
+expected impact of the drought, reducing capacity of the agricultural sector to absorb 
+unem ployed workers moving from manufacturing and services sectors. However, government 
+measures to alleviate the impact of the COVID -19 outbreak would partly help relieve the 
+impact on private consumption to a certain level. These included measures on credit, 
+transfers, expenses reduction, and taxes.14/ In the period ahead, private consumption was 
+projected to gradually edge up in line with the recovery of tourism and merchandise exports 
+once the spread of COVID -19 could be contained. However, the slow recovery of household 
+income and the elevated household debt would continue to weigh on private consumption in 
+the period ahead.  
+Private investment  was projected to contract in the short term in line with both domestic 
+and external demand.  
+ Private investment was projected to contract in 2020 in line with both domestic and 
+external demand due to the COVID -19 outbreak. This led profitability of businesses and 
+investment confidence to deteriorate markedly. However, private investment was expect ed to 
+improve in 2021 thanks to a gradual recovery in merchandise exports, the PPP projects in 
+infrastructure investment projects that had been postponed from previous periods, as well as 
+a greater clarity pertaining to investment in the 5G network followi ng the auction in the first 
+quarter of 2020.  
+Public expenditure would be a key driver of economic growth  
+ Public expenditure, both consumption and investment, was expected to expand 
+and would be a key driver of the Thai economy. Following the enactment of  the Annual 
+Budget Expenditure Act B.E. 2563 (A.D. 2020), although government agencies adjusted the 
+procurement process for a faster disbursement, this could not offset a larger -than-expected 
+impact of the delayed enactment of the Annual Budget Expenditure  Act in the previous period. 
+SOE investment was revised down in line with project postponement and a lower budget for 
+capital expenditure on transportation projects. This included, for example, the Bangkok -
+Nakhon Ratchasima high -speed rail project, whose e nvironmental impact assessment (EIA) 
+report was being revised. Meanwhile, the first and second packages of government 
+measures to mitigate the impact of the COVID -19 outbreak, totaling 464 billion baht or 
+2.8 percent of GDP (excluding tax relief measures w orth approximately 260 billion baht 
+or 1.5 percent of GDP) , were mostly measures on credit and transfers. This was expected  
+                                            
+14/ Government measures announced prior to 25 March 2020   
+ 
+Monetary Policy Report  March 2020                                                                                                                      33 to directly cushion private consumption and investment, not through public consumption  
+and investment (Box: Government relief measures to alleviate the impact of COVID -19 in 
+Chapter 2) . In sum, public investment would expand at a lower rate than previously 
+assessed in the previous Monetary Policy Report, while public consumption growth 
+would remain largely unchanged.  Going forwar d, factors that would affect public expenditure  
+included changes in the structure of the annual budget expenditure for the fiscal year 2021, 
+resulting in changes in budget allocations for current and capital expenditures, and a lower 
+budget expenditure in the period ahead as revenue collection was expected to be lower than 
+previously assessed.  
+Projection of headline inflation would be negative in the short term in line with declines in 
+energy prices and core inflation.  
+ Projection of headline inflation in 2020 would be negative at -1.0 percent, which 
+would be lower than the inflation target and significantly below the forecast in the 
+previous Monetary Policy Report.  The downward revision was consistent with a sharp 
+decline in crude oil prices in early 2020,  which led to a large fall in energy prices. Meanwhile,  
+core inflation was expected to be negative on the back of a large decrease in demand -pull 
+inflationary pressures. In addition, measures to reduce living expenses were expected to partly 
+prevent prices from rising. Nonetheless, headline inflation was projec ted to gradually 
+increase to 0.3 percent in 2021 in line with the assumption of a gradual rise of crude oil 
+prices. Core inflation was expected to edge up slightly from -0.1 percent in 2020 to 0.1 
+percent in 2021, consistent with the economic recovery outl ook. However, headline inflation 
+would remain below the inflation target throughout the forecast horizon.  
+Economic and inflation projections were subject to greater downside risks and were  
+highly uncertain.  
+The Committee assessed that economic and inflati on projections were highly 
+uncertain and mainly depended on the situation of the COVID -19 spread and the 
+success of the containment measures. Downside risks to the Thai economy increased 
+significantly from the assessment in the previous Monetary Policy Rep ort (Chart 2.23). 
+The possibilities that the Thai economy would underperform the baseline projection 
+would be due to the following factors.  First, the global economy could enter into a deep 
+recession should the outbreak become more severe and prolonged tha n expected, exerting 
+additional adverse impacts on Thailand’s merchandise exports. Second, global financial 
+stability risks might affect the Thai economy in the medium term. Third, Thailand’s tourism 
+might not recover in the second half of 2020 if the outb reak in Thailand and other countries 
+prolonged and could not be contained by the second quarter of 2020. Fourth, risk of a wider 
+spread of COVID -19 in Thailand might force the government to implement stricter measures 
+to control the outbreak. As a result, this might cause some businesses to permanently shut 
+down operations or significantly reduce employment, thereby impacting household income. 
+Fifth, more -severe -than-expected impact of the drought could affect farm income and reduce 
+the capacity of agricult ural sector to absorb workers moving from other sectors. However, 
+there were possibilities that the Thai economy would outperform the baseline projection  
+due to (1) a faster -than-expected development of vaccines and medicines for the COVID -19, 
+(2) better -than-expected impacts of additional government’s stimulus measures to alleviate 
+the impact and support domestic consumption and investment, as well as measures to assist  
+ 
+Monetary Policy Report  March 2020                                                                                                                      34 borrowers, and (3) a higher -than-expected increase in domestic demand as a result of pu blic 
+infrastructure investment and PPP projects, which might incentivize the private sector to invest 
+more and faster. Moreover, there remained downside risks to headline and core inflation 
+projections in line with risks to crude oil prices and the economi c growth projection (Charts 
+2.24 and 2.25).  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chart 2.23 Growth forecast
+Note: Fan chart covers 90% of the probability distribution
+Chart 2.24 Headline inflation forecast
+Note: Fan chart covers 90% of the probability distribution
+Chart 2.25 Core inflation forecast
+Note: Fan chart covers 90% of the probability distribution
+ 
+ 
+Monetary Policy Report  March 2020                                                                                                                      35  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2.3 Forecasts of GDP and components
+2019* 2020 2021
+GDP growth 2.4 -5.3 (2.8) 3.0
+Domestic demand 3.3 -0.8 (3.2) 2.6
+     Private consumption 4.5 -1.5 (3.0) 2.1
+     Private investment 2.8 -4.3 (3.4) 2.2
+     Government consumption 1.4 2.6 (2.6) 2.2
+     Public investment 0.2 5.8 (6.3) 8.1
+Exports of goods and services -2.6 -16.4 (1.4) 5.0
+imports of goods and services -4.4 -11.6 (1.6) 4.3
+Current account (billion, U.S. dollars) 37.9 19.4 (30.0) 19.2
+Value of merchandise exports -3.2 -8.8 (0.5) 0.2
+Value of merchandise imports -5.4 -15.0 (1.4) -0.4
+Number of foreign tourists (million person) 39.8 15.0 (41.7) 20.0
+Note: *Outturns
+( ) Monetary Policy Report December 2019Annual percentage change 
+ 
+Monetary Policy Report  March 2020                                                                                                                      36 Government relief measures to alleviate the impact of COVID -19  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+      Budget
+ bn. 
+Cash Transfers/
+Expenditure 
+Reduction
+Government 
+Expenditures12  bn. baht
+ 0.8% of GDP 
+Soft loans 150
+for 2 years at 2% annual interest ratewith max credit limit of 20 million baht/business
+Loans to support employment   
+for 3 years at 3% annual interest rate for businesses registered with the Social Security Office  SSO 
+ business must maintain at least 80% of its 
+employment from the time the loans are issued                 up to 3 years   
+Acceleration of VAT refund process
+Reduction of withholding tax: to    % for any payment method
+: to  % for payment via e -withholding tax
+ The reduction amount will be included in the half-year and annual income tax payments.  
+•Acceleration of budget disbursement on any procurement under 2 million baht
+•Adjustment in the procurement process for a faster disbursement 
+•COVID -19 relief funds : procurement and distribution of masks and disinfectants2/    bn. baht
+    % of GDP 
+8    bn. baht
+ 0.5% of GDP Tax DeductionsSoft Loans
+Tax Deferrals
+Note : 1  Excluding further announcement on Mar 24 and 31,  20  .According to the notification of the Ministry of Labor and Social Welfare, the Thai government announced additional 
+measures of reducing contributions to the social security fund for employees to 1%/month  section 33 and to 86 baht/month  section 3  for 3 months  Mar -May 2020  
+   These two measures will be covered by the same budget, but details of budget allocation have not yet made official.
+   Excluding results of the cabinet resolution on Mar 31, 20  , where the target groups were expanded to 9 million people with the budget increased to 135 bn. baht.
+Source :     The Thai Government’s Phase I and II measures to alleviate the impact of the COVID -19 on the Thai economy approved by the Cabine t on Mar 10 and 24, 2020 
+              2 The cabinet resolution on Mar 17, 2020      Notification of the Ministry of Finance No. 22/2020 and No. 26/2020     Related news  Tax measures
+Refund of electricity and water provider deposits 36
+Reduction of required contributions to the Social Security Fund (SSF) for employers and employees  
+to 4% month  section 33 and to 7% month    
+ section 3  
+Reduction of electricity and water bills  6
+COVID -19 relief funds     
+Reduction of fees, rental fees, charges levied by government agencies and state -owned enterprises
+Compensation for workers                                               453 
+(outside of the social security system)5,000 baht/person/month for 3 months
+Training for employees affected by the COVID -19 outbreak   
+support the training and expenses to participants
+Emergency loans  for self-employed workers for 2½ years 40
+at 0.1% monthly interest rate with max limit of 10,000 baht/person 
+Special credit facilities for employees for 3 years   
+at 0.35% monthly interest rate with max limit of 5      baht/person 
+Soft Loans for low -income group  at 0.125% monthly interest rate for 2 years 
+Soft Loans for SMEs for 5 years with a limit of 3 million baht/SME ,10
+with a concessional rate of 3% per annum for the first 2 years 
+ .
+ .
+Increase in tax deduction limit for health insurance 3
+premiums to 25,000 baht (The total deduction , combining deduction on life insurance premiums and living allowance 
+deposits , must not exceed 100,000 baht.)
+Income tax exemption on hazard pay for medical     personnel appointed by the Ministry of Public Health
+Exemption of import duties on products related to 1
+prevention and treatment of the COVID -19
+Promoting debt restructuring                                             1
+Tax exemption and reduction on transfer and mortgage fees for
+condominium and properties related to debt restructuringMar 24 -Sep 30, 2020Tax year 2020Tax year 2020 onwards
+Jan 2020 -Dec 2021Apr -Jun 2020 Mar 24  
+Dec 30, 2020
+Mar  Aug 2020
+Apr  Jun 2020 
+Additional 200,000 -baht income tax deduction 
+for investment in Super Saving Fund  SSF from the original cap and not subjected to deduction   14 
+limit of retirement saving fund (for investment in at 
+least 65% of its net asset value in shares listed on the SET)
+Additional income tax deduction for SMEs
+-3 times the wage expenses 64for SMEs 
+-1.5 times the interest expenses  1
+for SMEs enrolling in the Phase I of soft loan program Apr  Jun 2020 
+Apr  Jul 2020 
+Apr -Dec 2020Mar –
+Dec 30, 2020 
+Apr -Sep 2020 
+Oct 2020 -Dec 2021 Mar 2020  Electricity May 2020  Water   
+54% 28%18%Overview
+Soft Loans
+Cash Transfers/Expenditure ReductionTax DeductionsGovernment injected money 
+into the economy through Phase I 
+and II measures, totaling
+464.1 billion  bn. baht  2.8% of GDP 
+(excluding tax deferral measures) 
+Tax D eferrals
+Temporary increase liquidity to the private 
+sector without causing effects on liquidity and 
+consumption/ investment in the long term
+PrivateInvestmentAlleviate the impact on employment
+Private Consumption
+Tax Deductions
+EconomyHouseholds
+Increase Efficiency in Disbursing 
+FY2020 Government Budget
+Accelerate government disbursement to 
+promptly inject liquidity to the economy 
+Soft LoansIncrease liquidity / Reduce cost of living
+Businesses
+Cash Transfers/Expenditure Reduction  Transmission of liquidity to the economy
+Period The First PackageAlleviate the impact
+Target Groups
+Households  BusinessesHouseholds& Businesses
+  Summary of government relief measures to alleviate the impact of COVID –19 
+Phase I and II measures following the cabinet resolutions on March 10 and 24, 2020
+Temporary impact 
+on government cash 
+flows, but not on 
+revenue collection 
+for the whole yearMeasuresBudget
+ bn. Period The Second Package 
+Extension of personal income tax filing deadline
+: from Jun 30, 2020      Aug 31, 20 20
+Extension of corporate income tax filing deadline
+  P.N.D 50  TY 2019 : Apr 1–Aug 30, 2020       Aug 31, 2020
+  P.N.D 5   TY 2020 : Jul 1  –Sep 29, 2020       Sep 30, 2020
+Extension of excise tax filing deadline for affected operators
+: from Mar 1–May 31, 2020      Jul 15, 2020
+Extension of filing deadline for taxes under the purview of the Revenue department for businesses affected by the COVID -19 
+Extension of excise tax filing deadline for oil and petroleum
+products: from within 10 days within the 15thof the following monthApr –Jun 2020Mar 24  
+Dec 30, 2020
+Mar 24  
+Dec 30, 2020on investmentconsumptionAlleviate the impact on
+The measures will accelerate disbursement of the FY 2020 
+Government Budget, not from additional budget }Increase liquidity / Reduce business expenses 
+ 
+Monetary Policy Report  March 2020                                                                                                                      37 3. Monetary Policy Decision  
+The MPC cut the policy rate 2 times to 0.75 percent in order to alleviate the negative impacts,  
+particularly from the COVID -19 pandemic which resulted in severe impacts on the economy  
+and financial stability.  
+At the meeting on February 5, 2020, the Committee voted unanimously to cut the 
+policy rate  by 0.25 percentage point from 1.25 to 1.00 percent. The Committee assessed 
+that the Thai economy would expand at a much lower rate than the previous forecast and 
+much further below its potential due to the COVID -19 outbreak, the delayed Annual Budget 
+Expe nditure Act, and the drought. Headline inflation was projected to be below the lower 
+bound of the inflation target throughout the forecast horizon. Financial stability became more 
+vulnerable due to the prospect of  an economic slowdown. In this situation, there was an urgent 
+need to coordinate financial and fiscal measures. The Committee viewed that a more 
+accommodative  monetary policy stance would alleviate the negative impacts. Monetary 
+accommodation would also suppor t liquidity provision and debt restructuring for businesses 
+and households severely affected from the economic slowdown, both of which should be 
+urgently implemented and materialized.  
+Later on, the COVID -19 outbreak became more severe and widespread rapid ly and 
+continuously. This raised concerns among global financial markets, affecting the liquidity of 
+the Thai financial markets during the week prior to the scheduled meeting at the end of March. 
+The Committee thus held the special meeting on March 20, 202 0 and viewed that amid 
+the rapid changes in the outbreak situation, prompt policy action prior to the scheduled 
+meeting would help alleviate the impacts on the Thai economy and financial markets in 
+a timely manner. The Committee thus voted unanimously to c ut the policy rate by 0.25 
+percentage point from 1.00 to 0.75 percent, effective on March 23, 2020. Nonetheless, the 
+Committee viewed that the COVID -19 outbreak in the period ahead would be more severe 
+than previously expected. Also, the situation would ta ke some time before returning to normal, 
+which would severely affect the Thai economy. Therefore, the policy rate cut would reduce 
+interest burdens of affected borrowers, alleviate liquidity strain in the financial markets, 
+mitigate the impacts on the econ omy, and would also reinforce fiscal measures already 
+implemented and forthcoming.  
+At the meeting on March 25, 2020, the Committee voted 4 to 2 to maintain the 
+policy rate at 0.75 percent. Two members voted to cut the policy rate by 0.25 percentage 
+point,  while one MPC member did not vote.15/ The Committee viewed that the economic 
+and inflation outlook remained consistent with the assessment at the special meeting. The Thai 
+economy would markedly contract in 2020 due mainly to the COVID -19 outbreak. Headlin e 
+inflation in 2020 would be negative. Financial system would be more vulnerable driven by 
+contracting economy. Nevertheless, the Committee viewed that the policy rate cut at the 
+previous special meeting, as well as the implemented measures to promote stab ility in the Thai 
+financial markets, helped ease financial conditions. Commercial banks’ lending rates gradually 
+decreased and stability of domestic financial markets, especially the bond market, improved. 
+                                            
+15   The MPC member attended the meeting through video conference to consider the economic outlook, financial 
+stability, and the appropriate monetary policy formulation but did not vote.   
+ 
+Monetary Policy Report  March 2020                                                                                                                      38 Most members would wait to assess the adjustments in the financial markets as well as 
+additional reduction in interest rates by financial institutions. Most members deemed it 
+appropriate to preserve policy space to cushion against high uncertainties in the future. 
+Meanwhile, all members viewed that the go vernment’s announced relief measures and loan 
+repayment measures to assist borrowers affected by the COVID -19 were more targeted in 
+addressing the problems. However, two members voted to cut the policy rate by 0.25 
+percentage point as the extra accommodati ve monetary policy would, in their views, be 
+commensurate with the significant economic contraction.  
+In determining the appropriate course of monetary policy, details on the key assessment 
+are as follows.  
+The Thai economy faced negative risk factors whic h remained highly uncertain and could 
+severely affect the economy and financial stability . 
+The Committee viewed that The Thai economy faced several negative risk factors 
+that occurred in a similar period, including the COVID -19 outbreak, the delay in the 
+government’s annual budget spending, and the drought. Such negative risk factors were highly 
+uncertain and could result in a more severe and much broader impact than expected.  
+The Committee thus assessed t he situation through scenario analysis . In the worse scenario 
+that negative risk factors coincided, there were possibilities that income of businesses and 
+households would severely decrease, and debt servicing ability would deteriorate. Financial 
+instituti ons would also experience higher NPLs and lower capital funds, causing financial 
+institutions to be more cautious in extending loans. This led to difficulty in accessing funds and 
+lower liquidity of the private sector, resulting in a negative feedback loop  in the economic system .  
+In addition, some pockets of risks to financial stability could become contagious 
+if not urgently addressed. Such risks included, for example, a reduction of business revenue 
+that could increase default risks of debt -financing cor porates or rollover risks. This could 
+potentially trigger a cross default and if investor confidence declined, rollover risks could spill 
+over to other corporate bonds. The Committee thus deemed it necessary to monitor risks and 
+vulnerabilities closely and  urged the BOT to prepare policy tools to be readily employed to 
+maintain financial system stability given various situations. The Committee also supported the 
+close coordination between the BOT and other related regulatory agencies to stand ready to 
+preve nt systemic risks in a pre -emptive manner.  
+In the short term, financial and fiscal measures should be coordinated to reduce risks to 
+the economy and financial stability, addressing the problems proactively and targeted to 
+prevent the contagion.  
+  Thai go vernment agencies coordinated both financial and fiscal measures to relieve 
+the impacts and reduce the abovementioned risks, addressing problems in the following directions.     
+ 1. Policy conduct must be forward looking and pre -emptive, without having to 
+wait for adverse impacts to be observed. For instance, during the first phase when most of 
+the COVID -19 patients were contained in China and not widespread to other countries around 
+the world, the Committee assessed that the spread of the COVID -19 had already affected the 
+Thai economy, despite be ing highly uncertain whether there would be additional and a more 
+severe impact. The Committee thus voted to cut the policy rate on February 5, 2020. Later on,  
+ 
+Monetary Policy Report  March 2020                                                                                                                      39 as the spread situation would likely be more severe with liquidity shortages in the Thai bond 
+market, the Committee then held the special meeting on March 20, 2020 and cut the policy 
+rate once again. In addition, the Committee encouraged the BOT to relax regulations so that 
+financial institutions could proactively assist borrowers, including liquidit y provision and debt 
+restructuring , (Box: Credit assistance measures to support borrowers  in Chapter 3 ) in order 
+to prevent the impact of negative feedback loop on the Thai economy.  
+2. Measures must be targeted aiming to alleviate the impacts to businesses  and 
+the general public by coordinating both financial and fiscal measures. For instance, the BOT 
+coordinated with financial institutions and other financial service providers to implement credit 
+measures to assist borrowers affected by the COVID -19, issui ng minimum measures to 
+temporarily pause loan payment. Meanwhile, the government launched credit measures, cash 
+transfer and expense reduction measures, as well as tax relief measures. (Box: Government 
+relief measures to alleviate the impact of COVID -19 in Chapter 2 ). These measures were 
+targeted to those experienced a direct impact.  
+3 . Measures should aim at preventing the contagion, while ensuring the well -
+functioning of the financial system. For instance, the BOT ensured sufficient liquidity in the 
+bond market through continuous government bond purchases, which helped reduce volatilities 
+of government bond yields and prevent knock -on effects on other interest rates in the money 
+markets. Nevert heless, on March 22, 2020, BOT and related agencies issued measures to 
+support mutual funds affected by liquidity shortage in the financial markets and established 
+the Corporate Bond Liquidity Stabilization Fund (BSF) to build confidence and reduce rollove r 
+risks in the bond market. (Box:  Measures to stabilize the Thai financial markets  in Chapter 3 ). 
+Moreover, the Committee supported the increasing role of mechanisms to help reduce risks 
+of NPLs. These mechanisms included, such as, the Thai Credit Guarantee Corporation that 
+provided credit guarantee, and the Asset Management Company (AMC) that helped p urchase 
+non-performing assets out of financial institutions’ balance sheet for future management.  
+The key challenge for the Thai economy and financial system was the distribution of 
+liquidity in the financial system, which was ample at the macro level, to  businesses and 
+households .  
+The Committee viewed that the current challenges for the Thai economy and financial 
+system were different from those during the financial crisis in 1997. At present, Thailand had 
+a high level of international reserves, while fi nancial institutions were sound with a high level 
+of capital funds. Liquidity in the financial system remained adequate at the macro level.  
+The key challenge was to urgently provide liquidity and credit supports to affected businesses 
+and households. In p articular, measures that allowed for debt moratorium, reduced loan 
+installments, and extended debt repayment would help alleviate the immediate impacts. For 
+the next step, debt restructuring must be urgently and constantly implemented in parallel with 
+distribution of liquidity, which was ample at the macro level, to businesses and households in 
+need. Examples of such measures could include provision of soft loans for businesses and 
+households with the potential to repay their loans together with credit guar antees, so that loans 
+could be allocated to SMEs more efficiently. Such measures could help those affected to get 
+through this period.  
+  
+ 
+Monetary Policy Report  March 2020                                                                                                                      40 In the long run, some pockets of risks in the financial system amid the lower -for-longer 
+interest rate environment, as w ell as the stability of foreign exchange markets, must still 
+be monitored . 
+The Committee assessed that concerns over the COVID -19 led investors to reduce 
+their holdings of risky assets in the short run, as reflected by subdued activities in the real 
+estate  and stock markets. However, in the long run, as investors’ concerns subsided,  
+the search -for-yield behavior that could lead to underpricing of risks must be monitored.  
+This behavior could become more severe in the lower -for-longer interest rate environm ent.  
+In addition, although the baht depreciated to some extent, the Committee viewed that in the 
+period ahead as the spread of the COVID -19 would subside, the baht would still face upward 
+pressures from current account surplus which was expected to remain  persistent.  
+The Committee, therefore, supported the BOT to continue to relax regulations to promote 
+capital flow balance. On February 28, 2020, the Ministry of Finance and the BOT agreed to 
+increase the threshold for export proceeds that did not need to be repatriated from below 
+200,000 to 1 million U.S. dollars per bill of lading.16/  
+The Committee would stand ready to use additional policy tools in an appropriate and 
+timely manner. Such tools included the policy rate and other financial measures.  
+Looking ahead, the Committee would monitor developments of economic growth, 
+inflation, and financial stability, together with associated risks, especially the impact of the 
+COVID -19 outbreak, in deliberating monetary policy going forward. The Committee wou ld 
+stand ready to use additional policy tools in an appropriate and timely manner. Such tools 
+included the policy rate and other monetary measures that would help enhance the policy rate 
+transmission as well as loan extension by financial institutions to r each the target groups.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            
+16/ BOT Press Release NO.   /2020 “ Increase of repatriation threshold to 1 million U.S. dollars ”   
+ 
+Monetary Policy Report  March 2020                                                                                                                      41 Credit assistance measures to support borrowers  
+Chart  1 Loan repayment measures to assist borrowers affected by  COVID -19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monetary Policy Report  March 2020                                                                                                                      42 The Bank of Thailand (BOT) coordinated with financial institutions and other financial service 
+providers to assist  borrowers affected by the COVID -19.  
+In recent periods, the Thai economy has been continuously affected by negative risk 
+factors, including trade tensions, the drought, as well as increasingly severe COVID -19 
+outbreak. On February 28, 2020, the BOT, in collaboration with financial institution s, issued 
+proactive measures to assist borrowers of all types of business loans and households affected 
+by the outbreak. These measures will be effective for a period of 2 years between January  
+1, 2020 to December 31, 2021 and aim at supporting liquidity provision and accelerating debt 
+restructuring process. Examples include provision of additional working capital, a loan 
+repayment holiday, an extension of loan repayment period, interest and fee reduction,  minimum 
+repayment reduction for credit card loans to below 10 percent, and a temporary increase in 
+the credit limit of personal loans.  
+The BOT has been coordinating closely with financial institutions and other financial 
+service providers and agreed that the impact of the COVID -19 would become more sever e 
+and widespread. Thus, all parties deemed it urgent to adopt a set of minimum measures to 
+support retail and SME borrowers with the potential to repay their loans and whose loans are 
+not past due for longer than 90 days (NPL). Such measures will become ef fective from the 
+debt repayment period of April 1, 2020 onwards. Details are summarized as in Chart 1, where 
+each financial service provider could offer relief packages that are better than the minimum 
+measures.  
+The BOT relaxed regulations to further enco urage financial institutions to provide liquidity to 
+affected borrowers.  
+The BOT temporarily relaxed liquidity -related regulations17  in order to reduce credit 
+costs of financial institutions that increased from liquidity provision and debt restructuring f or 
+affected borrowers. This would enable financial institutions to assist borrowers more extensively  
+and faster. Details of relaxed regulations are as follows.  
+(1) Pre -emptive debt restructuring  for borrowers with signs of debt repayment problems 
+but are not yet classified as NPL. Debt restructuring for these borrowers will not be classified 
+as trouble debt restructuring (TDR), thus not affecting borrowers’ credit history. This will remain   
+a permanent measure.  
+(2) Classification of borrowers entitled to the relief measures:  
+(2.1) Borrowers under pre -emptive debt restructuring can be immediately classified 
+as normal borrowers.  
+(2.2) NPL borrowers, who can make repayments in accordance with the debt 
+restructuring agreement for 3 consecutive months, can be classified as normal borrowers 
+(from previously having to make repayment for 12 consecutive months).  
+(2.3) Borrowers obtaining additional working capital can be immediately classified 
+as normal borro wers.  
+(3) Provision not required for credit lines of borrowers that are not yet activated.  
+                                            
+17  For the duration of 2 years starting from January 1, 2020 until December 31, 2021   
+ 
+Monetary Policy Report  March 2020                                                                                                                      43  (4) Period for holding non -performing assets (NPA) obtained from debt restructuring 
+for financial institutions was extended to 10 years (from previously 5 year s).   
+(5) Relationship managers (RM) can provide assistance regarding debt restructuring 
+to their clients with prudent internal controls.   
+(6) Financial institutions must report credit conditions and progress in assisting these 
+borrowers to the BOT  on a m onthly basis so that the BOT can  continuously monitor the 
+situation.    
+Related government agencies launched measures to support debt restructuring and additional 
+credit provision  
+ (1) Tax relief measures: exemption from personal and corporate income taxe s for 
+borrowers’ income earned from forgiven debt; exemption from income tax, value added tax 
+(VAT), and specific business tax (SBT), stamp duties for both borrowers and creditors imposed 
+on income earned from transfer of assets, sales of goods or provisio n of services, and any 
+instrument executed in relation to debt restructuring, as well as reduction of fees for registration  
+and transfer of property from 2 to 0.01 percent.   
+ (2) Financial statements of financial institutions on classification and provision: Auditors  
+shall provide opinion without bias in compliance with relevant accounting and supervisory 
+standards of the BOT.  
+ (3) The Thai Credit Guarantee Corporation (TCG) launched additional credit guarantee  
+facilities, including “The Funding Thai SMEs for Thailand” program with a guaranteed amount 
+of 60 billion baht, and the 8th phase of Portfolio Guarantee Scheme (PGS8) with a guaranteed 
+amount of 50 billion baht. These will somewhat help reduce credit cost s of financial institutions. 
+In addition, TCG will extend the maturity of credit guarantee period for SMEs already under 
+PGS5 – PGS7 for another five years in order to facilitate debt restructuring. There will also be 
+an adjustment in claiming procedures t hat can be done without borrowers having to enter into 
+a litigation, and an expansion in guarantee coverage.  
+These measures will only be successful if financial institutions and other financial service 
+providers play an active role, while more borrowers co operate in accelerating debt restructuring.    
+The BOT, financial institutions, and other financial service providers aim to ease 
+interest burdens of those affected by the outbreak in order to enhance their liquidity by urgently 
+implementing minimum measure s and additional debt restructuring measures to have a 
+noticeable impact. The BOT has relaxed regulations to reduce credit costs of financial 
+institutions arising from proactive measures to support borrowers. Such credit assistance 
+measures for borrowers w ill reinforce financial and fiscal measures gradually implemented 
+previously in order to reduce funding costs for financial institutions. Such measures include, 
+for instance, a more accommodative monetary policy by cutting the policy rate to a historically  
+low level, and soft loan worth 1.5 trillion baht funded by the Government Saving Bank. 
+However, these support measures for borrowers will only be successful if financial institutions 
+and other financial service providers play an active role, while more bo rrowers cooperate in 
+accelerating debt restructuring. The BOT will continue to monitor and push forward measures 
+to assist borrowers so that borrowers affected by the outbreak would be able to pass through 
+this difficult time.   
+ 
+Monetary Policy Report  March 2020                                                                                                                      44  meas  Measures to stabilize the Thai financial markets  
+In March 2020, the situation on the COVID -19 spread intensified and raised concerns 
+among global financial markets. Asset prices were highly volatile. Investors in many countries 
+thus continuously sold off their assets,  resulting in tightening global liquidity. This led to 
+irregular functioning of global financial markets and subsequently affected the Thai financial 
+markets, especially liquidity in the bond market. This was driven by sell -off by foreign investors 
+and som e mutual funds following a fast redemption of investment units of some investors. This 
+resulted in liquidity shortages of those mutual funds, forcing them to liquidate their bonds 
+before maturities at lower than fair value prices. Most of these bonds were high-quality bond 
+including government and investment -grade corporate bonds. In this situation, investment  
+unit holders in other mutual funds thus received lower returns than they should. This could 
+result in accelerated redemption of investment units in other mutual funds, consequently 
+disrupting the functioning of mutual funds and the Thai bond markets.  
+The Bank of Thailand (BOT) addressed the liquidity situation  to support the  
+well-functioning of the bond market. The BOT purchased government bonds amou nting more 
+than 100 billion baht during March 13 -20, 2020, and reduced and cancelled parts of the BOT 
+bond issuances in order to increase liquidity in the government bond market. In addition,  
+the BOT, the Ministry of Finance, and the Securities and Exchan ge Commission (SEC) 
+have been closely monitoring the situation and deemed it necessary to implement 
+additional measures to stabilize the Thai financial markets on March 22, 2020.  These 
+measures would stop the liquidity problem in the financial markets from  spreading further. The 
+three measures are summarized as follows.18/  
+  1. Mutual Fund Liquidity Facility (MFLF)  The BOT will provide liquidity through the 
+repurchase  agreement or repo transactions charging a special rate based on the policy rate 
+minus 0.5 percent for financial institutions providing liquidity support for money market funds 
+(MMFs) and daily fixed income funds (Daily FI). On March 24, 2020,  the BOT extended  
+the scope of this liquidity facility to cover all MMFs and Daily FI funds. Later on March 30, 
+2020,  the BOT further extended the scope of the facility in order to increase flexibility and 
+efficiency by allowing more types of assets to be used as coll ateral in repo transactions with 
+the BOT for the liquidity support.  
+2. Corporate Bond Liquidity Stabilization Fund (BSF) was under consideration for this 
+Fund to be urgently established. The Fund’s objective is to provide bridge financing to 
+purchase bonds issued by high -quality firms maturing during 2020 -2021. Nevertheless, firms 
+requesting for liquidity support from the BS F will be charged a higher interest rate than market 
+rates. These firms should have raised the majority of their funding needs through other means, 
+such as commercial bank loans or capital increase, have a clear long -term financing plan, and 
+meet other con ditions as set out by the BSF’s investment committee. In addition, if the issuers 
+simultaneously offer secured bonds to the general public, the bonds that the BSF will invest 
+in must also be secured with collaterals no inferior than those pledged on the bo nds sold to 
+the general public.  
+                                            
+18/ Joint Statement on the Measures to Stabilize the Financial Markets  (March 22, 2020 )  
+ 
+Monetary Policy Report  March 2020                                                                                                                      45  3. The BOT stands ready to continue its liquidity provision in the bond market through 
+government bond purchases and consider additional measures in order to enable a n efficient 
+functioning of the  Thai financial  markets. This would ensure sufficient liquidity to provide a 
+funding channel for the economic system and preserve financial stability of the country as a whole.    
+Measures to stabilize the Thai financial markets abovementioned will help enhance 
+liquidity in the financial markets, ensure the normal functioning of the bond markets amid 
+turbulences in the global financial markets, and restore confidence of both Thai and foreign 
+investors in the bond market. All related agencies, both in the public and private  sectors, will 
+be closely monitoring developments in the financial markets and stand ready to coordinate in 
+implementing additional measures. This would ensure that the Thai financial markets will 
+continue to function normally and efficiently.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Monetary Policy Report  March 2020                                                                                                                      46 4. Appendix  
+4.1 Table  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thai Economy Dashboard
+Q4 Q1 Q2 Q3 Q4
+4.2 2.4 3.8 2.9 2.4 2.6 1.6
+Production
+5.5 0.1 1.3 1.7 -1.4 2.7 -1.6
+4.0 2.6 4.1 3.0 2.8 2.5 2.0
+Manufacturing3.2 -0.7 3.8 0.2 0.1 -0.8 -2.3
+Construction2.4 2.0 3.0 3.0 3.4 2.7 -1.9
+Wholesales and retail trade6.6 5.7 7.3 6.7 5.5 5.3 5.2
+Accommodation and Food Service7.6 5.5 5.1 5.0 3.6 6.7 6.8
+Transport and storage4.4 3.4 4.0 3.7 3.0 3.1 3.9
+Information and Communication7.6 8.8 7.3 7.1 8.8 8.2 10.8
+Financial intermediation3.4 2.7 1.9 2.0 1.8 3.8 3.4
+Real estate and renting5.7 3.4 5.4 5.0 3.3 2.2 3.0
+Domestic demand 4.0 3.3 4.3 4.1 3.4 3.4 2.3
+Private consumption 4.6 4.5 5.1 4.8 4.7 4.3 4.1
+Private investment 4.1 2.8 5.7 4.3 2.1 2.3 2.6
+Government consumption 2.6 1.4 2.2 3.5 1.5 1.7 -0.9
+Public investment 2.9 0.2 -0.3 0.0 1.5 3.7 -5.1
+Imports of goods and services8.3 -4.4 4.6 0.1 -3.4 -5.9 -8.3
+imports of goods7.9 -5.5 3.8 -2.8 -3.7 -6.8 -8.6
+imports of services9.9 0.0 7.7 13.0 -2.1 -2.1 -7.1
+Exports of goods and services3.3 -2.6 1.3 -3.5 -4.0 0.6 -3.6
+exports of goods3.8 -3.6 1.1 -4.4 -4.6 -0.1 -5.1
+exports of services2.0 0.4 2.0 -1.1 -1.7 3.2 1.1
+Trade balance (billion, U.S. dollars)22.4 26.6 4.6 6.7 6.0 8.0 5.9
+Current account (billion, U.S. dollars)*28.5 37.9 6.3 12.4 5.5 9.7 10.3
+Financial account (billion, U.S. dollars)*-14.9 -12.9 -2.5 -5.1 -2.5 -1.1 -4.1
+International reserves (billion, U.S. dollars)205.6 224.3 205.6 212.2 215.8 220.5 224.3
+Unemployment rate (%)1.1 1.1 0.9 0.9 1.0 1.0 1.0
+Unemployment rate, seasonally-adjusted (%)n.a. n.a. 1.0 0.9 0.9 1.0 1.0
+Note: *Data may be subjected to revisions and compilation method
+Source: NESDC, National Statistical Office, and Bank of Thailand20192019 20182018
+ExpenditurePercent
+GDP growth 
+Agriculture
+Non-agriculture 
+ 
+Monetary Policy Report  March 2020                                                                                                                      47  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Stability Dashboard
+2018 2019 2020
+Q4 Q1 Q2 Q3 Q4 Jan Feb
+1. Financial market sector
+0.7 0.3 0.7 0.7 0.4 0.1 0.3 0.2 0.3
+Equity market
+SET index (end of period) 1,563.9 1,579.8 1,563.9 1,638.7 1,730.3 1,637.2 1,579.8 1,514.1 1,340.5
+Actual volatility of SET index1/12.1 10.2 14.0 8.4 7.8 10.7 10.2 16.5 27.2
+Price to Earnings ratio (P/E ratio) (times) 14.8 19.4 14.8 17.1 18.6 18.7 19.4 18.4 15.7
+Exchange rate market
+Actual volatility of Thai baht (%annualized )2/4.6 4.1 4.8 4.6 4.5 4.6 2.7 3.8 5.3
+Nominal Effective Exchange Rate (NEER) 115.6 123.2 117.0 119.9 120.9 125.0 126.8 125.1 123.0
+Real Effective Exchange Rate (REER) 107.2 112.8 108.3 110.1 111.3 114.6 115.3 113.0 111.2
+2. Financial institution sector3/
+Minimum Lending Rate (MLR )4/6.28 6.08 6.28 6.28 6.28 6.28 6.08 6.08 5.98
+12-month fixed deposit rate4/1.37 1.33 1.37 1.42 1.46 1.45 1.33 1.29 0.98
+Capital adequacy
+Capital funds / Risk-weighted asset (%) 18.3 19.3 18.3 18.2 18.0 18.9 19.3 19.2 n.a.
+Earning and profitability
+Net profit (billion, Thai baht) 207.2 270.8 49.5 57.1 60.8 96.533 56.4 n.a. n.a.
+Return on assets (ROA) (times) 1.1 1.4 1.1 1.2 1.3 2.0 1.4 n.a. n.a.
+Liquidity
+Loan to Deposit and B/E (%) 98.2 95.5 98.2 96.8 97.9 97.1 95.5 96.5 96.3
+3. Household sector
+Household debt to GDP (%) 78.4 79.5 78.4 78.1 78.1 78.5 79.5 n.a. n.a.
+Financial assets to debt (times) 2.4 n.a. 2.4 2.5 n.a. n.a. n.a. n.a. n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Consumer loans 2.7 2.9 2.7 2.8 2.7 2.8 2.9 n.a. n.a.
+Housing loans 3.2 3.7 3.3 3.4 3.3 3.5 3.7 n.a. n.a.
+Auto leasing 1.7 1.9 1.7 1.7 1.8 1.9 1.9 n.a. n.a.
+Credit cards 2.3 2.4 2.3 2.7 2.5 2.7 2.4 n.a. n.a.
+Other personal loans 2.5 2.3 2.5 2.6 2.4 2.4 2.3 n.a. n.a.
+4. Non-financial corporate sector5/
+Operating profit margin (OPM) (%) 7.5 6.9 6.5 7.5 5.9 7.4 6.9 n.a. n.a.
+Debt to Equity ratio (D/E ratio) (times) 0.7 0.7 0.7 0.7 0.8 0.8 0.7 n.a. n.a.
+Interest coverage ratio (ICR) (times) 6.4 4.1 5.4 5.2 3.8 4.8 4.1 n.a. n.a.
+Current ratio (times) 1.6 1.6 1.6 1.6 1.6 1.6 1.6 n.a. n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Large businesses 1.6 1.5 1.6 1.5 1.6 1.6 1.5 n.a. n.a.
+SMEs 4.6 4.6 4.6 4.7 4.5 4.8 4.6 n.a. n.a.
+Note:
+1/ Calculated by 'annualized standard deviation of return ' method
+2/ Daily volatility (using exponentially weighted moving average method )
+3/ Based on data of all commercial banks
+4/ Average value of 5 largest Thai commercial banks
+5/ Only listed companies on Stock Exchange of Thailand (median value ); with data revisions2019
+Bond market
+Bond spread (10 years - 2 years )Indicators 2018 
+ 
+Monetary Policy Report  March 2020                                                                                                                      48  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Stability Dashboard (continue)
+2019 2020
+Q4 Q1 Q2 Q3 Q4 Jan Feb
+5. Real estate sector
+Number of approved mortgages from commercial banks  (Bangkok and Vicinity) (units)
+Total 73,361                               70,876    21,623   19,710  15,983  17,141  18,042  3,261    n.a.
+ Single-detached and semi-detached houses 15,912                               16,167    4,610     4,446    3,460    4,136    4,125    797        n.a.
+ Townhouses and commercial buildings 25,042                               24,763    7,495     7,290    5,719    6,129    5,625    1,206    n.a.
+ Condominiums 32,407                               1,718       9,518     7,974    6,804    6,876    8,292    1,258    n.a.
+Number of new housing units launched for sale (Bangkok and Vicinity) (units)
+Total 124,977                             116,933  35,861   29,498  25,999  27,182  34,254  5,368    6,140    
+Single-detached and semi-detached houses 18,311                               19,423    5,050     4,458    4,213    5,014    5,738    514        1,134    
+Townhouses and commercial buildings 32,349                               31,423    10,385   5,236    7,940    9,322    8,925    1,546    3,025    
+Condominiums 74,317                               66,087    20,426   19,804  13,846  12,846  19,591  3,308    1,981    
+Housing price index (2009 = 100)
+Single-detached houses (including land) 138.6 144.0 139.0 141.9    142.9    145.0    146.3    148.4    n.a.
+Townhouses (including land) 149.5 156.4 151.1 156.6    154.7    154.6    159.8    161.8    n.a.
+Condominiums 180.9 182.3 185.9 181.6    177.0    179.0    191.6    197.3    n.a.
+Land 173.6 172.8 177.6 175.5    168.1    167.1    180.6    180.9    n.a.
+6. Fiscal sector
+Public debt to GDP (%)41.8 41.2 41.8 41.8 41.3 41.1 41.2 41.3 n.a.
+7. External sector
+Current account balance to GDP (%) 5.6 7.0 4.8 9.3 4.1 7.1 7.2 n.a. n.a.
+External debt to GDP (%)6/35.4 34.3 35.4 35.0 34.7 34.1 34.3 n.a. n.a.
+External debt (billion, U.S. dollars) 162.4 172.1 162.4 164.5 166.7 167.2 172.1 173.1 170.3
+Short-term (%) 39.0 34.8 39.0 38.5 37.5 35.4 34.8 35.0 34.5
+Long-term (%) 61.0 65.2 61.0 61.5 62.5 64.6 65.2 65.0 65.5
+International reserves / Short-term external debt (times) 3.2 3.7 3.2 3.4 3.5 3.7 3.7 3.8 3.9
+Note:
+6/ External debt / 3-year average nominal GDPIndicators 2018 20192018 
+ 
+Monetary Policy Report  March 2020                                                                                                                      49  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table: Probability distribution of GDP growth forecast
+2019 2020 2021
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+> 15 0 0 0 0 0 0 1 0 0
+12-15 0 0 0 0 0 0 4 2 1
+9-12 0 0 0 0 0 2 11 6 4
+6-9 0 0 0 0 0 7 18 14 10
+3-6 0 0 0 0 2 15 20 20 17
+0-3 100 4 0 2 8 19 17 20 21
+(-3)-0 0 31 0 9 16 18 12 16 19
+(-6)-(-3) 0 38 7 19 18 15 8 11 14
+(-9)-(-6) 0 20 28 21 17 11 4 6 8
+(-12)-(-9) 0 6 32 18 14 7 2 3 4
+(-15)-(-12) 0 1 21 14 10 4 1 1 2
+(-18)-(-15) 0 0 9 9 7 2 0 0 1
+(-21)-(-18) 0 0 3 5 4 1 0 0 0
+< (-21) 0 0 1 4 4 0 0 0 0Percent
+Table: Probability distribution of headline inflation forecast
+2019 2020 2021
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+> 3.0 0 0 0 0 1 1 9 11 12
+2.5-3.0 0 1 0 0 1 1 5 6 6
+2.0-2.5 0 3 0 1 2 2 7 7 7
+1.5-2.0 0 7 1 2 3 3 8 9 8
+1.0-1.5 0 14 2 3 5 5 9 9 9
+0.5-1.0 0 20 4 5 6 7 10 10 9
+0.0-0.5 100 21 6 7 8 8 10 9 9
+(-0.5)-0.0 0 17 9 9 10 10 9 9 8
+(-1.0)-(-0.5) 0 10 11 11 10 10 8 8 7
+(-1.5)-(-1.0) 0 5 13 12 11 10 7 6 6
+(-2.0)-(-1.5) 0 2 13 12 10 10 5 5 5
+(-2.5)-(-2.0) 0 0 12 11 9 9 4 4 4
+(-3.0)-(-2.5) 0 0 10 9 7 7 3 3 3
+< -3.0 0 0 17 18 16 16 5 4 6Percent
+Table: Probability distribution of core inflation forecast
+2019 2020 2021
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+> 2.5 0 0 0 0 0 0 0 0 0
+2.0-2.5 0 0 0 0 0 0 0 1 1
+1.5-2.0 0 0 0 0 1 1 1 4 4
+1.0-1.5 0 8 4 2 3 2 5 9 9
+0.5-1.0 0 38 16 8 7 7 10 14 14
+0.0-0.5 100 40 31 17 13 13 16 16 15
+(-0.5)-0.0 0 12 28 24 18 18 17 15 14
+(-1.0)-(-0.5) 0 1 15 22 19 18 16 13 12
+(-1.5)-(-1.0) 0 0 5 15 16 16 13 10 10
+(-2.0)-(-1.5) 0 0 1 8 11 12 9 7 7
+(-2.5)-(-2.0) 0 0 0 3 6 7 6 5 5
+(-3.0)-(-2.5) 0 0 0 1 3 4 3 3 3
+(-3.5)-(-3.0) 0 0 0 0 1 2 2 2 2
+< -3.5 0 0 0 0 0 1 1 1 2Percent 
+ 
+Monetary Policy Report  March 2020                                                                                                                      50 4.2 Chart Pack  
+Global Economy  
+The COVID -19 pandemic caused major advanced economies to enter into recession in 2020, 
+while Chinese and Asian economies would experience a slower economic growth. The Chinese 
+economy was severely  affected, as reflected by a sharp  contraction of the econom ic indicators. 
+Governments in various countries worldwide promptly  released measures to alleviate the 
+impact of the COVID -19. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4550556065
+20 4 20 5 20 6 20  20  20  2020U.S. Euro area JapanDiffusion index
+Feb 20
+Sources: Bloomberg and EurostatManufacturing Purchasing Manager Index
+-40-30-20-100102030
+20 5 20 6 20  20  20  2020Retail sales Manufacturing
+Total investment Investment in manufacturing (31%)
+Investment in real estate (22%) Investment in infrastructure (22%)China’s economic indicators
+(Change from the same period last year)
+Note: ( ) denotes share to total investment
+*last data is monthly average between January and February 2020
+Source: CEICPercent
+Jan –Feb 20*
+Source: CEIC60708090100110120130
+ 255  255  255  2560  256  2562  2563China (Dec 19) Hongkong Taiwan
+South Korea Malaysia Singapore
+Indonesia Philippines Thailand (ex.gold)
+Jan 20Export Value Index, 3 -month moving average, seasonally adjusted 
+(Jan 2014 = 100)Asian exports
+-2.00.02.04.06.08.0U.S. (Jan) Euro Area Japan (Jan)
+China Asia* (Dec 19)Percent
+Feb 20Headline inflation of Thailand’s major trading partners
+Note : *Average of headline inflation in Indonesia, South Korea, Malaysia , 
+the Philippines , Singapore, and Taiwan
+Source: CEIC 
+ 
+Monetary Policy Report  March 2020                                                                                                                      51 Thai economy  
+The Thai economy in the fourth quarter of 2019 expanded at a slower pace due to both 
+domestic  and external demand. The delayed enactment of the Annual Budget Expenditure 
+Act B.E. 2563 (A.D. 2020) had a larger -than-expected impact on public expenditure. The Thai 
+economy in the first quarter of 2020 was projected to contract, mainly as tourism and 
+merchandise exports were severely affected by escalating COVID -19 outbreak situation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-10-5051015
+Q1
+2016Q3 Q1
+2017Q3 Q1
+2018Q3 Q1
+2019Q3Export of services Public spending
+Private consumption Private investment
+Export of goods Import of goods and services
+Change in inventory 2/ GDPContribution to Thailand’s GDP growth1/ 
+Note: 1/ Calculated by Chain Volume Measure method (CVM)
+2/ Change in inventory and statistical discrepancy
+Source: Office of National Economic and Social Development Council, 
+calculations by the Bank of ThailandPercent
+Fourth quarter
+Thai exports (excluding gold): value, price and quantity
+(3-month moving average, seasonally adjusted; January 2013 = 100)
+859095100105110115
+Jan
+2013JulJan
+2014JulJan
+2015JulJan
+2016JulJan
+2017JulJan
+2018JulJan
+2019JulJan
+2020Value Price QuantityIndex
+Source: Customs Department and Ministry of Commerce, 
+calculations by Bank of ThailandFeb 20
+050100150200
+Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Jul Jan
+2019Jul Jan
+2020Asia (excluding China and Malaysia) China
+Malaysia Europe (excluding Russia)
+RussiaIndex of foreign tourists classified by nationality  
+(three -month moving average, seasonally adjusted; January 2015 = 100)
+Index
+Source: Department of TourismFeb 20
+6090120150180
+Oct Jan April JulThousandsFY2018 FY2019 FY2020
+020406080
+Oct Jan Apr JulPublic spending by central government
+Current expenditure excluding transfers
+Capital expenditure excluding transfersBillion baht
+Billion baht
+Source: Comptroller General's Department, Fiscal Policy OfficeFeb 20
+Feb20 
+ 
+Monetary Policy Report  March 2020                                                                                                                      52 Inflation  
+Headline inflation in January -February increased due to the base effect of energy prices, but 
+was projected to decline in March in line with global crude oil prices. Core inflation increased 
+in tandem with prices of seasonings and condiments. Short -term inflation expectations 
+declined slightly while long -term inflation expectations remain largely unchanged.  
+ 
+ 
+ 
+ 
+ 
+1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-20246
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019
+Energy
+Raw food
+Core inflation (excluding raw food and energy)
+Headline inflationContribution toheadline inflation
+Source: Bureau of Trade and Economic Indices, 
+Ministry of Commerce, calculations by Bank of ThailandPercent
+Jan-Feb 20
+0123
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Tobacco
+Non-food and beverages (excluding tobacco)
+Food and beverages
+Core inflationPercent
+Source: Bureau of Trade and Economic Indices, Ministry of Commerce, 
+calculations by Bank of ThailandContribution to core inflation
+Jan-Feb 20
+Percent (YoY)Underlying inflation indicators
+Source: Bureau of Trade and Economic Indices, Ministry of Commerce, 
+calculations by Bank of Thailand-2.0-1.00.01.02.03.04.0
+Jan
+2013JulJan.
+2014JulJan
+2015JulJan
+2016JulJan
+2017JulJan
+2018JulJan
+2019JulJan
+2020Upper and lower bound of underlying inflation indicators
+Headline inflation
+Note: The field shows the highest and lowest outcomes among 
+different measures of underlying inflation. The measures included 
+are 1. Trimmed mean (excludes goods and services with most 
+volatile price changes, removing the bottom 15 percentile and 
+the top 10 percentile), 2. Principal component model
+(calculates changes in common statistical components 
+that attribute price movements across categories of goods 
+and services) and 3. Core inflation excluding rents and 
+government measures.
+02468
+Jan
+2007Jan
+2008Jan
+2009Jan
+2010Jan
+2011Jan
+2012Jan
+2013Jan
+2014Jan
+2015Jan
+2016Jan
+2017Jan
+2018Jan
+2019Jan
+2020Inflation expectations by firms (1-year ahead)
+Inflation expectations by professional economists (1-year ahead)
+Inflation expectations by professional economists (5-year ahead)
+Inflation expectations based on model (5-year ahead)Inflation expectations
+Percent change from the same period last year
+Source: 1/Business Sentiment Survey (BSI) by the Bank of Thailand
+2/ Asia Pacific Consensus Forecast
+3/ Calculations based on macro -finance term structure model 
+using bond yield and macroeconomic data1/
+2/
+2/
+3/ 
+ 
+Monetary Policy Report  March 2020                                                                                                                      53 Financial conditions  
+Short -term government bond yields and commercial banks’ interest rates fell in line with the 
+policy rate. Long -term government bond yields declined in tandem with U.S. treasury yields, 
+before rising rapidly towards the end of the quar ter on the back of  concerns over the  
+COVID -19 situation.  Business credits expanded as a result of corporate bond issuance.  
+The baht against the U.S. dollar depreciated due to the COVID -   and the Committee’s policy 
+rate cut at the special meeting.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.51.01.52.02.53.03.5
+Jan Apr Jul Oct Jan1Y 2Y 3Y 5Y 7Y 10YGovernment bond yields
+2019
+Source: Thai Bond Market Association (Thai BMA) (data as of 24 Mar 2020)1.49
+1.15
+0.89
+0.820.961.40
+2020% p.a.
+Total corporate financing by instrument*
+Sources: Bank of Thailand and Thai Bond Market Association (Thai BMA)Billion baht
+Note: * Monthly change in outstanding of corporate loans (seasonally 
+adjusted), corporate bonds excluding those issued by commercial 
+banks, and newly issued equities.-125-100-75-50-250255075100125150175
+Jun
+2014Dec Jun
+2015Dec Jun
+2016Dec Jun
+2017Dec Jun
+2018Dec Jun
+2019DecCredit Bond Equity
+Jan 20
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38 859095100105110115120125130
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+JanREER
+2015 2016 2017USDTHB (RHS) DXYNEER
+2018 2019The Thai baht vis -a-vis U.S. dollar (USDTHB), Nominal 
+Effective Exchange Rate (NEER), and the Dollar Index (DXY)
+Appreciation
+Index
+Source: Bank of Thailand and Reuters ( data as of 24 March 2020 )Baht per U.S. dollar
+Currency movements vis -a-vis the U.S. dollar
+(Avg. in Mar 2020 compared to avg. in Dec 2019)
+Positive value indicates appreciation against the U.S. dollar
+Source: Bank of Thailand and Reuters (data as of 24 March 2020 )-10%-8%-6%-4%-2%0%2%4%
+AUD
+IDR
+THB
+GBP
+INR
+SGD
+KRW
+MYR
+PHP
+EUR
+CNY
+TWD
+JPY 
+ 
+Monetary Policy Report  March 2020                                                                                                                      54 Stability: financial markets  
+The price -to-earning (P/E) ratio of the Stock Exchange of Thailand (SET) and the Market for 
+Alternative Investment (mai) decreased in tandem with stock market indices worldwide.  
+The share of unrated bond issuance remained stable.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stability: household sector  
+The ratio of household debt to GDP in the fourth quarter of 2019 remained high and increased 
+slightly from the previous quarter. Credit quality of households was expected to deteriorate as 
+in response to income shocks, where the NPL ratio of households increased from the previous 
+quarter mainly in line with deteriorating quality of mortgage loans and personal loans with 
+housing as collateral.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Stock Exchange of Thailand (as of February 2020)Current price -to-earning ratio and turnover ratio  of SET 
+and mai
+020406080100120
+02040SET turnover ratio mai turnover ratio
+SET P/E ratio (RHS) mai P/E ratio (RHS) times
+Average P/E of mai
+(2015 -2017)
+Average P/E of SET 
+(2015 -2017)Percent
+Source: Thai Bond Market Association (Thai BMA)Corporate bonds outstanding
+9 91966117127
+6859 64 65 65 67 65
+050100150200
+05001,0001,5002,0002,5003,0003,5004,000
+20  
+20 2
+20 3
+20 4
+20 5
+20 6
+20  
+20  
+2019/Q1
+2019/Q2
+2019/Q3
+2019/Q4
+Feb-20 Unrated
+ Non-investment grade
+ B group
+ A group
+ Number of companies issuing unrated bond  (RHS)
+(3.3%)
+(1.4%)
+(0.6%)
+(0.4%)
+(1.4%)(4.6%)(1.9%)
+(2.5%)
+Note:  ( ) represents percentage of unrated bonds to total corporate bonds(1.8%)(1.8%) (1.9%)Billion bahtNumber of companies
+(2.1%) (1.9%)
+505560657075808590
+Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3
+2012 2013 2014 2015 2016 2017 2018 2019Percent of GDP2/
+Note:  1/ Loans to households by financial institutions
+            2/ Calculated by averaging the 4 latest quarterly GDP
+3/Household debt and GDP data are revised. This results in the 
+different debt to GDP ratios compared to the last MPR.
+Source: Bank of Thailand79.5Household debt1/
+Fourth quarter
+Source: Bank of ThailandShare of non -performing loans (NPL) in consumer loans, 
+classified by loan type
+Percent
+2.93.71
+1.862.41
+2.33
+0.01.02.03.04.05.06.0
+Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3
+20  20 220 320 420 520 620  20  20  Consumer (Total) Home Auto Credit card Personal
+Fourth quarter 
+ 
+Monetary Policy Report  March 2020                                                                                                                      55 Stability: c orporate sector  
+Overall vulnerabilities in the corporate sector increased, especially for SMEs, as reflected by 
+the sustained decline of operating profit margin (OPM) and negative interest coverage ratio 
+(ICR) of some businesses. Credit quality of business  loans deteriorated across almost all 
+categories, having extended to include larger enterprises. The NPL ratio of SME loans in the 
+fourth quarter of 2019 remained high at 4.6 percent.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Stock Exchange of Thailand, calculation by Bank of ThailandPercent
+Note: * Median estimates; ROA is returns to average assets. 
+OPM is operating profits to total sales.Operating Profit Margin (OPM) and Return on Assets (ROA)*
+6.9
+5.3
+456789
+Q1 2014
+Q2 2014
+Q3 2014
+Q4 2014
+Q1 2015
+Q2 2015
+Q3 2015
+Q4 2015
+Q1 2016
+Q2 2016
+Q3 2016
+Q4 2016
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Q2 2018
+Q3 2018
+Q4 2018
+Q1 2019
+Q2 2019
+Q3 2019
+Q4 2019Operating Profit Margin (OPM) Return on Assets (ROA)Fourth quarter
+-16.0-14.0-12.0-10.0-8.0-6.0-4.0-2.00.02.04.0
+Q1 2014
+Q3 2014
+Q1 2015
+Q3 2015
+Q1 2016
+Q3 2016
+Q1 2017
+Q3 2017
+Q1 2018
+Q3 2018
+Q1 2019
+Q3 2019
+Smallest (Quintile 1) Small (Quintile 2) Medium (Quintile 3)
+Large (Quintile 4) Largest (Quintile 5)
+Source: Stock Exchange of Thailand, calculation by Bank of ThailandInterest Coverage Ratio (ICR) TimeDebt serviceability at 25th percentile of each group of 
+firm size
+Fourth quarter
+-10.0-5.00.05.010.015.0
+Q1/2015
+Q1/2016
+Q1/2017
+Q1/2018
+Q1/2019
+Q4/2015
+Q4/2016
+Q4/2017
+Q4/2018
+Q4/62
+Q3/2015
+Q3/2016
+Q3/2017
+Q3/2018
+Q3/62
+Q2/2015
+Q2/2016
+Q2/2017
+Q2/2018
+Q2/2019
+Q1/2015
+Q1/2016
+Q1/2017
+Q1/2018
+Q1/2019
+Q4/2015
+Q4/2016
+Q4/2017
+Q4/2018
+Q4/62
+Q3/2015
+Q3/2016
+Q3/2017
+Q3/2018
+Q3/2019
+Commerce Production
+(exc.petro)Construction Real Estate Utilities Services OverallPercentile 25 Percentile 50Interest Coverage Ratio, classified by sectors 
+Time
+Note: * production exclude Petroleum and chemicals
+Source: Stock Exchange of Thailand, calculation by Bank of Thailand
+2.6
+1.83.5
+01234
+Q1
+2011Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Share of special mentioned loan (SM)3.0
+1.64.6
+0123456
+Q1
+2011Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Total corporate loan Large corporate loan SME loan
+Percent of total 
+Source: Bank of ThailandShare of non -performing loan (NPL)Loan quality of corporate sector
+Percent of total Fourth quarter
+Fourth quarter 
+ 
+Monetary Policy Report  March 2020                                                                                                                      56 Stability: real estate  
+Oversupply in the real  estate market increased, corresponded to the longer time -to-go caused 
+by (1) weaker demand for residences from domestic and foreign buyers as evident from 
+declining ownership transfers, and (2) new residential project launches despite weakening 
+demand. Th e impact of the relaxed loan -to-value (LTV) measure announced in early 2020 
+would need to be monitored going forward.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Residential Transfer units in Bangkok and its vicinity
+Source: Real Estate Information Center
+Note: *Average during 2014 -201851
+45 
+010203040506070
+Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019
+Low-rise Condominium Total AverageThousand units (seasonally adjusted)Fourth quarter
+New residential projects launched in Bangkok and its vicinity
+Thousand units seasonally adjusted
+Source: Agency for Real Estate Affairs (AREA), calculation by Bank of Thailand
+Note: *Average during 2014 -201833
+29 
+0510152025303540
+Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019
+Low-rise Condominium Total AverageFourth quarter
+05101520253035
+05101520253035
+20 6
+20  
+20  
+20  
+20 6
+20  
+20  
+20  
+20 6
+20  
+20  
+20  
+20 6
+20  
+20  
+20  
+20 6
+20  
+20  
+20  Unsold units Time to go (RHS)Condominium inventory in Bangkok and vicinity 
+and ‘Time to go’
+Note: ‘Time to go’ is the time taken for  all real estate inventory to be sold out at 
+the average sales rate per month (since projects launched) given no 
+additional supply.
+Source: AREA and calculation by the Bank of Thailand3-5 mio THB 5-10 mio THB 10 mio THBThousand units Months
+2-3 mio THB 1-2 mio THB
+146.3159.8191.6
+180.6
+100110120130140150160170180190200
+Q1
+2013Q3 Q1
+2014Q3 Q1
+2015Q3 Q1
+2016Q3 Q1
+2017Q3 Q1
+2018Q3 Q1
+2019Q3Detached house with land
+Town house with land
+Condominium
+LandReal estate price indices
+Index (2009 = 100)
+Source: Bank of ThailandFourth quarter
+Note: Calculation based on commercial bank loan data 
+ 
+Monetary Policy Report  March 2020                                                                                                                      57 Stability: financial institutions  
+Financial institutions maintained robust financial positions, as reflected by adequately high 
+levels of commercial banks’ capital buffers to cushion against risks of credit quality 
+deterioration. In the fourth quarter of 2019, commercial bank credits expanded at a slower 
+pace in line with economic conditions. Overall NPL ratio remai ned largely unchanged from the 
+previous quarter.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit growth in the commercial bank system
+%YoY
+Source: Bank of Thailand-551525
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019
+Total
+Corporate
+Large corporate (excluding financial business)
+SME (excluding financial business)
+ConsumerFourth quarter2019 Q3 2019 Q4
+Total 3.8 2.0
+Corporate 1.3 -0.8
+     Large corporate 2.9 -1.5
+     SME 0.1 -0.3
+   Consumer 8.7 7.5
+2.65
+1.943.98
+012345
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Total NPL (%) Large Corporate NPL (%)
+SME NPL (%) Consumer NPL (%)Non-performing loan (NPL)
+%
+Source: Bank of ThailandFourth quarter 2019Q3 2019Q4
+Total 3.01 2.98
+Large 1.69 1.59
+SME 4.75 4.63
+Consumer 2.81 2.90
+Provisions in commercial bank system
+13
+12
+14
+30
+29
+29
+19
+22
+19
+21
+21
+22
+24
+32
+49
+34
+38
+38
+37
+32
+35
+44
+44
+47
+37
+35
+41
+36
+34
+33
+46
+49150.4205.9
+100.0120.0140.0160.0180.0200.0220.0
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+20190.010.020.030.040.050.060.070.080.0
+Loan loss provisions (RHS) Actual reserves/required reserves (LHS)Billion baht Billion baht
+Source: Bank of Thailand
+Capital buffers in commercial bank system
+15.219.3
+11.516.4
+3.7
+2.9
+0510152025
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Jan-
+20%
+Tier-1
+Tier-2Capital Adequacy Ratio (CAR)
+Source: Bank of ThailandFourth quarter 
+ 
+Monetary Policy Report  March 2020                                                                                                                      58 Stability: external positions  
+Thailand’s external stability remained sound, as reflected in high levels of international 
+reserves. The ratio of external debt to GDP was below an international benchmark. This would 
+help the Thai economy stay resilient against volatilities in the global financial market.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stability: fiscal sector  
+Fiscal stability remained sound. The ratio of public debt to GDP remained below the fiscal 
+sustainability threshold.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Bank of ThailandThailand’s external debt
+050100150200250300
+0102030405060
+200 
+20 0
+20  
+20 2
+20 3
+20 4
+20 5
+20 6
+20  
+20  
+20  
+2019Q1
+2019Q2
+2019Q3
+2019Q4Long-term debt (RHS)
+Short-term debt (RHS)
+External debt to GDP
+International benchmark of <48%Billion U.S. dollar Percent
+Source: Bank of ThailandReserve to short -term debt
+3.9
+012345
+2005
+2006
+200 
+200 
+200 
+20 0
+20  
+20 2
+20 3
+20 4
+20 5
+20 6
+20  
+20  
+20  
+2019Q1
+2019Q2
+2019Q3
+2019Q4
+Feb-20Time
+Percent of GDP /
+Note : 1/Calculated from GDP by Chain Volume Measure method
+2/ Set by Monetary and Fiscal Policy Committee by the authority 
+of State Fiscal and Financial Disciplines Act, B.E. 2561 (2018)
+Source: Public Debt Management OfficeThreshold for fiscal sustainability2/(60%)Public debt to GDP
+40.6 41.1 41.1 40.9 42.0 41.8 41.8 41.3 41.1 41.2 41.3
+0204060
+20 620  Q1-18 Q2-18 Q3-18 Q4-18 Q1-19 Q2-19 Q3-19 Q4-19 Jan-20
+Other government agencies FIDF
+Financial state-owned enterprises Non-financial state-owned enterprises
+Advance borrowing for debt restructuring FIDF compensation
+Public government’s direct borrowing Public debt to GDP
+External
+2.7%
+Domestic
+97.3%Outstanding debt as of January 2020
+Note: Share of short -term and long -term debt calculated from 
+remaining duration until maturity
+Source: Public Debt Management OfficeShort -term 
+7.8%
+Long -term 
+92.2% 
+ 
+Monetary Policy Report  March 2020                                                                                                                      59  

@@ -1,0 +1,1564 @@
+Monetary Policy Report
+Q1/2023Mr. Sethaput Suthiwartnarueput Chairman
+Mr. Mathee Supapongse Vice Chairman
+Mrs. Roong Mallikamas Member
+Mr. Kanit Sangsubhan Member
+Mr. Rapee Sucharitakul Member
+Mr. Somchai Jitsuchon Member
+Mr. Subhak Siwaraksa MemberThe Monetary Policy Report is prepared quarterly by staff of the Bank of Thailand with 
+the approval of the Monetary Policy Committee (MPC). It serves two purposes: (1) to communicate
+to the public the MPC’s consideration and rationales for the conduct of monetary policy, and 
+(2) to present the latest set of economic and inflation forecasts, based on which the monetary 
+policy decisions were made.
+The Monetary Policy CommitteeMonetary Policy Report
+2/53Monetary Policy Committee
+Under theBank ofThailand Act,theMonetary Policy Committee (MPC) comprises the
+governor andtwodeputy governors, aswellasfourdistinguished external members
+representing various sectors oftheeconomy, withtheaimofensuring thatmonetary
+policy decisions areeffective andtransparent .
+Monetary Policy Objective
+TheMPC implements monetary policy under theflexible inflation targeting regime .
+While regarding medium -term price stability asitsprimary objective, theMPCalsoaims
+atsupporting sustainable, full-potential economic growth andpreserving financial stability,
+attributing tolong-term price stability andeconomic sustainability .
+Monetary Policy Target
+OnDecember27,2022,theCabinet approved themonetary policy target for2023,
+which wasmutually agreed between theMPC andtheMinister ofFinance tosetthe
+headline inflation within therange of1–3percent asthetarget forthemedium -termhorizon
+andfor2023.Intheevent thataverage headline inflation inthepast12months ora
+forecast ofaverage headline inflation over12months ahead breaches thetarget range,
+theMPCshall send anopen letter totheMinister ofFinance toexplain reasons forthe
+breach ofthetarget range, together withmeasures taken andestimated time tobring
+inflation back tothetarget .Furthermore, theMPCwillwrite anadditional open letter
+totheMinister ofFinance every sixmonths ifaverage headline inflation based onthe
+above criteria remains outside thetarget range .Monetary Policy Instrument
+TheMPC utilizes the1-daybilateral repurchase transaction rateasthepolicy interest
+ratetosignal themonetary policy stance .
+TheMPC hasadopted themanaged float exchange rateregime tostabilize andlimit
+thevolatilities intheexchange rate,astoletthebahtreflect economic fundamentals
+Evaluation ofEconomic Conditions andForecasts
+TheBankofThailand takes intoaccount information fromallsources, themacroeconomic
+model, datafrom each economic sector, aswellassurveys oflarge enterprises, togethe r
+withsmall andmedium -sized enterprises from alloverthecountry, andvarious financial
+institutions toensure thateconomic evaluations andforecasts areaccurate andcover all
+aspects, both atthemacro andmicro levels .
+Monetary Policy Communication
+Recognizing theimportance ofmonetary policy communication tothepublic, theMPC
+employs various channels ofcommunication, bothinThaiandEnglish, suchas(1)publishing
+apress statement at14:00andholding apress conference regarding theresults ofthe
+meeting at14:30onthedayoftheCommittee meeting (2)publishing edited minutes of
+theMPCmeeting twoweeks after themeeting, and(3)publishing theMonetary Policy
+Report every quarter .Monetary Policy in Thailand
+3/532.The Thai Economy 14
+Economic forecasts by component 16
+Box 1
+Recovery outlook for foreign tourist arrivals17
+Private consumption 21
+Labor market 22
+Merchandise exports 23
+Box 2
+Outlook for Thai exports24
+Risks to the growth outlook 28
+Inflation forecast 29
+Risks to the inflation outlook 30
+Summary of forecast assumptions 31
+Assumptions for Dubai crude oil prices 32Table of ContentsGo to Page
+1. Global Economy 7
+Global economy 8
+The Chinese economy 9
+Merchandise exports in Asia 10
+Banking stresses in advanced economies 11
+Monetary policy outlook around the world 12
+Trading partners’ economic outlook 134. Monetary Policy Decision 40
+Economic growth 41
+Inflation 42
+Financial stability 43
+Policy decisions 45
+Data Tables 46Executive Summary 5
+Data in this report is as of 28 March 2023 (1 day prior to the MPC Meeting)3.Financial conditions 33
+Domestic financial conditions 34
+Bond yields 35
+Commercial banks’ interest rates 36
+Borrowing by businesses and households 37
+Exchange rates 39
+4/53Executive Summary
+some goods such as electronics and petrochemical products would recover more slowly 
+than others due to idiosyncratic factors (Box2:Outlook for Thai exports ).On the whole, 
+there are possibilities that the Thai economy would register stronger growth than 
+assessed with the upside risks mainly attributed by a more -than-expected rebound in 
+foreign tourist arrivals and tourism spending. Nevertheless, there remains the need to 
+closely monitor downside risks stemming from the uncertainties in global economy and 
+financial markets. 
+Inflation
+Headline inflation is expected to fall within the target range in Q2/2023, 
+averaging at 2.9% in 2023 and 2.4% in 2024. It is expected that supply -side pressures 
+would gradually dissipate as domestic electricity costs and diesel prices decline. Core 
+inflation has declined slightly but would remain stable at high levels for some 
+time, averaging at 2.4% in 2023 and 2.0% in 2024. This is in line with recent declines in 
+underlying inflation indicators, while prices in the core CPI mostly remain high or have 
+increased. Medium -term inflation expectations are still well -anchored within the 
+target range. 
+The inflation outlook is subject to upside risks from (1) potentially higher 
+cost passthrough from producers as they continue to face high costs and have yet to 
+pass on some of those costs to the consumers, and (2) higher demand -pull inflationary 
+pressure from the stronger -than-expected recovery in tourism. As such, it is still necessary
+to closely monitor risks to inflation going forward. Global economy
+Trading partners are expected to grow 2.5% in 2023 and 2.9% in 2024. The 
+outlook for US and euro area economies have improved on the back of growth 
+momentum in the services sector. The Chinese economy posted strong gains since 
+COVID containment measures have been lifted, resulting in a recovery in economic 
+activities in both the manufacturing and services sectors. Overall, the improvement in 
+global economic outlook and China's reopening are expected to support Asia’s 
+economic recovery in the period ahead. However, the global economic outlook faces 
+greater uncertainties due to persistently high global inflation, and tighter financial 
+conditions following banking stresses in advanced economies, which would have 
+implications for monetary policy directions and the global economy going forward .
+The Thai Economy
+The Thai economy is expected to continue expanding, growing 3.6% in 
+2023 and 3.8% in 2024. Growth would be driven by (1) a strong recovery in 
+tourism as reflected by an increase in foreign tourist arrivals across almost all nationalities,
+especially the Chinese. It is expected that foreign tourist arrivals would reach 28.0 and 
+35.0 million in 2023 and 2024, respectively ( Box1:Recovery outlook for foreign 
+tourist arrivals) ; (2)a continued recovery in private consumption supported by the 
+recovery in economic activities as well as more broad -based improvements in 
+employment and labor income, especially for those in the services sectors and the 
+self-employed; and (3) a stronger recovery in merchandise exports expected for 
+the second half of the year in line with trading partners’ growth. However, exports of
+5/53Executive Summary
+Financial Conditions and Financial Stability
+Thailand’s overall financial conditions remain accommodative. Financial conditions 
+have tightened somewhat consistent with the gradual policy normalization. Commercial banks’ 
+interest rates and short -term bond yields have increased, in line with the higher policy rate. Long -
+term bond yields have declined slightly from the previous quarter, moving in tandem with US 
+Treasury yields as the market expects a slower policy rate hike by the Fed following recent 
+banking stresses. Nonetheless, the increased financing costs have not impeded private sector 
+financing yet as reflected by a continued growth in private credit and bond issuance in Thailand. 
+Moreover, it is also expected that private sector financing would continue to expand as the Thai 
+economy recovers. On exchange rates, the baht against the US dollar appreciated from the 
+previous quarter. The baht’s appreciation during the early parts of the quarter was due to the 
+reopening of the Chinese economy which benefits Thai tourism.  This was followed by the baht’s 
+fluctuation against the US dollar, which was driven by market expectations about the Fed’s 
+monetary policy.
+Financial stability remained sound overall. Recent banking stresses in some advanced 
+economies have not had a significant impact on the Thai financial system, as Thai financial institutions
+and corporations have limited linkages with the troubled banks and risky assets. Moreover, 
+financial institutions maintain high levels of capital. However, as the situation remains fluid and 
+uncertain, there is a need to closely monitor the developments and continuously assess potential 
+impacts on Thailand’s financial stability. 
+As for households and businesses, the ongoing economic recovery has improved debt 
+serviceability. Financial fragilities nonetheless remain for some SMEs and certain households exposed
+to rising living costs and higher debt burden. The MPC deems that debt restructuring should be 
+continually implemented and should expand the scope to cover more vulnerable groups in order 
+to address household debt problems in a well targeted and sustainable manner. Monetary Policy Decision in the First Quarter of 2023
+At the meetings on 25 January 2023 and 29 March 2023, the MPC voted unanimously 
+to raise the policy rate by 0.25 percentage point from 1.25% to 1.50% and from 1.50% to 
+1.75%, respectively. The MPC views that monetary policy normalization is still appropriate given 
+the current economic and inflation outlook. The MPC assesses that the Thai economy would 
+continue to expand driven primarily by tourism and private consumption. Meanwhile, merchandise
+exports have started to recover from the contraction earlier and would see a stronger rebound in 
+the second half of the year. Headline inflation is expected to return to the target range within 
+Q2/2023 albeit with upside risks from potentially higher cost passthrough as businesses continue 
+to face high input costs, and rising demand -pull inflationary pressure from the ongoing economic 
+recovery. Financial stability remains sound overall but there is still the need to monitor global 
+financial market developments including banking stresses in advanced economies, which could 
+impact both the Thai financial system and the Thai economy. With regard to vulnerable SMEs and 
+households, the MPC sees the need to continue implementing debt restructuring measures with an 
+emphasis on rolling out measures that would address debt problems of the vulnerable groups in a 
+well targeted and sustainable manner. 
+Under the monetary policy framework with objectives of maintaining price stability, supporting
+sustainable and full -potential economic growth, and preserving financial stability, the MPC assesses 
+that the Thai economy would continue to recover but there are risks stemming from rising 
+demand -pull inflationary pressure that must be monitored going forward. Hence, the MPC judges 
+that policy rate should be normalized in a gradual and measured manner to a level that is 
+consistent with sustainable growth in the long term. The MPC also stands ready to adjust the 
+size and timing of policy normalization should the growth and inflation outlook shifts from 
+the current assessments. 
+6/53Global economy
+Inflation in many economies would likely 
+remain high for longer 
+than expected, causing many 
+central banks continuing to 
+tighten monetary policy.Global Economy: Key Issues
+The global economy would continue to recover 
+driven by the services sector, especially in the 
+US, euro area, and China. Meanwhile, Asian 
+economies would benefit from China's 
+reopening and improvements in 
+manufacturing activities globally in H2/2023.Trading partners’ growth outlook faces 
+downside risks from an elevated inflation 
+outlook, banking stresses in advanced 
+economies, and 
+prolonged geopolitical tensions.
+7/53Global economy
+Theglobal economy isexpected toregister stronger growth in2023 ontheback ofgrowth momentum intheservices
+sector andChina's reopening .Meanwhile, themanufacturing activities inmany countries have slowed down intandem
+withtherecent decline indemand forgoods, butwould likely topickup inH2/2023.
+The services sector is expected to see a strong recovery, especially in China following the economy’s re -opening and the COVID -19 outbreak having 
+subsided. Meanwhile, the manufacturing sector in many countries has slowed down in H2/2022 partly due to a slowdown in demand for durab le and semi -
+durable goods that have accelerated the year prior. However, it is expected that goods demand and manufacturing activities worldwide would gradually 
+improve in H2/2023. This is partly thanks to the reopening of the Chinese economy as reflected in PMI improvements for China and Asia.  354045505560657075
+Jan-21 Apr-21 Jul-21 Oct-21 Jan-22 Apr-22 Jul-22 Oct-22 Jan-23
+US EA JP CN Asia ex. CN GlobalDiffusion Index 
+> 50 =  improved from previous month
+55.9
+55.1
+55.0
+54.0
+52.7
+52.6Feb2023
+4550556065
+Jan-21 Apr-21 Jul-21 Oct-21 Jan-22 Apr-22 Jul-22 Oct-22 Jan-23
+US EA JP CN Asia ex. CN Global51.6
+51.4
+50.0
+48.5
+47.7
+47.7Feb 2023Diffusion Index 
+> 50 =  improved from previous month
+Source: CEIC, IHS Markit Source: CEIC, IHS MarkitPMI Service PMI Manufacturing
+8/53Global economy
+China’s policy pivot hassupported therecovery indomestic economic activities inboth themanufacturing andservices
+sector, andhasalsoimproved thesituation inChina’s realestate sector .
+China’s economic outlook has improved from China’s policy pivot, especially
+the reversal of Zero -COVID policy. Since the COVID -19 outbreak has subsided , 
+consumer confidence has improved and economic activities have continued to 
+recover in both the manufacturing and services sectors. The situation in real 
+estate sector has also improved, partly due to demand boost from governmen t 
+stimulus measures. House prices have gradually increased, especially in big cities.-0.6-0.10.40.9
+Jul/19 Jan/20 Jul/20 Jan/21 Jul/21 Jan/22 Jul/22 Jan/23Overall Tier-1 cities Teir-2 cities Teir-3 cities%MoM (s.a.)
+Source: Bloomberg (Data as of Jan 2023)Daily subway rides Newly Built Residential Building Prices
+Feb-22      Apr -22     Jun-22     Aug-22       Oct -22      Dec-22     Feb-23     % of 2019’s level, 
+7-day moving average Tier 1 Tier 2 Tier 3 National
+150
+125
+100
+75
+50
+25
+0
+Note: 100=subway rides at 19 Dec       Source : BofA, Wind (Data as of 28 Feb 2023)
+56.4 54 50.1 50.946.1 49.8 47.660.2 55.652.6 54.1 52.456.752
+020406080
+Construction Services Manufacturing Mfg: New order Mfg: New
+export orderMfg:
+ProductionMfg: Suppliers'
+delivery timeDec-22 Jan-23 Feb-22Diffusion index, 
+>50= improved from previous month Feb-23
+Source: CEICNBS PMI Manufacturing and Non -manufacturing
+9/53Global economy
+Exports of both electronics and non -electronics goods have declined in the second half of 2022. This was partly due to demand being weighed down by high 
+inflation as well as China ’s economic slowdown from Zero -COVID policy and problems in the China ’s real estate sector prior to China ’s policy pivot. However, Asian 
+merchandise exports are expected to improve after the reopening of the Chinese economy. It is expected that exports of electronics goods used in factories, 
+personal computers, smartphones, and consumer products would pass their lowest points in 2023 before gradually recovering in tandem with global demand and 
+inventory rundowns. Asian merchandise exports have declined over the recent period, both exports of electronics and non -electronics 
+goods. However, Asian economies would benefit from the China’s reopening and improvements in manufacturing 
+activities globally this year.  
+Asia’s exports to the US, Eurozone and China
+Note: Asia ex. China includes JP MY HK SG ID PH KR VN, Big-4 includes FRA GER ITA SPA
+Source: CEIC, BOT calculationAsia’s exports in technological and non -technological sectors
+-30-20-1001020304050
+Jan-17 Jan-18 Jan-19 Jan-20 Jan-21 Jan-22 Jan-23Asia export ex. China (Tech)
+Asia export ex. China (Non-Tech)%YoY, 3 -month moving average
+-40-200204060
+Feb-14 Feb-15 Feb-16 Feb-17 Feb-18 Feb-19 Feb-20 Feb-21 Feb-22 Feb-23Asia ex. CN TH exports: to US
+Asia ex. CN TH exports: to EU (Big-4)
+Asia ex. CN TH exports: to China%YoY, 3 -month moving average
+Note: (1) Asia ex China includes JP MY SG ID PH KR TW (2) Tech includes electronics equipment, 
+product and machinery (3) Only export data for SG, KR, TW, MY, ID (non -tech) and JP is as of Feb 2023                           
+Source: CEIC, BOT calculation
+10/53Global economy
+-20246
+1973
+1978
+1983
+1988
+1993
+1998
+2003
+2008
+2013
+2018
+2023Banking stress in advanced economies impeded confidence among domestic depositors and investors but the situation 
+has eased following responses from the regulators.Banking stresses in the US and Europe impeded confidence among depositors. 
+Many depositors withdrew money from problematic banks and either deposited them 
+with larger banks or invested in money market funds. Financial market vulnerability 
+remains, especially among the banking sector as reflected by high CDS spreads for 
+banks abroad. 
+The situation has eased following a swift response from the regulators. US regulators
+seized control of 3 problematic banks and implemented the Bank Term Funding Program
+(BTFP) to provide liquidity to commercial banks. Swiss regulators also approved the merger
+of two large banks and provided additional liquidity to commercial banks. Overall 
+financial conditions have tightened but to a lesser extent compared to previous 
+crises as reflected in the National Financial Conditions Index (NFCI).
+Global banks’ CDS (Credit Default Swap) 5,400 5,500 5,600 5,700 5,800
+ 9,500 10,000 10,500 11,000 11,500
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Jul-22
+Aug-22
+Sep-22
+Oct-22
+Nov-22
+Dec-22
+Jan-23
+Feb-23
+Mar-23Bn. USD
+Deposits outflow from small banks (RHS ) 
+120Bn. USDDeposits inflow to large banks
+67 Bn. USDBn. USDUS commercial bank deposits
+04008001,200
+0100200300400500
+30-Dec-22
+7-Jan-23
+15-Jan-23
+23-Jan-23
+31-Jan-23
+8-Feb-23
+16-Feb-23
+24-Feb-23
+4-Mar-23
+12-Mar-23
+20-Mar-23
+28-Mar-23Barclays DB JPM UBS
+BNP BofA CSbps bps
+(RHS)
+Source: FRED, BloombergNote: NFCI provides a comprehensive weekly update on U.S. financial conditions in money markets, debt and 
+equity markets and the traditional and "shadow" banking systems 
+Source: Federal Reserve Bank of ChicagoTighter financial condition
+23Mar 2023National Financial Conditions Index (NFCI)by Chicago Fed
+Index
+11/53Global economy
+024681012
+US EA UK JP KR SG PH MY TW TH ID CN(%)
+024681012
+US EA UK JP KR SG PH MY TW TH ID CN(%)
+Headline inflation (Nov 2022–Jan 2023) Core inflation (Nov 2022–Jan 2023)
+Inflation expectation at end 2023 (current) Inflation expectation at end 2023 (Jan)Most central banks are still pursuing monetary tightening given that inflation remains elevated and is likely to be 
+above target at the end of 2023 for most countries. 
+The Federal Reserve (Fed)raised its policy rate by 25 bps to 4.75 -5.00% at the 
+FOMC meeting on 22 March 2023. The decision was underpinned by strong labor 
+market conditions and rising inflation. Looking ahead, the Fed still gives weight to 
+inflation risks and stands ready to utilize other tools to support the US banking 
+system so that it could effectively tighten monetary policy until inflation returns to 
+the 2% target. In this regard, the BOT has revised up its federal funds rate 
+projection by 25 bps throughout the forecast period. 
+The European Central Bank (ECB) raised its policy rate by 50 bps to 3.0% at the 
+Governing Council Meeting on 16 March 2023. The decision was underpinned by 
+elevated inflationary pressure. Looking ahead, the ECB is likely to continue raising 
+the policy rate with a more data -dependent approach. The ECB also emphasized 
+its readiness to deploy new tools to support commercial banks should liquidity 
+problems arise in the European financial system. 
+Most Asian central banks continued to raise their policy rates as core inflation 
+remained high for longer than expected. However, some central banks such as 
+Bank Negara Malaysia, Bank Indonesia, and Bank of Korea have temporarily halted 
+their policy rate hikes to evaluate the effectiveness of monetary policy transmission
+from the recent hikes. Headline inflation Core inflation and Inflation expectation
+Source: CEIC
+Expectation of the Fed ’s monetary policy in 2022-2024
+Rate 2022* 2023 2024
+Fed Funds Rate assumption 
+(%at year end)4.25-4.50 5.25 –5.50
+(5.00 -5.25)4.00-4.25
+(3.75 -4.00)
+Note: * Outturns, ( ) is previous forecast in Q4/2022 MPR12/53Global economy
+Trading partners’ growth in 2022 was largely in line the previous assessment, while the forecast for 2023 is revised up slightly on account of the 
+gradual demand recovery in advanced economies and China. For 2024, trading partners’ growth is projected to slow down slightly due to the 
+impact of high inflation and monetary policy transmission. 
+Trading partners’ growth forecast for 2023 is revised up slightly . The US and the euro area are 
+projected to post a stronger economic recovery as reflected by Q4/2022 growth outturns as well as 
+ongoing improvements seen in most recent economic indicators. China’s economic growth also 
+improved following the country’s re -opening. Meanwhile, the Japanese economy has slowed down as 
+exports outlook worsened. 
+Trading partners’ growth forecast for 2024 is revised down on account of elevated inflation and 
+tighter financial conditions. 
+Overall, risks of trading partners’ growth outlook skewed to the downside: details are below
+Downside risks :(1)Slower -than-expected global economic recovery due to high inflation, 
+tighter financial conditions from monetary policy transmission, and sharper -than-expected 
+decline in global trade; (2) Impacts of financial stability risks on global economy such as 
+banking stresses in advanced economies; and (3) Geopolitical tensions especially between 
+US-China that could escalate further due to the Tech War and China’s invasion of US airspace, 
+as well as the prolonged China -Taiwan and the Russia -Ukraine conflicts.
+Upside risks: Stronger -than-expected growth among Asian economies due to (1) strong 
+recovery in the services sector thanks to the resumption in international travel, especially tourist 
+arrivals from China; and ( 2) stronger -than-expected economic growth in China boosting Asian 
+exports.Assumptions of Trading Partners’ Growth
+Note:1/Data is adjusted according to new weights calculated by the share of Thai exporting values to major 
+trading partners in 2022 
+2/Outturns and revision for some trading partners
+3/Numbers may differ from the previous report due to data revision and new weight.
+4/Asia(excluding Japan and China )includes Singapore (5.1%), Hong Kong ( 5.0%), Malaysia (6.2%),
+Taiwan (2.3%),Indonesia (5.1%), South Korea ( 3.1%), and Philippines ( 3.6%) 
+5/Trading partner GDP includes UK and Australia%YOYWeight
+20221/
+(%)20222/2023 2024
+MPR3/
+Q4/2022MPR
+Q1/2023MPR
+Q4/2022MPR
+Q1/2023
+US23.4 2.1 0.4 0.9 1.7 1.3
+Euro Area 9.7 3.5 0.3 0.7 1.7 1.3
+Japan 12.1 1.0 1.4 1.1 1.6 1.2
+China 16.9 3.0 4.8 5.5 5.3 5.4
+Asia4/30.4 3.8 3.7 3.7 4.2 4.3
+Total5/100 2.9 2.4 2.5 3.1 2.9
+13/53The Thai Economy
+Labor market and household income 
+continue to improve in line with the recovery 
+in economic activities, especially services 
+sector related to tourism.The Thai economy would continue to expand 
+driven mainly by tourism and private 
+consumption. Merchandise exports have 
+started to recover from the contractions 
+earlier and would likely to see a stronger 
+recovery in H2/2023. Headline inflation is declining and would 
+return to the target range in Q2/2023 as 
+supply -side pressure dissipates. However, 
+core inflation remains high and thus it is 
+necessary to monitor cost-passthrough 
+and demand -pull inflationary pressure. 
+TheThai Economy: Key Issues
+14/53The Thai Economy
+TheThai economy isprojected togrow3.6%in2023 and3.8%in2024 driven mainly bytourism andprivate
+consumption .Meanwhile, merchandise exports would seeastronger rebound from earlier contractions inthesecond
+halfoftheyear.
+9095100105110115
+20182019202020212022202320242025Real GDP
+Index(2018 = 100)
+Note:* Outturns, ( ) is previous forecast in Q4/2022 MPR
+Source: NESDC, BOT forecastGrowth (%YoY) 2022*2023 2024
+GDP growth 2.6 3.6 (3.7) 3.8 (3.9)
+Domestic Demand 4.1 2.5 (2.4) 3.3 (3.2)
+Private Consumption 6.3 4.0 (3.4) 3.1 (3.2)
+Private Investment 5.1 2.1 (3.4) 4.8 (4.0)
+Government Consumption 0.0 -2.2 (-1.4) 1.1 (0.8)
+Government Investment -4.9 3.7 (1.8) 7.8 (7.0)
+Exports of goods and services 6.8 6.8 (7.0) 7.4 (6.6)
+Imports of goods and services 4.1 1.4 (3.0) 5.5 (4.7)
+Current account (billion U.S. dollars ) -17.2 4.0 (3.8) 12.5 (12.2)
+Value of merchandise exports (%YoY) 5.5 -0.7 (1.0) 4.3 (2.6)
+Value of merchandise imports (%YoY) 15.3 1.2(0.4) 4.2 (3.3)
+Number of foreign tourists (million persons ) 11.2 28.0(22.0) 35.0 (31.5)
+15/53The Thai Economy
+Foreign 
+tourist arrivalsRevised up from 22 million to 28 million persons in 2023 on account of outturns reflecting a better -than-expected foreign tourist arrivals 
+across almost all nationalities. The number of Chinese tourists has accelerated after COVID -19 outbreak in China subsided as well as the 
+lifting of travel restrictions in China and India. Foreign tourist arrivals would continue to recover in 2024 with projected number of 
+foreign tourists being revised up from 31.5 million to 35.0 million persons mainly on account of Russian and Chinese tourists . 
+(Box1:Recovery outlook for foreign tourist arrivals)
+Private 
+consumptionRevised up on account of the recovery in tourism, which would also benefit employment and labor income, especially among
+low-income households. Private consumption would continue to expand in 2024 as household purchasing power improves with 
+the recovery in labor income and declining inflation.
+Merchandise 
+exports (value)Merchandise exports would register a slight contraction in 2023 mainly because of a decline in exports volume . It is expected 
+that merchandise exports would recover in the latter half of the year. Exports of automobile and electronical appliances woul d 
+recover in tandem with trading partners’ growth and as shortage of electronics component is resolved. Exports of agricultural and 
+agro-manufacturing goods would continue to expand in tandem with China’s reopening and the economic recovery in Asia. 
+Nevertheless, exports of hard disk drives (HDD) and petrochemical products would continue to decline due to industry -specific 
+factors. Merchandise exports would continue to expand in 2024.  
+Private 
+investmentRevised down on account of short -term factors such as the contraction in exports and some public private partnership (PPP) 
+projects being delayed. Private investment is expected to pick up and post strong growth rates in 2024 partly due to investments
+in new target industries such as EV and BCG seen by an increase in investment approvals by BOI for large corporates.  Summary of economic forecasts
+16/53The Thai Economy
+Box 1: Recovery outlook for foreign tourist arrivals
+Tourism has resumed its role as a major growth driver for the Thai economy 
+since H2/2022 when the COVID -19 outbreak subsided and various countries 
+including Thailand gradually lifted international travel restrictions. It is now more 
+evident that Thai tourism is heading towards pre -COVID levels of 40 million foreign 
+tourists and tourism income of 1.9 trillion baht (11% of GDP). This is reflected in 
+demand -side indicators such as foreign tourist arrivals in March 2023 of approximately 
+71,000 persons per day (63% of 2019) as well as supply -side indicators such as seat 
+capacity of international flights to Thailand and hotel reservations which have continued 
+to recover (Chart 1) .
+Foreign tourist arrivals is estimated to reach 28 million persons in 2023 and 
+35 million persons in 2024. This is an upward revision to the previous forecast in the 
+Monetary Policy Report Q4/2022 of 22 million persons in 2023 and 31.5 million persons 
+in 2024 (Chart 2) . There are 2 major factors underpinning this revision:
+(1) Sooner -than-expected reopening of the Chinese economy. The Chinese 
+economy has re -opened since 8 January 2023 and allowed group tours to Thailand 
+since 6 February 2023, both of which took place much sooner than previously expected 
+at late 2023. As such, it is expected that the number of Chinese tourists traveling to 
+Thailand would be 5.5 million in 2023 and 9.5 million in 2024, an upward revision from 
+the previous Monetary Policy Report of 1.8 million in 2023 and 6.3 million in 2024. 
+While there are signs of pent -up travel demand among Chinese tourists as reflected 
+by a sharp spike in the number of search queries on international flights since the020406080100
+05001,0001,5002,0002,5003,0003,500
+Jan/22
+Mar/22
+May/22
+Jul/22
+Sep/22
+Nov/22
+Jan/23
+Mar/23
+May/23
+Jul/23
+Sep/23Seat capacity of flights arriving in Thailand
+Daily average number of foreign tourists (RHS)Seats 
+(thousands)Seats
+(thousands)
+Note: The number of foreign tourists in March 2023 is preliminary data
+Source: Ministry of Tourism and Sports, PATAmPOWERChart 1:Tourism leading indicators
+17/53The Thai Economy
+Box 1: Recovery outlook for foreign tourist arrivals
+country reopened, the recovery so far has met with supply -side constraints namely the 
+limited number of flights. However, it is expected that this problem would likely to be 
+resolved by next year. 
+(2) Speed of recovery of foreign tourist arrivals has been faster than expected
+(Chart 3). Preliminary figures for foreign tourist arrivals in March 2023 (excluding those 
+from China) indicate a recovery of 78% of the level seen in 2019. This recovery is higher 
+than expected for almost all nationalities especially Russia, South Korea, Hong Kong, 
+Taiwan, Malaysia, and also India which rebounded since the RT -PCR test requirement for 
+those returning from Thailand has been lifted on 13 February 2023. It is also expected 
+that increased global tourism demand would support foreign tourist arrivals to 
+Thailand to continuously increase and reach pre -COVID levels by 2025.
+However, the recovery outlook is subject to risks that could impair foreign 
+tourist arrivals namely: 
+(1) Supply -side limitations on part of the airports and airlines. A key bottleneck
+is the lack of ground staffs in Thai airports, especially positions that are required to do 
+manual labor which is not popular among Thai workers. At the same time, these 
+positions cannot be filled by immigrant workers because airports must maintain 
+high levels of security, which requires airport staffs to undergo prior training in 
+accordance with international standards. This limitation presents a loss opportunity for 
+Thailand in receiving more foreign travelers and an obstacle to airlines that wants to 
+increase the number of flights if they do not have sufficient ground staffs, especially 20222023 2024
+Q4-2022 Q1-2023 Q4-2022 Q1-2023
+Million persons 11.2 22.0 28.0 31.5 35.0
+% of 2019 value 27.9% 55.0% 70.0% 79.0% 87.8%020406080100120
+051015202530354045
+2019 2022 2023 2024Others Russia
+Europe ex. Russia Other Asia
+ASEAN China
+Recovery ratio (RHS)Million
+persons% of 2019
+value
+Note: Other Asia includes Middle East
+Source: BOT ForecastChart 2:Projected foreign tourist arrivals by nationality
+18/53The Thai Economy
+Box 1: Recovery outlook for foreign tourist arrivals
+considering that China has just re -opened and likely to open up more flights. This 
+problem would be more severe for Chinese airlines compared to other countries’ 
+airlines whose flight arrangements have already been scheduled.  
+(2) Supply -side constraints on part of tourism -related businesses especially 
+hotels which faced widespread labor shortage after having reduced hiring during the 
+COVID -19 pandemic. While labor shortage might not be a direct obstacle to the recovery 
+in tourism because it could be addressed by hiring labor from other sectors or immigrant
+workers, such a solution could have indirect impacts through perception about Thai 
+tourism as the quality of service might worsen. This is reflected in the Hotel business 
+operator Sentiment Index (HSI)survey that most responses deemed that labor shortage 
+would mainly impact the quality of services (Chart 4) .
+Moreover, there remains the need to monitor the recovery pattern of 
+foreign tourist arrivals in the period ahead which would have implications for 
+uneven recovery in tourism income in some locations. The share of tourists will 
+switch from long-haul group , such as those from Europe and the US with the tendency 
+to stay longer, have higher spending and typically be the first group to recover, to 
+short-haul group , such as those from Malaysia, Vietnam, South Korea, and also Chinese 
+tourists going forward. Furthermore, these short -haul tourists usually stay in Thailand 
+for a shorter period and spend less. Therefore, tourism income might not increase 
+as much as the increase in the number of foreign tourists. However, tourism in provinces 0510152025
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22
+Jul-22
+Aug-22
+Sep-22
+Oct-22
+Nov-22
+Dec-22
+Jan-23
+Feb-23
+Mar-23Others US
+Russia Europe ex. Russia
+Other Asia ASEAN ex. Malaysia
+Malaysia ChinaMillion 
+persons
+Pre-
+arrival 
+RT-PCR 
+liftedTest 
+& Go 
+liftedPrelim. 
+data
+Thailand 
+Pass lifted
+Note: Other Asia includes Middle East
+Source: Ministry of tourism and sportsIndia required 
+pre-arrival
+RT-PCR 
+and China 
+re-opened 
+its countryIndia lifted 
+RT-PCR 
+requirement 
+and China 
+allowed 
+group tours 
+to ThailandChart 3:Monthly foreign tourist arrivals
+19/53The Thai Economy
+Box 1: Recovery outlook for foreign tourist arrivals
+along the border would continue to benefit from short -haul tourists from neighboring 
+countries, which would help disperse tourism income across different locations. 
+In summary, foreign tourists arrivals would continue to increase in tandem with 
+global tourism demand and it is expected to return to pre -COVID levels by 2025. 
+However, there remains the need to monitor factors that could impact the return of foreign 
+tourists such as the shortage of ground staffs at Thai airports which could limit the increase 
+in the number of flights to Thailand as well as labor shortages faced by hotels that could 
+impact the quality of service. If these supply -side constraints could be overcome, tourism 
+would be able to fully recover and realize its full potential as one of the key drivers of 
+growth for the Thai economy. Chart 4: Hotel business operator Sentiment Index (HSI) survey 
+responses on impacts of labor shortage problem
+34 33 3836 36 279 131121 1825
+Jan-23 Feb-23 Mar-23Impact both number of customers and service quality
+Impact number of customers but not impact service quality
+Not impact number of customers but impact service quality
+No problemsShare of hotels according to their impacts (% of respondents)
+Source: Hotel business operator Sentiment Index (HSI) surveyed by Thai Hotels Association 
+and BOT
+20/53The Thai Economy
+-300-250-200-150-100-50050100
+ Q1-2020
+ Q2-2020
+ Q3-2020
+ Q4-2020
+ Q1-2021
+ Q2-2021
+ Q3-2021
+ Q4-2021
+ Q1-2022
+ Q2-2022
+ Q3-2022
+ Q4-2022
+ Q1-2023
+ Q2-2023
+ Q3-2023
+ Q4-2023
+ Q1-2024
+ Q2-2024
+ Q3-2024
+ Q4-2024Billion Baht
+Manufacturing (16%)
+Professional  (17%)
+Services + Self -employed  (67%)Private consumption and labor income has improved in tandem with tourism. 
+It is expected that private consumption would see strong growth, and labor income of workers in the services sectors and the self-employed
+would continue to recover. This is in line with improvements in economic activities in tourism -related services sectors.
+90100110120130
+2019202020212022202320242025Monetary Policy Report Q1-2023Monetary Policy Report Q4 -2022 Forecast periodReal private consumption
+Source: BOT forecastIndex(s.a., 2018 = 100 ) Forecast periodProjected total income recovery of labor in non -farm sectors
+Note:  1/Total labor income in non -farm sectors in 2019 was 4.5 trillion baht
+2/( ) denotes each sector’s share to total labor income in non -farm sectors in 2022
+Source: National Statistic’s Office, BOT calculation and forecast 21/53The Thai Economy
+The number of workers contributing to the Social Security Fund (Section 33 of the Social Security Act) in February 2023 has n ow reached pre -COVID 
+levels. This is in line with the decline in unemployment numbers in Q4/2022 attributed by a decrease in the number of those who have never been employed 
+before. However, underemployment numbers have increased, mainly driven by agricultural sector. Labor market conditions has continued to improve as reflected in the employment numbers, especially those in the formal sectors which 
+now reached pre -COVID levels. 
+Number of unemployment and underemployment
+Note: (1) Section 33 refers to employees who are not less than 15 years of age and not more than 
+60 years from the date the employee starts working for a company with one or more employees.
+(2) % recovery is calculated compared to Dec 2019
+Source: Social Security Office, calculated by Bank of ThailandNumber of workers contributing to the Social Security Fund (section 33)
+Million persons (s.a.)
+10111213
+Jan-18
+Jul-18
+Jan-19
+Jul-19
+Jan-20
+Jul-20
+Jan-21
+Jul-21
+Jan-22
+Jul-22
+Jan-23Feb 2023
+% MoM: +0.04 
+% recovery: 99.9
+0.5
+0.2
+0.12.6
+01234567
+0.00.20.40.60.81.01.2
+ Q1-18
+ Q3-18
+ Q1-19
+ Q3-19
+ Q1-20
+ Q3-20
+ Q1-21
+ Q3-21
+ Q1-22
+ Q3-22UnemployedUnderemployed ( RHS)
+o/w unemployed with no prior work experience
+o/w long -term unemploymentMillion persons (s.a.) Million persons (s.a.)
+Note:Long-term unemployment is defined as being unemployed for longer than 1 year.
+Underemployment is defined as those who work less than 4 hours per day. 
+Source: National Statistics Office’s Labor Force Survey, BOT calculation
+22/53The Thai Economy
+•Merchandise exports outturns in Q4/2022 was lower than expected. This 
+was mainly due to a slowdown in demand from trading partners resulting 
+in broad -based decline in export quantity across many goods such as 
+petroleum -related products, electrical appliances, electronics, metals, and 
+processed agricultural products. 
+•Looking ahead, export quantity is expected to recover in tandem with 
+global demand, passing its lowest point in H1/2023. However, the pickup in 
+global demand might have limited benefits for Thai exports because growth 
+among trading partners would be driven by the services sector and China 
+would also shift away from importing goods to focus more on manufacturing 
+for domestic consumption. (Box2: Outlook for Thai exports )
+•Export prices would likely be higher than previously expected due to 
+elevated prices of energy and other goods. Merchandise exports are expected to recover in the period ahead but the global economic outlook remains uncertain 
+and must be monitored. 
+Projected merchandise exports (excl. gold)
+Index (s.a., 2012 = 100)
+Growth (%YoY) 2022 2023 2024
+Export value 5.5 -0.7 (1.0) 4.3 (2.6)
+Export prices 4.2 0.9 (0.0) 0.6 (0.5)
+Export quantity 1.3 -1.6 (1.0) 3.7 (2.1)Merchandise exports projection
+Note: ( ) = previous projection in Monetary Policy Report Q4 -2022Note: * 2022 data is revised8090100110120130
+2020 2021 2022 2023 2024Export quantity (MPR Q4-2022)
+Export quantity* (MPR Q1-2023)
+Export prices (MPR Q4-2022)
+Export prices (MPR Q1-2023)
+23/53The Thai Economy
+Box 2: Outlook for Thai exports
+Given the improved global economic outlook and China’s re -opening, it is 
+expected that Thai merchandise exports would pass its trough in H1/2023 and 
+resume positive growth in 2024. However, it is also unlikely that the recovery would 
+be V-shaped. This is because economic growth in most trading partners would be 
+driven by services rather than merchandise trade and China’s dual circulation policy 
+that shifted its economy away from importing goods to focus more on manufacturing for 
+domestic consumption. A product -level assessment using Constant Market Share 
+Analysis1/(CMSA) indicated that there are idiosyncratic shifts in the export structure 
+of some product categories that could further weigh on Thai export performance 
+going forward.  
+(1) Exports of petrochemical products would recover in tandem with trading 
+partners’ demand but the recovery would be limited by competitiveness issues 
+and lower import demand from China . The CMSA analysis showed that while the 
+export structure of Thai petrochemical products has been determined by trading 
+partners’ demand or the “market effect” , however, for the past 5 years, its market 
+share growth have slowed as reflected by a negative “competitiveness effect” 
+(Chart 1.1). Thai petrochemical exports have lost its competitive edge to Europe 
+and China, partly due to higher input costs. As such, it is expected that exports of 
+petrochemical products would be weighed down by competitiveness issues even 
+If businesses have adapted by focusing more on making specialized products anddiversifying its exports to ASEAN markets as reflected by an increase in “market 
+adaptation effect”. A closer look at exports of petrochemical products to China, 
+which is among Thailand’s most important export markets, the aforementioned 
+competitiveness effect is further compounded by slowing import demand from China 
+as reflected by a negative “product effect” . This is a result of China’s dual circulation 
+policy whereby the Chinese government has encouraged increasing manufacturing 
+capacity for domestic consumption, which is also likely to remain in effect for some 
+time. The dual circulation policy would thus limit the spillover benefits from China’s 
+re-opening on Thai petrochemical exports.
+1/Constant Market Share Analysis (CMSA) isamethodology used inanalyzing changes in
+export structure ofeach product .Under thismethodology, exports areaffected by5
+factors :(1)market effect which reflects thechange ingeographical composition of
+exports ;(2)product effect which reflects changes incommodities composition of
+exports ;(3)competitiveness effect which reflects changes inmarket share during the
+assessment period ;(4)product adaptation effect ;and(5)market adaptation effect
+which reflect theability toadjust compositions inboth product andmarket, respectively .
+(Calculation used inthisassessment isbased onBonanno (2016)in“Constant market share
+analysis :Anote”,EERIResearch Paper Series, No.07/2016,Economics andEconometrics
+Research Institute)
+24/53The Thai Economy
+Chart1.3: Agriculture and Agro -manufacturing 
+Market Structure
+(6.7 % and 13.9% of total exports in 2022, respectively)
+-0.8-0.6-0.4-0.20.00.20.40.60.8
+China US ASEAN ROW
+Product Effect Market Effect
+Competitiveness Product Adaptation
+Market Adaptation Total ChangeChart 1.2: Hard Disk Drive Market Structure
+(4.0 % of total exports in 2022)
+-2-10123
+Base Year
+(2016-2017)Pre-COVID-19
+(2017 - 2019)Post-COVID-19
+(2020 - 2021)
+Product Effect Market Effect
+Competitiveness Product Adaptation
+Market Adaptation Total ChangeChart 1.1: Petrochemical Market Structure
+(8.4 % of total exports in 2022)
+Source: International Trade Centre, BOT’s calculationsMarket Structure 
+in ChinaChange in share of exports
+(basis point)Chart 1: Export Market Structures Decomposed by The CMSA Model, Selected Product Categories 
+Change in share of exports
+(basis point)Change in share of exports
+(basis point)Box 2: Outlook for Thai exports
+25/53-101234
+Base Year
+(2016-2017)Pre-COVID-19
+(2018 - 2019)Post-COVID-19
+(2020 - 2021)Post-COVID-19
+(2020 - 2021)
+Product Effect Market Effect
+Competitiveness Product Adaptation
+Market Adaptation Total ChangeThe Thai Economy
+Box 2: Outlook for Thai exports
+(2)Exports of electronics is expected to recover more slowly compared to 
+other exports given that the global electronics cycle is still in the downcycle (lasts 
+about 12 months on average) after having benefited from accelerated purchases and 
+inventory accumulation during the COVID -19 pandemic as a result of work from home 
+arrangements (Chart 2) . It is expected that demand for electronics goods would decline in 
+the first half of 2023 before picking up in the latter half of the year in tandem with the 
+economic recovery of trading partners. Exports of electronics would remain affected by 
+structural factors related to hard disk drives (HDD). CMSA results (Chart 1.2) showed 
+that market share growth of HDD has slowed down significantly compared to 2016, especially
+in the US market. Technological advancements have resulted in a significant decline in 
+demand for consumer HDDs as they have been replaced by solid state drives (SSDs) 
+reflected from negative adaptation effect and competitiveness effect during the post -COVID 
+outbreak period. However, there are still demand for high capacity enterprise HDDs 
+from cloud and data center businesses . Hence, there still exist opportunities for Thailand 
+to adapt and maintain its market share for HDD in the global market. 
+Other export goods areexpected togrow inlinewiththeeconomic recovery
+oftrading partners ,especially exports ofautomobile andelectrical appliances which are
+highly correlated withtradingpartners’ growth andhave seen improvements since the
+semi-conductor shortage subsided .Meanwhile, exports ofagricultural andagro-manufacturing
+products areexpected tobecome amajor driver ofexports growth intheperiod ahead .Chart 2: Electronic Cycle
+**Electronic downcycle can last between 3 to 23 months
+Source: World Semiconductor Trade Statistics020406080100120140160180200
+Mar-98 Mar-01 Mar-04 Mar-07 Mar-10 Mar-13 Mar-16 Mar-19 Mar-22
+World semiconductor billing 12mmaInternet ,PCWi-Fi iTunes
+FacebookYouTube
+Processor
+iPhoneWindows7
+Tablet
+Smart 
+phoneCovid -19
+WFH
+Apple 
+Watch15 m 3 m9 m23 m13 m11 mAverage duration of electronic 
+downcycle is 12 months**Index (Jan 2016 = 100) 
+26/53The Thai Economy
+Box 2: Outlook for Thai exports
+Exports of agricultural and agro -manufacturing products would continue to expand on 
+the back of China’s re -opening and Asia’s economic recovery, especially in the tourism 
+sectors. 
+Looking ahead, competitiveness of Thai exports has to be closely monitored . 
+This is particularly the case for agricultural and agro -manufacturing products that are 
+highly at risk of losing competitiveness in the ASEAN market as reflected by CMSA results 
+indicating a negative competitiveness effect (Chart 1.3). A closer look at the exports 
+market concentration2/among Thailand’s trading partners showed that while other countries
+may rely heavily on agricultural and agro -manufacturing product from Thailand, the 
+dependency has declined from levels seen in the past (Chart 3) due to Thailand’s worsened
+productivity and cost competitiveness compared to its competitors.
+In summary, Thai merchandise exports would likely increase with the global 
+economic recovery but spillover benefits may be limited. Exports of petrochemicals 
+and electronics are subjected to idiosyncratic factors weighing down the recovery. Going 
+forward, there is also a need to monitor competitiveness of Thai exports, which could 
+impact merchandise exports such as agricultural and agro -manufacturing products. 
+2/Market concentration foreach product isthesum ofHerfindahl -Hirschman Index (HHI) ofthat 
+product in each trading partner weighted by Thailand’s export share to that trading partner. HHI 
+value higher than 3,000 indicates high market concentration. 𝐻𝐻𝐼=𝑠12+𝑠22+𝑠32+⋯+𝑠𝑗2
+Chart 3: Herfindahl -Hirschman Index (HHI)
+by Export Product Categories (2018 & 2021)
+Source: UN Comtrade Database, BOT’s Calculations
+27/53The Thai Economy
+Upside risks to growth
+•Foreign tourist arrivals and tourism spending turn out higher than 
+expected if tourism demand recovers faster and stronger than expected.
+•Budget disbursement is not as delayed as expected if the FY2024 
+fiscal budget is approved in a timely manner or if government spending can
+still proceed by temporarily using the previous year’s budget framework .  
+Downside risks to growth
+•Global economic recovery is slower than expected due to elevated 
+inflation and banking stresses in some advanced economies, thus impacting
+Thai exports going forward. 
+•High living costs and household debts weigh down on private consumption
+more than expected. The Thai economy could outperform the baseline growth projection from the higher -than-expected foreign tourist 
+arrivals and tourism spending.  
+GDP growth
+% YoY
+-16-12-8-40481216
+-16-12-8-40481216
+2562256325642565256625672568 2019      2020       2021      2022       2023       2024       2025  
+28/53The Thai Economy
+Forecast period
+-20246810
+Q1/21 Q3/21 Q1/22 Q3/22 Q1/23 Q3/23 Q1/24 Q3/24 Q1/25Core Inflation (67%) Energy (12%)
+Raw Food (21%) Headline Inflation
+%Headline inflation in 2023 is expected to average lower than previously assessed and would return to the target range in 
+Q2/2023. 
+•Headline inflation projection for 2023 is revised down slightly from the 
+previous assessment. This downward revision is on account of lower -than-
+expected outturns and softer supply -side inflationary pressure from the decline in 
+electricity costs and domestic diesel prices. Headline inflation projection for 
+2024 is revised up slightly as fresh food prices are expected to be more volatile . 
+•Core inflation projection for 2023 is revised down slightly from the previous
+assessment from the lower -than-expected outturns. However, there still 
+remains the need to monitor price increases in some good and services with 
+an incomplete cost passthrough as well as demand -pull inflationary pressure 
+in the period ahead. Core inflation projection for 2024 is unchanged from 
+the previous assessment, with core inflation likely to remain high compared
+to levels seen in the past. %YoY 2022 2023 2024
+Headline inflation 6.1 2.9 (3.0) 2.4 (2.1)
+Core inflation 2.5 2.4 (2.5) 2.0 (2.0)
+Note: ( ) previous forecast from Monetary Policy Report Q4/2022
+Note: ( ) denotes weight in CPI basket
+Source: Ministry of Commerce, calculations and forecasts by BOT as of Mar 23Contribution to Headline Inflation Inflation forecast
+29/53Target range The Thai Economy
+Upside risks to inflation
+•Cost-passthrough from producers to consumers might be faster 
+and higher than expected partly due to pent -up costs. 
+•Demand -pull inflationary pressure from a faster and stronger 
+than expected recovery in tourism
+•Global energy and commodity prices increase more than expected 
+due to geopolitical tensions which remains highly uncertain. Inflation outlook is subject to upside risks. 
+Downside risks to inflation
+•The government might extend assistance measures such as 
+subsidies for electricity and other living costs. 
+•Electricity costs might be lower than expected as input costs for 
+electricity generation are declining.Headline inflation forecast Core inflation forecast
+-4-20246810
+-4-20246810
+2562256325642565256625672568Target range 1.0 –3.0%
+2019      2020       2021      2022       2023       2024       2025  -3-2-1012345
+-3-2-1012345
+2562256325642565256625672568 2019      2020       2021      2022       2023       2024       2025  %YoY %YoY
+30/53The Thai Economy
+•Trading partner economies’ growth for 2023 is revised up slightly on account of a 
+gradual recovery in global demand driven by advanced economies and China’s 
+re-opening . The forecast for 2024 is revised down on account of inflation remaining 
+above target and tighter financial conditions. 
+•The Federal Funds Rate is revised up in line with the economic outlook as well as 
+inflation remaining high for longer than expected. 
+•Regional currencies (excluding the Chinese yuan) would appreciate due to the 
+recovery in the services sector and tourism, and further policy rate hikes by central 
+banks in the region. 
+•Dubai crude oil prices for 2023 is revised down on account of price outturns and the 
+limited impact of sanctions against Russia on supply of crude oil. The forecast for 2024 is 
+unchanged given that oil demand would recover in line with the global economy and 
+supply from non -OPEC oil producers would continue to increase. 
+•Farm income (excluding government support measures) in 2023 would contract 
+due to a lower in -season rice output as a result of less rainfall and a lower tapioca 
+output as a result of previous floods. Farm income in 2024 would see a smaller 
+contraction as swine output problems have subsided. 
+•Public spending at current prices for 2023 is revised down on account of accelerated
+budget disbursements for government consumption spending around end -2022 and 
+potentially lower -than-expected budget disbursements for public investment spending
+by the central government and state -owned enterprises. The forecast for 2024 is 
+largely unchanged. Annual percentage change 2022* 2023 2024
+Trading partners’ growth (% YoY)1/2.9 2.5
+(2.4)2/2.9
+(3.1)
+Fed funds rate (% at year -end)4.25 –4.50 5.25–5.50
+(5.00–5.25)4.00 -4.25
+(3.75 -4.00)
+Regional currencies (excl. China) vis -à-vis
+the U.S. dollar (index)3/163.3 161.2
+(168.2)159.3
+(168.0)
+Dubai crude oil prices (U.S. dollar per barrel )96.4 86.0
+(95.0)90.0
+(90.0)
+Farm income (% YoY)12.6 -2.7
+(-1.3)-1.9
+(-3.0)
+Government consumption at current price
+(billion baht)3,072 3,019
+(3,026)3,066
+(3,064)
+Public investment at current price
+(billion baht)1,041 1,093
+(1,106)1,194
+(1,192)
+Note: 1/ Weighted by each trading partner’s share in Thailand’s total exports
+2/ Due to the 2022 index reweight and data revisions, figures may appear different from 
+theprevious reports.
+3/ Increasing index represents depreciation, decreasing index represents appreciation
+* Outturns
+( ) previous forecast in the Monetary Policy Report Q4/22Summary of key forecast assumptions
+31/53The Thai Economy
+Assumptions for Dubai crude oil prices
+for 2023 is revised down on account of lower -than-expected price outturns and limited impact of sanctions against Russia on the supply of crude oil. 
+Dubai crude oil prices forecast for 2023 is revised down from 95 U.S. dollar to 86 U.S. 
+dollar per barrel on account of: 
+• Lower -than-expected price outturns due to concerns about policy rate hikes by various 
+central banks and the global economic slowdown 
+• Limited impact of sanctions against Russia on the supply of crude oil. The ceiling on 
+crude oil prices and bans on import of petroleum products from Russia implemented 
+earlier have not significantly impacted crude oil output from Russia. Russia is still able to 
+export oil to China and India to compensate for lower imports by Europe. 
+Dubai crude oil prices forecast for 2024 is unchanged with prices expected to rise further 
+on the back of the global economic recovery and continued increase in crude oil supply from 
+non-OPEC producers.
+Risk to the outlook for Dubai crude oil prices is tilted to the upside.
+• Upside risks: The Russia -Ukraine conflict could escalate, broaden, and become more 
+protracted; and the gradual accumulation of crude oil to build up the US strategic 
+petroleum reserve.
+•Downside risks: Iran’s oil production could increase should a nuclear agreement with 
+the US is reached. 30507090110
+Q1-17
+Q1-18
+Q1-19
+Q1-20
+Q1-21
+Q1-22
+Q1-23
+Q1-24Monetary Policy Report Q4 -22
+Monetary Policy Report Q1 -23
+U.S. dollar per barrel 2022* 2023 2024
+Dubai crude oil prices
+(annual average)96.4 86
+(95)90
+(90)Projected Dubai crude oil prices
+* Outturns
+( )previous forecast in the Monetary Policy Report Q4/22
+Source: BOT forecastU.S. dollar per barrel
+32/53Financial Conditions
+Financial Conditions: Key Issues
+The baht’s movement have been 
+volatile due to the recovery in Thai 
+tourism, the Fed’s monetary policy 
+direction, and concerns pertaining 
+to banking stresses abroad. Financial conditions remain 
+accommodative 
+and supportive of fund mobilization 
+by the private sector despite having 
+tightened somewhat as borrowing costs 
+have increased in line with 
+the policy rate. Private credit and bond issuance 
+have continued to expand 
+and would grow further as the 
+economy recovers.
+33/53Financial Conditions
+Thailand’s overall financial conditions remain accommodative. Financial conditions have tightened somewhat but remain 
+supportive of the ongoing economic recovery. 
+Financial conditions tightened somewhat in line with the higher policy rate
+but remain accommodative
+-Funding costs increased in line with the policy rate, but commercial banks ’ 
+lending rates and bond yields are still below levels seen in the past. 
+-Private credit expanded but at a slower pace because (1 ) large corporates 
+have previously accelerated their borrowings to lock in costs; (2) business 
+credit extended to the manufacturing sector slowed down in tandem with 
+recent exports performance; and (3) SMEs credit contracted mainly due to 
+repayments on maturing soft loans. Commercial banks remain cautious in 
+lending to certain groups of SMEs, but overall credit demand from both large 
+corporates and SMEs would continue to increase with the economic recovery.
+Tighter financial conditions were also partly attributed to short -term volatility 
+in the global financial market, which is driven by external factors and can shift 
+abruptly. Global market volatility reflecting risk aversion in the market has 
+impacted Thailand’s financial conditions mainly through the baht’s movement . 
+Nonetheless, financial conditions arestill considered accommodative at current 
+baht’s level.-2024
+2005200720092011201320152017201920212023Funding Costs 1/ Private Credit  1/
+Global Market Volatility Stock Market
+FX FCITighter financial conditions
+Looser financial conditions Z-scoreFinancial Conditions Index: FCI
+Notes: FCI is calculated using first principal components of both FX and non -FX financial condition indicators which are weighte d by their respective sizes of accumulated impulse response on real GDP (%yoy) over 
+8 quarters using VAR(2) model. Non -FX indicators include (1) funding costs, (2) private credit, (3) global market volatility, an d (4) stock market. For funding costs and private credit categories, weights of each variable 
+are adjusted according to its proportion in total private funding structure. 
+1/ New loan rate (NLR), average of 6 banks’ floating mortgage rates, and the net new loan amounts extended to businesses and hou seholds in the most recent month are assumed to be equal to the previous 
+month’s data. 2/ Lastest data point is averaged until 14 Mar 2023. 34/53Financial Conditions
+012345
+2010201220142016201820202022Savings 3 months fixed deposit
+6 months deposit 12 months fixed deposit
+Policy rate%
+Lending rates and deposit rates offered by commercial banks have gradually increased, but are still below levels seen in the past. Since the MPC’s 
+decision to raise the policy rate to 1.75% and the end of the FIDF fee reduction measure at end -2022, commercial banks have grad ually transmitted the higher 
+financing costs to the minimum retail rate (MRR) less than the minimum loan rate (MLR) to soften the impact on vulnerable bor rowers, most of whom are 
+subject to the MRR. The New Loan Rate (NLR) as of January 2023 declined slightly overall, especially for loan contracts larger than 500 million baht. 
+Meanwhile, the NLR for loan contracts smaller or equal to 500 million baht has increased. Commercial banks’ lending rates have increased in line with the policy rate, but arestill below levels seen in the past. 
+Note: (1) Monthly average of 13 commercial banks ( data as of 4 Apr 2023) 
+(2) New loan rate: NLR (as of Jan 2023)
+Source :BOT0246810
+2010201220142016201820202022MLR MRR NLR Policy Rate%Commercial bank lending rates Commercial bank deposit rates
+35/53Financial Conditions
+Short-term bond yields increased from the previous quarter in line with the higher policy rate. Meanwhile, long -term bond yields decreased slightly in line with 
+US Treasury yields. The market expects the Fed to slow down the pace of its policy rate hikes after the recent banking stresses. The Thai financi al market is largely 
+unaffected by the recent banking stresses and therefore Thai bond yields did not see a significant decline. Meanwhile, privat e sector financing costs through the bond 
+market remain largely unchanged as reflected by relatively stable credit spread. Short -term government bond yields increased in line with the policy rate. Long -term government bond yields decreased 
+slightly in line with US Treasury yields. Private sector financing costs through the bond market remain largely unchanged. 
+012345
+Jan 21 Apr 21 Jul 21 Oct 21 Jan 22 Apr 22 Jul 22 Oct 22 Jan 23 Apr 2310Y Thai government bond
+10Y US Treasury
+2Y Thai government bond
+3M Thai government bond
+0100200300400
+Jan-19 Jul-19 Jan-20 Jul-20 Jan-21 Jul-21 Jan-22 Jul-22 Jan-23AAA AA A BBB% bpsThai government bond and US Treasury yields
+Source : Thai B MA and Bloomberg (data as of 4 Apr 2023)Corporate and government bond credit spread, by credit rating
+36/53Financial Conditions
+1.7
+-1.0-1.99.5
+-100102030
+Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Corporate loans with amount > 500 million baht (excl. public sector)
+Corporate loans with amount  ≤ 500 million baht
+Excluding soft loan and special loan facility
+Coporate bonds
+Household credits
+Q4-22
+1.72/In Q4/2022, large corporate loans (credit limit > 500 million baht) slowed down from 
+the previous quarter mainly due to debt repayment. The slowdown was mostly observed 
+in the manufacturing sector, which was in line with manufacturing for exports, which 
+slowed down in tandem with trading partners’ demand and front -loaded production in the 
+earlier period. Large corporates have also accelerated bond issuance to lock in costs 
+during the interest rate upcycle. 
+SME loans (credit limit ≤ 500 million baht ) contracted from the same period last year . 
+This was in part due to repayment on maturing soft loans.
+Household credits slowed down from the previous quarter mainly from personal 
+loans. This was partly due to the transfer of one bank’s credit card and personal loan 
+portfolio to its subsidiary in December 2022. Auto loans grew slightly in line with 
+domestic car sales. Meanwhile, mortgage loans continued to expand in the period 
+leading up to the end of some housing market support measures in 2022.   
+For Q1/20231/, demand for credit would continue to increase, especially from SMEs
+that utilizes the loan for working capital purposes as well as building up its goods 
+inventory in preparation for the economic recovery. Meanwhile, there is also increasing
+credit demand from large corporates for mergers and acquisitions. Household credit would
+expand in line with increasing consumption spending needs, and continuing improvements
+in consumer confidence.
+Note: 1/Report on Credit Conditions Q4/2022 and Outlook for Q1/2023 Private credit in Q4/2022 continued to expand driven by increased bond issuance by large corporates. 
+Note: 1/ Credit limit at each commercial bank (financial services businesses are excluded)
+2/Household credits would have grown at 3.9% if the credit card and personal loan portfolio of 
+one bank had not transferred to its subsidiary (excluded from private credit growth calculation).  %YoYPrivate credit
+1/
+1/
+2022 2021 2020 2019
+37/53Financial Conditions
+New loans are increasing among the services sector and SMEs. 
+Businesses have continued to acquire new loans. Businesses in the services sector were able to acquire new loans for working capital and investment purposes, 
+especially tourism -related services. New loans to manufacturing businesses slowed down after having accelerated in the earlier p eriod. New loans to SMEs have 
+continued to increase even though banks have been more cautious in extending loans to SMEs because credit quality has not yet significantly improved1/.New loans 
+to large corporates slowed down after having accelerated in the earlier period, partly because some businesses opted to issue more bonds to lock in costs. 
+Note: 1/Report on Credit Conditions Q4/2022 and Outlook for Q1/2023 0.00.51.01.5
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2018 2019 2020 2021 2022SMEs Large corporates
+0.00.51.0
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+2018 2019 2020 2021 2022Manufacturing (41.8%) Trade and services (47.2%)
+Note: ( ) = share of total new loans. Other business sectors include agriculture (0.7%) and others 
+(10.3%) such as utilities.Note: Large corporates: businesses with total outstanding loan amounts with commercial banks > 500 million baht. 
+SMEs: businesses with total outstanding loan amounts with commercial banks ≤ 500 million baht.New loans by business sector New loans by business size
+38/53Financial Conditions
+30
+32
+34
+36
+38
+40 758595105115125135
+2561 2562 2563 2564 2565
+Source: BOT, Bloomberg, and Refinitiv (as of 28 Mar 2023)USDTHB 
+(RHS) DXYNEER
+Appreciation
+In Q1/2023, the baht averaged 33.93 per U.S. dollar, appreciating by 7.2% from the average value in the previous quarter. The baht’s appreciation during the earlier parts of 
+the quarter was initially due to China’s reopening announcement and expectations about the recovery in Thai tourism, but was later driven by uncertainties pertaining to the 
+monetary policy of major central banks following high inflation outturns in both the US and Europe, and banking stresses in a dvanced economies. The nominal effective exchange 
+rate (NEER) averaged 117.82, appreciating from the previous quarter. This was because the baht appreciated more than trading partners’ and competitors’ currencies, especially 
+the US and China. There has been net capital outflow from both bond and equity markets during the first quarter. In particular, outflows from the equity market were due to 
+lower -than-expected GDP and current account balance outturns in Thailand. Thebaht appreciated from theprevious quarter .Thebaht’s movements have been volatile duetoboth external
+andThailand -specific factors .
+-1.50.01.53.0
+Jan-22 Feb-22 Apr-22 Jun-22 Jul-22 Sep-22 Oct-22 Dec-22 Feb-23 Mar-23Equity
+Short-term bond
+Long-term bondBillion USD
+Million USDQuarter 4
+2022Quarter 1
+2023
+Equity 1,386 -1,518
+Bond 2,051 -931
+Total 3,437 -2,449Baht per U.S. dollar (USDTHB) and exchange rate indices
+Baht per USD Index 2014=100
+2018              2019               2020               2021                2022                 2023Capital flows into Thai securities (weekly)
+Note: Average weekly data, debt flow is converted to USD using the exchange rate after 5 p.m.
+Source: ThaiBMA and Bloomberg (as of 28 Mar 2023)
+39/53Monetary Policy Decision
+Monetary Policy Decision: Summary of Key Considerations
+Monetary Policy Decision
+The MPC judges that gradual and 
+measured policy normalization 
+remains appropriate for the 
+economic and inflation outlook, 
+and stands ready to adjust size 
+and timing should the outlook 
+shifts from the current 
+assessment.  Financial stability
+remains sound overall but 
+banking stresses in advanced 
+economies and the recovery 
+of the vulnerable groups 
+must be monitored.Economic growth
+The Thai economy would 
+continue to expand and 
+might post stronger growth 
+rates than previously 
+assessed. Inflation outlook
+Headline inflation would 
+return to the target range 
+during Q2/2023 although the 
+outlook is still subject to 
+upside risks. 
+40/53Monetary Policy Decision
+Inflation Financial Stability Economic growth
+The Thai economy would continue to expand and has already returned to pre -COVID levels. Tourism and private 
+consumption are the key drivers of growth, while exports would see a stronger recovery in H2/2023 before resuming 
+growth next year. 
+2030405060
+Dec-19 Jun-20 Dec-20 Jun-21 Dec-21 Jun-22 Dec-22Feb 2023Contribution to GDP growth
+Note : 1/ Level above 50 indicates that consumers are confidence about future economic 
+conditions. CCI was surveyed from 7,621 individuals in all 884 districts nationwide.
+Source : Economic and Trade Indices Database, Trade Policy and Strategy Office , 
+Ministry of Commerce . BOT’s calculationDiffusion Index1/
+private sector
+employee , 51.2
+self-employed 
+(non-farm), 50.4farmer, 51.8Consumer Confidence Index, by occupation
+2.1
+-6.11.52.6 3.6 3.8
+-15-10-5051015
+201920202021202220232024Exports of Goods Exports of Services Domestic Demand
+Imports and Stocks GDP%YoYConsumer Confidence Index sees broad -based improvements.
+business owner, 54.2
+41/53Monetary Policy Decision
+Economic growth Inflation Financial Stability
+Headline inflation isexpected toreturn tothetarget band inQ2/2023.Core inflation remains athighlevels .Theinflation
+outlook issubject toupside risksstemming from cost-passthrough bybusinesses andrising demand -pullinflationary
+pressure from theeconomic recovery .
+Note: These monthly indicators are %YoY except MUCSVO trend is %QoQ annualized of 10 categories of goods and services. Symmetric trimmed mean CPI
+excludes goods and services whose expenditure weights fall above the 90th percentile and below the 10th percentile of price c hanges. Sticky price CPI
+(following Bryan and Meyer, 2010) is calculated from goods and services whose prices take longer time to adjust than the aver ageof 4.8 months. Common 
+CPIis calculated from common underlying factors underpinning the change in price of goods and services across 66 categories using principle component 
+model. MUCSVO trend is constructed following Stock and Watson (2015).
+Sources : Ministry of Commerce, calculated by BOTUnderlying inflation indicators have decreased but still remain at high levels. 
+Underlying inflation 
+indicator2022 2023
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb
+Core CPI 0.51.82.02.0 2.3 2.5 3.0 3.23.1 3.2 3.2 3.2 3.0 1.9
+Core CPI (ex rent & 
+measures)0.72.22.42.6 2.8 3.0 3.6 3.73.8 3.9 4.0 4.0 3.8 2.3
+Symmetric trimmed 
+mean CPI1.22.12.42.43.2 3.7 4.0 4.24.2 4.2 4.1 4.2 3.7 2.9
+Sticky price CPI 0.52.42.82.7 3.2 3.5 4.2 4.74.6 4.7 4.9 4.9 4.6 3.1
+Common CPI 0.91.71.82.22.52.83.23.63.73.84.14.34.33.8
+MUCSVO Trend 2.9 3.4 3.8 3.2Share of higher costs being borne by producers 
+(pent -up costs)
+Source: BOT Business Survey on Selected Issues, responses from round 1 ( 340 respondents)Unit: % of respondents
+Pent-up costs 0% 20% 40% 60% 80% 100%TotalConstruction and real estateChemical, petroleum, rubber, and plasticWholesale tradesMetal and metal fabricationElectrical appliances and electronicsRetail tradesTextiles and apparelsAutomobileHotel and restaurantsFood and beverages
+0% (already passed on to consumers) less than 10%
+10-20% 21-30%
+31-50% more than 50%lower than1.50% 
+1.50% -1.75%1.75% -2.25%
+2.25% -2.50% higher than2.50% 
+42/53Monetary Policy Decision
+Economic Growth Inflation Financial Stability
+Financial stability remains sound overall .Banking stresses inadvanced economies hadlimited impact ontheThai
+financial system .However, thesituation going forward isstillhighly uncertain andthuswarrants close monitoring .
+Thai commercial banks remain strong. Thai banks and businesses have 
+limited exposure to troubled banks and risky assets.
+Note:1/Data is for the whole banking system as of end -2022
+2/Silvergate Bank, SVB, Signature Bank, Credit Suisse Capital market
+•Share of investments in 
+troubled assets2/of total 
+investments abroad of all 
+investor groups is very lowBanks
+Thai banks1/remain strong
+•Capital buffer (BISratio) is at 19.4%, well 
+above regulatory requirement of 8.5% and 
+is mostly comprised of capital equity tier -1. 
+•Liquidity Coverage Ratio (LCR) 197.3%, well 
+above 100%
+•NPL provision 171.9%, well-above 100%
+Share of foreign assets isLow
+•Share of transactions and assets related to 
+troubled banks2/is very lowGlobal stock indices, especially financial sector stock prices, 
+have declined while impact on Thai markets has been limited.
+Note: EU, US, and Thai financial sector equities exclude insurance businesses.-16.1% -15.9%-3.9% -3.5% -3.4%-2.0% -1.4%
+-18%-15%-12%-9%-6%-3%0%3%EU US KR TW ML ID TH
+Change in Financial Sector Change in Index
+Source: Bloomberg. Data as of Mar 28, 2023 (for EU & US as of Mar 27, 2023)Change (Mar 8 –Mar 27, 23)
+43/53Monetary Policy Decision
+Economic growth Inflation Financial Stability
+Financial stability remains sound overall but there remains the need to monitor balance sheets of vulnerable SMEs and 
+households, and to continue implementing debt restructuring measures. 
+BOT and SFIs still have in place debt assistance measures
+to support vulnerable groups
+BOT’s 
+targeted 
+measures 
+SFIs’ 
+support 
+measure for 
+vulnerable 
+borrowers
+Approach to 
+addressing 
+household 
+debts2/•Long-term debt relief measures (Dec 2023)
+•Extension of soft loans and transformation loans 
+(Apr 2024)
+•Reduction in minimum repayment for credit card 
+loans (Dec 2024)
+•Debtor with account status “21”: 
+Debt restructuring and extended 
+repayment periods
+•Other debtors: Sustainably debt 
+restructuring
+1) Debt Exit Fastlane, Debtor account status “21”, long -term debt relief
+2) Responsible lending
+3) Lay necessary foundation for sustainably addressing household debts 
+such as integrated household debt databasesBAAC
+GSB
+GH Bank
+Note: 1/ Debtors with account status of “21” under the National Credit Bureau ’s classification are 
+debtors who became NPL due to the COVID -19 pandemic
+2/ See more details in Directional Paper on Sustainable Solutions to Thailand ’s Structural Debt 
+Overhang Problems012345
+Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2562 2563 2564 2565ที่อยู่อาศัย รถยนต์
+บัตรเครดิต ส่วนบุคคลอื่น ๆShares of stage 3 loans (NPL) have slightly increased 
+in some consumer loan portfolios.   
+%
+3.121/
+3.01
+2.401/
+1.88Mortgage Loans
+Credit Card LoansAuto Loans
+Personal Loans
+2019 2020 2021 2022
+1/%Stage 3 for credit card loans and personal loans would have been 2.59% and 2.37%, respectively,
+if the credit card and personal loan portfolio of one bank had not transferred to its subsidiary 
+(excluded from stage 3 calculation).
+Source: Bank of Thailand  44/53Monetary Policy Decision
+MPC Meeting 
+No. 1/2023 
+(25 Jan 2023)
+The MPC judges that a gradual and measures policy normalization, whilst standing
+ready to adjust the size and timing of rate hikes should the economic and 
+inflation outlook shifts from current assessment remains the appropriate 
+course of monetary policy action to maintain price stability and support the 
+economic recovery while there are still pockets of vulnerabilities. 1.75%Current policy rate:Financial stability remains sound overall but there remains the need to 
+monitor the impact of banking stresses in advanced economies on the Thai 
+financial system as well as to monitor recovery of the vulnerable groups, and 
+to continue implementing debt restructuring measures. The Thai economy would continue to expand mainly driven by tourism and 
+private consumption, and might post stronger growth than expected. Headline 
+inflation would return to the target range in Q2/2023 but the outlook is still 
+subject to upside risks stemming from higher cost -passthrough and rising 
+demand -pull inflationary pressure from the ongoing economic recovery. MPC voted unanimously to 
+raise the policy rate by 
+0.25 percentage pointPursuing a gradual and measured policy normalization, whilst standing ready to adjust the size and timing should the 
+growth and inflation shifts still remains the appropriate course of monetary policy action. 
+MPC Meeting
+No. 2/2023 
+(29 Mar 2023 )MPC voted unanimously to 
+raise the policy rate by 
+0.25 percentage point
+45/53Thai Economy Dashboard
+Source: Office of the National Economic and Social Development Board National Statistical Office and Bank of Thailand
+2021 2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+1.6 2.6 -2.4 7.8 -0.2 2.0 2.2 2.5 4.6 1.4
+Production
+Agriculture 2.3 2.5 -0.6 3.1 5.2 2.1 3.4 4.0 -2.2 3.6
+Non-agriculture 1.5 2.6 -2.5 8.2 -0.5 1.9 2.0 2.3 5.1 1.1
+Manufacturing 4.9 0.4 1.7 17.0 -0.9 3.5 2.0 -0.8 6.0 -4.9
+Construction 2.2 -2.7 12.7 2.3 -4.5 -0.6 -5.1 -4.4 -2.6 2.6
+Wholesales and retail trade 1.6 3.1 -1.9 4.1 2.1 3.1 2.7 3.2 3.5 3.1
+Transport and storage -2.7 7.1 -18.0 10.8 -1.3 4.8 3.5 5.0 10.1 9.8
+Accommodation and Food Service -14.2 39.3 -37.4 17.8 -18.8 -4.7 32.2 44.7 53.2 30.6
+Information and Communication 6.1 5.1 5.2 6.2 7.4 5.8 5.7 6.3 4.7 4.1
+Financial intermediation 5.5 0.9 6.5 6.3 6.1 3.1 1.0 1.4 1.0 0.2
+Real estate and renting 1.7 2.1 2.1 2.5 0.6 1.5 1.3 2.4 3.1 1.92021 2022
+GDP growthPercent
+46/53Thai Economy Dashboard
+Note: *Data may be subject to change in line with periodic revisions or changes to data collection methodologies
+Source: Office of the National Economic and Social Development Board National Statistical Office and Bank of Thailand
+2021 2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+1.6 2.6 -2.4 7.8 -0.2 2.0 2.2 2.5 4.6 1.4
+Domestic demand 1.8 4.1 1.9 4.8 -1.5 2.2 3.6 4.3 6.0 2.5
+Private consumption 0.6 6.3 -0.1 5.3 -3.2 0.6 3.5 7.1 9.1 5.7
+Private investment 3.0 5.1 2.9 8.8 2.3 -1.1 2.9 2.3 11.2 4.5
+Government consumption 3.7 0.0 1.0 0.7 2.5 10.4 8.2 2.7 -1.5 -8.0
+Public investment 3.4 -4.9 18.8 3.1 -6.7 1.8 -3.8 -8.8 -6.8 1.5
+Imports of goods and services 17.8 4.1 2.1 29.9 27.4 15.6 4.4 7.3 9.5 -4.6
+imports of goods 18.2 5.4 5.0 29.9 26.5 14.5 6.6 9.9 11.2 -5.9
+imports of services 16.0 -0.5 -9.4 30.3 32.6 21.0 -3.3 -1.9 3.7 -0.4
+Exports of goods and services 11.1 6.8 -9.8 28.8 13.0 18.7 11.9 7.8 8.7 -0.7
+exports of goods 15.3 1.3 3.0 30.9 12.4 17.5 9.7 4.3 2.3 -10.5
+exports of services -19.9 65.7 -61.0 9.0 19.4 31.2 35.5 47.7 79.2 94.6
+Trade balance (billion, U.S. dollars) 32.4 10.8 7.4 9.3 7.5 8.1 7.2 2.5 -1.9 3.0
+Current account (billion, U.S. dollars) -10.6 -17.2 -1.8 -2.7 -4.5 -1.7 -2.4 -8.0 -7.7 0.9
+Financial account (billion, U.S. dollars) -6.0 2.2 -6.7 -2.7 2.6 0.8 3.7 -0.2 -3.5 2.1
+International reserves (billion, U.S. dollars) 246.0 216.6 245.5 246.5 244.7 246.0 242.4 222.3 199.4 216.6
+Unemployment rate (%) 2.0 1.3 2.0 1.9 2.3 1.7 1.5 1.4 1.2 1.2
+Unemployment rate, seasonally-adjusted (%) n.a. n.a. 2.0 1.9 2.2 1.7 1.5 1.4 1.2 1.2GDP growth
+ExpenditurePercent 2021 2022 47/53Financial Stability Dashboard
+1/Calculated by 'annualized standard deviation of return' method2/ Daily volatility (using exponentially weighted moving average method)
+3/ Based on data of all commercial banks4/ Average value of 6 largest Thai commercial banks (since july 2021)Notes: 
+2021 2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+1. Financial market sector
+1.2 1.0 1.5 1.3 1.3 1.2 1.4 1.2 1.3 1.0
+Equity market
+SET index (end of period) 1,657.6 1668.7 1,587.2 1,587.8 1,605.7 1,657.6 1,648.8 1,568.3 1,589.5 1668.7
+Actual volatility of SET index1/12.0 11.0 13.6 12.4 11.8 10.4 12.0 12.6 9.9 9.4
+Price to Earnings ratio (P/E ratio) (times) 20.8 18.2 41.4 30.2 20.5 20.8 19.6 18.5 17.5 18.2
+Exchange rate market
+Actual volatility of Thai baht (%annualized )2/5.4 8.7 4.4 4.4 5.5 7.3 6.6 6.4 9.3 11.9
+Nominal Effective Exchange Rate (NEER) 117.8 115.6 122.7 119.3 114.8 114.6 116.8 116.4 113.6 115.8
+Real Effective Exchange Rate (REER) 104.7 103.4 109.0 106.0 101.7 102.3 104.4 103.8 101.9 103.4
+2. Financial institution sector3/
+Minimum Lending Rate (MLR)4/5.49 6.00 5.36 5.36 5.49 5.49 5.49 5.49 5.55 6.00
+12-month fixed deposit rate4/0.45 0.98 0.44 0.42 0.45 0.45 0.45 0.45 0.50 0.98
+Capital adequacy
+Capital funds / Risk-weighted asset (%) 19.9 19.4 20.0 20.0 19.9 19.9 19.8 19.6 19.2 19.4
+Earning and profitability
+Net profit (billion, Thai baht) 181.1 236.0 44.2 60.4 38.5 37.9 49.0 65.0 60.0 62.0
+Return on assets (ROA) (times) 0.8 1.0 0.8 1.1 0.7 0.8 0.9 1.1 1.0 1.1
+Liquidity
+Loan to Deposit and B/E (%) 94.2 92.0 92.2 92.8 93.8 94.2 92.8 93.8 94.5 92.0Indicators 2021 2022
+Bond market
+Bond spread (10 years - 2 years)
+48/53Financial Stability Dashboard
+Notes: 5/ Only listed companies on Stock Exchange of Thailand (median value); with data revisions
+2021 2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+3. Household sector
+Household debt to GDP (%) 90.1 86.9 90.8 89.6 89.7 90.2 89.3 88.3 87.0 86.9
+Financial assets to debt (times) 3.0 n.a. 2.7 2.8 2.8 3.0 3.2 3.4 3.6 n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Consumer loans 2.7 2.6 2.9 2.9 2.9 2.7 2.8 2.7 2.6 2.6
+Housing loans 3.5 3.0 3.7 3.7 3.6 3.5 3.5 3.4 3.3 3.0
+Auto leasing 1.5 1.9 1.6 1.6 1.7 1.5 1.5 1.5 1.7 1.9
+Credit cards 2.3 3.1 3.0 3.5 3.0 2.3 2.8 2.7 2.5 3.1
+Other personal loans 2.3 2.4 2.5 2.5 2.4 2.3 2.5 2.4 2.2 2.4
+4. Non-financial corporate sector5/
+Operating profit margin (OPM) (%) 8.3 7.7 9.2 8.2 7.9 8.4 7.7 8.3 7.3 6.6
+Debt to Equity ratio (D/E ratio) (times) 0.7 0.7 0.8 0.8 0.8 0.7 0.7 0.7 0.7 0.7
+Interest coverage ratio (ICR) (times) 6.6 5.6 6.5 6.3 5.9 6.9 6.7 6.6 4.9 4.4
+Current ratio (times) 1.7 1.8 1.6 1.6 1.7 1.7 1.8 1.8 1.7 1.8
+Non-Performing Loans (NPLs) of commercial banks (%)
+Large businesses 2.6 2.3 3.0 3.0 2.8 2.6 2.6 2.5 2.3 2.3
+SMEs 7.2 7.0 7.2 7.3 7.3 7.2 7.2 7.2 6.9 7.0Indicators 2021 2022
+49/53Financial Stability Dashboard
+Notes: 6/External debt / 3-year average nominal GDP
+7/Short-term external debt used in calculation is short -term external debt less than 1 year remaining maturity
+2021 2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+5. Real estate sector
+Number of approved mortgages from commercial banks  (Bangkok and Vicinity) (units)
+Total 63,207 64,636 15,958 17,238 14,413 15,598 13,611 16,136 17,113 17,776
+ Single-detached and semi-detached houses 18,310 19,471 4,445 4,954 4,169 4,742 4,661 4,949 4,805 5,056
+ Townhouses and commercial buildings 21,372 19,752 5,709 6,133 4,775 4,755 4,367 4,943 5,226 5,216
+ Condominiums 23,525 25,413 5,804 6,151 5,469 6,101 4,583 6,244 7,082 7,504
+Number of new housing units launched for sale (Bangkok and Vicinity) (units)
+Total 60,394 107,051 9,996 16,028 11,085 23,285 23,923 30,250 24,966 27,912
+Single-detached and semi-detached houses 13,240 24,748 2,275 3,222 2,963 4,780 3,559 5,323 8,678 7,188
+Townhouses and commercial buildings 23,709 28,525 2,765 7,492 5,597 7,855 4,655 9,015 6,957 7,898
+Condominiums 23,445 53,778 4,956 5,314 2,525 10,650 15,709 15,912 9,331 12,826
+Housing price index (2009 = 100)
+Single-detached houses (including land) 135.84 141.54 134.10 135.04 136.50 137.72 138.63 141.35 140.85 145.32
+Townhouses (including land) 160.60 167.36 158.78 159.59 161.55 162.48 164.44 167.37 168.44 169.20
+Condominiums 180.37 184.43 177.18 178.79 185.40 180.10 181.99 185.26 181.57 188.92
+Land 177.73 180.17 171.03 172.21 179.22 188.43 178.80 179.57 177.99 184.33
+6. Fiscal sector
+Public debt to GDP (%) 59.7 61.0 54.5       55.4       58.4       59.7       60.6       61.0       60.5       61.0       
+7. External sector
+Current account balance to GDP (%) -2.1 -3.5 -1.3 -2.2 -3.8 -1.3 -1.9 -6.6 -6.4 0.7
+External debt to GDP (%)6/38.0 39.9 35.6 35.7 36.4 38.0 38.4 37.8 37.1 39.9
+External debt (billion, U.S. dollars) 196.3 199.8 184.5 185.2 188.5 196.3 198.0 194.1 187.9 199.8
+Short-term (%) 38.1 40.1 39.0 38.6 38.2 38.1 38.1 39.5 40.7 40.1
+Long-term (%) 61.9 59.9 61.0 61.4 61.8 61.9 61.9 60.5 59.3 59.9
+International reserves / Short-term external debt (times)7/2.7 2.3 2.8 2.9 2.8 2.7 2.7 2.4 2.2 2.3Indicators 2021 202250/53Probability distribution of economic growth forecast
+Probability distribution of GDP growth forecast
+2023 2024 2025
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+> 16 0 0 0 0 1 1 1 2 2
+14.0-16.0 0 0 0 0 0 1 1 1 1
+12.0-14.0 0 0 0 1 1 1 1 1 1
+10.0-12.0 0 0 0 2 2 2 2 3 2
+8.0-10.0 0 1 2 6 3 4 4 7 6
+6.0-8.0 0 5 8 14 8 9 11 14 13
+4.0-6.0 3 21 22 27 24 19 24 20 21
+2.0-4.0 71 50 38 32 30 24 26 22 21
+0.0-2.0 24 19 18 10 18 19 16 15 15
+(-2.0)-0.0 1 4 7 4 6 10 8 8 9
+(-4.0)-(-2.0) 0 1 2 1 2 4 3 4 4
+(-6.0)-(-4.0) 0 0 1 1 1 1 1 2 2
+(-8.0)-(-6.0) 0 0 0 1 1 1 1 1 1
+< -8 0 0 0 1 2 3 2 2 2%
+51/53Probability distribution of inflation forecast
+Probability distribution of headline inflation forecast Probability distribution of core inflation forecast
+2023 2024 2025
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+> 10 0 0 0 0 0 0 0 0 0
+9.0-10.0 0 0 0 0 0 0 0 0 0
+8.0-9.0 0 0 0 0 0 0 0 0 0
+7.0-8.0 0 0 0 0 0 0 0 0 0
+6.0-7.0 0 0 1 1 2 2 1 1 1
+5.0-6.0 6 2 4 5 6 6 4 4 4
+4.0-5.0 48 10 11 13 14 14 11 10 10
+3.0-4.0 43 28 23 23 23 23 20 20 19
+2.0-3.0 3 37 30 28 26 26 26 26 26
+1.0-2.0 0 20 21 20 19 19 23 23 23
+0.0-1.0 0 4 8 8 8 8 11 12 12
+(-1.0)-0.0 0 0 2 2 2 2 3 3 4
+(-2.0)-(-1.0) 0 0 0 0 0 0 1 1 1
+< -2 0 0 0 0 0 0 0 0 0%
+2023 2024 2025
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+> 5.5 0 0 0 0 0 0 0 0 0
+5.0-5.5 0 0 0 0 1 0 0 0 0
+4.5-5.0 0 0 1 1 2 1 0 0 0
+4.0-4.5 0 1 3 4 5 3 2 1 1
+3.5-4.0 0 6 7 10 10 7 4 4 4
+3.0-3.5 8 18 16 18 18 13 9 8 8
+2.5-3.0 40 31 24 25 23 19 16 15 14
+2.0-2.5 47 31 27 24 23 23 22 21 20
+1.5-2.0 5 11 17 13 13 20 23 23 23
+1.0-1.5 0 1 5 4 4 10 16 18 18
+0.5-1.0 0 0 1 1 1 3 6 8 8
+0.0-0.5 0 0 0 0 0 0 1 2 2
+(-0.5)-0.0 0 0 0 0 0 0 0 0 0
+< -0.5 0 0 0 0 0 0 0 0 0%
+52/53i
+Bank of Thailand Channel
+Hotline 1213 Channel
+www.bot.or.th
+ @bankofthailand
+bankofthailand
+Hotline1213Bank of Thailand
+273 Samsen Road, Watsamsenphraya, Phra Nakhon District, Bangkok 10200
+Tel. + 66 2283 -5353

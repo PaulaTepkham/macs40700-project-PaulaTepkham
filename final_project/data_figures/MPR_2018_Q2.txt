@@ -1,0 +1,3344 @@
+ 
+Monetary Policy Report  June  2018 
+Monetary Policy Report  
+ 
+ 
+The Monetary Policy Report  is prepared quarterly by staff of the 
+Bank of Thailand with the approval of the Monetary Policy Committee 
+(MPC).  It serves two purposes: ( 1) to communicate to the public the  
+MPC’s  consideration and rationales for the conduct of monetary policy, 
+and (2)  to present the latest set of  economic and inflation forecast s, based 
+on which  the monetary policy decisions  were made .  
+ 
+ 
+The Monetary Policy Committee  
+June  2018 
+ 
+Mr. Veerathai Santiprabhob   Chairman  
+Mr. Mathee Supapongse  Vice Chairman  
+Mr. Paiboon Kittisrikangwan  Member  
+Mr. Porametee Vimolsiri  Member  
+Mr. Sethaput Suthiwart -Narueput  Member  
+Mr. Kanit Sangsubhan  Member  
+Mr. Subhak Siwaraksa  Member  
+ 
+ 
+ 
+ 
+  
+Monetary Policy Report  June  2018 
+Monetary Policy in Thailand  
+Monetary Policy Committee  
+Under the Bank of Thailand Act, the Monetary Policy Committee (MPC) comprise s the 
+governor and two deputy governors, as well as four distinguished external members  
+representing various sectors of the economy , with the aim of ensuring  that monetary policy 
+decisions are effective and transparent.  
+Monetary Policy Objective  
+The MPC sets monetary policy to promote  the objective of supporting sustainable a nd full 
+potential economic growth, without causing inflationary problems or economic and financial 
+imbalances or bubbles.  
+Monetary Policy Target  
+The Cabinet  approved the annual average headline inflation target of 2.5 + 1.5 percent as the 
+target  for the medium  term and for 201 8. The inflation target  is to assure the general public 
+that the MPC will take  necessary policy actions to return headline inflation to the target within 
+an appropriate time horizon without jeopardizing growth and macro -financial stability.  In the 
+event that headline inflation deviates from the target, the MPC shall explain the reas ons 
+behind the target breach to the  Minister  of Finance and the  public, together with measures 
+taken and estimated time to bring inflation back to the target.  
+Monetary Policy Instrument  
+The MPC utilizes the 1 -day bilateral repurchase transaction rate as the policy interest rate to 
+signal the monetary policy stance.  
+Evaluati on of Economic Conditions and Forecasts  
+The Bank of Thailand takes into account  information from all sources, the macroeconomic 
+model, data from each economic sector, as well as surveys  of large enterprises , together with  
+small and medium -sized  enterprises from all over the country,  and various financial institutions  
+to ensure that economic evaluations and forecasts are accurate and cover all aspects, both at 
+the macro and micro levels.   
+Monetary Policy Communication  
+Recognizing the importance of monetary policy communication to the public, the MPC 
+employs  various  channel s of communication, both in Thai and English, such as (1) organizing 
+a press statement at 14 :00 on the day of the Committee meeting, (2) publishing edited 
+minutes of the MPC meeting two weeks after the meeting, and (3) publishing the Monetary 
+Policy Report  every quarter.  Monetary Policy Report June  2018  Content  
+Executive Summary  1 
+1. The Global Economy  ................................ ................................ ...........................  5 
+ Advanced economies  
+ Chinese and Asian economies  
+Forecast assumptions for trading partners’ economic growth  
+ Global financial markets  
+ Oil prices   
+2. The Thai Economy  ................................ ................................ ............................  10 
+2.1 Recent developments  ................................ ................................ ........................  10 
+ Overall economy    
+ Labor market   
+ Inflation   
+ Financial conditions   
+ Exchange rates  
+ Financial stability   
+2.2 Outlook for the Thai economy  ................................ ................................ ........  18 
+Key forecast assumptions  
+ Growth forecast and outlook  
+Inflation forecast and outlook  
+ Risks to growth and inflation forecasts  
+3. Monetary Policy  Decision  ................................ ................................ .................  24 
+ Monetary Policy Committee’s decisions in the previous quarter   
+BOX : Thailand’s structural economic issues and economic policy coordination  
+BOX : The Impact of exchange rates on the Thai Economy  
+4. Appendix  ................................ ................................ ................................ ............  41 
+4.1 Table s ................................ ................................ ................................ ................  41 
+Dashboard of indicators for the Thai economy  
+ Dashboard of indicators for financial stability  
+ Probability distribution of growth and inflation forecast  
+4.2 Data  Pack  ................................ ................................ ................................ ..........  46 
+Economic assessment  
+Financial stability assessment   Monetary Policy Report June  2018  1 Executive Summary  
+Monetary Policy Conduct in the Second  Quarter of 2018  
+The Committee assessed that the Thai economy continued to gain further traction and would achieve higher 
+growth than previously assessed, driven by both domestic and external demand. Headline inflation was projected 
+to increase  toward target slightly faste r than the previous assessment on the back of rising global oil prices. 
+Demand -pull inflationary pressures edged up somewhat but remained at a low level. Financial stability remained 
+sound but there remained a need to monitor pockets of risks that might po se vulnerabilities to financial stability in 
+the future. The Committee weighed various factors in determining the most appropriate course of 
+monetary policy and voted unanimously (6 to 0) and later 5 to 1 to maintain the policy rate at 1.50 percent 
+at the meetings on May 16 and June 20, 2018 , respectively.  In deliberating their decision, the Committee 
+judged that accommodative monetary policy stance would remained a key supporting factor to help sustain 
+domestic demand  growth , which would in turn foster  headline inflation to gradually rise and move within the target 
+in a sustainable manner. Under the Committee’s assessment, the policy rate at 1.50 percent would be sufficiently 
+accommodative . The new loan rates (NLR) continued to stay at low levels  and r ecent rising government bond 
+yields had a limited impact on financing costs of the private sector. Meanwhile, one Committee member voted to 
+raise the policy rate by 0.25 percentage point to 1.75 percent at the June meeting , with the view that  the economic 
+recovery was sufficiently robust and inflation was expected to remain within target throughout the projection period, 
+and that the prolonged monetary accommodation  might induce households and businesses to underestimate risks 
+to potential chan ges in financial conditions. Thus, it would be appropriate to increase the policy rate at this time in 
+order to start building policy space for potential use in the future.  
+Looking ahead, the Committee viewed that, should economic expansion continue and i nflation move more firmly 
+within target, the need for currently extra accommodative monetary policy would start to be reduced, and that the 
+need for a policy rate increase in order to build policy space in the future would be increasing . 
+Assessments of the  Economic and Inflation Outlooks a s the Basis for Policy Formulation  
+1. Global Economy  
+The global economy was projected to continue expanding amid tightening financial conditions and rising 
+oil prices.  Advanced economies would expand on the back of domestic demand. The U.S. economy would be 
+supported by strong economic fundamentals including strong  labor market, robust  consumer confidence, and fiscal 
+stimulus, despite some impact s from China’s trade ret aliatory measures. The euro area and Japanese economies 
+would be supported by continued accommodative monetary policy , although the first quarter saw some slowdown in 
+consumption due to unusually cold  weather. China continued expanding but growth would sli ghtly slow  down due to 
+economic reforms. According to preliminary assessments, the U.S. trade protectionism  measures were expected to 
+have some effects on Chinese exports and the overall economy to some extent. Meanwhile, other Asian economies 
+were project ed to grow faster than previously estimated owing to robust domestic demand and export growth, which 
+were in line with global demand and international trade. The Committee, therefore, revised up the growth forecast 
+for Thailand’s trading partners from 3.7 percent to 3.8 percent in 2018.  Yet, there remained  risks to be monitored , 
+including  (1) intensifying trade retaliations betwe en the U.S. and major economies  that could undermine trade 
+volume, investment climate , and spur financial market volatility  and (2) geopolitical risks which continued to create 
+uncertainty that might affect the global economy and financial markets.  
+While most central banks maintained accommodative monetary policy stance, the U.S. Federal Reserve 
+(Fed) and some central banks in the  region increased their policy rates.  For instance, central banks of the 
+Philippines and Indonesia raised interest rates to curb inflation and volatility in the financial markets. In addition, 
+other central banks in the region started to signal changes in monetary policy stance given  improved economic 
+growth and rising inflation toward target. Such conditions would facilitate monetary policy normalization in the 
+period ahead.  
+Global financial markets remained volatile. Emerging markets experienced capital outflows as foreign 
+investors reduced their investment s in risky assets.  The 10 -year U.S. treasury yields reached the highest Monetary Policy Report June  2018  2 point in the past four years. The  number of  Fed’s rate hike s this year was expected to increase to four instead of 
+three. In addition, t rade retaliatory measures between the U.S. and major economies were intensified. These 
+events increased risks to emerging markets, especially those with weaker economic  fundamentals such as 
+Argentina and  Turkey.  
+2. Financial Conditions and Fina ncial Stability  
+Thailand’s financial conditions remained accommodative.  Short -term Thai government bond yields rose toward 
+the policy rate due to a greater supply of bonds and lower demand from foreign investors. Meanwhile, medium - and 
+long-term bond yields increased mainly due to external factors as well as Thai economic and  inflation outturns which 
+were better than market expectations . Interest rates on new loans remained at a low level, while private credit 
+expanded as seen in both corporate and households sectors. Business es continued to seek funding through both 
+debt and equity instruments. The Thai baht depreciated from the previous quarter, in line with regional currencies, as 
+the U.S. dollar strengthened. In addition, the depreciation was due to a seasonal factor in the second quarter during 
+which foreign corporates and  investors in Thailand repatriated their dividends back to their home countries. The real 
+effective exchange rate (REER) strengthened because Thailand’s inflation increased faster than that of trading 
+partner economies.  
+Financial stability remained sound but there existed pockets of risks that warranted monitoring.  These 
+included, first, the search for yield behavior which persisted in the  prolonged low interest rate environment  that could 
+lead to increased underpric ing of  risks. For example , concentration  of investment by foreign investment funds in 
+certain countries and large expansions of assets and deposits of saving cooperatives despite some slowdown after 
+the revision of regulations to upgrade supervision practices. Second, volatility of international  capital flows and the 
+global financial markets could trigger yield snapbacks and affect roll -overs of short -term corporate bonds. Third, 
+overall credit quality remained unchanged but deteriorated among some households and businesses, especially 
+households  with large debt burden and smaller SMEs with weak financial positions. Fourth, there continued to be an 
+excess supply of properties of certain price ranges and in some areas. This was particularly the case for 
+condominiums with price s below three million baht whose supply remained high and would take  some  time to sell.  
+3. Economic and Inflation Outlook  
+The Thai economy was projected to continue expanding at 4.4 and 4.2 percent  in 2018 and 2019 , 
+respectively , higher than assessed at 4.1 percent for both years in the previous Monetary Policy Report . The 
+upward revision was on the back of a continued improvement in merchandise exports and tourism , in tandem with 
+global trade volume and trading partners’ economies, as well as higher -than-expected private con sumption and 
+private investment growth.  
+Merchandise exports continued to expand across various product categories and almost all export 
+destinations.  The value of merchandise exports in 2018 was revised to grow 9.0 percent, up from 7.0 percent 
+assessed in  the previous quarter, with expected growth in both price and quantity  terms . Export prices  was 
+projected to trend up in line with crude oil prices , especially for commodities and oil -related products . Export volume 
+would continue to expand across various product categories, particularly electronics, auto parts, and processed 
+agricultural products, in tandem with expansion in global trade volume and trading partner economies. Moreover, 
+import value would continue to rise  in line with (1) increased demand for raw materials and intermediate goods, 
+capital goods , and machinery as private investment  improved  and (2) higher oil prices. Nevertheless, t he 
+Committee assessed that intensifying  trade retaliation between the U.S. and major economies , which could  put 
+pressures on investment and international trade , would directly and indirectly affect Thai exports . Thus, the 
+Committee would closely monitor and assess potential impact s going forward.  
+Exports of services in 2018 were expected to be slightly higher than the previous assessment due mainly 
+to a higher number of foreign tourists. The projection of the number of foreign tourists was revised up to 38.3 
+million in 2018, up from the previous fo recast of 37.6 million. The upward revision was due to continued growth of 
+Chinese tourists for both tour group s and free and independent travelers (FIT) , who had high purchasing power , 
+and newly opened direct flights from second -tier Chinese cities to Tha iland. In addition, recent management by 
+airlines and airports also helped alleviate airport capacity constraints in accommodating  the rising number of 
+tourists. For instance, there were additional  flights during off -peak times and higher utilization of regional airports.  Monetary Policy Report June  2018  3 Private consumption was projected to gain traction from the previous period , supported mainly by non -farm 
+households, especially middle - and high -income households whose earnings continued to rise. Meanwhile, 
+earnings of low -income househ olds started to improve following stronger employment particularly in construction 
+and services sectors. Farm income expanded on the back of higher production , while agricultural prices of certain 
+crops that lingered at  low levels would remain a major drag on farm income. Moreover,  government measures —
+such as the social welfare card project (second phase), the community enterprise development project, and 
+agricultural reform project —would support purchasing power going forward. However, elevated  household debt 
+would cause households to allocate part of their in come for debt repayment . In addition,  ongoing  structural 
+changes in the labor market would continue to weigh on private consumption  growth . 
+Public spending remained a driver of economic gro wth, with some investment projects postponed to 
+2019 . Public consumption would continue expanding despite smaller projected  outlays  due to the change in the 
+government budget structure for fiscal year 2019, with a larger share of capital spending compared with the 
+previous announcement. Although the re was  additional  fiscal  budget in 2018, this would not compensate for  the 
+moderation in public consumption due to  the change in the 2019 budget structure . Public investment in 2018 was 
+revised downward due to de layed investment by some state -owned enterprises following difficulties in accessing  
+construction sites and some construction problems . In any case , public investment in 2019 was revised up due to 
+the following reasons. First, a larger share of the governm ent budget for fiscal year 2019 was allocated to capital 
+spending compared with the previous announcement . Second, some investment spending would be carried over 
+from 2018. Third, disbursement plans for the dual -track railway project became more certain.  
+Private investment was projected to achieve higher growth than previously assessed , in line with growth of 
+merchandise exports and private consumptio n, due to  following factors. First, capacity utilization rose across 
+various  industries , such as automobile s and food and beverages . Second, import volume of capital goods and 
+machinery increased. Third, demand for private credits extended to businesses increased. Forth, investment plans 
+of large corporates became more certain. Fifth, government measures such a s the community enterprise 
+development and agricultural reform projects would support low -income households. Sixth, the value of investment 
+application submitted to the Board of Investment continued to trend up. Moreover, government infrastructure 
+investme nt projects, the Eastern Economic Corridor (EEC), and public -private partnership projects (PPP) that were 
+increasingly taking shape would shore up business confidence , foster investment climate , and  attract greater 
+foreign investment. However, developments  of such investment projects would warrant monitoring going forward.  
+Headline inflation was projected to rise at a faster pace than the previous assessment  on the back of 
+acceleration in prices of energy -related products in tandem with global crude oil pr ices. However, government 
+regulations  on energy -related prices partly curbed the increase in costs of transportation and prepared food. Fresh 
+food prices were projected to grow at lower rates  following  a larger -than-expected supply of meat, fruits, and 
+vegetables. Moreover, demand -pull pressures rose  only slightly  due to the fact that benefits from economic growth 
+was not yet sufficiently broad -based and  that there continued to be  sales promotion offered by businesses. In 
+addition, structural changes —such a s developments of production technology and higher business competition —
+still put downward pressures on inflation. Thus, the Committee saw the need to study the impact of such factors 
+on inflation dynamics in further details as this could have significant implications on determining  the inflation target 
+in the future. The Committee therefore projected headline inflation to average 1.1 and 1.2 percent in 2018 
+and 2019 , respectively, while core inflation was projected to average 0.7 and 0.9 percent in 2018 and 2019 , 
+respectively.   
+Risks to the growth projection were expected to tilt more downward than previous ly assess ed. The 
+increased downside risks  were mainly due to e xternal factors. First, U.S. trade protectionism measures, retaliation 
+by major economies, and intensifying competition resulted from trade diversion could have greater -than-expected 
+impacts on Thai exports and private investment. Second, growth of Thailan d’s trading partner economies might  
+be lower than expected in case  of intensifying  global geopolitical tensions. Moreover, certain domestic factors also 
+posed downside risks to the baseline projection. First, private consumption growth might be lower -than-expected 
+as domestic purchasing power had yet to recover in a broad -based manner. Second, the enforcement of the Public 
+Procurement and Supplies Management Act, B.E. 2560 could lead to longer -than-expected delay in budget 
+disbursement of some government ag encies. Nonetheless, on the upside, there were possibilities that the growth 
+outturn might be higher than the baseline projection. First, growth of trading partner economies might be higher  Monetary Policy Report June  2018  4 than expected given the U.S. economy continued  to improve  and the Chinese growth that could slow  down at a 
+slower pace  than expected should the Chinese government implement additional economic stimulus measures. 
+Second, domestic spending could be higher than the baseline assessment due to government infrastructure 
+investment projects, public -private partnership (PPP), as well as government measures aimed at stimulating 
+private spending. Risks to the headline and core inflation projection s were expected to tilt more downward 
+than the previou s assessment  consistent with the risks to the growth forecast.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monetary Policy Report June  2018  5 1. Global Economy  
+Major advanced economies were projected to continue expanding. Despite a temporary 
+slowdown during the first quarter of 2018, consumption would likely regain its growth 
+momentum following domestic demand and robust economic fundamentals. However, 
+risks inc reased from U.S. trade protectionism measures and intensifying retaliation from 
+major economies, and hence warranted monitoring.   
+The U.S. economy would continue to record strong growth.  Despite a temporary 
+slowdown in private consumption during the first  quarter  due to unusually cold weather and 
+delayed tax refunds, the overall economy continued to improve going forward.  Private 
+consumption would likely expand on the back of strong labor market, robust consumer 
+confidence and a continued fiscal stimulus w hich would support economic activities amid 
+higher long -term U.S. treasury yields and oil prices. In addition, the assessment of U.S. 
+economic growth took into account some impact from China’s trade retaliatory measures.  
+Euro area economies were projected to exhibit a slightly slower growth than the 
+previous assessment.  This was due to declined consumption in the first quarter of 2018 after 
+accelerating in earlier periods and sentiment which was hampered by uncertainties 
+surrounding U.S. trade measures and politics in the euro area. Nevertheless, a number of 
+factors would support the continuation of economic growth going forward: continued 
+accommodative monetary policy, steady expansion of global trade, recovering labor markets, 
+as well as robust consumer co nfidence despite being partially affected by political uncertainties.  
+Meanwhile, Japan’s economic growth was expected to be lower than the previous 
+estimate.  This was attributed to low private consumption and production during the first 
+quarter as a result  of unusually cold weather, rising vegetable prices, and decelerating 
+exports. However, robust consumer confidence and strong labor market would help drive 
+economic growth in the period ahead, while exports were expected to expand in tandem with 
+continued improvements in global trade (Chart 1.1).  
+The Chinese economy would continue to expand, while other Asian economies were 
+projected to grow faster than previously estimated on the back of domestic demand. 
+Meanwhile, exports continued to record strong growth  in line with global demand and 
+global trade.  
+The Chinese economy was expected to gain further traction despite some 
+slowdown following the government’s economic reforms.  Over the recent periods, 
+Chinese authorities tightened financial regulations, includi ng measures to curb speculation in 
+the real estate sector, to manage risks arising from shadow banking, as well as to tighten 
+credit standards on credits to local government.  Such measures led to tighten liquidity 
+conditions and started to weigh on economi c activities.  The government then shifted its focus 
+towards the continuation of economic growth and liquidity by cutting the reserve requirement 
+ratio (RRR), value -added taxes, and automobile import tariffs in order to stimulate private 
+spending. Meanwhile , according to the preliminary assessments, U.S. trade protectionism 
+measures were expected to have an impact on Chinese exports and the overall economy to 
+some extent. Such impact would be closely monitored and assessed as there were considerable  
+uncertai nties.  Monetary Policy Report June  2018  6 Asian economies (excluding Japan and China) would exhibit a higher growth 
+than the previous assessment , owing to better -than-expected growth outturns in the first 
+quarter of 2018. In particular, private consumption accelerated in several economies such as 
+Hong Kong, Malaysia, and Singapore, and exports continued to grow across various product 
+categories. In the period ahead, private consumption  would still be supported by  steady 
+improvements in consumer confidence, strengthening labor markets in sev eral countries, and 
+government policies such as the abolishment of goods and services taxes (GST) in Malaysia. 
+Meanwhile, the impact of rising oil prices on the economy would be limited as some countries 
+imposed energy -price subsidies.  Nevertheless, despit e being on the rising trend (Chart 1.2),  
+exports might slow down somewhat in the period ahead after accelerating in earlier periods, 
+particularly for smartphone -related electronic products. In the financial market, rising U.S.  
+long-term bond yields over th e recent periods had an impact on some Asian financial markets. 
+However, most countries still had sound external stability and could cushion against short -term 
+volatilities.  
+ 
+ 
+The growth outlook for Thailand’s trading partners was revised up, but risks to the growth 
+projection were expected to tilt downward.  
+Trading partners’ economies would likely be stronger than the assessment in the 
+previous Monetary Policy Report . This was  due to better -than-expected economic outturns of 
+several countries in the first quarter of 2018, coupled with growth momentum in the period 
+ahead driven by consumption and investment that would benefit from fiscal policies. The 
+Committee, therefore, revis ed up the growth forecast for Thailand’s trading partners to 3.8 
+percent in 2018 on the back of robust economic fundamentals of advanced economies and 
+accelerating growth in Asia. Meanwhile, the growth forecast for 2019 was expected to remain 
+close to the previous estimate at 3.6 percent (Table 1.1).  
+The Committee assessed that risks to growth of Thailand’s trading partners would tilt 
+to the downside based on the following factors. First, U.S. trade protectionism measures could 
+lead to intense retaliatory a ctions by major economies such as China, Canada, Mexico and 
+the euro area, which could cause a direct impact on global and Thai trade volume through 
+supply chain linkages and an indirect impact such as decelerating business investment due 
+to heightened unc ertainties. Second, geopolitical risks remained despite easing tensions in 
+-12-10-8-6-4-20246
+8090100110120130140
+ 015  01  01  018U.S. Euro area (RHS) Japan (RHS)Chart 1.1 Consumer confidence in advanced economies 
+continued to improve
+Diffusion index * Deviation from par*
+Note :*Euro area’s par = 0 and Japan’s par = 50
+Source: Bloomberg
+5060708090100110120130140
+ 013  01  015  01  01  018Electronics(40.0%) Other Manufacturing products (21.6%)
+Commodites (20.6%) Machinery (5.9%)
+Transportation (10.7%) Food (1.2%)Apr18Chart 1.2 Asian exports continued to improve and expand 
+across various product categories
+Asian exports value* classified by product categories
+Index, sa(Jan 2013 = 100 )
+Note: *Asian exports include Hong Kong, Taiwan, Korea, Malaysia and Singapore. 
+( ) share of total exports in 2017
+Commodity -related products include crude oil , metals, chemicals, rubber, and 
+vegetable oil.
+Other manufacturing products include textile, papers, furniture, footwear and 
+miscellaneous 
+Source: CEICMonetary Policy Report June  2018  7 the Korean Peninsula. This was due to concerns over the situation in Iran which warranted 
+close monitoring as this could heighten volatility in the financial and commodity markets, as 
+well as the real economic sector. Third, China’s economic and financial stability problems 
+continued to be monitored in the face of some progress given improved supervision of the 
+Chinese government.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Central banks maintained an accommodative monetary policy stance. However, the U.S. 
+and some Asian central banks hiked their policy interest rates.  
+Most central banks maintained an accommodative monetary policy stance. The 
+European Central Bank (ECB) anno unced to extend its net asset purchases until the end of 
+December 2018 and that purchases would then end, and expect to maintain its policy interest 
+rate at least through the summer of 2019. Meanwhile, the Federal Reserve (Fed) continued 
+to normalize monet ary policy by raising the federal funds rate at the meeting in June 2018 in 
+line with market expectations.  Nevertheless, the U.S. economic expansion and tightening 
+labor market would support upward pressures on inflation going forward. Therefore, the 
+number of Fed’s rate hikes was expected to increase to four instead of three in  018. Some 
+central banks in Asia also raised their policy rates. In May 2018, the central bank of the 
+Philippines (BSP) increased its policy interest rate to curb inflation, while B ank of Indonesia 
+(BI) hiked the rate twice to manage volatility in the financial market. In addition, other central 
+banks in the region started to signal changes in monetary policy stance given the continuation 
+of economic growth and rising inflation towar d target, which would facilitate monetary policy 
+normalization in the period ahead.  
+Global financial markets were volatile. During the second quarter of 2018, emerging 
+markets experienced capital outflows as foreign investors reduced their investments in 
+risky assets. This was attributable to a surge in 10 -year U.S. treasury yields which reached 
+the highest point in the past four years, expectations of Fed’s policy rate hikes, and 
+Table 1.1 Assumption on trading partner growth
+Annual change (%YoY) Weight (%) 2017* 2018 2019
+United States 14.9 2.3 2.7 (2.7) 2.4 (2.4)
+Euro area 10.0 2.6 2.2 (2.3) 2.0  (2.0)
+Japan 13.6 1.7 1.2 (1.5) 1.0 (1.0)
+China 15.7 6.9 6.6 (6.6) 6.4 (6.4)
+Asia (excluding Japan and China)** 37.4 4.6 4.4 (4.2) 4.3 (4.3)
+Total***  100 3.9 3.8 (3.7) 3.6 (3.6)
+Note: *Outturn
+* Weighted by a share of Thailand’s total exports to   trading partners in  01 , namely 
+Singapore (6.5%), Hong Kong (7.9%), Malaysia (8.0%), Taiwan (2.5%), Indonesia (5.9%), 
+South Korea (2.8%), and the Philippines (3.7%)        
+** Weighted by a share of exports from Thailand to 13 trading partners in 2014 (including the 
+United Kingdom and Australia)
+( ) as reported in Monetary Policy Report, March 2018Monetary Policy Report June  2018  8 intensified trade retaliation between the U.S. and major economies. Therefor e, risks in 
+emerging markets increased, especially those with weak economic fundamentals such as 
+Argentina and Turkey.  
+Since late April 2018, emerging markets (EMs) started to experience capital outflows 
+mainly in debt markets, the extent of which depende d on each country’s economic 
+fundamental. Foreign investors reduced their investments in risky assets as 10 -year U.S. 
+treasury yields rose to more than 3 percent in some periods and reached the highest point in 
+the past four years following rising U.S. inf lation expectations and oil prices, as well as the 
+improved U.S. economic outlook. The investors, therefore, gained more confidence on the 
+U.S. economy and over Fed’s policy rate hikes. However, capital outflows from EM Asia 
+decelerated during late May aft er investor sentiment toward EM Asia improved and some 
+central banks in the region raised their policy rates. With regard to equity markets, investors 
+reduced their investment in EMs, partly as fundamentals of equity markets in advanced 
+economies were stro nger and had better outlooks than those in Asia.  
+In June, capital outflows from EMs 
+accelerated in both debt and equity markets, 
+due to the possibility that the Fed would hike 
+federal funds rates sooner than market 
+expected and risks from intensified trade  
+retaliation between the U.S. and major 
+economies. However, countries with weaker 
+economic fundamentals faced a greater 
+impact of capital outflows such as Argentina 
+and Turkey. In particular, EMs in Latin -
+America were more affected than those  
+in Asia.  
+Looking ahead, global financial markets  
+would likely remain volatile. International 
+capital flows could move both into and out of 
+Thailand given uncertainties on the external front regarding monetary, fiscal and trade policies 
+of major advanced economies, ge opolitical risks, risks in EMs perceived by investors, as well 
+as oil price movements. These factors could affect economic conditions of each country and 
+directions of capital flows going forward.  
+Crude oil prices continued to rise in the second quarter o f 2018 owing to a higher -than-
+expected decline in oil supply and investors’ concern over the supply adequacy. However, 
+going forward, crude oil prices were projected to decline somewhat thanks to a gradual 
+increase in crude oil supply from both OPEC and no n-OPEC producers, especially after 
+the termination of production cut agreement by the end of this year.  
+In the second quarter of 2018, the Dubai crude oil prices steadily increased from 
+the previous quarter , as crude oil stock ran down significantly, promp ting global demand and 
+supply to reach the equilibrium level faster than expected. In addition, investors were 
+concerned about the adequacy of oil supply in the short run. The decline in oil stock was 
+mainly attributed to the compliance with the production  cut agreement among OPEC and non -
+-0.500.511.522.533.5
+-4,000-2,00002,0004,0006,000
+1-Jun-17
+15-Jun-17
+29-Jun-17
+13-Jul-17
+27-Jul-17
+10-Aug-17
+24-Aug-17
+7-Sep-17
+21-Sep-17
+5-Oct-17
+19-Oct-17
+2-Nov-17
+16-Nov-17
+30-Nov-17
+14-Dec-17
+28-Dec-17
+11-Jan-18
+25-Jan-18
+8-Feb-18
+22-Feb-18
+8-Mar-18
+22-Mar-18
+5-Apr-18
+19-Apr-18
+3-May-18
+17-May-18
+31-May-18
+14-Jun-18Equity
+Debt
+US 10-year Treasury yield (RHS)Chart  .3 Emerging markets experienced capital outflows 
+owing to U.S. 10-year Treasury yield that reached the 
+highest point over the past four years, investors’ 
+expectation on Fed’s policy rate, and intensifying trade 
+retialations between U.S. and major economies
+Note: *EMs includes Thailand, Indonesia, India, South Africa, and Turkey
+Sources:  Bloomberg and  Institute of International FinanceCapital inflows to EMs*  (weekly)
+Million USD %U.S. 10 -year Treasury yield 
+reached 3 % the highest point 
+over the past four yearsMonetary Policy Report June  2018  9 OPEC producers and a significant reduction in Venezuela’s oil production due to economic 
+crisis. Meanwhile, demand for crude oil continued to rise consistent with global economic 
+expansion. Nevertheless, going forward, cru de oil prices were expected to decline 
+somewhat  owing to rising crude oil supply by U.S. shale oil producers as well as possibly 
+greater oil production in order to prevent a price surge in the global market. However, oil prices 
+would not fall by a large ex tent as they would still be shored up by steadily growing demand 
+following expanded global economy.   
+As declining oil stock led global demand and supply to reach the equilibrium 
+level sooner than expected, the Committee therefore revised up the projection for 
+Dubai crude oil prices throughout the forecast horizon. Oil prices were revised up from 
+62.4 to 69.2 U.S. dollars per barrel in 2018, and from 63.0 to 68.3 percent U.S. dollars per 
+barrel in 2019. Risks to the projection were adjusted to be balanced in stead of tilting upward 
+in the previous projection. Geopolitical risks in the Middle East and the Korean Peninsula 
+might result in higher -than-expected oil prices in some periods. Meanwhile, crude oil prices 
+might be lower than the forecast should producti on increased more than anticipated, either 
+from countries participating in the oil production cut agreement or U.S. shale oil producers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chart 1.4 Dubai crude oil price in 2018Q2 continued to increase from the 
+previous quarter, as the oil stock decreased toward equilibrium level and 
+investors were concerned about the adequacy of oil supply in the short run
+020406080100120140
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Q1
+2020   Upper bound          Lower bound       March 2018             June 2018U.S. dollar/barrelMonetary Policy Report June  2018  10 2. The Thai Economy  
+2.1 Recent Developments   
+The Thai economy continued to gain further traction driven by the external sector and 
+gradual improvements in domestic demand.  
+The Thai economy expanded 4.8 percent in the  first quarter of 2018 , driven mainly 
+by a robust expansion of merchandise exports a cross all major export destinations and almost 
+all product categories in tandem with continued improvements in trading partner economies. 
+Exports of services also recorded robust growth on the back of increased foreign tourists in 
+almost all groups, partic ularly Chinese tourists which expanded owing to increasing number 
+of flights from secondary cities in February. The number of Russian and Indian tourists also 
+increased. Private consumption continued expanding, especially spending on services and 
+durable g oods, in line with improved consumer confidence and expansion in consumer loans. 
+The main supporting factor was strong purchasing power of medium -to-high income 
+households. In addition, inflation and the policy rate remained low. Meanwhile, government’s 
+social welfare card scheme helped reduce households’ burden on spending to some extent. 
+Private investment improved both from investment in machinery and equipment which 
+continued to expand, and investment in the construction sector that started to improve . Public 
+expenditure accelerated from spending on consumption, and investment which resumed 
+growth mainly on account of investment of state -owned enterprises (SOEs). Overall, the Thai 
+economy in the first quarter of 2018 recorded a 2.0 percent growth from  the previous quarter, 
+after seasonal adjustment, accelerated from 0.5 percent in the previous quarter.  
+The Thai economy continued to gain further traction in the second quarter of 2018 , 
+as reflected by recent economic indicators. In particular, growth of  merchandise exports was 
+robust and broad -based across all major export destinations. Exports of services also 
+continued to expand on the back of increased number of Chinese and Russian tourists, 
+despite some decline in the number of European tourists due to early arrival of Easter. 
+Domestic demand continued to drive a stronger economic growth with improved private 
+consumption indicators across almost all categories, except spending on non -durable goods 
+which was largely unchanged. With regard to purchasing  power, income of non -agricultural 
+households gradually improved. At the same time, income of agricultural households also 
+gradually rose, due to an expansion in agricultural output and a rise in some agricultural prices. 
+However, prices of several agricul tural products remained low. Nevertheless, continued 
+improvements in both domestic and external demand resulted in an expansion of 
+manufacturing production, particularly in automobiles, food and beverages, and chemical 
+products. Private investment continue d to gain momentum from certainty of investment in the 
+Eastern Economic Corridor (ECC) and the Public -Private Partnership (PPP) projects, following 
+the cabinet’s approval on the high -speed rail project connecting three airports. This would 
+shore up busines s confidence. Public expenditure continued expanding on account of current 
+expenditure owing to an expansion in compensation of employees and investment 
+expenditure due to airport maintenance projects as well as procurement of machinery and 
+equipment by so me authorities.  Monetary Policy Report June  2018  11 The positive spillovers from the economic expansion were gradually extended to the labor 
+market. Income of non -agricultural households picked up but had yet to be distributed to 
+all sectors, while income of agricultural households bega n to improve slightly.  
+ The continuation of economic growth 
+gradually benefited households’ purchasing 
+power  (Chart  2.1). Non-farm households 
+whose income clearly improved  were among 
+high-income households. This was observed 
+in an indicator on average income per head 
+transferred through financial institutions which 
+continued to improve. Meanwhile, average 
+income of non -agricultural households 
+gradually picked up. In addition , signs of 
+improvement in employment started to be 
+observed, as there was higher employment in 
+normal working hours reflecting stronger 
+business confidence on economic condition, 
+where previously only  higher overtime 
+employment was observed. In particular,  
+such improvement was seen in export -related manufacturing industries such as food, rubber 
+and plastic, as well as in services sector especially restaurants and hotels. Income of farm 
+households gradually increased owing to an expansion in agricultural out put thanks to 
+favorable weather condition and water supply. Moreover, prices of some agricultural products 
+rose on the back of increased global demand such as jasmine rice and cassava, while prices 
+of white rice did not decline despite considerable output this year. However, prices of some 
+agricultural products remained unchanged , especially rubber, palm oil, white shrimp, and 
+some fruits such as mango. As a result, income of some agricultural households remained low.   
+Headline inflation trended up in line with energy price, while core inflation gradually 
+increased mainly on account of prices of processed food, housing, tobacco and alcoholic 
+beverages with prices of other items slowly increased.  
+Headline inflation  averaged at 
+1.28 percent over the first two months of 
+the second quarter of 2018, an 
+improvement from 0.64 percent in the 
+previous quarter  (Chart  2.2). Such 
+improvement was mainly on account  of a 
+continued rise in energy price following 
+higher domestic oil pri ces and prices of 
+liquefied petroleum gas (LPG) in line with 
+global oil prices. Meanwhile, fresh food 
+prices began to increase from higher rice 
+and vegetable prices. However, prices of 
+livestock and fruits continued to contract 
+given a large output in the market.  
+6090120150
+Jan
+2014Jul Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Real wage and salary transfers per person vial banking system*
+real average non-farm income
+Real farm incomeIndex, seasonally adjusted (3 -month moving average)
+(Jan 2014 = 100 )
+Note: *wage and salary transfer transactions are calculated from 2 databases: 
+(1) Commercial banks reporting transactions to Bank of Thailand database 
+which covers 90% of all retail transfer transations and (2) Interbank Transaction 
+Management and Exchange  (ITMX ) database which covers 10% of all retail 
+transfer transactions.
+Sources: Bank of Thailand, Office of Agricultural Economics, National 
+Statistical Office, Ministry of Commerce, calculations by Bank of ThailandChart 2.1 Overall purchasing power gradually improved
+Various household income indicators
+-4-20246
+Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Fresh food (15.69%) Energy (11.75%)
+Core inflation (72.56%) Headline inflationPercent
+Note: ( ) denotes share in inflation baskets.
+Source: Ministry of Commerce, calculations by Bank of ThailandChart 2.2 Headline inflation increased from the previous 
+quarter due mainly to energy prices.
+Inflation target (2.5  1.5%)Headline inflation and inflation target
+Apr-MayMonetary Policy Report June  2018  12 Core inflation  averaged at 0.72 percent over the first two months of the second 
+quarter of 2018, an increase from 0.61 percent in the previous quarter. Prices of food items in 
+the core inflation basket picked up slightly (Chart 2.3)  following a gradual rise in processed 
+food prices in line with costs of fresh food and LPG. Meanwhile, prices of non -food 
+components in core inflation increased (Chart 2.4)  from higher housing rents and excise tax 
+on tobacco and alcoholic beverages. Price s of other  items still expanded at low levels. 
+Nevertheless, structural factors including production technology development, rising trends of 
+e-commerce, and globalization, led to lower of costs of production and intensified price 
+competitions. As a conseq uence, these factors weighed on a sluggish increase in prices of 
+non-food components in core inflation in recent periods.  
+Short -term (one -year ahead) inflation expectations according to a survey of 
+businesses in May 2018 stood at 2.1 percent, largely un changed from the first quarter of 2018. 
+Meanwhile, long -term (five -year ahead) inflation expectations according to a survey of 
+professional forecasters in April 2018 increased to 2.1 percent from 1.8 percent from the 
+previous survey (October 2017).  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Short -term money market rates remained low, except short -term government bond yields 
+which increased to the level closer to the policy rate due to a higher bond supply and a 
+lower demand from foreign investors. Meanwhile, medium - and long -term governme nt 
+bond yields picked up primarily on account of external factors and a better -than-expected 
+economic and inflation outturns.  
+ Most  short -term money market rates  remained close to the policy interest rate in 
+the second quarter of 2018. However, short -term government bond yields  continued to rise 
+0.00.51.01.5
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Non-alcoholic beverages
+Seasoning and condiments
+Prepared foodPercentContribution to food -in-core inflation ( 8.1  )Chart 2.3 Food -in-core inflation increased slightly due to 
+a gradual rise in LPG and fresh food prices. 
+Source: Bureau of Trade and Economic Indices, 
+Ministry of Commerce, calculations by the Bank of ThailandApr-May
+0.00.51.01.5
+Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Housing and furnishing
+Transport and communication
+Medical and personal care
+Recreation and reading
+Apparel and footwear
+Tobacco and alcoholic beveragesPercentChart 2.4 Non food -in-core inflation rose on the back of an 
+increase in housing rents and excise tax on tobacco and 
+alcoholic beverages.   
+Contribution to non -food in core inflation  ( 1.83 )
+Source: Bureau of Trade and Economic Indices, 
+Ministry of Commerce, calculations by the Bank of ThailandApr-May
+Table 2.1 Inflation
+2016 2017 2018
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Apr-May
+Headline Consumer Price Index (Headline CPI) 0.26 0.69 1.25 0.10 0.45 0.88 0.56 1.28
+Core Consumer Price Index (Core CPI) 0.76 0.73 0.66 0.47 0.49 0.61 0.61 0.72
+Raw food 2.58 1.54 0.61 -2.99 -2.25 -0.80 -1.23 0.37
+Energy -7.00 -1.06 6.69 2.67 4.86 5.24 2.62 6.19
+Source: Bureau of Trade and Economic Indices, Ministry of CommerceAnnual percentage changeMonetary Policy Report June  2018  13 to the level closer to the policy rate (Chart 2.5) . This was attributable to a higher supply of 
+treasury bills in March and bonds issued by the Bank of Thailand since May. Foreign investors 
+also reduced their holdin gs of short -term bonds given concerns on emerging markets and 
+trend of baht depreciation in the recent period. Meanwhile, medium - and long -term 
+government bond yields  increased mainly due to external factors  (Chart 2.6) , following  an 
+increase in 10 -year U. S. treasury yields in line with better -than-expected US economic 
+outturns and a continued increase in global oil prices. Such improvement was also supported 
+by domestic factors including recent economic and inflation outturns which were better than 
+market expected. This resulted in a rise in medium - and long -term government bond yields 
+before declining somewhat as U.S. treasury yields declined. Such decline was due to concerns 
+over the euro area economy from political uncertainties and lower -than-expected e conomic 
+outturns.  
+ 
+ Corporate bond yields stabilized at 
+low levels in tandem with credit spread1/ which 
+was largely unchanged. Meanwhile, financing 
+costs through  commercial banks , as 
+reflected in the new loan rate (NLR)2/, 
+remained at a low level, indicating financial 
+conditions that were accommodative (Chart 
+2.7).  
+ 
+                                           
+1/ Credit spread is the difference between corporate and government bond yields with the same tenure, reflecting 
+an assessment on corporate bond issuers’ default risks.  
+2/ NLR is calculated based on a weighted average of interest rates for new loan contract s extended by 14 Thai 
+commercial banks (excluding consumer loans and loans to financial intermediaries). The data covers loans of 
+value of 20 million baht or higher for all purposes and terms and includes both secured and non -secured loans. 
+Moreover, inter est rates used in the calculation refer to the mid -rate between the lowest and the highest rates in 
+each loan contract.  
+Char 2.7  New Loan Rate (NLR) stabilized at low level
+Source: Bank of ThailandNew Loan Rate  
+7.08
+6.28
+5.03
+4.11
+2.75
+1.50
+02468
+Jan Jul Jan Jul Jan Jul Jan Jul Jan Jul JanMLR NLR Policy rate% p.a.
+2013 2017 2014 2015 2016 2018Apr 18
+1.001.251.501.75
+Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr% p.a.
+policy rate  O/N Interbank
+1 month Gov. bond 1 month BIBORChart 2.5 Short -term interest rates remained close to policy 
+rate, except short -term government bond yields  which
+stabilized at the low level.
+Sources: Bank of Thailand and Thai Bond Market Association (Thai BMA)2016 2017Short -term rates in financial markets
+20181.501.53
+1.40
+1.15
+19 Jun  18
+Monetary Policy Report June  2018  14 Private credit extended to both business and household accelerated, together with 
+improvements in credits extended to SMEs observed in more businesses, reflec ting a 
+more broad -based economic recovery.  
+Private credit3/ continued to accelerate in the first quarter and in April 2018, by 
+expanding at 5.0 percent in April 2018 from the same period last year (Chart 2.8 ), higher than 
+4.3 percent observed at the end of the fourth quarter of 2017. Business credit  growth 
+accelerated from the end of last year, especially loans extended to SMEs with relatively large 
+credit lines, and was more broad -based across several types of businesses such as real 
+estate, construction, and warehouses. Meanwhile, loans extended to large corporates 
+improved in several businesses such as real estate, sugar industry, petrochemical and 
+chemical products. In addition, household credit accelerate d across all loan purposes, 
+particularly auto leasing which continued to accelerate in line with demand expansion and new 
+car launches. Furthermore, consumer and mortgage loans continued to expand.  
+The net issuance of corporate bonds continued to increase  in the first quarter of 
+2018 from the same period last year as observed in funding of commercial banks and 
+businesses in the financial, food and beverages, and real estate sectors. Net issuance of 
+corporate bonds expanded 9.3 percent in April from the sam e period last year mainly due to 
+funding of businesses in transport and construction material sectors  (Chart 2.9 ). Funding 
+through the equity market  continued to increase in the first quarter of 2018 and in April 2018, 
+especially in businesses related to p etrochemical and chemical products, technology, and  
+real estate.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Going forward, financial conditions were expected to remain accommodative as 
+reflected in the real policy interest rate which remained at a low level and was moderate 
+compared wi th other countries (Chart 2.10).  Meanwhile , financing costs through commercial 
+banks, as reflected in the new loan rate (NLR), would stabilize at a low level. Nevertheless, 
+the Credit Condition Survey4/ indicated that financial institutions would be more vigilant in 
+extending credit to SMEs in the second quarter of 2018 from rising concerns on credit quality. 
+                                           
+3/ Outstanding credit of other depositary corporations (ODCs), namely commercial banks, specialized financial 
+institutions, finance companies, savings cooperatives, and market mutual funds. 
+4 / Survey of credit conditions for the fourth quarter of 2017 and outlook for the first quarter of 2018.  
+Source:  Bank of ThailandChart  2.  Private credit accelerated from both business 
+credit and household credit 
+Growth of private credit
+Note: Private credit includes credit to other depository corporations (ODCs) namely 
+commercial banks, specialized financial institutions, finance companies, saving 
+cooperatives, and money market mutual fundsPercentage change from the same period last year
+0246810
+Jan
+2015Jul Jan
+2016Jul Jan
+2018Jul Jan
+2018Business credit Household credit Total private credit
+4.64.9
+4.8Apr 18
+Monetary Policy Report June  2018  15 Meanwhile, financial institutions would still maintain caution in extending household credit in 
+all purposes, except for credit card loans and auto leasing extended to risky customers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The baht weakened against the U.S. dollar and the nominal effective exchange rate also 
+depreciated.  
+In the second quarter of 2018, the baht depreciated against the U.S. dollar  relative 
+to the end of previous quarter  (Chart 2.11 ). The baht depreciation was mainly due to the 
+strengthening of the U.S. dollar since April, driven  by improved economic outlook of the US 
+relative to other countries, particularly the euro area. As a consequence, investors anticipated 
+a faster -than-assessed pace of policy rate hike in the US. Meanwhile, the European Central 
+Bank signaled to maintain the degree of monetary policy accommodation for an extended 
+period. Moreover, invest ors were concerned over intensifying trade retaliations between the 
+US and major advanced economies, as observed in greater capital outflows from emerging 
+market economies including Thailand, especially from countries with vulnerable economic 
+fundamentals such as Argentina and Turkey. However, the impact of capital outflows on the 
+Thai economy was largely limited thanks to strong external stability. In addition, there were 
+additional depreciation pressures on the baht owing to seasonal factors in the second  quarter 
+from repatriation of dividends of foreign companies and foreign investors from Thailand. As of 
+June 19, 2018, the baht closed at 32.81 baht per U.S. dollar, depreciated 5.0 percent from the 
+end of the previous quarter.  
+The nominal effective exchan ge rate (NEER) stood at 113.82 on June 19, 2018, a 
+1.5 percent depreciation from the end of the previous quarter, as the baht depreciated against 
+most trading partner currencies, except the euro and currencies of emerging market 
+economies other than Asia ( Chart 2.12 ). This was partly due to a gradual increase in the policy 
+rate of some central banks in the region.  As of the end of May 2018, the real effective 
+exchange rate (REER)  slightly rose 0.2 percent from the end of the previous quarter as  
+inflation i n Thailand increased at a faster pace relative to trading partners. In the period ahead, 
+exchange rates would likely remain volatile due to uncertainties surrounding international 
+monetary and fiscal policies, trade protectionism measures, geopolitical ris ks, and outlook of 
+oil prices.  
+Chart  2.10  Thailand’s real policy rate   remained low and was 
+moderate compared with other countries
+Real policy rates  
+-2.50-2.00-1.50-1.00-0.500.000.501.001.50
+US EU JP UK NZ KR ID MY PH IN THPercent
+Note:   Calculated from policy rate subtracted by one -year-ahead inflation  
+expectation according to a survey by Consensus Economics 
+(as of 11 June  2018 )
+Sources: Bloomberg,  Consensus Economics, calculation by Bank of ThailandJun 18Monetary Policy Report June  2018  16  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Financial stability remained sound overall. However, there remained risks in certain 
+pockets warranted monitoring including a continued search -for-yield behavior, volatilities 
+in global financial markets which might affect financing cost through bond marke ts and 
+rollovers of short -term corporate bonds, deterioration in credit quality of certain 
+households and businesses, and an oversupply of property in the real estate market in 
+certain price ranges and areas which were at a high level.  
+Thailand’s financia l stability remained sound as reflected in sustained current account 
+surplus and a high level of foreign exchange reserves which would provide cushion against 
+volatilities of economic and financial conditions in both domestic and foreign countries. In 
+addition, financial positions of financial institutions and insurance businesses remained strong 
+and high levels of capital buffers of commercial banks would be able to cushion against risks 
+should credit quality deteriorated. Risks related to leveraging of th e private sector continued 
+to decrease overall, as reflected in the downward trend of debt to GDP of non -financial 
+corporates. This was on account of a continued economic expansion and a smaller growth of 
+corporate and household debts relative to the previ ous 2 -3 years. However, the Committee 
+assessed that there remained pockets of risks to be monitored going forward. These risks 
+were summarized as follows.  
+(1) The continued search -for-yield behavior could lead to underpricing of risks, 
+although overall systematic risks remained limited. However, given a prolonged period of 
+low interest rates, there remained several issues to be closely monitored. Such issues  
+included, for example, (1) an overseas investment through foreign investment funds (FIF) that 
+remained at a high level, despite some slowdown since the beginning of 2018, due to rising 
+costs of foreign exchange hedging and concerns over volatilities of gl obal financial markets. 
+Nevertheless, there remained concentration risk as investments were mainly concentrated in 
+a few countries. In addition, (2) a continued search -for-higher -yield behavior through savings 
+cooperatives, whose assets and deposits surged  at a high rate albeit slowing down somewhat 
+after regulatory authorities collaborated to enhance supervisory standards. Meanwhile, large 
+saving cooperatives were more interconnected with the financial system through investments 
+in equities, thereby increa sing importance of savings cooperatives system to the financial 
+system. Thus, the Committee would continue to closely monitor such linkages as well as 
+developments of savings cooperatives.  
+Monetary Policy Report June  2018  17 (2) Volatilities of capital flows and global financial markets mig ht trigger yield 
+snapbacks and affect rollovers of businesses from funding through short -term bond 
+issuances. Although most issuers raised funds through issuing debt instruments with 
+investment grade above the A level, global policy rates outlook which was  on an upward cycle 
+could trigger yield snapbacks and might affect financial positions of some businesses that had 
+to roll the fund over, especially bonds with investment grade below A level.  
+(3) Overall credit quality remained 
+unchanged but deteriorated  among some 
+households and businesses. The non -performing  
+loan (NPL) ratio of the commercial banking 
+system stabilized at 2.92 percent in the first 
+quarter of 2018 from 2.91 percent in the previous 
+quarter. However, NPLs of consumer and SMEs 
+loans increase d to 2.78 percent and 4.50 
+percent respectively (Chart 2.13).  This reflected 
+increasing fragility in debt serviceability  of 
+households and SMEs, especially households 
+with large debt burden and smaller SMEs with 
+vulnerable financial positions. In addition, with 
+regard to household credits extended by commercial banks , the loan to value (LTV) ratio of 
+mortgage loans increased and credits extended to low -income borrowers also rose. This might 
+affect debt burden of households and their debt serviceability in the period ahead. Moreover, 
+performances and financial position s of some SMEs remained fragile, as reflected in the 
+operating profit margin (OPM) and the interest coverage ratio (ICR) of small businesses in the 
+first quarter of 2018 that continued to be negative5/. 
+(4) An oversupply of property was 
+observed in certai n price ranges and areas . 
+In particular, the oversupply of condominium 
+units with price below 3 million baht remained at 
+a high level, while the time taken for all units to 
+be sold was relatively long (Chart 2.14).  
+Moreover, higher demand from foreigners  in 
+recent periods might prompt developers to 
+assess a too -high demand from foreigners and 
+led to an increase in an oversupply of property 
+in the future. However, such risks were still 
+limited at present, as reflected in the survey of 
+real estate developers selling condominium units 
+to foreigners which revealed that developers 
+remained cautious in launching new projects.  
+ 
+ 
+                                           
+5/ For OPM and ICR at the 25th percentile of small -sized companies listed at the Stock Excha nge of Thailand  
+Chart 2.13 Overall loan quality remained stable, but deteriorated 
+in some households and businesses particularly SMEs  
+%NPL of each type of loan
+2.65
+1.943.98
+2.07
+012345
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018
+%NPL to Total loan %NPL to Large Corporate Loan
+%NPL to SME Loan %NPL to Consumer Loan2017 Q4 2018 Q1
+SME loan4.37 4.50
+Total loan2.91 2.92
+Consumer loan 2.68 2.78
+Large Corporate loan 1.75 1.66
+Source: Bank of ThailandNon-performing loan  (NPL) ratio  of the banking system
+26
+22
+111115
+01020304050
+010203040
+ 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 Thousand units
+Accumulated supply Time to go (RHS)Months
+< 2 mioTHB 2-3 mio THBChart 2.14 An oversupply of condominium units with price below  3 
+million baht continued to increase while time to go appeared longer
+Note: ‘Time to go’ is the time taken for  all real estate inventory to be sold out at the average 
+sales rate per month (since projects launched) given no additional supply.
+Source: AREA and calculation by Bank of ThailandCondominium inventory in Bangkok and vicinity and ‘time to go’  
+3-5 mio THB 5-10 mio THB 10 mio THBMonetary Policy Report June  2018  18  2.2 Outlook for the Thai Economy  
+ Under the Committee’s assessment, Thailand’s economic growth was projected 
+to gain further traction. The Thai economy was expected to grow at 4.4 percent and 4.2 
+percent in 2018 and 2019 respectively  which were higher  than previously assessed in 
+the previo us Monetary Policy Report . Key growth  drivers included (1) a continued 
+expansion of merchandise exports and tourism in tandem with global t rade volume and trading 
+partner  economies, and (2) higher -than-expected private consumption and private investment 
+growth. Meanwhile, inflation was projected to  gradually trend up  due to domestic demand 
+growth and rising energy -related prices in tandem with global crude oil prices. Howe ver, 
+inflation would slowly rise as prices of fresh food were  expected to be  lower than previously 
+assessed.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Summary of the key forecast assumptions  
+• Trading partner economies  were projected to expand slightly faster than the previous 
+assessment  from strong growth in Asia driven by export and domestic demand.  
+ • The federal funds rate was expected to be raised four times in 2018, more than  previously 
+expected . The Fed would rai se the policy rate twice in the first half of the year and also likely 
+increase the rate twice  in the second half of the year. In 2019, the Fed was expected to raise the 
+policy rate three times and gradually commence its balance sheet reduction according to the 
+announced plan.  
+• Asian currencies (excluding the Chinese yuan) would be on an appreciating trend on the 
+back of continued improv ing economic fundamentals  of Asian economi es. However, the 
+appreciation would be at a smaller degree throughout the fore cast horizon compared to the 
+previous assessment given stronger -than-expected U.S. dollar in the second quarter of 2018. 
+Positive perceptions on the U.S. economy strengthened the dollar more than expected.  
+• The Dubai crude oil price was revised up through out the forecast horizon due to supply -side 
+factors, especially a continued decline of crude oil inventory and investor concerns on short -term 
+oil supply. Nevertheless , the Dubai oil price would gradually trend down to an equilibrium level in 
+line with global economic fundamentals  in the period ahead . However , oil prices  would not be 
+significantly lower than the current price due to growing demand following expanded global 
+economy.  
+Table 2.2  Forecast summary
+Percent 2017* 2018  019
+GDP growth 3.9 4.4 (4.1) 4.2 (4.1)  
+Headline inflation 0.7 1.1 (1.0) 1.2  (1.2)
+Core inflation 0.6 0.7 (0.7) 0.9(0.8)
+Note: * Outturn 
+( ) Monetary Policy Report  March  2018             
+Sources: NESDB, Ministry of Commerce, Bank of Thailand’s estimatesMonetary Policy Report June  2018  19  • Farm income  was revised down from the previous estimate due to a decline in agricultural 
+prices as a result of higher output such as rubber, palm oil and livestock. Nonetheless, rice prices 
+would improve thanks to higher external demand.  
+• Public spending at current prices was revised down  in 2018, while the spending in 2019 
+was slightly adjusted upward. Public consumption was lowered throughout the forecast horizon 
+mainly due to the change in the government budget structure for the fiscal y ear 2019, with a larger 
+share of capital spending compared to the previous assessment. Public investment in 2018 was 
+revised downward due to delayed investment by some state -owned enterprises following 
+difficulties in accessing construction sites and some construction problems. In 2019, public 
+investment was revised upward due to the following reasons. First, a larger share of the 
+government budget for fiscal year 2019 was allocated toward capital spending compared with the 
+previous announcement. Second, so me investment spending would be carried over from 2018. 
+Third, disbursement plans for the dual -track railway project became more certain.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Merchandise exports continued to expand across various product categories and almost 
+all export destinatio ns.  
+ The value of merchandise export s was projected to continue expand ing and 
+record at 9.0 and 5.0 percent growth in 2018 and 2019 respectively, up from the previous 
+estimates of 7.0 and 3.6 percent growth respectively  in the previous Monetary Policy 
+Report . Growth would be observed  in terms of price and  volume . Export prices would trend 
+up in line with crude oil prices, especially for commodities and oil -related products. Export 
+volume would continue to expand across various product categories —particu larly electronics, 
+auto parts, and processed agricultural products (Chart 2.15) —and almost all export 
+destinations  (Chart 2.1 6), in tandem with expansion in global trade volume and trading partner 
+economies. However, the value of merchandise exports in 2019  was expected to exhibit 
+a slower  growth due to the following reasons . First, global trade and  trading partner 
+economies would slow down after accelerati ng in earlier periods  owing to economic stimulus 
+measu res in the U.S. and Japan wh ose effect  was expected to  end in 2019 . In addition,  
+Chinese economic structural reforms would slow down the Chinese economy. Second, high 
+levels of exports in 2018 would cause a high base effect due to the fact that a number of  
+Table:  Summary of forecast assumptions
+2017* 2018 2019
+Dubai crude oil price (U.S. dollar per barrel) 53.1 69.2 (62.4) 68.3 (63.0)
+Farm income (% YoY) 1.4 2.8 (3.1) 2.1 (2.2)
+Government consumption at current price (billion baht )1/2,532 2,669 (2,676) 2,819 (2,838)
+Public investment at current price (billion baht )1/926 1,028 (1,038) 1,115 (1,092)
+Fed funds rate (% at year end) 1.38 2.38 (2.13) 3.13 (2.88)
+Trading partners’ GDP growth (% YoY)2/3.9 3.8 (3.7) 3.6 (3.6)
+Regional currencies (excl. China) vis-à-vis the U.S. dollar (index)3/ 155.7 149.9 (148.0) 149.1 (147.0)
+Notes: 1/ Assumption includes spending on infrastructure investment plans
+              2/ Weighted by each trading partner 's share in Thailand total exports
+                     3/ Increasing index represents depreciation , decreasing index represents appreciation
+               * Outturns
+              ( ) Monetary Policy Report March 2018Annual percentage changeMonetary Policy Report June  2018  20 industries relocated their production to Thailand and started exporting in 2018, for example, 
+hard-disk drives and cellphones.  
+ Nevertheless , the Committee assessed that intensifying trade retaliat ion between the 
+U.S. and major economies, which would put  pressures on investment and  international trade , 
+could directly and indirectly affect Thai exports. The effects, however, would differ according 
+to product categories. Thus, the Committee would closely monitor developments of trade 
+policy and negotiations  while assessing potential impacts on the supply chain as well as Thai 
+businesses. The effects could possibly impact several dimensions of the Thai economy 
+through intentional trade, business confidence , and financial market volatilit ies. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Exports of services were expected to be slightly higher than the previous assessment due 
+mainly to a greater number of foreign tourists.  
+ Thailand’s exports of services were expected to be slightly higher than the 
+previous assessment due mainly to a great er number of foreign tourists, albeit lower 
+spending per  head6/. The projected number of foreign tourists was revised up to 38.3 
+and 40.0 million  in 2018 and 2019 , respectively, up from the previous forecast of 37.6 
+and 39.0 million respectively estimated in the previous Monetary Policy Report . Key 
+factors supporting the tourism sector include a continued growth in the number of  Chinese 
+tourists , for both group  tourists and free and independent travelers (FIT) , and newly opened 
+direct flights from second -tier Chinese cities to Thailand. However, Thailand’s tourism sector 
+would still face limitations on the capacity of major airports in accommodating the rising 
+number of tourists.  Nevertheless , recent management by airlines and airports also helped 
+alleviate airport capacity constraints  such as additional flights during off -peak  times and higher 
+utilization of regional airports.  
+Given improvements in the value of mercha ndise and services exports, the projection 
+for the value of merchandise and service s imports was revised up with higher imports of raw 
+materials and intermediate goods, coupled with more imported capital goods and machinery 
+in line with improving private i nvestment. In addition , oil prices were expected to trend up.  
+Consequently, the current account would likely record a smaller surplus than estimated in the 
+previous Monetary Policy Report , registering 40.0 and 36.0 billion U.S. dollars in 2018 and 
+2019 res pectively.  
+                                           
+6/ According to the survey in the first quarter and second quarter of 2018 by the Ministry of Tourism and Sports.  
+Chart 2.15 Merchandise exports continued to expand across 
+various product categories
+406080100120140160
+Jan-13 Jan-14 Jan-15 Jan-16 Jan-17 Jan-18Electrical appliances (5.6) Vehicle parts (6.5)
+Electronics ex. HDD (9.0) Petroleum-related (11.5)
+Agro-manu (12.3)
+Note: Number in () denotes share to total exports in 2017
+Source: Customs Department, calculation by Bank of Thailand.Seasonally adjusted index, 3 -month moving average
+(January 2013 = 100)Value of merchandise exports, by product category
+Chart  2.16 Merchandise exports expanded across almost all 
+export destinations
+708090100110120130
+Jan-13 Jan-14 Jan-15 Jan-16 Jan-17 Jan-18ASEAN (26.3) US (11.3)
+China (12.6) EU (11.3)
+Japan (9.3)
+Note: Numbers in ( ) represent share in total exports of year 2017
+Source: Customs Department, Calculations by Bank of ThailandValue of merchandise exports, by export destination
+Seasonally adjusted index, 3 -month moving average
+(January 2013 = 100)Monetary Policy Report June  2018  21 Private consumption would expand at a higher  rate than the previous assessment.  
+Private consumption would gain further traction in the period ahead , driven 
+mainly by non -farm households , especially middle - and high- income households whose 
+earnings continued to rise. Meanwhile, earnings of low -income households started to improve 
+following stronger employment particularly in construction and services sectors. Farm income 
+expanded on the back of higher production while agricultural prices of certain crops that 
+lingered at low levels would remain a major drag on farm income. Moreover, government 
+measures —such as the social welfare card project (second phase), the community enterprise 
+development project, and agricultural reform project —would su pport purchasing power going 
+forward. However, elevated household debt would cause households to allocate part of their 
+income for debt repayment. In addition, ongoing structural changes in the labor market would 
+continue to weigh on private consumption gr owth. For instance,  increased  adoption of 
+automation in place of human labor in the production process  could lead to labor migration 
+toward the services sector . Consequently, workers might earn less owing to lower  pay in most 
+services sector jobs relative to the manufacturing sector. As a result, this factor would remain  
+a drag on private consumption growth.  
+Public spending remained a driver of economic growth, with some investment projects 
+postponed to 2019.  
+Public spending would continue contributing to economic growth . Public 
+consumption was expected to  steadily increase  despite smaller projected outlays due to the 
+change in the government budget structure for fiscal year 2019, with a larger share of capital 
+spending compared with the previous announceme nt. Although there was additional fiscal 
+budget in 2018, this would not compensate for the moderation in public consumption due to 
+the change in the 2019 budget structure. Public investment in 2018 was revised downward 
+due to delayed investment of some sta te-owned enterprises. For example, the Bang  Pakong 
+power plant construction by the Electricity Generating Authority of Thailand faced difficulties 
+in accessing construction sites while the Airport of Thailand P ublic Company Limited  (AOT)’s 
+Suvarnabhumi Air port development project phase 2 also had some construction problems. In 
+any case, public investment in 2019 was revised up due to the following reasons. First, a larger 
+share of the government budget for fiscal year 2019 was allocated to capital spending 
+compared with the previous announcement. Second, some investment spending would be 
+carried over from 2018. Third, disbursement plans became more certain for the State Railway 
+of Thailand’s Den  Chai-Chiang  Rai-Chiang  Khong dual -track railway project. In addition, the 
+impact from the enforcement of the Public Procurement and Supplies Management Act, B.E. 
+2560 started to dissipate in line with the previous assessment.  
+Private investment was projected to achieve higher gr owth than previously assessed  
+Private investment was projected to achieve higher growth than previously 
+assessed , in line with growth of merchandise exports and private consumption, reflected by  
+these following factors. First, capacity utilization rose acr oss various industries, such as 
+automobiles and food and beverages. Second, import volume of capital goods and machinery 
+increased. Third, demand for private credits extended to businesses increased. Forth, 
+investment plans of large corporates became more certain. Fifth, government measures such 
+as the community enterprise development and agricultural reform projects would support low -Monetary Policy Report June  2018  22 income households. Sixth, the value of investment application submitted to the Board of 
+Investment continued to trend up. Mo reover, government infrastructure investment projects, 
+the Eastern Economic Corridor (EEC), and public -private partnership projects (PPP) were 
+increasingly taking shape. After the auction for mass rapid transit projects and high -speed 
+trains connecting thr ee airports7/, joint investment plans by various private sector groups would 
+shore up business confidence, foster  investment climate, and attract greater foreign 
+investment. Nonetheless, developments of such investment projects would warrant monitoring 
+going forward.  
+Inflation was expected to slowly rise.  
+Headline inflation was projected 
+to rise at a slightly faster pace than the 
+assessment in the previous Monetary 
+Policy Report  on the back of acceleration 
+in prices of energy -related products in 
+tandem wit h global crude oil prices. 
+However, government regulations on 
+energy -related prices partly curbed the 
+increase in costs of transportation and 
+prepared food. Fresh food prices were 
+projected to grow at lower rates following 
+a larger -than-expected supply of meat, 
+fruits, and vegetables. The increased supply was due to periods of favorable weather 
+conditions and the government’s water management that devoted additional irrigated water 
+toward agricultural purposes. Moreover, demand -pull pressures rose only slig htly. 
+Although the output gap had already closed in the first half of 2018 (Chart 2.17),  demand -pull 
+inflationary pressures rose only slightly as  benefits from economic growth  were not yet 
+sufficiently broad -based . In addition,  there continued to be sales promotion offered by 
+businesses  and structural changes still put downward pressures on inflation. For instance, 
+developments of production technology helped reduce costs of goods and services and 
+greater competition constrained  businesses from raising prices. The Committee therefore 
+projected headline inflation to average 1.1 and 1.2 percent in 2018 and 2019, 
+respectively, while core inflation was projected to average 0.7 and 0.9 percent in 2018 
+and 2019, respectively.  
+Risks to the growth projection were expected to tilt more downward than previously assessed .  
+Under the Committee’s assessment,  risks to the growth projection were expected 
+to tilt more downward than previously assessed , as reflected in the fan chart that skewed 
+downward throughout the forecast horizon (Chart 2.18).  The increased downside risks were 
+mainly due to external factors.  First, U.S. trade protectionism  measures, retaliation by major 
+economies, and intensifying competition resulted from trade diversion coul d have greater -
+than-expected impacts on Thai exports and private investment. Second, growth of Thailand’s 
+trading partner economies might be lower than expected in case of intensifying global 
+geopolitical tensions. Moreover, certain domestic factors also p osed downside risks to the 
+                                           
+7/ Construction expected to commence in the latter half of 2019.  
+-4-2024
+Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Q1
+2019Q1
+2020Chart 2.17 Output Gap
+%Monetary Policy Report June  2018  23 baseline projection. First, private consumption growth might be lower -than-expected as 
+domestic purchasing power had yet to recover in a broad -based manner. Second, the 
+enforcement of the Public Procurement and Supplies Managemen t Act, B.E. 2560 could lead 
+to longer -than-expected delay in budget disbursement of some government agencies. 
+Nonetheless, there were possibilities that the growth outturn might be higher than the 
+baseline projection . First, growth of trading partner economies might be higher than 
+expected. In such case, the U.S. economy would continue to improve thanks to support from 
+the tax reform . The Chinese economic growth could slow down at a slower pace than expected  
+should the Chinese government  implement addi tional economic stimulus measures , which 
+would consequently lead to better -than-expected  Asian exports  growth . Second, domestic 
+spending could be higher than the baseline assessment due to government infrastructure 
+investment projects, public -private partn ership (PPP), as well as government measures aimed 
+at stimulating private spending. Risks to the headline and core inflation projections were 
+expected to tilt more downward than the previous assessment  consistent (Chart s 2.19 
+and 2.20) with the risks to th e growth forecast.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chart 2.18 Growth forecast
+Note: Fan chart covers 90% of the probability distribution
+-20246810
+-20246810
+ 01  015  01  01  018  01  0 0% YoY
+Chart 2.19 Headline inflation forecast
+Note: Fan chart covers 90% of the probability distribution
+-3-2-1012345
+-3-2-1012345
+ 01  015  01  01  018  01  0 0Headline inflation target 2.5  1.5%% YoY
+Chart 2.20 Core inflation forecast
+Note: Fan chart covers 90% of the probability distribution
+-10123
+-10123
+ 01  015  01  01  018  01  0 0% YoY
+Table 2.3 Forecasts of GDP and components
+2017* 2018 2019
+GDP growth 3.9 4.4 (4.1) 4.2 (4.1)
+Domestic demand 2.1 3.9 (3.6) 3.8 (3.4)
+     Private consumption 3.2 3.7 (3.3) 3.6 (3.3)
+     Private investment 1.7 3.7 (3.0) 4.4 (3.6)
+     Government consumption 0.5 2.7 (2.9) 2.9 (3.3)
+     Public investment -1.2 8.9 (9.5) 6.5 (3.4)
+Exports of goods and services 5.5 5.5 (5.2) 3.8 (3.6)
+imports of goods and services 6.8 6.3 (5.5) 3.8 (3.7)
+Current account (billion, U.S. dollars) 48.1 40.0 (42.2) 36.0 (39.5)
+Value of merchandise exports 9.7 9.0 (7.0) 5.0 (3.6)
+Value of merchandise imports 14.4 14.7 (11.5) 6.9 (5.4)
+Number of foreign tourists (million person) 35.4 38.3 (37.6) 40.0 (39.0)
+Note: *Outturns
+             ( ) Monetary Policy Report March 2018Annual percentage changeMonetary Policy Report June  2018  24 3. Monetary Policy Decision  
+In the second quarter of 2018, the Committee assessed the necessity to maintain 
+monetary policy accommodation in the current context by weighing various factors in order 
+to promote sustainable economic growth, while pursuing price stability and preserving 
+financial stability.  
+The Committee placed great emphasis on the strength and continuation of economic 
+growth, and headline inflation that would continue to move firmly within target in a sustainable 
+manner in the period ahead. The Committee assessed that the economy would  gain further 
+traction driven by stronger momentum from both external and domestic demand, while inflation 
+would rise at a faster pace than expected partly owing to supply -side factors. However, risks 
+to financial stability from a prolonge d low interest rate must be monitored.   
+1. Supporting sustainable economic growth through monetary policy  
+accommodation . The Thai economy was expected to gain further traction with  robust growth, 
+driven by the external sector which continued expanding in  line with stronger global economic 
+expansion , and domestic demand which gained additional momentum in almost all 
+components . This was particularly reflected  in strengthening  private consumption. However, 
+there were risks to growth from elevated household debt, subdued prices of some agricultural 
+products, and adverse impacts facing some workers following structural changes in the labor 
+market. Private investment was expected to continue expanding thanks to investment plans 
+of large businesses and would be supported further from investment in the EEC and the PPP 
+projects  where the prospects became more certain. However, the progress on such 
+investment projects in the period ahead must be monitored. Public expenditure remained a 
+driver of economic growth despite risks of delayed disbursement than expected. In this light , 
+the Committee viewed that the monetary policy accommodation would help support the 
+continuation of economic gr owth , although the spillovers of economic expansion had yet to 
+sufficiently extend to all economic sectors. This was due to structural problems in various 
+dimensions currently facing the Thai economy such as a decreasing working -age population 
+given aging,  technological advancements  which led to a shift in demand for labor skills and 
+types of investment, and Thailand’s educational system that was yet to produce labor to match 
+market demand. The Committee viewed that such problems should be addressed primari ly by 
+structural reform policies in conjunction with other economic policies (Box: Thailand’s structural 
+economic issues and economic policy coordination ). In addition, the Thai economy would still 
+face risks from the external front that warranted close mo nitoring. These risks included foreign 
+trade policies of the U .S. and possible retaliatory measures from major economies, especially 
+from additional tariffs on imported cars and auto parts by the U.S., and geopolitical risks which 
+might affect economies of  Thailand’s trading partners. Some Committee members viewed that 
+there was a need to promptly address structural issues, especially if  such risks weigh ed on 
+Thai exports, so that domestic spending could  once again  become a key economic driver in 
+the long r un. 
+2. Supporting headline inflation to move within target in a sustainable manner.  
+Inflation indicators recently  pointed to  a gradual increase in inflationary pressures (Chart 3.1) . 
+This was particularly observed in an acceleration of supply -side price pressures in line with  
+energy prices, following the fast rise in global oil prices in the recent period. Such development Monetary Policy Report June  2018  25 led to a rise in headline inflation above the lower bound of target during the first two months 
+of the second quarter of 2018. As a re sult, average headline inflation was forecasted to be 
+within target in 2018 and 2019. The Committee viewed that although headline inflation was 
+expected to rise at a faster pace than projected, it was mainly on account of oil price increases. 
+Meanwhile, de mand -pull price pressures would improve  gradually. Thus, developments of 
+inflation should be closely monitored, especially fresh food prices which were highly volatile 
+owing to weather conditions and agricultural output. This could cause fresh food prices to rise 
+at a slower pace than previously expected. Moreover, inflation expectations, survey ed from 
+businesses and professional forecasters, were close to the inflation target, while  long-term 
+inflation expectation s picked up from the previous quarter (Char t 3.2) . In addition, the 
+Committee viewed that demand -pull price  pressures that continued to be at a  low level, and 
+structural changes such as technological developments and an expansion of  e-commerce 
+businesses, led to lower costs of production and intens ified price competition. Thus , 
+businesses faced constraints in raising prices. Furthermore, there were also other factors 
+which might contribute to lower upward inflationary pressures than in the past. These factors 
+included lesser impact on inflation of a n increase in minimum wages, government’s policy  on 
+domestic energy pricing, and the expansion of farm ing areas worldwide which might cause 
+agricultural prices to remain low or rise to the lesser extent. Thus, the Committee saw the 
+need to study the impact  of such factors on inflation dynamics in further details , as this could 
+have significant implications on inflation target setting in the future.  
+ 
+3. The buildup of risks to financial stability . The Committee viewed that financial 
+stability remained sound  overall . However, the buildup of vulnerabilities in certain pockets 
+must be monitored as it could lead to an abrupt adjustment in the financial system in the 
+future. Such vulnerabilities included , first,  the continued search -for-yield behavior given 
+a prolonged low interest rate environment which could lead to increased underpricing 
+of risks , such as a surge in assets and deposits of saving cooperatives  despite some 
+deceleration following regulatory improvements to enhance supervision particularly  on those  
+saving cooperatives with larger asset sizes and greater  interconnections with the Thai 
+financial system. Meanwhile, investment in foreign investment funds (FIFs) continued and 
+was concentrated in certain countries. However, investment in FIFs slowed down somewhat    
+Percent change from previous month 
+(3-month moving average, seasonally adjusted)
+Note: Data point indicated in () where the first value is %MoM 
+(sa, 3mma) as of May 2018 , while the second value is 2004 -2014 average; 
+Asymmetric trim excludes goods and services with most volatile price changes, 
+removing the bottom 10 percentile and the top 6 percentile; Principal component 
+model calculates changes in common statistical components 
+that attribute price movements across categories of goods and services.
+Source: Bureau of Trade and Economic Indices, Ministry of Commerce, 
+calculations by Bank of Thailand-0.10.00.10.20.30.40.5
+Jan
+2013Jul Jan.
+2014Jul Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Core inflation ex rent & government measures  (0.03, 0.17)
+Asymmetric trim (0.00, 0.23)
+Principal component model (0.01, 0.11)Chart 3 1Underlying inflation indicators remained low 
+reflected a gradual increase in inflation. 
+02468
+Jan
+2007Jan
+2008Jan
+2009Jan
+2010Jan
+2011Jan
+2012Jan
+2013Jan
+2014Jan
+2015Jan
+2016Jan
+2017Jan
+2018Inflation expectations by firms (1-year ahead)
+Inflation expectations by professional economists (1-year ahead)
+Inflation expectations by professional economists (5-year ahead)
+Inflation expectations based on model (5-year ahead)Chart 3 2 Inflation expectations
+Percent change from same period last year
+Source: 1/Business Sentiment Survey of Bank of Thailand (BSI )
+2/ Asia Pacific Consensus Forecast
+3/ Calculations based on macro -finance term structure model with bond yield 
+and macroeconomic data1/
+2/
+2/
+3/Monetary Policy Report June  2018  26 due to rising costs of foreign exchange hedging in recent periods. The second  financial 
+stability risk  was volatilities of international capital flows and global financial markets 
+which could trigger yield snapbacks and affect roll -overs of b usinesses that relied on 
+financing through short -term bonds, especially those holding bonds with investment grade 
+below A.  The third  financial stability risk was that,  while overall credit quality was largely 
+stable, improvement in debt serviceability of households and SMEs was not clearly 
+observed. This was reflected in NPLs of those groups that remained elevated as well as  the 
+household debt to financial asset s ratio that wo uld likely trend up. Finally, oversupply in the 
+property  market , especially in the recent periods where developers continued to raise fund s 
+to expand their businesses , was another risk to financial stability.  In addition, some financial 
+institutions engage d in competition by extending mortgage loans with higher credit risks as 
+well as loans with higher LTV ratio s.  
+Nevertheless, some Committee members viewed that certain risks to financial stability 
+might be self -correctable when the policy rate increased, while some risks might need to be 
+addressed by macroprudential measures  such as measures on credit card and personal 
+loans under the supervision of the Bank of Thailand that were enforced since the end of 2017.  
+Some Committee members viewed that , although macroprudential measures were appropriate  
+tools used to curb certain risks in some economic sectors, the policy rate was a n important  
+tool preventing  risks from further developing and affecting broad financial and economic 
+stability . The policy interest ra te thus should be used in conjunction with macroprudential 
+measures.  
+The Committee voted unanimously to keep the policy interest rate at 1.5 percent to 
+maintain accommodative financial conditions in order to support a stronger and continued 
+economic growth as well as foster inflation to gradually rise and move within target in a 
+sustainable manner, without causing the buildup of vulnerabilities to financial stabilit y  
+The Committee had to weigh various factors in formulating the most appropriate 
+cours e of monetary policy and voted unanimously (6 to 0 , with o ne Committee member 
+absent) at the meeting on May 16, 2018 and later 5 to 1 (with one member absent ) at the 
+meeting on June 20, 2018 to keep the policy rate unchanged at 1.50 percent.  Monetary 
+policy accommodation remained an important factor supporting a stronger and continued 
+growth of domestic demand which would foster headline inflation to gradually rise and move 
+within target in a sustainable manner. The Committee viewed that current level of po licy 
+interest rate at 1.50 percent was conducive to accommodative financial conditions as reflected 
+in a low real policy rate. Moreover, the interest rates on new loans  that continued to remain 
+low as well as  bond yields that remained accommodative  despite  some recent increase 
+continued to support businesses financing. This was observed  in a continued growth of 
+commercial bank loans extended to businesses and of corporate bonds issuance. Meanwhile, 
+one Committee voted to raise the policy rate by 0.25 percen tage point to 1.75 percent at the 
+meeting on June 20, 2018 with the view that the economic recovery was sufficiently robust 
+and inflation was expected to remain within target throughout the projection period. Moreover, 
+the member viewed that the prolonged monetary accommodation might induce households 
+and businesses to underestimate potential changes to financial conditions and thus voted to 
+raise the policy rate at this meeting in order to start building policy space  for future needs . Monetary Policy Report June  2018  27 With regard to exchange rates, the baht depreciated in recent periods as the U .S. dollar 
+appreciated since mid -April due to (1) uncertainties on trade war between the U .S. and major 
+advanced economies while geopolitical risks were  temporar ily relaxed, (2) an improved 
+outlook of the U .S. economy, and (3) seasonal factor s in the second quarter from repatriation 
+of dividends of foreign companies and investors. Recently in June, the U .S. dollar appreciated 
+at a faster pace as the Fed would likely raise policy rates a total of  four times this year. As a 
+result, the baht as well as other regional currencies weakened against the U .S. dollar. 
+However, the baht was least affected compare d with other emerging market currencies with 
+vulnerable economic fundamentals. Nevertheless, the  Committee assessed that the impact of 
+the baht movements differed among businesses and households, where the impact s could be 
+either positive or negative depending on whether  the baht appreciated or depreciated. 
+Exchange rate policy  should therefore take into consideration  impacts on various parties 
+involved  (Box: The impact of exchange rates of the  Thai economy ). Going forward, the baht would  
+likely be volatile given  uncertainties on the conduct of monetary and fiscal policies of major 
+advanced economies.  The Committee would thus continue to closely monitor developments 
+in the foreign exchange market and impact s on the economy.  
+The Committee saw the need to  carefully consider policy options in the context of the 
+Thai economy. Hence, although some central banks of major economies and regional 
+countries began to reduce the degree of monetary policy accommodation, the context of the 
+Thai economy was different —in particular,  given that Thailand’s external stabilities remained 
+sound and were able to cushion aga inst international capital flow  and global financial market 
+volatilities. In addition, risks to financial stability that were partly due to a prolonged low interest 
+rate environment were still at manageable levels. In this light, t he Committee considered a ll 
+policy tradeoffs and viewed that monetary policy accommodation could be maintained  at the 
+current level.  
+Looking ahead, the Committee viewed that monetary policy accommodation would be 
+a key factor to support a stronger growth of domestic demand which c ould foster headline 
+inflation to gradually rise and move within target in a sustainable manner. However, should 
+economic expansion continue, and inflation move more firmly within target, the need for 
+currently extra accommodative monetary policy would sta rt to be reduced, and that the need 
+for a policy rate increase in order to build policy space in the future would be increasing. The 
+Committee would stand ready to appropriately utilize available policy tools to support a 
+stronger economic growth while als o preserving price and financial stability.  
+ 
+ 
+ 
+ 
+ 
+ 
+ Monetary Policy Report June  2018  28       
+  Thailand’s structural economic issues and economic policy coordination  
+The Thai economy has rebounded and 
+registered continued growth with key drivers 
+from merchandise exports and tourism as well 
+as recent gradual improvements in domestic 
+demand (Chart 1). However, there remain 
+questions why most people  do not perceive the 
+economy has improved despite Thailand’s 
+impressive growth outlook. The answer lies in 
+part on Thailand’s economic structure where 
+benefits from economic growth are not yet 
+sufficiently broad -based. This is evident as 
+overall consumption growth is mainly driv en by 
+increases in purchasing power from medium - 
+and high -income earners8/. On the other hand, 
+low-income households remain cautious on 
+spending because their income recovery has yet to be more robust. In theory, macroeconomic 
+spillovers are transmitted to  economic agents at the micro level through the labor market. That is, 
+more jobs are created and income are raised, which will lead to higher consumption. Consequently, 
+businesses will increase investment in response to demand expansion.  
+However, the abov e labor market mechanism has been constrained by ongoing structural 
+challenges currently facing the Thai economy.  Household debt remains high, while income growth 
+does not catch up due to (1) structural problems in the labor market, (2) aging, (3) and tec hnology 
+advancements that alter consumption behavior, savings, and investment. If these structural 
+challenges are not addressed today by both the private sector and coordination of government 
+economic policies, these issues will become barriers for Thailan d to achieve inclusive growth now 
+as well as in the future.  
+Thailand’s labor market is facing declining labor force while existing skills do not match 
+demand in the fast -changing economy  
+There are  three  structural changes in the Thai labor market. First, Thailand has faced 
+labor force constraints9/, given there is a smaller number of young workforce while older workers 
+increasingly retire. In fact, the Thai labor force already reached its peak in 2012 at 39.4 million. 
+Since then, the number of the Thai lab or force has slowly declined and thus Thailand becomes 
+partly reliant on workers from neighboring countries. Second, demand for labor has changed 
+due to technology advancements.  In particular, as more automation and industrial robots have 
+been used in prod uction, demand for labor has changed in terms of both quantity and skill sets. 
+For example, jobs declined in the electronics industry despite greater production in tandem with 
+exports. In this light, the affected workers are mostly those with routine tasks  such as those in the 
+                                           
+8/ See further in Box: Assessing private consumption recovery in Monetary Policy Report , March 2018  
+9/ Thailand has started aging since 2004 and is expected to become an aged society in 2025. According to the 
+definition by the United Nations, there are three  stages of aging based on the ratio of the elderly to total 
+population:  
+ (1) an aging society consists of at least 10 percent of over 60 year olds, or at least 7 percent of over 65 year olds;  
+ (2) an aged society consists of at least 20 percent of over 60 year olds, or at least 14 percent of over 65 year olds;   
+ (3) a super -aged society consists of at least 20 percent of 65 year olds.   
+-10-5051015
+2013 Q1 2014 Q1 2015 Q1 2016 Q1 2017 Q1 2018 Q1Change in inventories
+Imports of goods and services (54.6 percent)
+Exports of goods (51.6 percent)
+Private Gross fixed capital formation (17.8 percent)
+Private final consumption expenditure (48.8 percent)
+Government expenditure (22.4 percent)
+Export of services (16.6 percent)
+Gross domestic product (GDP)PercentChart 1 Thai economy continues to gain traction  due to 
+merchandise exports and exports of services and also by 
+the recent strengthening of domestic demand. 
+Note   () denotes share to GDP in 2017
+Source: NESDB, calculation by Bank of Thailand  Contribution to GDP growth by componentMonetary Policy Report June  2018  29       
+  production line and machinery supervision. Moreover, demand for labor is rising for modern 
+businesses in technology products and the services sector. Nonetheless, over 40 percent of Thai 
+labor are in agriculture which accou nts for only   percent of the country’s GDP. Third, the ability 
+of Thailand’s education system to produce skilled labor does not keep up with demand in 
+the fast -changing economy.  This is reflected in new graduates now taking longer time to find a 
+job despi te no increase in the number of new graduates each year. In addition, most unemployed 
+new graduates are in the fields of social sciences, business, and law.  
+Aging society and technology advancement have altered consumption, saving, and investment  
+behavior s.  
+Since Thailand’s enter to an aging society in  00 , a larger number of older population 
+have increasingly relied on the working age group10/. The dependency ratio is expected to rise 
+from 19.7 in 2010 to 58.3 in 2040 (Chart 2).  In other words, in just around 20 years, ten working -
+age persons will have to take care more elderly persons —from two old -age persons in 2010 to 
+approximately six old -age persons in 2040. As a result, Thailand will face several structural 
+challenges as some consumers have downsized their present consumption and instead 
+saved more for retirement.  In fact, this is reflected by an upward trend in the savings -to-GDP 
+ratio since Thailand entered aging society (Chart 3).  This will indeed hamper the potential of private 
+consumption growth in the long term on top of the high debt level which currently weighs on 
+consumption. Thus, these challenges must be addressed by structural policies that aim to support 
+private consumption to expand in a strong and sustainable m anner in the long run. These may 
+include policies to promote saving and efficient investment for better returns as well as retirement 
+policy for various labor groups.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The above structural challenges —declining labor force, shortage of labor whose skills are 
+wanted by modern businesses, and falling purchasing power as a result of aging society —have 
+made Thailand less attractive in the eyes of both Thai and foreign investors compared with other 
+countries in the region, and consequentially lowered investment in Thailand . In addition, 
+                                           
+10/ Dependency rate of aging population is calculated from (old -age population/working -age population) x100  
+020406080100
+ 010  015  0 0  0 5  030  035  0 0Total Child (0-14 years) Elder (60 years and above)PercentChart 2 Ten working -age persons will have to take care 
+more elderly from two old -age persons in 2010 to 
+approximately six in 2040
+Note  Dependency ratio  refers to child, elder or both per 100 working age population
+Youth Dependency ratio calculated as (number of children    Working age 
+population)  x 100
+Dependency ratio  of aging population calculated as (number of elders /  
+Working age population)  x 100
+        Total dependency ratio calculated as  children and elders  / Working age 
+population ) x 100
+Source:  Estimated population for Thailand 2010 -2040   NESDBDependency ratio
+024681012
+1  0
+1  1
+1   
+1  3
+1   
+1  5
+1   
+1   
+1  8
+1   
+ 000
+ 001
+ 00 
+ 003
+ 00 
+ 005
+ 00 
+ 00 
+ 008
+ 00 
+ 010
+ 011
+ 01 
+ 013
+ 01 
+ 015
+ 01 PercentChart 3 Demographic transition to aging population 
+prompts households to save more for retirement  
+Source:  NESDB, calculation by Bank of Thailand  Household savings to  Gross domestic product (GDP)
+Demographic transtion to aging populationMonetary Policy Report June  2018  30       
+  technology disruption has largely affected both consumption and busin ess patterns such 
+as shopping via social media and e -commerce platforms, ride -hailing mobile applications, and 
+online news as opposed to press and television media. Thus, traditional businesses have to face 
+fierce competition as well as lower investment in  old businesses and technology. Thus, 
+businesses have adapted and invested in intangible assets  to boost efficiency such as ICT 
+systems and software, which requires a relatively smaller budget than investment in 
+buildings and machines.  In addition, advance d technology enables production efficiency through 
+automation as well as creating a sharing economy environment. As a result, businesses do not 
+need a large investment in machines compared with the past  to maintain the same level of 
+production11/. Moreover,  companies no longer have to invest in countries with low labor costs. 
+Hence, with such investment structure, private investment in monetary terms remained in a low 
+level relative to the past.  
+Structural challenges must be addressed with structural reform  policy  
+Economic policy can be generally categorized into three groups: fiscal policy, monetary 
+policy, and structural reform policy. Fiscal policy  includes tax collection and public spending. In 
+recent periods, the government has pushed large infrastructu re investment projects and 
+earmarked the budget on various economic stimulus programs, as reflected in the average budget 
+deficit of around 2.8 percent to GDP during fiscal years 2015 -2017. The government also aimed 
+at resolving disbursement and investment  delays through a disbursement acceleration measure. 
+In addition to these policy measures, the government also supports low -income households to 
+facilitate necessary adaptations through programs such as the government welfare card scheme 
+and the debt relie f measure for small farmers. Meanwhile, monetary policy  entails determination 
+of the policy interest rate, which has been maintained at an accommodative level at 1.50 percent 
+since April 2015 to support economic growth, stabilize inflation, as well as ensu re financial stability. 
+In addition, the Bank of Thailand oversees the exchange rate to curb excessive volatility in order 
+to enable the private sector to adjust to market conditions in a timely manner. Nevertheless, 
+neither fiscal nor monetary policy can entirely solve the problems currently faced by the 
+Thai economy. Instead, structural challenges must be tackled by appropriate structural 
+reform policy . For instance, first, labor policy is a key structural policy, which should be 
+addressed more on the eco nomic dimension in addition to the social, welfare, and security 
+aspects.  In particular, policy should aim at improving labor skills to meet the demand of the modern 
+economy. Such policy must target both potential workers who are currently in school as wel l as 
+those already in the labor market in order to make a direct impact on productivity and wages. 
+Second, agricultural policy  involves the majority of Thailand’s labor force in terms of both number 
+of labors and geographical area. Government price interve ntion may help farmers in the short 
+run; however, a long -term solution to sustainably raising farm income must aim at 
+increasing crop yields and reducing costs through several measures.  These include research 
+on high -yield crops, agricultural zoning for su itable land use, water management, and publication 
+of weather forecasts. Nonetheless, most Thai farmers are quite old and often move between the 
+agricultural sector and other sectors. Therefore, there remains a challenge to accumulate 
+investment as well as  adopting innovation in the agricultural sector for better yield and higher 
+income.  
+ 
+                                           
+11/ Based on interviews with businesses in Bank of Thail and’s Business Liaison Program  Monetary Policy Report June  2018  31       
+  The integration of economic policy for well -being in the short and long terms  
+Monetary policy at the current juncture remains accommodative to facilitate eased 
+monetary and financial conditions despite tightening global monetary conditions. Fiscal policy is 
+currently at its full capacity in stimulating economic growth through both c urrent expenditure and 
+capital expenditure on large infrastructure investment. Although both policies have brought back 
+growth momentum, they are only short -term policy tools that are employed to nurture the economy 
+during a cyclical downturn. In the long term, however, raising Thailand’s economic potential 
+requires structural reform policies. Fiscal and monetary policies alone can neither sustain 
+continued growth in the long run nor ensure spillovers of the economic benefits across all sectors. 
+Relevant pa rties involved must focus on pushing various structural reform policies to successfully 
+take place as they will foster the Thai economy to sustainably grow both in the short and long run.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monetary Policy Report June  2018  32       
+  The Impact of exchange rates on the Thai Economy  
+The impact of exchange rates on the Thai economy can be twofold. On the one hand, an 
+abrupt appreciation or a continued strengthening trend may weaken the country’s price 
+competitiveness or reduce export revenue in baht terms. These, in tu rn, affect wages in export -
+oriented firms and consumers’ purchasing power due to their lower income, which may eventually 
+result in slower economic growth. Nevertheless, these channels are only one side of the coin when 
+assessing impact of exchange rates o n the Thai economy. On the other hand, exchange rate 
+appreciation helps lower producers’ import costs of raw materials as well as delaying an increase 
+in consumers’ costs of living, especially when global energy prices swiftly increase. The objective 
+of th is article is to examine the relationship between exchange rates and various economic 
+sectors. The findings suggest that the effects of exchange rate appreciation on the overall 
+economy are limited, yet the impact differs for each sector in the economy.  The results can 
+be summarized in Table 1 as follows.   
+Table 1  A summary of the impact of exchange rates on the Thai economy  
+Economic Sector  Effect of a 1 -percent baht appreciation  Notes  
+Effects on GDP  The Real Effective Exchange Rate (REER) that appreciates by 1 percent leads to a 
+decline in GDP of around 0.02 percent within 1 year.  
+1. Corporate sector  
+1.1 Exports  -  Export prices  
+   Increase by 0.3 percent  
+   (in U.S. dollar terms)  
+   Reduce by 0.7 percent (in baht terms)  
+-  Export volume  
+  Continuously declining and statistically 
+ insignificant effects  
+ - Diverse impact across businesses  
+  Low value -added businesses face 
+ greater impact  
+-  Foreign demand has a greater role 
+ than exchange rates  
+1.2 Imports  -  Import prices  
+   Increase by 0.2 percent  
+   (in U.S. dollar terms)  
+   Reduce by 0.8 percent (in baht terms)  
+-  Import volume  
+  Statistically insignificant effects  
+ -  Domestic demand has a greater role 
+ than exchange rates  
+ 
+1.3 Corporate profits  The impact on firm profitability differs across business characteristics and types  
+Negative effects on export -oriented firms, but positive effects on import -oriented firms 
+(as well as businesses with imported raw material)  
+ 
+2. Household sector  
+2.1 Wage, income  
+and household 
+earnings  Limited impact as no single sector records 
+a positive correlation coefficient between 
+their earnings growth and exchange rates 
+larger than 0.3  
+  
+2.2 Inflation  Decrease by 0.03 percent due to falling 
+energy prices  Firms’ domestic price s etting is 
+influenced by factors other than 
+exchange rates  
+ 
+ Monetary Policy Report June  2018  33       
+  1. The impact of exchange rates on the Thai economy: the corporate sector  
+1.1 The relationship between exchange rates and exports  
+ Considering the relationship between 
+growth of export value and exchange rates 
+over the past 10 years, the results suggest 
+that several periods of baht appreciation 
+against the U.S. dollar, such as in 2010 -
+2011 and 2017, coincided with strong 
+export growth  US (Chart 1). Conversely, in 
+some periods, such as in 2009 and 2014 -
+2015, despite the weakening of the baht, 
+export value contracted. Indeed, in addition 
+to exchange rates, export value may be 
+driven by other factors as well,  for instance 
+trading partners ’ income or even specific 
+factors such as structural economic 
+problems that could arise either domestically 
+or externally.  
+ In order to study and compare the importance of exchange rates and other factors on 
+exports, the analysis needs to be complemented by econometric models. The estimation results 
+on the relationship between export volume and the Real Effective Exchange Rate (REER)12/ show 
+that the appreciation of REER reduces export volume in line with theories. Nevertheless, the 
+elasticity of exports to  exchange rate movements is found to be lower over time, suggesting a 
+weaker link between the REER and export volume. In particular, a 1 percent appreciation of the 
+REER in the past would reduce export volume by approximately 0.6 percent13/. However, 
+the elasticity now decreases to around 0.3 percent and becomes statistically insignificant 
+during the past two years. Moreover, exchange rates have much less impact on export 
+volume than income -related factors.   
+ The above findings are mainly attributed to a n umber of factors. First, participation in 
+global value chains (GVC)  in many countries is regarded by the literature in other countries as 
+one of the main reasons explaining the reduced exchange rate effects on export volume over the 
+recent periods. Second,  gradual adjustments of businesses take place by enhancing value -
+added of products, which in turn strengthen the competitiveness of goods sold. Third,  greater use 
+of regional currencies and the baht to settle trade transactions  by exporters in CLMV and 
+Chinese markets secure their revenue in baht terms from U.S. dollar volatilities. This, therefore, 
+helps mitigate the impact of exchange rates on export volume, since risks from the excessive 
+reliance on the U.S. dollar are diversified away, thereby enabling more efficient management of 
+revenue.  
+ 
+                                           
+12/  The estimate is from a short -term equation in the error correction model %∆qx_sa t=f( ∆REER t,  ∆tpgdp t, 
+dummy_flood t, dummy_crisis t,  ∆ECM t-1), exploiting quarterly data during 2000Q1 and 2017Q4. Literature in 
+other countries often use the REER, as opposed to bilateral exchange rates vis -à-vis the U.S. dollar, to reflect 
+actual competitiveness against all trading partners. 
+13/  Estimated using quarterly data between 2000 -2012  
+15.5
+-14.326.8
+15.1
+2.9
+-0.3 -0.5
+-5.80.59.933.334.2
+31.6
+30.531.1
+30.732.534.335.3
+33.9
+2931333537
+-20-100102030
+ 008 00  010 011 01  013 01  015 01  01 Growth of exports value
+Annual average exchange rates%baht per US dollarChart 1 Overall exports value appears to have no 
+correlations with exchange rate movements  
+Source: Thai Customs Department, calculations by Bank of ThailandGrowth of exports value  (US dollar, Custom basis) relative to 
+exchange rates ( annual average)
+AppreciationMonetary Policy Report June  2018  34       
+   Regarding the relationship between exchange rates and export prices, a 1 percent 
+strengthening of the baht against the U.S. dollar is found to increase export prices in US 
+dollar terms by only 0.314/ percent on average. This result suggests limited ability to pass 
+on costs of baht appreciation to export prices in order to maintain revenue in baht terms  
+(incomplete exchange rate pass -through) and implies that export revenue in baht terms per a unit 
+of goods will fall by approximately 0.7 percent. Hence, overall adverse consequences faced by 
+exporters stem from converting their revenue to baht terms, rather than from losing their 
+competitiveness.  
+ According to the analyses,  the effects of exchange rates differ across industries   
+(Chart 2) and can be classified into two groups as follows.  
+ 1st Group : Businesses, whose 
+export volume faces a large, adverse 
+impact from baht appreciation , mostly 
+belong to industries with low valu e-added 
+export products such as rice and processed 
+agricultural products. These products are 
+less sophisticated and hence can be easily 
+substituted. Yet, their exporters tend to raise 
+prices to fix revenue in baht terms, while 
+importers abroad can promptly  switch to 
+order products from competitors instead. The 
+strengthening baht, therefore, has a large 
+impact on export volume. Nevertheless, in 
+the case of rubber, despite being a low value -
+added good given that Thailand exports 
+primary rubber products, excha nge rates 
+unexpectedly yield insignificant effects on both export prices and volume. This is owing to the fact 
+that export prices of rubber are determined by global prices in the futures market, as opposed to 
+rice that is traded over the counter (OTC), i.e ., directly between buyers and sellers.  
+ 2nd Group : Businesses whose export prices and volume are not significantly 
+affected by exchange rates . This group consists of (1) industries with high participation in GVC, 
+including high -technology goods produced by large multinational corporations (MNCs) such as 
+electronics, electrical appliances, and automobiles, where their raw materials contain high 
+proportion of import content  or a natural hedge15/; (2) businesses that export goods whose prices 
+move along with  crude oil prices such as petroleum products, chemicals and petrochemicals. 
+These goods are commodities and their prices vary according to the global market. Hence, they 
+are largely influenced by sentiment towards the U.S. dollar relative to major currenci es rather than 
+by the baht itself.  
+ Exports of products from the second group amount to 40 percent of total exports in 
+2017 and will likely continue to rise, particularly for industries with high participation in 
+GVC. At the same time, the share of product s in the 1st group is only 17 percent. Hence, the 
+overall impact of exchange rates on export volume is expected to decline.  
+                                           
+14/  The estimate is from a short -term equation in the error correction model %∆pxt=f( ∆USDTHB t,  ∆dubai t,   
+     ∆ECM t-1), exploiting quarterly data during 2000Q1 and 2017Q4.  
+15/  Firms with a natural hedge are those with similar import and export shares, or matching shares of revenue and 
+expenditure flows in foreign currencies. These help limit the impact from converting revenue in foreign -currency 
+terms to baht terms. 
+-3-2-1012
+Rice Rubber Processed
+agricultural
+productsPetroleum/
+Chemical
+productsAuto Electronics/
+electrical
+appliancesExport volume Export prices in US dollar term
+** ** *%Chart 2 The effects of exchange rates on exports differ 
+across industries
+Sensitivity to exchange rates when exchange rates moves by one percent 
+(data from 2002 to 2018)
+Source: Thai Customs Department, calculations by the BOT
+Note : (1) Price equation %∆pxt=f( ∆bilatFXt,  ∆othert) 
+(2) Volume equation %∆qx_sat=f( ∆reert,  ∆tpgdpt, ∆othert) 
+(3) * and     indicate statistical significance levels at 10% and 5%, respectively  
+(4) Petroleum related  consists of chemical products, petrochemical products, 
+and petroleum products. 
+(5) Numbers in ( ) denote shares to total exports value in 2017Group 1 Group  
+(2.2%) (2.5%) (12.3%) (11.5%) (15.0%) (20.6%)Monetary Policy Report June  2018  35       
+  1.2 The relationship between exchange rates and imports  
+Theoretically, appreciation of the baht should lower import prices in baht terms, which in 
+turn leads to greater demand for imports. Nevertheless, the estimates in Thailand’s case show 
+that, similar to export volume, exchange rate appreciation does not hav e statistically 
+significant effects on overall import volume (export elasticity to the REER stands at around 
+0.3 percent16/). Import volume is in fact driven by demand factors, both domestic 
+consumption and investment, as well as export volume, rather than by exchange rates.  This 
+is because 80 percent of Thailand’s imported goods are capital goods, raw materials and 
+intermediate goods that Thailand can neither produce nor produce enough to serve their demand. 
+These include large industrial machinery which re quires sophisticated technology, crude oil, steel 
+and metals, and electronic parts linked with production process under the GVC17/.  Meanwhile, the 
+study of relationship between exchange rates and import prices shows that a 1 percent 
+appreciation of the bah t against the U.S. dollar results in an increase of import prices in 
+U.S. dollar terms on average by around 0.2 percent.  This is owing to upward adjustments of 
+selling prices by trading partners abroad to maintain their revenue in local -currency terms. Thi s 
+often occurs when the U.S. dollar weakens and implies that import costs in baht terms per  
+a unit of goods faced by Thai importers will decrease by approximately 0.8 percent . 
+1.3 The relationship between exchange rates and corporate profits  
+Exchange rates yield varying effects on prices and quantity  of exports and imports. 
+As a result, their impact on corporate sector profitability differs across characteristics and 
+types of businesses.  The analysis considers the relationship between exchange rates and  an 
+operating profit margin (OPM) of firms listed on the Stock Exchange of Thailand (SET) which are 
+classified into18/ (1) the export -oriented group whose main revenue is derived from exports, (2) the 
+import -oriented group whose main operating expenses are due to imports, and (3) the group with 
+a natural hedge (Figure 3). The findings are as follows.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                           
+16/  The estimate is from a short -term equation in the error correction model %∆qm_sa t=f( ∆REER t,   
+     ∆domdemand_sa t,  ∆qx_sa t,  ∆ECM t-1), exploiting quarterly data during 2000Q1 and 2017Q4. 
+17/  Literature in other countries suggest that, in counties with extensive links with GVC, the exchange rates neither 
+affect volume of exports nor imports.  
+18/ This study classifies firms into export -oriented, import -oriented and natural -hedge firms by the ratio [insert 
+formula], where X denotes export and import value, respectively. Such ratio lies between -1 and 1. The ratio 
+close to -1, 1, 0 implie s that firms are import -oriented , export -oriented or have a natural hedge, respectively. 
+The  study focuses only on businesses with more -than-30 percent share of exports to total revenue, or with 
+more -than-30 percent share of imports to total production co sts of goods and services.  
+Chart 3 Exchange rate movements correlates with operating profit margins 
+of firms according to business characteristics.  
+05101520
+29303132333435363.54.55.56.57.58.59.5
+2930313233343536024681012
+2930313233343536OPM (%)
+Correation = 0.7 Correation = -0.513 firmsFirms with natural hedge
+baht per US dollar OPM (%)66 firmsExport -oriented firms
+80 firmsImport -oriented firms
+OPM (%)
+Note: The dots in each figures display  average OPMs of businesses for each time period based on 
+quarterly data during Q4/2011 –Q1/2018
+Source   The Stock Exchange of Thailand and Thai Customs Department, calculations by Bank of ThailandExchange rates and profitability of firms listed on the Stock Exchange of Thailand
+baht per US dollar baht per US dollar Monetary Policy Report June  2018  36       
+  (1) An operating profit margin of export -oriented corporates is positively correlated 
+with the baht value. That is, their margin declines whenever  the baht appreciates.  The finding 
+is in line the conclusion from section 1.1, which shows that export -oriented firms are affected 
+mainly through the conversion of their revenue into baht terms. Moreover, the effects of the baht 
+value on a profit margin al so depend on the prevalence  of transactions to prevent exchange rate 
+risks. It is found that industries with limited transactions on exchange rate risk management, such 
+as textile, rubber and plastics, and machinery and equipment manufacturing industries, experience 
+a greater impact than other industries.  
+ 
+(2) For import -oriented firms whose main revenue is derived from domestic sales 
+of goods and services, their profit margin varies negatively with the baht value. In other 
+words, the margin rises as the baht s trengthens . Thanks to baht appreciation, such businesses 
+can save on import costs of raw materials, capital goods and consumer goods. This in turn helps 
+facilitate consumption and investment, particularly for investment with extensive import content. 
+Follo wing baht appreciation, sectors with significantly improved profit margin include wholesale 
+and retail businesses. This is due to their business feature that serves as an intermediary to 
+purchase goods in foreign currency and sell them locally in baht term s. Other industries include 
+energy and electronics industries.  
+ 
+(3) For firms with a natural hedge, their profit margin is found to be uncorrelated 
+with exchange rates , as their revenue and expenses in foreign currencies can be partly balanced 
+out, thus limiti ng the exchange rate impact. For those export -oriented corporates that are not 
+listed on SET, since they are mostly MNCs, the correlation between exchange rates and 
+their profit margin is also expected to be low.  Based on interviews with businesses, most M NCs 
+have natural hedge and tend to highly and consistently engage in financial transactions that 
+prevent exchange rate risks in compliance with their parent company’s policies, or else the parent 
+company may commit such risk -management transactions on beha lf of them.  
+ 
+2. The impact of exchange rates on the Thai economy: the household sector  
+2.1 The relationship between exchange rates and household wage, salary and earnings  
+The relationship between household earnings and exchange rates exists if households 
+have affiliations with businesses affected by exchange rates through import or export channels, 
+either as business owners or as employees whose earnings are derived from wage and salary. 
+This is because firms may reduce their production costs by cutting wa ges whenever their profits 
+or revenue are adversely affected by exchange rates either from declines in export volume or 
+revenue in baht terms. The analysis in this part will focus on the relationship between exchange 
+rates and household earnings across bus iness sectors that can supplement the results found in 
+the previous section19/. 
+Having been on an appreciating trend since 2014, the recent baht movements are 
+compared with household earnings, which can be classified into two groups: (1) agricultural 
+                                           
+19/ This study considers the relationship between exchange rates and average earnings, as opposed to 
+employment, since Thailand’s employment is, to a large extent, influenced by various structural factors. These 
+include seasonal l abor movements across agricultural and non -agricultural sectors, greater adoption of 
+automation technology in production line, and declining labor force due to aging society.  Monetary Policy Report June  2018  37       
+  household income and (2) average hourly earnings of non -agricultural employees20/. The 
+correlation between earnings and exchange rates is found to be weak for both groups 
+(Chart 4). In particular, despite the rising baht value since mid -2016, farm income still experienced 
+high growth, while non -farm income did not show any clear relationship with exchange rates in 
+any business sector. Furthermore, considering a correlation coefficient between earnings 
+growth in each sector and exchange rates since 2006, no single sector records a positive 
+coefficient that is larger than 0.3. The result suggests a limited impact of exchange rate 
+movements on wages.  This is attributed to the f act that, first, agricultural income usually depends 
+on demand and supply in the global market which vary more with other factors, particularly weather 
+conditions. For instance, droughts and floods at times affected rice and rubber, respectively. 
+Second, o ther non -agricultural industries face a limited impact from exchange rates according to 
+the analysis shown in section 1.1. Furthermore, some businesses have altered their employment 
+patterns owing to structural changes in the labor market, especially after  the minimum wage 
+increase to 300 baht in 2013. The move has induced automobile businesses to reduce temporary 
+workers in times when foreign demand drops. Processed food businesses have switched to hire 
+daily workers whose earnings per hour are lower by ha lf. In addition, the production within 
+electronic industries has become less labor intensive due to the adoption of automation 
+technology. Although the baht steadily weakened, growth of labor earnings did not pick up much 
+as reflected in the low, despite b eing positive, correlation in certain industries. Moreover, structural 
+issues in the labor market can explain why Thai economic recovery over the recent periods that 
+are driven by export growth is yet to transmit clear and positive spillovers on employment . 
+Therefore, it may be concluded that the recent baht appreciation did not significantly 
+influence household income but did have a greater impact on corporate profits.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                           
+20/ The data on average earnings per hour of non -agricultural workers are obtained  from the Labor Force Survey. 
+Meanwhile, income from sales of agricultural products, i.e., rice and rubber, is calculated from their prices and 
+volume, which should reflect farmers’ overall income.  
+-20-15-10-505101520
+-80-60-40-20020406080
+USDTHB (RHS) Rice (-0.43) Rubber (-0.59)-20-15-10-505101520
+-80-60-40-20020406080
+USDTHB (RHS) Processed food (-0.29)
+Electronics (0.14) Auto (0.02)
+Petroleum (0.12)Exchange rate movements and income of each industries compared with 
+the same period last yearChart   The correlation between household income and exchange rates 
+is found to be weak.    
+% %Farm income Average earnings of workers outside agricultural sector
+Source: The Labor Force Survey, the Ministry of Labor,  and calculations by Bank of ThailandNote: Numbers in ( ) denote correlation values between growth of hourly wages and exchange rates 
+based on quarterly data during 2006 -2017, where the positive value indicates the baht depreciation 
+against the US dollar. Baht appreciation period% %
+Baht appreciation periodMonetary Policy Report June  2018  38       
+  2.2  The relationship between exchange rates and household expenditure  
+The impact of exchange rates on costs of living can be unveiled from the relationship 
+between exchange rate movements and inflation, where the former affects the latter through 
+altering costs of goods. For example, if the baht depreciates, impo rt costs in baht terms will 
+increase. Firms will, therefore, have incentives to pass such burden to consumers by raising their 
+prices to maintain their profit margin. However,  firms’ domestic price setting may be influenced 
+by factors other than exchange r ates, such as costs of price adjustment, costs of other 
+production factors as well as demand for goods. This again differs across product categories. In 
+addition, firms may encounter constraints on their price adjustments, such as the influence from 
+price policies of product owners and global market prices, as well as intensified competition among 
+firms. Therefore, the assessment of the relationship in this part will make use of econometric 
+models across major product categories in the inflation basket cons isting of energy, fresh food and 
+core inflation (i.e., excluding energy and fresh food) categories. A positive and statistically 
+significant coefficient of exchange rates21/ or the elasticity will reflect the exchange rate impact on 
+prices of each product c ategory.  
+The results show that exchange rates mainly affect energy prices (Chart 5), particularly 
+domestic retail oil prices. This is because retail oil production relies on imported raw material to a 
+larger extent compared with other products. In additio n, the government allows pricing mechanism 
+in the domestic retail market to reflect costs which are driven by global market prices. This is 
+particularly the case for pricing of oil containing benzene such as gasohol 95 and 91. This results 
+in a greater pas s-through of the exchange rate impact onto retail oil prices relative to other 
+products. Nevertheless, given the relatively small share of energy products in the inflation basket,  
+the elasticity of headline inflation to exchange rates is not large . That is , if the baht 
+strengthens by 1 percent against the U.S. dollar, headline inflation will decline by 0.03 percent. 
+While exchange rates do not have a large impact on inflation, the persistently appreciating baht 
+in the recent periods helped mitigate the rise  in households’ overall costs of living to 
+certain extent . In the previous year (2017Q1 -2018Q1), the baht strengthened by around 11 
+percent22/ against the U.S. dollar, prompting the decline of Thailand’s headline inflation by 
+approximately 0.3 percent (Char t 6). 
+  
+ 
+                                           
+21/ Exchange rates in the model are the bilateral baht -U.S. dollar exchange rates since 80 percent of all import 
+ and export transactions made by Thai importers and exporters are settled in U.S. dollars in their settlement. 
+22/ Exchange rates in the first quart er of 2017 and 2018 averaged at 35.40 and 31.53 baht per U.S. dollar, 
+ respectively. 
+Weights in 
+the inflation basketAverage effects (%)
+Energy 11.7 -0.28**
+Core
+(Excl. government measures )72.6 -0.01
+Raw food 15.7 -0.07
+Headline inflation  100 -0.03Chart  5 The impact of exchange rates on consumer price index 
+by major product categories in the case when exchange rate 
+appreciates by one percent
+Note :    and     indicate statistical sigficance levels at  0% and  5%, respectively
+1/ includes only product categories with statistical significant correlations such as energy 
+Equations :%∆core_nomeasuret= f( ∆coret-1,  ∆bilatFXt, output gapt, %∆dubait,  ∆farmpricet) 
+%∆freshfoodpricet= f( ∆ bilatFXt,  ∆farmpricet)
+%∆energypricet= f( ∆ bilatFXt,  ∆dubait)
+Source: The Ministry of Commerce and calculations by Bank of Thailand           
+0.9
+-0.30.6
+-2-10123
+Q1/2014
+Q3/2014
+Q1/2015
+Q3/2015
+Q1/2016
+Q3/2016
+Q1/2017
+Q3/2017
+Q1/2018Contribution from FX (+ = depreciation)
+Contribution from other factors
+Headline inflationChart   Exchange rate movements partly helps slow down 
+the pace of inflation growth in the recent periods 
+%
+Source: The Ministry of Commerce and calculations by Bank of Thailand           Contributions to headline inflation  Monetary Policy Report June  2018  39       
+  3. The net impact of exchange rates on the Thai economy  
+Given the aforementioned results of the relationship between exchange rates and various 
+economic sectors, effects of baht appreciation are twofold with both positive and negative 
+consequences on the overall economy . Agents impacted by the baht appreciation can be 
+classified into three groups. They include, first, those adversely affected by the baht 
+appreciation  are export -oriented firms. The strengthening baht results in a decline in their revenue 
+in baht terms, and hence affects their profit margin. Among those who experience a greater impact 
+than others are certain export -oriented firms that produce low value -added goods such as rice and 
+processed agricultural products a s these products can be easily substituted. Second, those who 
+benefit from the baht appreciation include import -oriented firms whose expenses in baht terms 
+fall as the baht value rises, and thus boosting their profit margin. Such businesses are in the 
+wholesale and retail sector s. Furthermore, households do not face any large adverse effects, but 
+instead receive benefits from a reduction in the cost of living through falling domestic retail oil 
+prices. Third, those unaffected by baht appreciation  are export -oriented firms whose product 
+prices vary with crude oil prices, and export firms with a natural hedge. The latter includes, for 
+example, industries with active participation in GVC such as electronics since their raw materials 
+consist of high import conte nt as well as their active management of exchange rate risks.  
+The impact assessment in this article mainly relies on single -equation models in order to 
+separately identify the effects of exchange rates on different transmission channels. The sectoral 
+asses sments reveal that the baht appreciation has limited consequences on the Thai economy. 
+The results are well in line with the estimates from a macroeconomic model that consists of a 
+number of variables from the economic system, which suggest that movements in exchange 
+rates do not have much influence on overall economic growth23/. The analysis hence arrives 
+at the following policy implications:  
+1. Monetary policy conduct that aims to weaken the exchange rates does not help 
+stimulate overall export volume. Its po sitive impact will be limited among certain export 
+goods.  Furthermore, the implementation of exchange rate policies to raise exports with an aim to 
+improve employment, labor earnings and consumption may have weaker effects than in the past. 
+This is because  the positive spillovers of export growth on these variables have become limited, 
+partly owing to a greater influence from structural factors.  
+ 
+2. Measures to slow down the pace of exchange rate appreciation have a wide -
+ranging impact on the economy as well a s several consequences. These range  from 
+purchases of foreign currencies by the central bank to perform currency intervention to low -
+interest -rate policies, resulting in both winners and losers in the economy. In addition, the impact 
+on other policies shou ld also be taken into consideration  For instance, the accumulation of 
+financial stability risks following the prolonged low interest rate policy may derail public confidence 
+and the effectiveness of central bank’s policies.  
+ 
+3. To mitigate the impact of baht appreciation, well -targeted policy directed at the 
+significantly affected group is recommended. This should provide a more sustainable 
+solution since an exchange rate weakening policy can only solve problems in the short run.  
+Over the recent periods, the Bank of Thailand has implemented several measures to pre -empt 
+and mitigate the impact from volatile exchange rates. These include, promoting management of 
+exchange rate risks by firms, providing knowledge and understanding of financial instruments to 
+                                           
+23/ The sensitivity results from the macroeconomic model suggest that a 1 -percent appreciation of the REER leads 
+ to a decline in economic growth of around 0.02 percent in 1 year. Monetary Policy Report June  2018  40       
+  businesses, i.e., importers and exporters, as well as promoting the use of regional currencies in 
+settling international trade transactions instead of the U.S. dollar. The latter will help curb risks 
+associated with a so le reliance on one major currency and improve resilience of the business 
+sector. In the long run, firms should reap benefits of baht appreciation by importing raw materials 
+and investing in machinery that cannot be produced domestically. At the same time, they should 
+strive to improve their production efficiency or add value to products that will likely be demanded. 
+For example, chemical -free organic rice can be exported at a higher price than normal rice. Rice 
+and other agricultural products can be tailor -made for specific groups and customized products 
+such as elderly patients, cosmetics and degradable plastic resin. These will help reduce the 
+vulnerability of the economy amid exchange rate volatilities, while also enhancing the country’s 
+competitiveness i n the long run.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monetary Policy Report June  2018  41 4. Appendix  
+4.1 Table   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thai Economy Dashboard
+2018
+Q1 Q2 Q3 Q4 Q1
+3.3 3.93.4 3.9 4.3 4.0 4.8
+Production
+-2.5 6.2 6.0 15.9 9.7 -1.3 6.5
+3.8 3.7 3.2 3.0 4.0 4.7 4.7
+Manufacturing2.3 2.6 1.9 1.0 4.2 3.4 3.7
+Construction8.6 -2.3 3.2 -5.7 -1.6 -5.3 1.2
+Wholesales and retail trade5.3 6.3 5.9 6.0 6.4 6.9 7.0
+Hotels and restaurants9.9 8.5 5.1 7.0 6.9 15.3 12.8
+Transport, storage, and communication4.1 7.3 5.3 7.8 7.4 8.8 7.1
+Financial intermediation6.5 4.8 4.8 6.3 4.6 3.6 3.5
+Real estate, renting, and business activities3.2 4.6 3.8 4.2 4.7 5.8 4.5
+Domestic demand 2.8 2.1 2.0 1.8 2.5 2.0 3.3
+Private consumption 3.0 3.2 3.1 2.9 3.4 3.4 3.6
+Private investment 0.5 1.7 -1.1 3.0 2.5 2.4 3.1
+Government consumption 2.2 0.5 -0.7 0.4 1.8 0.2 1.9
+Public investment 9.5 -1.2 10.0 -6.9 -1.6 -6.0 4.0
+Imports of goods and services-1.0 6.8 5.9 7.2 6.5 7.5 9.0
+imports of goods-2.3 8.5 7.3 9.2 9.2 8.3 9.3
+imports of services4.6 -0.3 0.4 -1.0 -5.0 4.0 7.8
+Exports of goods and services2.8 5.5 2.7 5.1 6.9 7.4 6.0
+exports of goods0.3 5.6 2.8 4.9 8.2 6.6 4.7
+exports of services11.5 5.1 2.5 5.7 2.6 9.9 9.4
+Trade balance (billion, U.S. dollars)36.5 31.9 8.8 6.4 10.1 6.5 6.6
+Current account (billion, U.S. dollars)48.2 48.1 15.0 7.8 13.9 11.3 17.1
+Financial account (billion, U.S. dollars)-21.0 -18.2 -7.0 -5.7 0.5 -6.0 -0.7
+International reserves (billion, U.S. dollars)171.9 202.6 180.9 185.6 199.3 202.6 215.6
+Unemployment rate (%)1.0 1.2 1.2 1.2 1.2 1.1 1.2
+Unemployment rate, seasonally-adjusted (%)n.a. n.a. 1.1 1.1 1.2 1.3 1.2
+Source: Office of the National Economic and Social Development Board National Statistical Office and Bank of Thailand25602017
+ExpenditurePercent 2559
+GDP growth 
+Agriculture
+Non-agricultureMonetary Policy Report June  2018  42  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Stability Dashboard
+2017 2018
+Q1 Q2 Q3 Q4 Q1 Apr May
+1. Financial market sector
+0.6 1.1 1.1 1.1 1.0 1.0 1.2 1.2 1.1
+Equity market
+SET index (end of period) 1,542.9 1,753.7 1,575.1 1,574.7 1,673.2 1,753.7 1,776.3 1,780.1 1,727.0
+Actual volatility of SET index1/14.2 6.5 7.0 4.8 5.8 7.9 9.4 13.3 9.7
+Price to Earnings ratio (P/E ratio) (times) 18.6 19.1 17.4 16.3 17.9 19.1 18.3 18.3 17.6
+Exchange rate market
+Actual volatility of Thai baht (%annualized )2/4.4 3.3 3.5 3.9 2.9 2.8 4.6 3.4 4.8
+Nominal Effective Exchange Rate (NEER) 106.2 110.6 108.7 109.8 111.2 112.9 114.8 115.8 115.4
+Real Effective Exchange Rate (REER) 100.6 103.6 102.7 102.8 104.2 105.7 106.3 107.6 107.1
+2. Financial institution sector3/
+Minimum Lending Rate (MLR)4/6.33 6.28 6.33 6.28 6.28 6.28 6.28 6.28 6.28
+12-month fixed deposit rate4/1.37 1.37 1.37 1.37 1.37 1.37 1.37 1.37 1.37
+Capital adequacy
+Capital funds / Risk-weighted asset (%) 18.0 18.2 17.8 17.9 18.4 18.2 18.1 18.3 n.a.
+Earning and profitability
+Net profit (billion, Thai baht) 199.0 187.3 51.2 49.0 46.5 40.8 50.1 n.a. n.a.
+Return on assets (ROA) (times) 1.1 1.1 1.2 1.1 1.0 1.1 1.1 n.a. n.a.
+Liquidity
+Loan to Deposit and B/E (%) 96.3 96.08 95.7 96.5 96.4 96.1 95 95.1 n.a.
+3. Household sector
+Household debt to GDP (%) 79.3 78.0 78.4 78.0 77.8 78.0 n.a. n.a. n.a.
+Financial assets to debt (times) 2.7 n.a. 2.7 2.8 2.7 n.a. n.a. n.a. n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Consumer loans 2.7 2.7 2.8 2.7 2.7 2.7 2.8 n.a. n.a.
+Housing loans 2.9 3.2 3.2 3.1 3.3 3.2 3.4 n.a. n.a.
+Auto leasing 1.8 1.6 1.6 1.7 1.6 1.6 1.5 n.a. n.a.
+Credit cards 3.7 2.6 4.1 3.4 2.8 2.6 3.2 n.a. n.a.
+Other personal loans 2.9 2.5 2.8 2.6 2.7 2.5 2.7 n.a. n.a.
+4. Non-financial corporate sector5/
+Operating profit margin (OPM) (%) 8.2 8.3 8.5 7.3 8.5 8.1 7.9 n.a. n.a.
+Debt to Equity ratio (D/E ratio) (times) 0.7 0.7 0.7 0.7 0.7 0.7 0.7 n.a. n.a.
+Interest coverage ratio (ICR) (times) 6.5 6.6 6.2 6.0 6.4 7.8 6.9 n.a. n.a.
+Current ratio (times) 1.6 1.7 1.7 1.6 1.6 1.7 1.7 n.a. n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Large businesses 1.5 1.8 1.6 1.8 1.7 1.8 1.7 1.6 n.a.
+SMEs 4.3 4.4 4.5 4.4 4.6 4.4 4.5 4.7 n.a.
+Note:
+1/ Calculated by 'annualized standard deviation of return ' method
+2/ Daily volatility (using exponentially weighted moving average method )
+3/ Based on data of all commercial banks
+4/ Average value of 5 largest Thai commercial banks
+5/ Only listed companies on Stock Exchange of Thailand (median value ); with data revisionsIndicators 2016 2017
+Bond market
+Bond spread (10 years - 2 years )Monetary Policy Report June  2018  43  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Stability Dashboard (continue)
+Q1 Q2 Q3 Q4 Q1 Apr May
+5. Real estate sector
+Number of approved mortgages from commercial banks  (Bangkok and Vicinity) (units)
+Total 61,452                 62,664     12,244     15,086     16,859     18,476     15,011     4,333        n.a.
+ Single-detached and semi-detached houses 13,409                 13,907     2,802        3,544        3,774        3,787        3,526        876            n.a.
+ Townhouses and commercial buildings 20,187                 20,536     4,315        4,947        5,604        5,670        5,167        1,355        n.a.
+ Condominiums 27,856                 28,221     5,127        6,595        7,481        9,019        6,318        2,102        n.a.
+Number of new housing units launched for sale (Bangkok and Vicinity) (units)
+Total 110,575              114,477   28,924     25,256     35,434     24,863     25,026     1,564        n.a.
+Single-detached and semi-detached houses 19,433                 14,280     2,968        2,830        4,874        3,608        3,758        307            n.a.
+Townhouses and commercial buildings 32,792                 36,571     11,183     7,665        9,831        7,892        6,032        233            n.a.
+Condominiums 58,350                 63,626     14,773     14,761     20,729     13,363     15,236     1,024        n.a.
+Housing price index (2009 = 100)
+Single-detached houses (including land) 130.8 130.9 128.6 129.6 131.6 133.9 137.7 136.9 n.a.
+Townhouses (including land) 137.6 141.2 138.3 140.0 142.6 143.7 145.9 147.1 n.a.
+Condominiums 166.2 171.0 169.8 168.8 169.8 175.4 182.3 182.0 n.a.
+Land 171.2 171.7 171.3 164.2 172.9 178.3 175.7 177.5 n.a.
+6. Fiscal sector
+Public debt to GDP (%)40.8 41.2 41.7 41.3 41.9 41.2 41.2 41.0 n.a.
+7. External sector
+Current account balance to GDP (%)6/11.7 10.8 13.8 7.1 12.1 9.3 13.3 n.a. n.a.
+External debt to GDP (%)7/32.5 35.2 33.2 34.0 35.5 35.2 35.3 n.a. n.a.
+External debt (billion, U.S. dollars) 132.2 149.0 136.2 140.3 148.1 149.0 152.2 152.2 150.2
+Short-term (%) 41.2 41.9 40.5 39.4 40.9 41.9 40.9 40.9 40.3
+Long-term (%) 58.8 58.1 59.5 60.6 59.1 58.1 59.1 59.1 59.7
+International reserves / Short-term external debt (times) 3.2 3.2 3.3 3.4 3.3 3.2 3.5 3.5 3.6
+Note:
+6/ Current account / Nominal GDP at the same quarter
+7/ External debt / 3-year average nominal GDP2017 2018
+Indicators 2016 2017Monetary Policy Report June  2018  44  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table: Probability distribution of GDP growth forecast
+2020
+Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+> 9 0 0 0 0 1 2 3 4
+8-9 0 0 1 1 2 3 4 5
+7-8 0 1 4 3 5 7 8 8
+6-7 3 6 9 7 10 11 11 11
+5-6 17 16 17 12 14 15 14 14
+4-5 35 25 22 17 17 16 15 14
+3-4 30 25 20 19 17 15 14 13
+2-3 12 17 14 16 14 12 11 11
+1-2 2 7 8 12 10 9 8 8
+0-1 0 2 3 7 6 5 5 5
+(-1)-0 0 0 1 3 3 3 3 3
+(-2)-(-1) 0 0 0 1 1 1 1 2
+(-3)-(-2) 0 0 0 0 0 0 1 1
+< (-3) 0 0 0 0 0 0 0 0Percent2018 2019
+Table: Probability distribution of headline inflation forecast
+2020
+Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+> 4.0 0 0 0 2 2 2 3 3
+3.5-4.0 0 0 1 2 2 2 3 3
+3.0-3.5 0 2 2 4 4 4 4 4
+2.5-3.0 2 6 5 7 6 6 7 6
+2.0-2.5 11 13 8 10 9 8 9 9
+1.5-2.0 26 19 13 12 11 10 11 10
+1.0-1.5 29 20 15 12 12 12 11 11
+0.5-1.0 20 17 15 12 12 12 11 11
+0.0-0.5 9 12 13 11 11 11 10 10
+(-0.5)-0.0 2 7 11 9 9 9 9 9
+(-1.0)-(0.5) 0 3 7 7 8 8 7 7
+(-1.5)-(1.0) 0 1 5 5 6 6 5 6
+(-2.0)-(-1.5) 0 0 3 3 4 4 4 4
+< -2.0 0 0 2 4 6 7 6 7Percent2018 2019Monetary Policy Report June  2018  45  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table: Probability distribution of core inflation forecast
+2020
+Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+> 4.0 0 0 0 0 0 0 0 0
+3.5-4.0 0 0 0 0 0 0 0 0
+3.0-3.5 0 0 0 0 0 0 0 0
+2.5-3.0 0 0 0 0 0 1 1 2
+2.0-2.5 0 0 0 2 3 4 5 6
+1.5-2.0 0 2 4 9 10 11 13 14
+1.0-1.5 12 20 19 22 22 22 22 21
+0.5-1.0 62 45 34 28 26 25 24 23
+0.0-0.5 24 27 27 22 21 20 19 17
+(-0.5)-0.0 1 6 12 12 11 11 11 10
+(-1.0)-(0.5) 0 0 3 4 4 5 5 5
+(-1.5)-(1.0) 0 0 0 1 1 1 2 2
+(-2.0)-(-1.5) 0 0 0 0 0 0 0 0
+< -2.0 0 0 0 0 0 0 0 0Percent2018 2019Monetary Policy Report June  2018  46 4.2 Data pack  
+Global Economy  
+Thailand’s trading partner economies continued to expand and remained a key driver of Thai 
+exports going forward. Advanced economies temporarily slowed down in the first quarter due 
+to unusually cold weather. Overall risks to the growth forecast tilted to the downside, in line 
+with the previous assessment, owing to the U.S. trade protectionism measures, retaliation by 
+major economies, and geopolitical risks. Meanwhile, headline inflation slowly trended up in 
+tandem with oil prices, while inflation expectati ons remained stable. Most central banks 
+maintained monetary policy accommodative stance. However, some central banks started to 
+raise their policy rates following economic improvements while stabilizing financial market 
+volatility.  
+  
+  
+ 
+ 
+ 
+ 
+4550556065
+ 01  015  01  01  018Euro area Japan U.S.Diffusion index
+Apr 18
+Sources: Bloomberg and EurostatManufacturing Purchasing Manager Index
+China’s economic indicators
+(Change from same period last year)
+Note: ( ) denotes share to total investment
+Source : CEICPercent
+Apr 18
+0102030
+ 015  01  01  018Retail sales Manufacturing
+Total investment Investment in manufacturing (31%)
+Investment in real estate (22%) Investment in infrastructure (22%)
+Source: CEIC60708090100110120130
+ 013  01  015  01  01  018Hong Kong Taiwan South Korea
+Malaysia Singapore Indonesia
+Philippines Thailand
+Apr 18Asian exports
+Seasonally adjusted index of export value (January 2013 = 100)
+-2.00.02.04.06.08.0
+ 010 011 01  013 01  015 01  01  018United States Euro Area Japan China Asia*Percent
+Apr 18Inflation of Thailand’s major trading partners
+Note: * Average of headline inflation in Indonesia, South Korea, Malaysia , 
+the Philippines, Singapore and Taiwan
+Source: CEICMonetary Policy Report June  2018  47 Thai Economy  
+Economic growth continued to gain further traction, driven by growth in merchandise and 
+services exports as well as gradual improvements in domestic demand. Private consumption 
+continued to expand. Factors supporting overall purchasing power edged up somewhat albeit 
+remaining weak. Private investment growth was more robust due to investment projects in the 
+Eastern Economic Corridor (EEC) area and the Public -Private Partnership (PPP) which would 
+boost investor confidence. Meanwhile, public expenditur e would remain an economic driver.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+-10-5051015
+Q1
+2015Q2Q3 Q4Q1
+2016Q2Q3Q4Q1
+2017Q2Q3 Q4Q1
+2018Export of services Public spending
+Private consumption Private investment
+Export of goods Import of goods and services
+Change in inventory 2/ GDPContribution to Thailand’s GDP growth1/ 
+Note: 1/ Calculated by Chain Volume Measure method (CVM )
+2/ Change in inventory and statistical discrepancy
+Source : Office of National Economic and Social Development Board, 
+calculations by Bank of ThailandPercent
+050100150200250300350
+Jan
+2014Jul Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Asia (excluding China and Malaysia)
+China
+Malaysia
+Europe (excluding Russia)
+RussiaIndex of foreign tourists classified by nationality  
+(3-month moving average, sessionally adjusted; January 2014 = 100)
+Index
+Source: Department of Tourism
+Thai exports (excluding gold): value, price and quantity
+(3-month moving average, seasonally adjusted; January 2013 = 100)
+859095100105110
+Jan
+2013Jul Jan
+2014Jul Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Value Price QuantityIndex
+Source: Customs Department and Ministry of Commerce, 
+calculations by Bank of Thailand
+6090120150180
+Oct Jan April JulThousandsFY2016 FY2017 FY2018
+020406080
+Oct Jan Apr JulPublic spending by central government
+Current expenditure excluding transfers
+Capital expenditure excluding transfersBillion baht
+Billion baht
+Source: Bureau of Budget, Fiscal Policy OfficeMonetary Policy Report June  2018  48 Inflation  
+Headline inflation was expected to rise in line with energy prices. Meanwhile, core inflation 
+would slowly increase in some categories following gradual domestic demand expansion.  
+As a result, underlying inflation indicators edged up. Short -term inflation expectations  
+of businesses and professional forecasters remained unchanged, while long -term (5-year-ahead)  
+inflation expectations increased.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+-20246
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018
+Energy
+Raw food
+Core inflation (excluding raw food and energy)
+Headline inflationContribution toheadline inflation
+Source: Bureau of Trade and Economic Indices, 
+Ministry of Commerce, calculations by Bank of ThailandPercent
+Apr-May
+0123
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Tobacco
+Non-food and beverages (excluding tobacco)
+Food and beverages
+Core inflationPercent
+Source: Bureau of Trade and Economic Indices, Ministry of Commerce, 
+calculations by Bank of ThailandContribution to core inflation
+Apr-May
+Percent change from previous month 
+(3-month moving average, seasonally adjusted)
+Note: Data point indicated in () where the first value is %MoM 
+(sa, 3mma) as of May 2018 , while the second value is 
+2004 -2014 average; Asymmetric trim excludes goods and 
+services with most volatile price changes, removing the bottom 
+10 percentile and the top 6 percentile; Principal component 
+model calculates changes in common statistical components 
+that attribute price movements across categories of goods 
+and services.Underlying inflation indicators
+Source: Bureau of Trade and Economic Indices, Ministry of Commerce, 
+calculations by Bank of Thailand-0.10.00.10.20.30.40.5
+Jan
+2013Jul Jan.
+2014Jul Jan
+2015Jul Jan
+2016Jul Jan
+2017Jul Jan
+2018Core inflation ex rent & government measures  (0.09, 0.17)
+Asymmetric trim (0.18, 0.23)
+Principal component model (0.07, 0.11)
+02468
+Jan
+2007Jan
+2008Jan
+2009Jan
+2010Jan
+2011Jan
+2012Jan
+2013Jan
+2014Jan
+2015Jan
+2016Jan
+2017Jan
+2018Inflation expectations by firms (1-year ahead)
+Inflation expectations by professional economists (1-year ahead)
+Inflation expectations by professional economists (5-year ahead)
+Inflation expectations based on model (5-year ahead)Inflation expectations
+Percent change from same period last year
+Source: 1/Business Sentiment Survey of Bank of Thailand (BSI)
+2/ Asia Pacific Consensus Forecast
+3/ Calculations based on macro -finance term structure model 
+with bond yield and macroeconomic data1/
+2/
+2/
+3/Monetary Policy Report June  2018  49 Financial Conditions  
+Short -term money market rates remained low, except for short -term government bond yields 
+which rose toward the policy rate. This was due to greater supply of bonds and lower demand 
+from foreign investors. Meanwhile, medium - and long -term government bond yi elds rose 
+mainly due to external factors. Private credit accelerated on the back of both corporate and 
+household sectors. The baht weakened against the U.S. dollar , as the dollar strengthened 
+owing to better U.S. economic outlook relative to other countries  and the Fed’s signal to raise 
+the federal funds rate in four times instead of three times in 2018. Moreover, investor had 
+concerns on intensifying trade retaliations between the U.S. and major economies.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Movements in medium -and long -term government 
+bond yields were driven mostly by external factors
+Source: Thai Bond Market Association (Thai BMA)2016 2017Government bond yields
+1.01.52.02.53.03.5
+Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr1Y 2Y 3Y 5Y 7Y 10Y
+201819 Jun  182.83
+2.44
+2.16
+1.86
+1.73
+1.55% p.a.
+Total corporate financing by instrument*
+Sources: Bank of Thailand and Thai Bond Market Association (Thai BMA)Billion baht
+Note: *Monthly change in outstanding of corporate loans (seasonally 
+adjusted), corporate bonds excluding commercial banks, 
+and newly issued equities.-50-250255075100125150175
+Jan
+2016Mar May JulSep Nov Jan
+2017Mar May JulSep Nov Jan
+2018MarCredit Bond Equity
+30
+31
+32
+33
+34
+35
+36
+37 859095100105110115120
+Jan Apr JulOct Jan Apr JulOct Jan Apr JulOct Jan AprREER
+USDTHB (RHS)DXYNEER
+Source: Bank of Thailand and Reuters (data as of 19 June 2018 ) 015  01  01  018Appreciation
+Baht per U.S. dollar IndexThe Thai baht vis -a-vis U.S. dollar (USDTHB), Nominal 
+Effective Exchange Rate (NEER), and the Dollar Index (DXY)
+Currency movements vis -a-vis the U.S. dollar
+(19Jun 2018 compared to 30 Mar 18)
+-7%-6%-5%-4%-3%-2%-1%0%
+EUR
+GBP
+THB
+INR
+KRW
+AUD
+TWD
+SGD
+MYR
+JPY
+CNY
+PHP
+IDRPercent
+Positive value indicates appreciation against the U.S. dollar
+Source: Bank of Thailand and Reuters (data as of 19 June 2018 )Monetary Policy Report June  2018  50 Stability: financial markets  
+The price -to-earning (P/E) ratio of the Stock Exchange of Thailand (SET) stayed close to the 
+historical average. The P/E ratio of the Market for Alternative Investment (mai) remained high 
+due to poor performance of most businesses particularly the agricult ural and services sectors 
+which continued to incur losses. Meanwhile, new issuance of unrated bonds would slow down.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Stability: household sector  
+The ratio of household debt to GDP remained at a high level despite its continued declining 
+since late 2015. Deleveraging was mostly concentrated among households in the Central and 
+Southern regions. Meanwhile, economic growth that had yet to be broad -base d partly 
+exacerbated household debt serviceability, as reflected in a higher NPL in the household 
+sector especially mortgage loans. This issue warranted monitoring going forward.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Stock Exchange of Thailand (as of May 2018)Current price -to-earning ratio and turnover ratio  of SET 
+and mai
+020406080100120
+020406080100
+Mar-14 Sep-14 Mar-15 Sep-15 Mar-16 Sep-16 Mar-17 Sep-17 Mar-18SET turnover ratio mai turnover ratio
+SET P/E ratio (RHS) mai P/E ratio (RHS) Percent times
+Average P/E of mai ( 2012 -2016 )
+Average P/E of SET ( 2012 -2016 )
+Source: Thai Bond Market Association (Thai BMA)Corporate bonds outstanding
+9 91966117127 128 89 79 68
+68 68
+050100150200
+05001,0001,5002,0002,5003,0003,500
+ 011
+ 01 
+ 013
+ 01 
+ 015
+ 01 
+2017/Q1
+2017/Q2
+2017/Q3
+2017/Q4
+2018/Q1
+May-18Unrated
+Non-investment grade
+B group
+A group
+Number of companies issuing unrated bond  (RHS)Billion baht
+(3.3%)
+(1.4%)(0.6%)
+(0.4%)
+(1.4%)Number of companies 
+issuing unrated bonds
+(4.6%)(4.0%)(3.2%)(2.6%)(2.5%)(2.4%)(2.2%)
+Note:  ( ) represents percent of unrated bonds in total corporate bonds
+505560657075808590
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+ 01  013  01  015  01  01 Percent of GDP2/
+Note:  1/ Loans to households by financial institutions
+            2/ Calculated by averaging the 4 latest quarterly GDP
+3/Household debt and GDP data are revised. This results in the 
+different debt to GDP ratios compared to the last MPR.
+Source: Bank of Thailand78.0Household debt1/
+Source: Bank of ThailandShare of non -performing loans (NPL) in consumer loans, 
+classified by loan type
+Percent
+2.83.4
+1.53.2
+2.7
+0.01.02.03.04.05.06.0
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+ 011  01  013  01  015  01  01  018Consumer (Total) Home Auto Credit card PersonalMonetary Policy Report June  2018  51 Stability: corporate sector  
+In the first quarter of 2018, overall stability in the corporate sector remained sound. Continued 
+economic growth benefited financial positions of the corporate sector with the ratio of 
+corporate debt to GDP steadily declining. However, improvements were s till concentrated in 
+large corporates while financial positions of smaller businesses remained vulnerable, 
+particularly for those with continued losses. Debt serviceability of small enterprises and 
+businesses in some sectors would warrant close monitoring.   
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Stock Exchange of Thailand, calculation by Bank of Thailand7.9
+6.0
+456789
+Q1 
+2014Q2 
+2014Q3 
+2014Q4 
+2014Q1 
+2015Q2 
+2015Q3 
+2015Q4 
+2015Q1 
+2016Q2 
+2016Q3 
+2016Q4 
+2016Q1 
+2017Q2 
+2017Q3 
+2017Q4 
+2017Q1 
+2018Operating Profit Margin (OPM) Return on Assets (ROA)Percent
+Note: *Median estimates; ROA is returns to average assets. 
+OPM is operating profits to total sales.Operating Profit Margin (OPM) and Return on Assets (ROA)*
+-10-8-6-4-2024
+Q1 2014
+Q2 2014
+Q3 2014
+Q4 2014
+Q1 2015
+Q2 2015
+Q3 2015
+Q4 2015
+Q1 2016
+Q2 2016
+Q3 2016
+Q4 2016
+Q1 2017
+Q2 2017
+Q3 2017
+Q4 2017
+Q1 2018
+Smallest (Quintile 1) Small (Quintile 2) Medium (Quintile 3)
+Large (Quintile 4) Largest (Quintile 5)
+Source: Stock Exchange of Thailand, calculation by Bank of ThailandInterest Coverage Ratio (ICR) TimeDebt serviceability at 25th percentile of each group of 
+firm size
+-5-3-1135791113
+Q1/2015
+Q4/2015
+Q3/2016
+Q2/2017
+Q1/2018
+Q2/2015
+Q1/2016
+Q4/2016
+Q3/2017
+Q3/2015
+Q2/2016
+Q1/2017
+Q4/2017
+Q1/2015
+Q4/2015
+Q3/2016
+Q2/2017
+Q1/2018
+Q2/2015
+Q1/2016
+Q4/2016
+Q3/2017
+Q3/2015
+Q2/2016
+Q1/2017
+Q4/2017
+Q1/2015
+Q4/2015
+Q3/2016
+Q2/2017
+Q1/2018
+Commerce Production
+(exc.petro)Construction Real Estate Utilities Services OverallPercentile 25 Percentile 50 Linear trendInterest Coverage Ratio, classified by sectors 
+Time
+Note: * production exclude Petroleum and chemicals
+Source : Stock Exchange of Thailand, calculation by Bank of Thailand
+Share of special mentioned loan (SM)3.0
+1.74.5
+0123456
+Q1
+2011Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Total corporate loan Large corporate loan SME loan
+Percent of total 
+Source: Bank of ThailandShare of non -performing loan (NPL)
+Q1
+2.03
+1.562.58
+0123
+Q1
+2011Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Loan quality of corporate sector
+Percent of total Q1Monetary Policy Report June  2018  52 Stability: real estate  
+During the first four months of 2018, demand for residences expanded from the end of last 
+year, as reflected in the number of residential units with newly approved loans that increased 
+above the historical average. On the supply side, both newly opened low -rise and 
+condominium residential units continued declining since last year as real estate developers 
+focused on reducing an oversupply in the market. Meanwhile, prices of all real estate types 
+increased from the end of 2017, consistent with higher land pr ices.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Average* 5.35.6
+012345678910
+01020304050607080
+ 01 
+ 01 
+Jan-16
+Mar-16
+May-16
+Jul-16
+Sep-16
+Nov-16
+Jan-17
+Mar-17
+May-17
+Jul-17
+Sep-17
+Nov-17
+Jan-18
+Mar-18
+Low-rise Condominium Total AverageResidential units in Bangkok and its vicinity with 
+approved mortgages by commercial banks
+Thousand units
+Source: Bank of ThailandThousand units, 3 -month moving average 
+and seasonally adjusted
+Yearly Monthly (RHS)
+Note: *Average during 2011 -2017 , excluding periods with 
+government’s stimulus measures (November 2015 -April 2016 )
+New residential projects launched in Bangkok and its vicinity
+Thousand unitsThousand units
+3-month moving average
+Yearly Monthly (RHS)
+Source: Agency for Real Estate Affairs (AREA), calculation by Bank of Thailand7
+02468101214
+0102030405060708090100
+ 01 
+ 01 
+Jan-16
+Mar-16
+May-16
+Jul-16
+Sep-16
+Nov-16
+Jan-17
+Mar-17
+May-17
+Jul-17
+Sep-17
+Nov-17
+Jan-18
+Mar-18
+May-18
+Low-rise Condominium Total AverageAverage     
+Note: *Average during 2011 -2017 , excluding the flood period 
+(July -December 2011 )
+Condominium inventory in Bangkok and vicinity and ‘Time to go’
+Note: ‘Time to go’ is the time taken for  all real estate inventory to be sold out at 
+the average sales rate per month (since projects launched) given no 
+additional supply.
+Source: AREA and calculation by Bank of Thailand26
+22
+111115
+01020304050
+010203040
+ 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 
+ 015
+ 01 
+ 01 Thousand units
+Accumulated supply Time to go (RHS)Months
+< 2 mioTHB 2-3 mio THB 3-5 mio THB 5-10 mio THB 10 mio THB
+136.9147.1182.0
+177.5
+100110120130140150160170180190
+2013Q1
+Q2
+Q3
+Q4
+2014Q1
+Q2
+Q3
+Q4
+2015Q1
+Q2
+Q3
+Q4
+2016Q1
+Q2
+Q3
+Q4
+2017Q1
+Q2
+Q3
+Q4
+2018Q1
+Apr-18Detached house with land
+Town house with land
+Condominium
+LandReal estate price indices
+Index (2009=100)
+Source: Bank of ThailandMonetary Policy Report June  2018  53 Stability: financial institutions  
+The financial system remained sound with high levels of provisions, capital buffers and 
+liquidity, and would be able to accommodate credit growth going forward. In the first quarter 
+of 2018, credit growth continued to expand from the end of the previous ye ar. Business loans 
+given to SMEs distributed to various sectors, while debt repayment was mostly made by large 
+corporates. Consumer loans expanded for all purposes, especially for auto leasing purposes 
+which continued to accelerate. Meanwhile, the overall NPL ratio remained stable. However, 
+the NPL ratio increased for business loans extended to SMEs and those for consumer loans. 
+This issue would warrant close monitoring.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Credit growth in the commercial bank system
+%YoY
+Source: Bank of Thailand-551525
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018
+Total
+Corporate
+Large corporate (excluding financial business)
+SME (excluding financial business)
+Consumer2017 2018
+Q4 Q1
+SME 5.7 7.4
+Consumer 6.1 7.1
+Total 4.4 4.7
+Corporate 3.6 3.6
+Large corporate 0.0 -2.6
+2.65
+1.943.98
+012345
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018Total NPL (%) Large Corporate NPL (%)
+SME NPL (%) Consumer NPL (%)    2561
+Q4 Q1
+SME 4.37    
+Total 2.91    
+Consumer         
+Large     1.66Non-performing loan (NPL)
+%
+Source: Bank of Thailand
+Provisions in commercial bank system
+131214302929
+1922
+19212122243249
+34383837
+3235444447
+37150.4166.2171.9176.0
+100120140160180
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+20180102030405060
+Loan loss provisions (RHS) Actual reserves/required reserves (LHS)Billion baht %
+Source: Bank of Thailand
+Capital buffers in commercial bank system
+16.318.5
+18.2
+18.0
+11.815.815.615.4
+4.52.72.6
+2.6
+0510152025
+Q1
+2012Q1
+2013Q1
+2014Q1
+2015Q1
+2016Q1
+2017Q1
+2018%
+Tier-1
+Tier-2Capital Adequacy Ratio (CAR)
+Source: Bank of ThailandMonetary Policy Report June  2018  54 Stability: external position  
+Thailand’s external stability remained strong thanks to high liquidity of foreign currencies and 
+sustained current account surplus. In addition,  Thailand’s debt repayment ability was 
+adequate to cover short -term external debt. External debt was below an international 
+benchmark and international  reserves remained high.   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stability: fiscal sector  
+Fiscal stability remained sound. The ratio of public debt to GDP stayed below the sustainability 
+threshold.  
+  
+ 
+ 
+ 
+ 
+Source: Bank of ThailandThailand’s external debt
+050100150200250300
+0102030405060
+ 00 
+ 010
+ 011
+ 01 
+ 013
+ 01 
+ 015
+ 01 
+ 01 
+2017Q1
+2017Q2
+2017Q3
+2017Q4
+2018Q1Long-term debt (RHS)
+Short-term debt (RHS)
+External debt to GDP
+International benchmark of <48%Billion U.S. dollar Percent
+Source: Bank of ThailandReserve to short -term debt
+012345
+ 005
+ 00 
+ 00 
+ 008
+ 00 
+ 010
+ 011
+ 01 
+ 013
+ 01 
+ 015
+ 01 
+ 01 
+2017Q1
+2017Q2
+2017Q3
+2017Q4
+2018Q1
+Apr-18Apr 2018 = 3.6Time
+Percent of GDP
+Note: Calculated by GDP with Chain Volume Measure
+Source: Public Debt Management OfficeThreshold for fiscal sustainability (60%)Public debt to GDP
+42.5 43.740.8 41.7 41.3 41.9 41.2 41.2 41.0
+0204060
+ 01  015 01 Q1-17 Q2-17 Q3-17 Q4-17 Q1-18 Apr-18
+Other government agencies Financial state-owned enterprises
+Non-financial state-owned enterprises Advance borrowing for debt restructuring
+FIDF compensation Public government’s direct borrowing
+Public debt to GDP
+External
+4.1%
+Domestic
+95.9%Outstanding debt as of April 2018
+Note: Share of short -term and long -term debt calculated from 
+remaining duration until maturity
+Source: Public Debt Management OfficeShort -term 
+9.5%
+Long -term 
+90.5% 

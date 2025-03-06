@@ -1,0 +1,536 @@
+---
+title: "final_prep"
+author: "Phornchanok Tepkam"
+date: "2025-03-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# load packages
+library(tidyverse)
+library(tidytext)
+library(ggtext)
+library(readr)
+library(glue)
+library(ggwordcloud)
+library(ggraph)
+library(igraph)
+library(tokenizers)
+library(plotly)
+library(topicmodels)
+library(tm)
+library(stm)
+library(networkD3)
+library(LDAvis)
+library(Rtsne)
+library(ggrepel)
+# set default theme for ggplot2
+ggplot2::theme_set(ggplot2::theme_minimal(base_size = 16))
+# set default figure parameters for knitr
+knitr::opts_chunk$set(
+  fig.width = 8, fig.asp = 0.618, fig.retina = 2, dpi = 150, out.width = "60%"
+)
+# dplyr print min and max
+options(dplyr.print_max = 10, dplyr.print_min = 10)
+
+# install stop words 
+get_stopwords("en") 
+```
+
+
+```{r}
+folder_path <- "data_figures/"
+# Step 1: Get all filenames matching the pattern (2013_Q1 to 2023_Q4)
+file_list <- list.files(path = folder_path, pattern = "MPR_\\d{4}_Q[1-4]\\.txt", full.names = TRUE)
+
+# Step 2: Read all text files and combine them into a dataframe
+all_text_data <- lapply(file_list, function(file) {
+  text <- readLines(file, warn = FALSE)  # Read the file
+  filename <- basename(file)  # Extract filename
+
+  # Extract year (e.g., "2013") and quarter (e.g., "Q2")
+  year <- str_extract(filename, "\\d{4}")  # Extract four-digit year
+  quarter <- str_extract(filename, "Q[1-4]")  # Extract Q1, Q2, Q3, or Q4
+
+  data.frame(text = text, year = as.numeric(year), quarter = quarter, filename = filename)  # Create a dataframe
+}) %>%
+  bind_rows()  # Combine all data into one dataframe
+
+# Step 3: Tokenize the text (extract words)
+tokens <- all_text_data %>%
+  unnest_tokens(word, text)
+
+# Step 4: Count words per year & quarter
+word_count_per_period <- tokens %>%
+  count(year, quarter) %>%
+  arrange(year, quarter) %>%
+  mutate(year_quarter = paste0(year, "-", quarter))
+
+word_count_per_period <- word_count_per_period %>%
+  select(-year) %>%
+  select(-quarter)
+
+# Step 5: Display the word count per year & quarter
+print(word_count_per_period)
+# save as rds file 
+
+saveRDS(word_count_per_period, file = "rds/word_count_per_period.RDS") 
+```
+```{r}
+# read from rds 
+word_count_per_period <- readRDS("rds/word_count_per_period.RDS")
+avg_early <- word_count_per_period %>%
+  filter(year_quarter >= "2013-Q1" & year_quarter <= "2021-Q2") %>%
+  summarise(avg = mean(n)) %>%
+  pull(avg)
+
+avg_late <- word_count_per_period %>%
+  filter(year_quarter >= "2021-Q3" & year_quarter <= "2023-Q4") %>%
+  summarise(avg = mean(n)) %>%
+  pull(avg)
+
+plot <- ggplot(word_count_per_period, aes(x = year_quarter, y = n, group = 1)) +   
+  geom_line(color = "navyblue", size = 1) +  # Line color & thickness   
+  geom_point(color = "navyblue", size = 2) +  # Dots at each point  
+
+  # Add average lines
+  geom_hline(yintercept = avg_early, linetype = "dashed", color = "lightgrey", size = 0.5) +
+  geom_hline(yintercept = avg_late, linetype = "dashed", color = "lightgrey", size = 0.5) +
+
+  # Corrected geom_text() with numeric label and "words"
+  geom_text(aes(x = "2016-Q4", y = avg_early, 
+                label = paste0(format(round(avg_early, 0), big.mark = ","), " words")), 
+            color = "grey", vjust = -0.5, size = 5) +
+  geom_text(aes(x = "2022-Q3", y = avg_late, 
+                label = paste0(format(round(avg_late, 0), big.mark = ","), " words")), 
+            color = "grey", vjust = -0.5, size = 5) +
+
+  # Add title and labels
+  labs(
+    title = "<span style='font-size:14pt;'><b>Word Count Trend Over Time</b></span>",
+    x = "Year-Quarter",
+    y = "Word Count"
+  ) +   
+  
+  # Theme settings
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    axis.text.x = element_text(angle = 60, hjust = 1),  # Rotate x-axis labels
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+plot
+ggsave("img/word_count.png", plot = plot, width = 12, height = 8, dpi = 300)
+# gg part 
+```
+```{r}
+remove_words <- c("january", "february", "march", "april", "may", "june","july","august","september","october","november","december","jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec","q1", "q2", "q3", "q4","policy", "economic", "monetary", "thai", "term", "rate","growth")
+
+data("stop_words")  # Load predefined stopwords
+top_words <- tokens %>%
+  anti_join(stop_words, by = "word") %>%      # Remove stopwords
+  filter(!(word %in% remove_words)) %>%       # Remove specified words
+  filter(!str_detect(word, "^[0-9]+(\\.[0-9]+)?$")) %>%  # Remove numbers
+  count(word, sort = TRUE) %>%                # Count word frequencies
+  slice_head(n = 25)  # Select top 50 words
+
+plot2 <- ggplot(top_words, aes(y = reorder(word, n), x = n))  +
+  geom_col(fill = "lightblue") +
+  labs(
+    x = "Count", y = NULL,
+    title = "<span style='font-size:14pt;'><b>Most common words in Monetary Policy Report</b></span>") +
+  # Theme settings
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+plot2
+ggsave("img/word_common.png", plot = plot2, width = 12, height = 8, dpi = 300)
+```
+
+```{r}
+
+# word count each year
+
+data("stop_words")  # Load predefined stopwords
+top_words_q <- tokens %>%  
+  anti_join(stop_words, by = "word") %>%      # Remove stopwords
+  filter(!(word %in% remove_words)) %>%       # Remove specified words
+  filter(!str_detect(word, "^[0-9]+(\\.[0-9]+)?$")) %>%  # Remove numbers
+  count(word, year, quarter, sort = TRUE) %>% 
+  mutate(year_quarter = paste0(year, "-", quarter)) %>%
+  group_by(year_quarter) %>%
+  mutate(
+    total_words = sum(n),               # Compute total word count per quarter
+    ngram_percentage = (n / total_words) * 100  # Compute percentage
+  ) %>%
+  ungroup() %>%
+  select(-year, -quarter)
+head(top_words_q )
+saveRDS(top_words_q, file = "rds/top_words_q.RDS") 
+top_words_q <- readRDS("rds/top_words_q.RDS")
+```
+
+```{r}
+# plot word count each year
+# keep only top 25 of each year 
+top_words_q_select <-  top_words_q %>% 
+  filter(year_quarter == '2020-Q1') %>%                # Count word frequencies
+  slice_head(n = 25) 
+
+plot2_q <- ggplot(top_words_q_select, aes(y = reorder(word, n), x = n))  +
+  geom_col(fill = "lightblue") +
+  labs(
+    x = "Count", y = NULL,
+    title = "<span style='font-size:14pt;'><b>Most common words in Monetary Policy Report: 2020-Q1</b></span>") +
+  # Theme settings
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+plot2_q
+ggsave("img/word_common_2020_Q1.png", plot = plot2_q, width = 12, height = 8, dpi = 300)
+```
+
+```{r}
+# plot word count each year
+# keep only top 25 of each year
+# make it into a line and fixed axis x 
+top_words_word_select <-  top_words_q %>% 
+  filter(word %in% c('financial', 'covid'))
+
+plot2_word <- ggplot(top_words_word_select, aes(x = year_quarter, y = ngram_percentage, color = word, group = word)) +
+  geom_line(size = 1) +  # Line graph
+  geom_point(size = 2) +  # Add points for emphasis
+  labs(
+    x = "Year-Quarter", y = "Percentage",
+    title = "<span style='font-size:14pt;'><b>Most common words in Monetary Policy Report: financial, covid</b></span>"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  
+    panel.grid.major = element_blank(),  
+    panel.grid.minor = element_blank(),  
+    axis.text.x = element_text(angle = 60, hjust = 1) 
+  ) +
+  scale_x_discrete(expand = c(0.05, 0.05)) +  
+  scale_color_manual(values = c("financial" = "blue", "covid" = "red"))  
+
+plot2_word
+ggsave("img/word_common_2020_Q1.png", plot = plot2_word, width = 12, height = 8, dpi = 300)
+```
+
+```{r}
+
+
+
+bigrams <- all_text_data %>%
+  unnest_tokens(bigram, text, token = "ngrams", n = 2)
+
+bigrams_separated <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+bigrams_filtered <- bigrams_separated %>%
+  filter(!(word1 %in% stop_words$word | word2 %in% stop_words$word)) %>%
+  filter(!(word1 %in% remove_words | word2 %in% remove_words)) %>%
+  filter(!str_detect(word1, "^[0-9]+(\\.[0-9]+)?$")) %>% 
+  filter(!str_detect(word2, "^[0-9]+(\\.[0-9]+)?$"))      
+
+bigrams_united <- bigrams_filtered %>%
+  unite(bigram, word1, word2, sep = " ")
+
+bigrams_united <- bigrams_united %>%
+  filter(bigram != "NA NA") %>%
+  filter(bigram != "n.a n.a")
+
+bigrams_united %>%
+  count(bigram, sort = TRUE)
+```
+
+
+```{r}
+
+# save into rds file 
+saveRDS(bigram_network, file = "rds/bigrams_united.RDS") 
+bigram_network <- readRDS("rds/bigrams_united.RDS")
+
+
+plot3 <- bigrams_united %>%
+  count(bigram, sort = TRUE) %>%
+  slice_head(n = 25) %>%
+  ggplot(aes(y = fct_reorder(bigram, n), x = n)) +
+  geom_col(fill = "lightblue") +
+  labs(
+    x = "Count", y = NULL,
+    title = "<span style='font-size:14pt;'><b>Most Common Bigrams in Monetary Policy Report</b></span>"
+  ) +
+  # Theme settings
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+plot3
+# Save the plot as an image file
+ggsave("img/bigram_common.png", plot = plot3, width = 12, height = 8, dpi = 300)
+```
+
+```{r}
+bigram_graph <- bigrams_united %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  count(word1, word2, sort = TRUE)
+
+top_n_bigrams <- bigram_graph %>% slice_max(n, n = 80)
+bigram_network <- top_n_bigrams %>%
+  graph_from_data_frame()
+a <- grid::arrow(type = "closed", length = unit(0.15, "inches"))
+
+# save into rds file 
+saveRDS(bigram_network, file = "rds/bigram_network.RDS") 
+bigram_network <- readRDS("rds/bigram_network.RDS")
+
+set.seed(42)
+plot4 <- ggraph(bigram_network, layout = "fr", niter = 1000) +  # Increase iterations for better spacing
+  geom_edge_link(aes(edge_alpha = n), show.legend = FALSE, 
+                 arrow = a, end_cap = circle(0.01, "inches")) +  
+  geom_node_point(color = "lightblue", size = 3) +  
+  geom_text_repel(aes(x = x, y = y, label = name), size = 4, 
+                  box.padding = 0.5, max.overlaps = Inf) +
+  labs(
+    title = "<span style='font-size:14pt;'><b>Bigrams Network in Monetary Policy Report</b></span>"
+  ) + 
+  theme_void() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5)  # Centered title with HTML styling
+  )
+plot4
+
+ggsave("img/bigram_network.png", plot = plot4, width = 12, height = 8, dpi = 300)
+```
+
+
+```{r}
+trigrams <- all_text_data %>%
+  unnest_tokens(trigram, text, token = "ngrams", n = 3)
+
+trigrams_separated <- trigrams %>%
+  separate(trigram, c("word1", "word2", "word3"), sep = " ")
+
+trigrams_filtered <- trigrams_separated %>%
+  filter(!(word1 %in% stop_words$word | word2 %in% stop_words$word | word3 %in% stop_words$word)) %>%
+  filter(!(word1 %in% remove_words | word2 %in% remove_words | word3 %in% remove_words)) %>%
+  filter(!str_detect(word1, "^[0-9]+(\\.[0-9]+)?$")) %>%
+  filter(!str_detect(word2, "^[0-9]+(\\.[0-9]+)?$")) %>%
+  filter(!str_detect(word3, "^[0-9]+(\\.[0-9]+)?$"))
+
+trigrams_united <- trigrams_filtered %>%
+  unite(trigram, word1, word2, word3, sep = " ")
+
+trigrams_united <- trigrams_united %>%
+  filter(trigram != "NA NA NA") %>%
+  filter(trigram != "n.a n.a n.a")
+
+trigrams_united %>%
+  count(trigram, sort = TRUE)
+```
+
+
+```{r}
+# save into rds file 
+saveRDS(trigrams_united, file = "rds/trigrams_united.RDS") 
+trigrams_united <- readRDS("rds/trigrams_united.RDS")
+
+plot5 <- trigrams_united %>%
+  count(trigram, sort = TRUE) %>%
+  slice_head(n = 25) %>%
+  ggplot(aes(y = fct_reorder(trigram, n), x = n)) +
+  geom_col(fill = "lightblue") +
+  labs(
+    x = "Count", y = NULL,
+    title = "<span style='font-size:14pt;'><b>Most common trigrams in Monetary Policy Report</b></span>") +
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+plot5
+ggsave("img/trigrams_common.png", plot = plot5, width = 12, height = 8, dpi = 300)
+```
+
+```{r}
+trigram_graph <- trigrams_united %>%
+  separate(trigram, c("word1", "word2", "word3"), sep = " ") %>%
+  count(word1, word2, word3, sort = TRUE)
+top_n_trigrams <- trigram_graph %>% slice_max(n, n = 80)
+trigram_network <- top_n_trigrams %>%
+  graph_from_data_frame()
+a <- grid::arrow(type = "closed", length = unit(0.1, "inches"))
+
+# save into rds file 
+saveRDS(trigram_network, file = "rds/trigram_network.RDS") 
+trigram_network <- readRDS("rds/trigram_network.RDS")
+
+set.seed(42)
+plot5 <- ggraph(trigram_network, layout = "fr", niter = 1000) +  # Increase iterations for better spacing
+  geom_edge_link(aes(edge_alpha = n), show.legend = FALSE, 
+                 arrow = a, end_cap = circle(0.01, "inches")) +  
+  geom_node_point(color = "lightblue", size = 3) +  
+  geom_text_repel(aes(x = x, y = y, label = name), size = 4, 
+                  box.padding = 0.5, max.overlaps = Inf) +
+  labs(
+    title = "<span style='font-size:14pt;'><b>Trigrams Network in Monetary Policy Report</b></span>"
+  ) + 
+  theme_void() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5)  # Centered title with HTML styling
+  )
+plot5
+# Save the plot as an image file
+ggsave("img/trigram_network.png", plot = plot5, width = 12, height = 8, dpi = 300)
+```
+
+```{r}
+
+ngrams_combined <- bind_rows(
+  bigrams_united %>% rename(ngram = bigram),
+  trigrams_united %>% rename(ngram = trigram)
+)
+
+corpus <- Corpus(VectorSource(ngrams_combined$ngram))
+
+dtm <- DocumentTermMatrix(corpus)
+
+# Ensure the matrix has valid data
+dtm <- removeSparseTerms(dtm, 0.99)  # Adjust sparsity threshold
+# dtm_tfidf <- weightTfIdf(dtm)
+# dtm <- removeSparseTerms(dtm_tfidf, 0.99)  # Remove common words dynamically
+# dtm <- removeSparseTerms(dtm, 0.97)  # Adjust sparsity if needed
+
+
+row_sums <- rowSums(as.matrix(dtm))
+dtm <- dtm[row_sums > 0, ]
+
+if (nrow(dtm) == 0) {
+  stop("Error: No valid rows left in the Document-Term Matrix. Adjust preprocessing.")
+}
+
+num_topics <- 3 
+
+# Fit LDA Model
+lda_model <- LDA(dtm, k = num_topics, control = list(seed = 1234))
+# lda_model <- LDA(dtm, k = num_topics, control = list(seed = 1234, iter = 2000))
+# Extract topics
+lda_topics <- tidy(lda_model, matrix = "beta")
+
+top_terms <- lda_topics %>%
+  group_by(topic) %>%
+  slice_max(beta, n = 15) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+print(top_terms)
+
+plot6 <- ggplot(top_terms, aes(x = reorder_within(term, beta, topic), y = beta, fill = as.factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +  # Facet by discovered topics
+  coord_flip() +
+  labs(title = "<span style='font-size:14pt;'><b>Discovered Topics via LDA</b></span>",
+       x = "Term",
+       y = "Beta Value (Topic Probability)") +
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+
+plot6
+ggsave("img/topics_lda.png", plot = plot6, width = 12, height = 8, dpi = 300)
+```
+
+```{r the Intertopic Distance Map}
+topic_term_matrix <- posterior(lda_model)$terms  # Term probabilities per topic
+
+tsne_model <- Rtsne(topic_term_matrix, dims = 2, perplexity = 0.5, verbose = TRUE, max_iter = 500)
+
+topic_coords <- as.data.frame(tsne_model$Y)
+colnames(topic_coords) <- c("X", "Y")
+topic_coords$Topic <- factor(1:num_topics)
+
+# save into rds file 
+saveRDS(topic_coords, file = "rds/topic_coords.RDS") 
+topic_coords <- readRDS("rds/topic_coords.RDS")
+
+plot7 <- ggplot(topic_coords, aes(x = X, y = Y, label = Topic)) +
+  geom_point(aes(color = Topic), size = 5, alpha = 0.7) +
+  geom_text(vjust = 1.5, size = 5) +
+  labs(
+    title = "Intertopic Distance Map (t-SNE Projection)",
+    x = "t-SNE Dimension 1",
+    y = "t-SNE Dimension 2",
+    color = "Topic"
+  ) +
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+
+plot7
+# Save the plot as an image file
+ggsave("img/intertopic_distance_map.png", plot = plot7, width = 12, height = 8, dpi = 300)
+
+```
+
+```{r most relevant terms for each categories}
+
+# Compute overall term frequency (sum across all topics)
+overall_term_freq <- lda_topics %>%
+  group_by(term) %>%
+  summarize(overall_beta = sum(beta)) 
+
+# Merge the topic-specific beta values with overall frequency
+comparison_data <- top_terms %>%
+  left_join(overall_term_freq, by = "term") %>%
+  arrange(topic, desc(beta))  # Sort within each topic
+
+# save into rds file 
+saveRDS(comparison_data, file = "rds/comparison_data.RDS") 
+comparison_data <- readRDS("rds/comparison_data.RDS")
+
+# Create the faceted plot comparing topic-specific vs overall term frequencies
+plot8 <- ggplot(comparison_data, aes(x = reorder_within(term, beta, topic), y = beta)) +   
+  geom_col(aes(y = overall_beta, fill = "Overall Frequency"), alpha = 0.5) +   
+  geom_col(aes(y = beta, fill = "Selected Topic"), alpha = 0.8) +   
+  coord_flip() +  # Flip for better readability   
+  scale_fill_manual(values = c("grey", "#000080")) +   
+  facet_wrap(~ topic, scales = "free") +  # Facet for each topic  
+  labs(
+    title = "Comparison of Term Frequencies Across Topics",
+    x = "Term",
+    y = "Beta Value (Topic Probability)",
+    fill = "Frequency Type"
+  ) +
+  theme_minimal() +   
+  theme(
+    plot.title = element_markdown(hjust = 0.5),  # Centered title with HTML styling
+    axis.text.x = element_text(angle = 90, hjust = 0.5),  # Rotate x-axis labels
+    panel.grid.major = element_blank(),  # Remove major grid lines
+    panel.grid.minor = element_blank()   # Remove minor grid lines
+  )
+
+plot8
+# Save the plot as an image file
+ggsave("img/term_frequencies.png", plot = plot8, width = 12, height = 8, dpi = 300)
+
+```
+

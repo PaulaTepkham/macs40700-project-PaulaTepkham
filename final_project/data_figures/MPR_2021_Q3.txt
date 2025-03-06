@@ -1,0 +1,1501 @@
+Monetary Policy Report
+September2021
+How to use this Interactive PDF
+Click on the heading to go directly to the content page
+≡
+ Click on this icon to return 
+to the table of contentGo to page
+2. Global EconomyMr. Sethaput Suthiwartnarueput Chairman
+Mr. Mathee Supapongse Vice Chairman
+Mr. Paiboon Kittisrikangwan Member
+Mr. Kanit Sangsubhan Member
+Mr. Rapee Sucharitakul Member
+Mr. Somchai Jitsuchon Member
+Mr. Subhak Siwaraksa Member
+The Monetary Policy Report is prepared quarterly by staff of the Bank of Thailand with 
+the approval of the Monetary Policy Committee (MPC). It serves two purposes: (1) to communicate
+to the public the MPC’s consideration and rationales for the conduct of monetary policy, and 
+(2) to present the latest set of economic and inflation forecasts, based on which the monetary 
+policy decisions were made
+The Monetary Policy CommitteeMonetary Policy ReportMonetary Policy Committee
+Under theBankofThailand Act,theMonetary Policy Committee (MPC) comprises the
+governor andtwodeputy governors, aswellasfourdistinguished external members
+representing various sectors oftheeconomy, withtheaimofensuring thatmonetary
+policy decisions areeffective andtransparent .
+Monetary Policy Objective
+TheMPCimplements monetary policy under theflexible inflation targeting regime .
+While regarding medium -term price stability asitsprimary objective ,theMPC
+alsoaimsatsupporting sustainable, full-potential economic growth andpreserving
+financial stability, attributing tolong-termpricestability andeconomic sustainability .
+Monetary Policy Target
+OnDecember 22,2020,theCabinet approved themonetary policy target for
+2021,which wasmutually agreed between theMPCandtheMinister ofFinance
+tosettheheadline inflation within therange of1–3percent asthetarget for
+themedium -term horizon andfor2021.Intheevent thataverage headline
+inflation inthepast12months oraforecast ofaverage headline inflation over
+12months ahead breaches thetarget range, theMPCshall send anopen letter
+totheMinister ofFinance toexplain reasons forthebreach ofthetarget range,
+together withmeasures taken andestimated timetobring inflation back tothe
+target .Inaddition, theMPCwillwrite anadditional open letter totheMinister
+ofFinance every sixmonths ifaverage headline inflation based ontheabove
+criteria remains outside thetarget range .Monetary Policy Instrument
+TheMPCutilizes the1-daybilateral repurchase transaction rateasthepolicy interest rate
+tosignal themonetary policy stance .
+TheMPChasadopted themanaged float exchange rateregime tostabilize andlimit
+thevolatilities intheexchange rate,astoletthebahtreflect economic fundamentals
+Evaluation of Economic Conditions and Forecasts
+TheBankofThailand takes intoaccount information fromallsources, themacroeconomic
+model, datafromeacheconomic sector, aswellassurveys oflargeenterprises, together with
+small andmedium -sized enterprises from allover thecountry, andvarious financial
+institutions toensure thateconomic evaluations andforecasts areaccurate andcover
+allaspects, both atthemacro andmicro levels .
+Monetary Policy Communication 
+Recognizing theimportance ofmonetary policy communication tothepublic, theMPC
+employs various channels ofcommunication, bothinThaiandEnglish, suchas(1)organizing
+apress statement at14:00onthedayoftheCommittee meeting, (2)publishing edited
+minutes oftheMPCmeeting twoweeks afterthemeeting, and(3)publishing theMonetary
+Policy Report every quarterMonetary Policy in ThailandTable of Contents
+Go to page
+2. Global Economy 9
+COVID -19 and the global economic outlook 10
+International trade outlook 13
+Global inflation outlook 14
+Global fiscal and monetary policies 15
+Forecast assumptions for trading partners’ 
+economic growth173.The Thai Economy 19
+The COVID -19 outbreak in Thailand 20
+Recent economic developments 21
+Private consumption 22
+Labor market and household income 23
+The recovery in tourism sector 30
+Exports 31
+Inflation 32
+Growth and inflation forecasts 33
+Risks to growth and inflation forecasts 374. Monetary Policy Decision 40
+5. Special Issues 49
+Impact of debt burden on household consumption 50
+BOT’s latest debt relief measures 52
+Data tables 541. Executive Summary 7
+Go to pageGo to page Go to page 
+Go to page
+Go to page
+1. Executive Summary
+≡
+Executive Summary
+Monetary Policy Conduct
+in the Third Quarter of 2021Assessment of the Economic and Financial Outlook as the Basis for Policy Formulation
+7At the meeting on August 4, 2021, the Committee decided
+to maintain the policy rate at 0.50 percent. The votes 
+were not unanimous with two members viewing that a 
+policy rate cut would preempt potential economic slowdown
+in the period ahead given that the Thai economy could
+be impacted by the COVID -19 outbreak to a greater 
+extent than previously assessed and remained subject 
+to significant downside risks.  
+At the meeting on September 29, 2021, the Committee 
+voted unanimously to maintain the policy rate at 0.50 
+percent. The Committee viewed that progress on vaccination
+and earlier -than-expected relaxation of containment 
+measures would help support the economy. The Thai 
+economy was projected to expand 0.7 and 3.9 percent in 
+2021 and 2022, respectively, largely unchanged from the 
+August projection. Nevertheless, the economic outlook remained
+highly uncertain.   
+The Committee viewed that the most important issue for 
+the Thai economy at present was the implementation of 
+public health measures in a way that would facilitate 
+the recovery in economic activities and income. The 
+Committee also viewed that there was further progress 
+on financial measures which would be more effective in 
+providing tar geted liquidity support and reducing debt 
+burden than a further reduction in the policy rate which 
+was already low. 1. Global Economy
+•Trading partner economies in2021 would register slower growth than theprevious assessment duetothenewwave oftheoutbreak ofCOVID -19
+Delta variant thatbecame widespread andhadaffected recovery inconsumption, production, andexports .Theslowdown wasalsoattributable tothe
+ongoing supply disruption which wasmore prolonged thanexpected .
+•Growth among trading partner economies was expected to rebound in 2022 as the outbreak would subside and vaccination targets would be achieved.  
+•Most central banks would continue tomaintain accommodative monetary policy stances tosupport economic recovery, while some central banks would
+raisetheirpolicy interest rates inresponse toreflation risks.
+2. Financial Conditions and Financial Stability
+•Overall financial conditions inThailand remained accommodative andhelped financial institutions tocontinue assisting borrowers through various
+financial measures .Onexchange rates, thebaht against theU.S.dollar andtheeffective exchange ratecontinued todepreciate from theprevious
+quarter .Thedepreciation wasdueto(1)thethird wave ofCOVID -19outbreak inThailand, (2)theannouncement oflarger -than-expected Thaigovernment
+bond issuance under thefiscal year2022,and(3)theappreciation oftheU.S.dollar aftertheFederal Reserve signaled atapering ofitsasset purchases .
+•TheThai financial system remained vulnerable, especially asbalance sheets ofhouseholds andbusinesses were affected bythethird wave of
+COVID -19outbreak inThailand .Thisresulted inaslower andmore uncertain economic recovery .Businesses that provide tourism -related services ,
+inparticular, remained weak andcontinued tobeimpacted bythelatest round ofcontainment measures .
+3. Economic and Inflation Outlook 
+•The Thai economy was projected to register slower growth of 0.7 percent in 2021 due to the more prolonged and severe third wa ve of COVID -19 
+outbreak that affected domestic spending and foreign tourist figures. In 2022, the Thai economy was projected to grow 3.9 percent aseconomic activities 
+would gradually recover and more foreign tourists were permitted to enter Thailand. 
+•Headline inflation was projected to be 1.0 percent in 2021 and 1.4 percent in 2022. For 2021, headline inflation was revised down from the previous 
+assessment due to the year -on-year decline in fresh food prices in tandem with higher -than-expected outputs, as well as measures to help lower the cost of 
+living. For 2022, headline inflation was revised up due to the lower base effect. Headline inflation would remain within the target range throughout the 
+forecast horizon. 2. Global Economy
+≡
+Global Economy
+Global economy: Summary of Key Issues
+The global economy would 
+continue to recover
+despite some slowdown due to
+the spread of virus mutations 
+and the ongoing supply disruptionsInflation has picked up 
+in many countries
+mainly due to supply -side factors. 
+Inflation expectations remained 
+largely unchanged.Trading partners economies 
+was expected to register slower 
+growth in 2021 compared to 
+the previous assessment
+due to the outbreak of virus 
+mutations that intensifiedMonetary policy stances 
+remained accommodative
+although some central banks 
+in major advanced economies  
+started to signal possible policy 
+normalization
+9
+The total number COVID -19 cases worldwide have increased, especially among emerging economies
+where the progress on vaccinations remained slow overall
+The outbreak of virus mutations was prolonged and became more widespread . 
+The number of new COVID -19 cases in many countries has continued to rise 
+since the second quarter of 2021. However, the severity of the outbreak 
+varied across countries depending mainly on the vaccination rates in 
+that respective country. 
+Major advanced economies (AE)with high vaccination rates such as the U.S., 
+the euro area, Japan, and the United Kingdoms were able to ease lockdowns
+even as the number of new cases continued to rise. Meanwhile, emerging 
+economies (EM)with low vaccination rates, especially Asian economies like 
+Indonesia and the Philippines, still maintain strict containment measures. Global Economy
+10
+Average COVID -19 Daily New Cases
+Source: Our World in Data as of 7 September 2021* Data as of 15 August 202135,163 69,218 
+5,025 3,579 15 7,325 
+4,467 7,311 594 17 151 98,516 
+58,294 
+33,006 
+11,374 
+604 26,882 
+16,591 11,011 1,577 47 17 
+025,00050,00075,000100,000
+US EA UK JP AU ID MY PH KR CN TWQ2/2021 Q3/2021 Cases per day
+Major advanced economies (AE) Emerging markets (EM)
+Vaccination Rate
+61.7 65.3 70.861.251.4
+24.763.5
+16.861.175.8
+44.2
+52.559.363.8
+49.240 14.249.7
+13.636.767.2
+4.2
+0255075100
+US EA UK JP AU ID MY PH* KR CN TW1st dose Fully vaccinated % of population
+Major advanced economies (AE) Emerging markets (EM)Source: Our World in Data as of 13 September 2021The severe outbreak of COVID -19 prompted emerging economies with low vaccination rates to maintain strict 
+containment measures. Meanwhile, advanced economics with high vaccination rates were able to gradually relax 
+containment measures.
+Government Stringency Index
+Note: This is a composite measure based on 9 response indicators including school closures, workplace closures, and travel ba ns,rescaled to a value from 0 to 100 (100 = strictest). If policies vary at the subnational level, the index is shown as the response level of the strictest sub -region.
+Source:Hale, Webster, Petheric, Phillips, andKira(2020).Dataasof15September 2021.050100
+ES UK FR IT US JP AU SG CN MY HK KR TH ID PH TWAverage (June) Average (July - Present) Historical High
+100 = StrictestGlobal Economy
+11
+Private consumption in many countries would likely slow down due to stricter containment measures. 
+Consumption in Asian economies was impacted by the tightening of 
+containment measures in the third quarter of 2021.
+•China imposed the strictest containment measures in 20 provinces.
+Some seaports were also closed or faced tighter restrictions between 
+July and August 2021. 
+•Vietnam implemented containment measures in July 2021 which was 
+further extended until mid -September 2021 
+•Australia implemented containment measures towards the end of June 
+2021. The measures were later expanded to cover more areas and were 
+extended to remain in effect until October 2021. 
+In the short run, the recovery in consumption among Asian economies would 
+be held back by containment measures. Nevertheless, it was assessed that 
+consumption would gradually recover in the fourth quarter of 2021 given 
+that the outbreak situation would likely improve with higher vaccination rates.Global Economy
+12
+Stringency Index Tighten containment measures Easecontainment measures  
+US
+IDKR
+VNAUS CNSG TW
+-10.0%-7.5%-5.0%-2.5%0.0%2.5%5.0%
+45 50 55 60 65 70 75 80
+Retail Sale Growth ( s.a.)
+Retail Sales Index as of July 2021
+Stringency Index (average between 1 July –7 September 2021)Q2/2021*
+Retail Sales Index and Stringency Index
+Note: *Data for Q 2/2021 is the average value between April -June 2021 
+Source: CEIC, Our World in DataGlobal Economy
+13Manufacturing and exports were expected to slow down due to prolonged supply disruption
+Manufacturing and exports in some countries would slow down due to 
+prolonged supply disruption such as reduced working hours after containment
+measures were tightened, the closure of seaports in China, the shortage of 
+freight containers, and the shortage of manufacturing inputs such as electronic 
+parts. However, the supply disruption was expected to be resolved within 
+the first half of 2022 as economic activities gradually return to normal in 
+many countries.
+World Container Price Index and Delivery times
+255075
+-900-4500450900
+Jan-19 May-19 Sep-19 Jan-20 May-20 Sep-20 Jan-21 May-21 Sep-21World Container Price Index
+Global PMI Suppliers' delivery times (Diffusion Index, RHS)Diffusion Index Index (Jan 2019 = 100)
+9 Sep 2021
+Aug 2021
+30405060
+Jan-20 Apr-20 Jul-20 Oct-20 Jan-21 Apr-21 Jul-21Global G3 Asia (Ex. China) China
+Aug 2021 MPR Jun 2021 Diffusion Index
+Source: IHS Markit, CEICManufacturing Purchasing Manager Index (PMI)
+Asian economies ’ Export Value Index
+MPR Jun 2021
+Source: CEICNoe:: 1/Composite container freight benchmark rate (40ft container)
+Source: Bloomberg, JP Morgan
+Faster delivery
+Slower delivery5080110140170
+Q4/19  Mar-20  Jun-20  Sep-20  Dec-20  Mar-21  Jun-21HK (ก.ค.) TW KR MY (ก.ค.) SG (ก.ค.) ID PH (ก.ค.) CN
+Index, s.a. (Q4/2019 = 100 )
+Aug 2021(Jul) (Jul) (Jul) (Jul)Global Economy
+Inflation haspicked upinmany countries mainly duetosupply -sidepressure thatresulted inhigher prices ofcertain
+goods .Rising inflation inmajor advanced economies wasdriven bythegradual resumption ofeconomic activities .
+Nevertheless, inflation expectations inmany countries remained close totheir respective inflation targets .
+-1.00.01.02.03.0
+Jan-19 May-19 Sep-19 Jan-20 May-20 Sep-20 Jan-21 May-21CPI : major advanced economies (G3)*
+Core CPI : major advanced economies (G3)*
+CPI : Emerging markets (EMs) Asia**
+Core CPI : Emerging markets (EMs) Asia**% YoYInflation (CPI) and Core Inflation (Core CPI)
+Source: CEIC* G3 include the U.S., euro area, and Japan
+** EM Asia include China, Indonesia, South Korea, Malaysia, Philippines, Singapore, and TaiwanInflation expectations (Inflation Swap Forward 5Y)
+-1.00.01.02.03.0
+Jan-20 May-20 Sep-20 Jan-21 May-21 Sep-21G3 US EA JP (RHS)
+%
+Data as of 17 Sep 2021
+Source: Bloomberg 14
+Global Economy
+Policy rates remained low all around to support the economic recovery which remained highly uncertain. Some EM central 
+banks have already raised their policy rates and would continue to raise rates further throughout 2022 in response to 
+reflation risks. 
+-4-202468
+US
+CA
+AU
+UK
+EU
+BR
+CL
+RU
+HU
+CZ
+MX
+ZA
+PL
+KR
+IN
+ID
+MY
+PH
+TW
+THExpected policy rate chg. till 4Q2022*
+Policy rate cut during Covid outbreakAEEM
+Rapid tighteningEM
+No tighteningEM
+Gradual tightening
+EM ASIA
+*Expected changes in policy rates at the end of 2022 (Bloomberg) compared to the lowest 
+policy rates during the COVID -19 pandemic%
+-4004080120
+Jan-21 Feb-21 Mar-21 Apr-21 May-21 Jun-21 Jul-21 Aug-21US EU LATAM ASIA PACIFIC CEEMEACentral banks in major advanced economies (AE) would likely keep their policy rates low to 
+support economic growth which was still subjected to high degrees of uncertainty. Meanwhile, 
+inflationary pressures were limited especially as employment rates remained below full 
+employment despite tighter labor market conditions.
+Most central banks in Asia would likely keep their policy rates low to support economic 
+growth which was adversely affected by new waves of COVID -19 outbreak. Notwithstanding, the 
+Bank of Korea (BOK) raised its policy rate in August 2021 given that economic activities in Korea 
+have returnedto pre-COVID levels, inflation has risen above the target range, and household debt 
+levels were high . 
+Some emerging markets (EM) central banks might start raising their policy rates in response 
+to reflation risks. 
+Citi Inflation Surprise IndexChanges in policy rates during COVID -19 
+and expected changes in policy rate through to end -2022
+Q4/2565*
+Source: Bloomberg 15
+TheFederal Reserve andtheEuropean Central Bank signaled thatthey would begin tapering their asset purchases
+inthefourth quarter ofthisyear.Thetapering isexpected tobegradual, butthere arestillrisksthatfinancial markets
+could become more volatile andthusshould beclosely monitored .Global Economy
+TheFederal Reserve (Fed) signaled atapering ofitsasset purchases (QEtapering) astheU.S.economic recovery gained traction .TheQEtapering wasexpected tocommence
+inthefourth quarter of2021.Itwasalsoexpected thatthepolicy ratewould remain low, inpartbecause employment numbers remain below fullemployment despite
+improvements inlabor market conditions .Notwithstanding, theSeptember 2021 FOMC statement suggested thattheFedcould raiseitspolicy ratebytheendof2022.
+TheEuropean Central Bank (ECB) signaled atapering ofitsquantitative easing .TheECBannounced thatitwould reduce asset purchases under thePandemic Emergency
+Purchase Programme (PEPP) starting inthefourth quarter of2021.Thepolicy ratewasexpected toremain lowtosupport theeconomic recovery which remained highly uncertain .
+พันล้านดอลลาร์ สรอ .The Fed’s tapering in 2013 Expectation of the Fed ’s tapering in 2021
+0102030405060708090
+Dec-13
+Jan-14
+Feb-14
+Mar-14
+Apr-14
+May-14
+Jun-14
+Jul-14
+Aug-14
+Sep-14
+Oct-14
+Nov-14
+…..
+Dec-15
+Jun-17
+Sep-17MBS UST
+First rate 
+HikeAnnounce plan for 
+reduce assets 
+holdingReduce assets 
+holdingBillion USD
+020406080100120140
+Nov-21 Feb-22 May-22 Aug-22 Nov-22UST MBSRosengren: “We’re done with the tapering program...towards the middle of next year .”
+Bullard: ..wants to start paring assets in October and concludes the program by March
+Bostic: could start to taper purchase between Oct -Dec
+Mester: “I support starting to dial back our purchases in November ”
+George: “The criteria for substantial further progress have been met ” 
+16First Hike 
+In the first half of 2023
+Billion USDGlobal Economy
+Trading partner economies would register slower growth in2021 compared totheprevious assessment duetothe
+COVID -19outbreak andongoing supply disruption which lasted longer than expected .Growth wasexpected torebound
+in2022 astheoutbreak subsided andvaccination targets aremet.
+%YoYWeight
+(%)2021 2022
+MPR
+Jun 21MPR
+Sep 21MPR
+Jun 21MPR
+Sep21
+United States 20.46.65.94.54.6
+Euro area 9.24.55.14.04.1
+Japan 13.92.52.42.62.6
+China 18.18.48.25.25.2
+Asia
+(excluding Japan and China)*30.66.05.24.04.4
+Total** 100.06.05.64.14.3Assumptions on trading partners ’ growth
+Note:  * Asia(excluding China ) comprise of7 countries weighted by major Thai trades ’ share in 2020
+** Weighted by major Thai trades ’ share in 2020 (13 countries) Asia (30.6%) = Singapore(5.8%) +         
+Hong Kong(6.9%) + Malaysia(5.3%) + Taiwan(2.3%) + Indonesia(4.7%) + South Korea (2.6%) + 
+Philippines(3.1%)Trading partner economies would register slower growth in 2021 compared
+to the previous assessment due to the COVID -19 outbreak and ongoing 
+supply disruption, both of which have had larger -than-expected impacts 
+on consumption and manufacturing . The U.S. economy was affected by 
+the outbreak of the delta variant that became more widespread. Meanwhile, 
+Japan, China, and many other Asian economies were also further affected 
+by the implementation of stricter containment measures which impacted 
+private consumption and the manufacturing sector, prolonging the ongoing 
+supply disruption. On the other hand, the outlook for the euro area has 
+improved given ( 1) the relaxation of containment measures and high 
+vaccination rates , and (2) the disbursements under the Next Generation EU 
+Fund which would help drive growth going forward.
+Trading partners ’ growth forecasts for 2022 were revised up under the 
+assumptions that the outbreak would subside and vaccination targets 
+could be achieved. These factors would support a gradual resumption in 
+economic activities in many countries. 
+17
+3. The Thai Economy
+≡
+The Thai Economy
+The Thai Economy: Summary of Key Issues
+The Thai economy would slow 
+down significantly in the third 
+quarter of 2021. However, 
+progress on vaccination allowed 
+the government to gradually relax 
+containment measures since 
+September 1, 2021. This would 
+help support the economic 
+recovery going forward. Although the recovery outlook 
+had improved, uncertainties 
+remained high. Risk factors that 
+warrant monitoring include 
+(1) implementation and relaxation 
+of domestic containment measures, 
+(2) continuity of government 
+stimulus, and ( 3) external factors. The Thai economy would 
+register slower growth in 2021, 
+compared with the June 
+assessment due to more severe 
+outbreak of COVID -19 
+from virus mutations.   Headline and core inflation 
+remained low in line with weak 
+domestic demand. 
+Inflation expectations remained 
+anchored within the target range. 
+19
+The Thai Economy
+20TheCOVID -19outbreak inThailand became more severe andwidespread inthebeginning ofthethird quarter of2021
+duetotheDelta variant .Nonetheless, theimprovement intheCOVID -19situation andprogress onvaccination allowed
+thegovernment togradually relax containment measures since September 1,2021.
+Source: Department of Disease Control cases
+05,00010,00015,00020,00025,000
+Mar-21 May-21 Jul-21 Sep-21Number of new cases Vaccination rateThe COVID -19 outbreak in Thailand became more
+severe and widespread in the beginning of the 
+third quarter of 2021 with the number of new 
+COVID -19 cases soaring in July 2021. The increase in 
+the number of new cases also outpaced the 
+number of recoveries, causing the cumulative numbe r 
+of COVID -19 patients to exceed the capacity of 
+the public health system.
+The outbreak situation had improved since 
+the end of August 2021 in line with increased 
+vaccination rates. This allowed the government 
+to gradually relax containment measures. However,
+as of September 2021, the percentage of people 
+who are fully vaccinated with two doses was fairly
+low at 22.8% of the population22.843.8
+01020304050
+Mar-21 May-21 Jul-21 Sep-21second dose
+first dose% of population
+The Thai Economy
+21Economic activities slowed down significantly inthebeginning ofthethirdquarter of2021buthassince recovered somewha t
+following therelaxation ofcontainment measures .
+Note: 1/Change vis -à-vis the mid -point of each day between 3 Jan –6 Feb 2020Google Mobility Data: Thailand
+Sep 21 %Change 1/
+-80-60-40-2002040
+Feb-20 May-20 Aug-20 Nov-20 Feb-21 May-21 Aug-21Transit stations Retail & recreation
+Grocery & pharmacy Parks
+Workplace
+Source: Facebook Movement Range Maps Facebook Movement Range: Thailand
+     : %                        Baseline (     63)
+Source: Facebook Movement Range Maps (As of Aug 29th)         2564        2564         2564        2564 1-15        2564
+     : %                        Baseline (     63)
+Source: Facebook Movement Range Maps (As of Aug 29th)
+         2564        2564         2564        2564 1-15        2564
+Unit: % change from the Feb 2020 baseline
+TheThaiEconomy slowed down significantly inthebeginning ofthethird
+quarter of2021 duetostrict containment measures .Theservice sector,
+inparticular, slowed down markedly, while themanufacturing sector was
+affected byreduced working hours .However, economic activities recovered
+somewhat inSeptember 2021afterthecontainment measures wererelaxed .
+May 2021 Jun 2021 Jul 2021 Aug 2021 1-15 Sep 2021The Thai Economy
+22The relaxation of containment measures would shore up confidence and help boost private consumption for the rest of 
+2021 and 2022. 
+80859095100105110
+-45%-30%-15%0%15%
+Mar-20 Jun-20 Sep-20 Dec-20 Mar-21 Jun-21 Sep-21 Dec-21Facebook Mobility PCI (RHS)Facebook Mobility (% compared to Feb 2020) PCIFacebook Mobility and Private Consumption Index (PCI)
+Source: calculations by Bank of Thailand (BOT)
+0.00.51.01.52.02.53.03.54.04.5
+Jan-19 Jul-19 Jan-20 Jul-20 Jan-21 Jul-21total workers who have requested 
+for unemployment benefits
+newworkers who requested for unemployment benefits% of insured persons, seasonally adjusted (SA)In2022,Thailand’s economic growth would stillbepressured bymore fragile labor market fundamentals owing toseveral
+waves oftheCOVID -19outbreak .The Thai Economy
+Unemployed workers under 
+the social security systemLabor market indicators
+Several waves of the outbreak led to 
+a more fragile labor market. This was 
+reflected in the continuously rising number 
+of employees under the social security 
+system who applied for unemployment 
+benefits due to unforeseen circumstances, 
+especially workers in the service sector. 
+Laid-off workers in the service sector were 
+unable to transfer to manufacturing sector, 
+which is already recovering, due to skill 
+mismatch. In addition, the numbers of long -
+term unemployed workers , migrant workers , 
+newly-graduated unemployed workers, an d
+workers exiting the labor force would 
+likely continue to rise.0246810
+0246
+Q1-18
+Q2-18
+Q3-18
+Q4-18
+Q1-19
+Q2-19
+Q3-19
+Q4-19
+Q1-20
+Q2-20
+Q3-20
+Q4-20
+Q1-21
+Q2-21underemployment (SA)
+labor migration (non-SA)
+long-term unemployment (SA, RHS)Million persons Hundred thousand persons 
+Q2/21 
+(level, non -SA)
+Note: Long -term unemployment refers to unemployment for at least 1 year
+Source: Labor Force Survey by National Statistics Office of Thailand and True 
+Corporation, calculated by BOTSource: Social Security Office, calculated by BOT
+23-60-50-40-30-20-1001020
+Farmers Manufacturing 
+workersService workers Self-employed Professional 
+employees2020Q2 2020Q3 2020Q4 2021Q1 2021Q2Financial positions of households were more fragile due to elevated debt levels. 
+At the end of the second quarter of 2021, the ratio of household debt to GDP remained high at 89.3percent despite declining from the previous quarter. The decline was mainly attributed to higher 
+nominal GDP growth while growth of household debt remained largely unchanged. The increase in household debt would further we ighon recovery in consumption and the economic growth in the period ahead.           
+Click for more details on the impact of debt burden on household consumption
+Households were also subject to risks pertaining to the economic recovery which remained highly uncertain as a result of the COVID -19 outbreak. Thus, it is necessary to closely monitor debt servicing 
+capability of households going forward, especially those in the service sector and the self -employed. Recently, the BOT, in collaboration with the Thai Bankers ’ Association, has implemented additional debt 
+relief measures for retail borrowers to help reduce debt burden and provide liquidity support to households. These measures include a relaxation of regulations on credit card loans and supervised personal 
+loans, as well as measures to enhance existing debt facilities to be more sustainable          Click for more details on measures to assist retail borrowersThe Thai Economy
+Note: For ease of comparison, the sign for nominal GDP’s contribution (dotted blue line) is reversed from negative 
+to positive (normally, an increase in nominal GDP would contribute negatively to household debt -to-GDP ratio) 
+Source: BOT%
+Note: (1) Income of the self -employed is estimated from their economic activities 
+(2) Labor income is calculated from income of those who work more than 24 hours per week. 
+Source: Household Socio -Economic Survey and Labor Force Survey (National Statistics Office of Thailand), 
+Office of Agricultural Economics, calculated by BOT89.3
+-4-20246
+020406080100
+Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1Q3Q1
+20112012201320142015201620172018201920202021HH Debt/GDP Debt creation  (RHS)*
+Nominal GDP  (RHS)*% %
+24Changes in labor income since 2019 (pre -COVID) Household debt -to-GDP ratio and source of change 
+The Thai Economy
+Financial positions of businesses became more fragile in the second quarter of 2021. This was reflected in their lower operating profit margin (OPM) and interest 
+coverage ratio (ICR). It was deemed necessary to closely monitor debt servicing capability of businesses that were significan tlyaffected by the latest containment measures, 
+namely tourism -related services and construction, especially small and medium -sized enterprises (SMEs). Given high uncertainties surrounding the COVID -19 outbreak , 
+the BOT has adjusted its soft loan scheme to enhance credit access for SMEs. Click for more details on adjustment to the soft loan scheme.
+Note: Tourism -related services include hotels, airlines, restaurants, and trade
+Source: Stock Exchange of Thailand (SET), calculated by BOT02468101214
+2018Q1
+2018Q3
+2019Q1
+2019Q3
+2020Q1
+2020Q3
+2021Q1
+2018Q2
+2018Q4
+2019Q2
+2019Q4
+2020Q2
+2020Q4
+2021Q2
+2018Q1
+2018Q3
+2019Q1
+2019Q3
+2020Q1
+2020Q3
+2021Q1
+Manufacturing Other servicesICR (median) OPM (median) %Financial positions ofbusinesses overall became more fragile, especially tourism -related services andthose thatwere
+affected bythelatest containment measures .
+25Operating profit margin (OPM) and interest coverage ratio (ICR)
+Thaieconomic recovery outlook issubject tohighuncertainties .Some major factors include (1)implementation andrelaxation
+ofdomestic containment measures, (2)continuity ofgovernment stimulus, and(3)external factors .The Thai Economy
+External factors
+•Travel restriction
+•Supply disruption problemsPrivate consumption
+Merchandise exports
+Exports of services
+Continuity of government stimulus
+Implementation and relaxation 
+of domestic containment measures
+Thai economy: GDP, income, employment
+26
+TheCOVID -19outbreak would likely beprolonged duetovirusmutation .Nonetheless, containment measures wereexpected
+tobegradually relaxed inlinewithvaccination progress .The Thai Economy
+Economic costSocial cost
+Q1-Q2/21
+Q3/21
+Q1/22Q4/21
+Vaccinate only risky groups
+Abundant vaccine supplyLimited vaccine supplyPrioritize growth
+(no lockdown )
+Balanced
+Prioritize public health
+(Full lockdown )Semi-lockdown
+ToleranceTrade -off frontier between economic growth and public health safety
+The decision to implement public health measures depends on the trade -offs
+between social costs, as measured by the number of severe cases which 
+could become fatal, and economic costs. Limited vaccine supply in the first 
+half of 2021 led to an implementation of strict containment measures in the 
+third quarter of 2021.
+Nevertheless, distribution of vaccines to high -risk groups at the beginning of 
+September 2021 helped contain the outbreak by reducing the number of 
+severe cases. The Center for COVID -19 Situation Administration (CCSA) was 
+thus able to relax the containment measures since September 1, 2021. 
+This led to a resumption in economic activities which would support the 
+economic recovery going forward. 
+While the situation has improved recently, the COVID -19 outbreak would 
+likely be prolonged due to virus mutation. Greater emphasis should be placed
+on monitoring the number of severe cases and vaccination rates in addition to 
+the number of new cases.
+Looking forward, containment measures would likely be further relaxed. 
+The number of new cases could rise as restrictions are eased. However, vaccination 
+progress would help reduce the number of severe cases.Developments in the COVID -19 outbreak and vaccination progress
+Source: Bank of Thailand
+27
+01,0002,0003,0004,0005,0006,0007,0008,000
+05,00010,00015,00020,00025,00030,00035,000
+1/8/64 1/9/64 1/10/64 1/11/64 1/12/64New
+Severe (RHS)Looking forward, thenumber ofnewcases could risefollowing therelaxation ofthecontainment measures .However,
+progress onvaccination would help reduce thenumber ofsevere cases andrisksofinsufficient public health capacity .
+Thiswould inturnlessen theneed forstrict containment measures .The Thai Economy
+New & severe COVID -19 cases (reference from the projection of CCSA as of September 2021)Outlook of the outbreak and vaccination 
+Note: * Relationship between the ratio of severe cases and vaccination rate is analyzed by applying a local linear regression model to data from 21 sample countries
+Source: press conference by CCSA, estimated by BOT
+28
+cases
+Partial relaxation 50% Partial relaxation 75% Full relaxation 100%cases
+Capacity of ICU bed (RHS)
+Sep –Oct 2021 Nov –Dec 2021 2022According to foreign experiences*, the 
+ratio of severe cases is found to drop 
+when full vaccination rate exceeds 40%The Thai Economy
+29Government stimulus would play an important role in supporting the economy going forward. However, the spending 
+ratio of each measure warrants monitoring.
+Effectiveness of government measures
+Budget
+(bn baht)Time 
+periodSpending ratio1/
+(as of 17 Sep)
+The More You Spend, the More You Get scheme 7
+Second half 
+of 20212.3%
+Half-Halfco-payment scheme (phase 3) 84 35.4%
+Extra allowance for state welfare card holders 
+(phase3)16.4 47.9%
+Additional allowance for vulnerable group 3 18.2%
+Measure to remedy workers and entrepreneurs 
+in the urgent phase77.8Aug-Sep
+202154.8%
+We Travel Together campaign (phase 3) 6 Fourth
+quarter of 
+2021-
+Travel around Thailand campaign 5 -
+total 211.0Examples of government measures in the second half of 2021
+Note: 1/Spending ratio = accumulated spending (both public and private ) / target for each project
+Source: Ministry of Finance, compiled by BOTThegovernment announced additional measures tostimulate
+tourism inthefourth quarter of2021.Such measures include
+WeTravel Together campaign (phase 3)andTravel around Thailand
+campaign .However, government stimulus issubject tosome
+downside risksbecause ofthefollowing reasons .
+•Spending ratio oftheprevious measures, particularly theMore
+YouSpend, theMore YouGetscheme, were low
+•Spending ratiooftheWeTravel Together campaign (phase 3)and
+Travel around Thailand campaign would likely belowas well.
+0.00.51.01.52.02.53.03.54.04.55.0
+MPR
+JunMPR
+SepMPR
+JunMPR
+SepMPR
+JunMPR
+SepMPR
+JunMPR
+SepMPR
+JunMPR
+SepMPR
+JunMPR
+SepMPR
+JunMPR
+SepMPR
+JunMPR
+Sep
+Q1-2021 Q2-2021 Q3-2021 Q4-2021 Q1-2022 Q2-2022 Q3-2022 Q4-2022Theprojection offoreign tourist arrivals issignificantly revised down duetotheCOVID -19outbreak resulting inadelay in
+thecountry’sre-opening, lower confidence among foreign tourists, aswellasadelayed re-opening forcommercial flights .The Thai Economy
+Million people2021 2022
+Jun 2021 Sep 2021 Jun 2022 Sep 2022
+Foreign tourists 0.7 0.15 10.0 6.0The projected number of foreign tourists is revised down from 
+the following factors.
+•Adelay inthere-opening ofthecountry toforeign tourists
+dueto(1)more severe COVID -19outbreak inThailand and
+abroad, (2)delayed vaccination, and(3)difficulty ofachieving
+herdimmunity inpractice
+•Tourism sentiment would deteriorate given uncertainties of
+theoutbreak
+•Theairlines would notbeabletoresume normal commercial
+flight services by2022Million personsForecast of foreign tourist arrivals
+Source: Ministry of Tourism and Sports, estimated by BOTForecast period External factors
+30
+80859095100105110115120125130
+Q1-2018
+Q3-2018
+Q1-2019
+Q3-2019
+Q1-2020
+Q3-2020
+Q1-2021
+Q3-2021
+Q1-2022
+Q3-2022
+Q1-2023
+Q3-2023Export index, SA (2012 = 100)
+MPC Jun MPC SepThe Thai Economy
+Merchandise exports would be lower than the previous assessment due to global supply disruption. Meanwhile, domestic 
+supply disruption would only have temporary effects.
+Themerchandise export projection wasrevised down given theslightly
+more severe andprolonged global supply disruption than expected .
+• Container shortage could beprolonged until thesecond quarter of
+2022 asaresult oftheCOVID -19outbreak inmany countries, particularly
+China, which ledtoahuge pileup ofcontainers atports andtheclosure
+ofNingbo -Zhoushan Port.
+• Semiconductor shortage could possibly lastuntil mid-2022 dueto
+theoutbreak insome countries including Malaysia which would impact
+themanufacturing ofelectronic products andautomobiles .
+Thedomestic outbreak alsotemporarily affected Thaimanufacturing sector .
+• Factory shutdown inaccordance withtheCOVID -19control measures
+somewhat affected themanufacturing industry .However, thesituation
+islikely toimprove owing totheadoption ofbubble andsealmeasures
+andproactive COVID -19testing .
+• Migrant labor shortage hadsome impacts onthemanufacturing sector
+such asfood processing factories .Theimpacts would belimited because
+employers have instead hired Thailabors andincreased working hours .Forecast of merchandise exports (excluding gold) 
+Forecast periodExternal factors
+31
+Headline inflation would remain lowintandem withweak demand -pullinflationary pressures .Medium -term inflation
+expectations remained well-anchored within thetarget range .
+Headline inflation in the first two months of the third quarter of 2021 averaged 0.22 percent, falling from 2.36 
+percent in the previous quarter. The decline was due to the dissipation of the base effect of low energy prices in the 
+previous year, as well as the government’s electricity bill subsidies to lower the cost of living in July and August 2021. 
+There was also a larger contraction in fresh food prices compared with the previous quarter mainly due to prices of 
+vegetables and fruits. 
+Core inflation in the first two months of the third quarter of 2021 averaged 0.11 percent, falling from 0.43 percent 
+in the previous quarter. The decline was mainly attributed to lower prices of housing and furnishing due to the 
+government’s water bill subsidies to reduce the cost of living during the COVID -19 outbreak. Short-term and medium -term inflation expectations remained within the target range 
+•The short -term (one -year ahead) inflation expectation according to the survey of businesses
+in August 2021 was 1.7 percent. 
+•The short -term (one -year ahead) inflation expectation according to the survey of households
+in August 2021 was 2.2 percent.
+•Theshort-term (one-year ahead) inflation expectation according tothesurvey of
+professional forecasters inSeptember 2021was1.2percent, while thelong-term(five-yearahead )
+inflation expectation according tothesurvey ofprofessional forecasters inApril 2021
+was1.8percent .
+32Headline inflation and inflation target range Inflation expectations
+The Thai Economy
+Jul–Aug 2021
+-5-4-3-2-1012345
+Q1/2014 Q1/2015 Q1/2016 Q1/2017 Q1/2018 Q1/2019 Q1/2020 Q1/2021Fresh food (20.55%) Energy (12.39%) Core inflation (67.06%) Headline inflation
+%
+Note: ( ) denotes share in the consumer price basket 
+Source: Ministry of Commerce , calculated by BOTInflation target in 2015-2019 (2.5  1.5%)Current inflation 
+target range (1 -3%)
+Source:1/ Business Sentiment Index (BSI ) Survey by BOT
+2/ Consumer Confidence Index (CCI ) Survey by Ministry of Commerce
+3/ Asia Pacific Consensus Forecast 
+01234567
+Jan-07Jan-08Jan-09Jan-10Jan-11Jan-12Jan-13Jan-14Jan-15Jan-16Jan-17Jan-18Jan-19Jan-20Jan-21Inflation expectation of businesses (1-year ahead)
+Inflation expectation of households (1-year ahead)
+Inflation expectation of professional forecasters (1-year ahead)
+Inflation expectation of professional forecasters (5-year ahead)% YoY
+1/
+2/ 
+3/
+3/2018 2019 2020 2021 2022 2023Economic forecast: The Thai economy is projected to register slower growth in 2021 than the assessment in the previous Monetary 
+Policy Report due to the spread of COVID -19 Delta variant which was more severe and prolonged. The economic outlook is largely 
+unchanged from the special interim forecast in August 2021. Widespread vaccination coverage is expected to occur in the fourth 
+quarter of 2021 and would support the economy in 2022 to grow at around the same pace as the previous forecast. 
+2018 2019 2020 2021 2022 2023Monetary Policy Report Sep 2021
+MPC Meeting Aug 2021
+Monetary Policy Report Jun 2021%YoY 2020* 2021 2022
+Projection as of Jun21 Sep 21 Jun 21 Sep 21
+GDP growth -6.11.8 (0.7) 0.73.9 (3.7)3.9
+Domestic demand -1.64.11.93.24.7
+Private consumption -1.02.50.03.45.7
+Private investment -8.47.04.26.06.7
+Government consumption 0.84.13.3-1.0-0.5
+Public investment 5.79.58.05.76.4
+Exports of goods and services -19.48.88.77.86.1
+Imports of goods and services -13.315.015.35.54.8
+Current account
+(billion, US dollar )20.3-1.5-15.312.01.0
+Value of merchandise exports -6.517.116.54.93.7
+Value of merchandise imports -13.822.723.86.64.8
+Number of foreign tourists
+(million person )6.70.7 (0.2) 0.210.0(6.0) 6.0
+Note: * Outturn
+( ) Projection as of MPC meeting in August 202133
+The Thai Economy
+Real GDP Economic forecast: Current account projection was revised down in 2021 and 2022 owing to rising freight expenses as 
+well as smaller surpluses in trade balance and travel balance.
+3402,0004,0006,0008,00010,00012,000
+Jan-19 Jul-19 Jan-20 Jul-20 Jan-21 Jul-21$ per 40ft container
+Source: CEICCurrent account (billion, US dollar) 2021 2022
+MPC June 2021 -1.5 12.0
+Net services, income and transfers -10.2 -8.3
+o/w Freight balance -8.9 -9.2
+o/w Travel balance -0.7 -5.8
+Trade balance -3.6 -2.7
+Total change -13.7 -11.0
+MPC September 2021 -15.3 1.0Current account balance was projected to register a 
+deficit of 15.3 billion U.S. dollars in 2021 due to a 
+sharp rise in shipping costs as well as a smaller trade 
+surplus on account of increased imports and lower 
+exports from domestic and global supply disruption. 
+Current account balance was projected to register 
+a surplus of 1.0 billion U.S. dollars in 2022 . This downward
+revision from the previous assessment was attributed 
+to higher -than-expected shipping costs, lower tourism 
+receipts in line with lower foreign tourist figures, and a 
+smaller trade surplus from a slowdown in external 
+demand and increased imports. Summary of changes in current account forecast Container shipping cost
+The Thai EconomyEconomic forecast: The Committee assessed that the Thai economy would grow 0.7 percent in 2021 and 3.9 percent in 2022. 
+Merchandise exports would expand at a slightly slower pace throughout the forecast period due to both domestic and global supply disruption. 
+Value of merchandise exports was expected to grow 16.5 percent in 2021 and 3.7 percent in 2022, slightly slower compared with the previous forecast. The 
+downward revision was attributed primarily to lower export volumes given the temporary impacts of the more severe COVID -19 outbreak on Thai manufacturing 
+sector in the third quarter of 2021. Some factories had to close or reduce manufacturing output temporarily in accordance with the containment measures as well as
+migrant labor shortages. The export outlook was expected to be affected by shortages of containers and semiconductors which w ould likely last until mid -2022. 
+Exports of services would continue to contract and recover more slowly than previously assessed. The tourism sector would recover more slowly than 
+previously expected due to more severe COVID -19 outbreaks both in Thailand and abroad. This could delay the unconditional re -opening of Thailand's 
+borders and commercial flights to foreign tourists and China would likely postpone the re -opening of its borders to 2023. Theref ore, the projected foreign 
+tourist figures were revised down to 150,000 persons in 2021 and 6 million persons in 2022 . 
+Private consumption in 2021 was significantly affected by the spread of Delta variant which became more severe to the point that the government had 
+to impose strict containment measures in the third quarter of 2021. Thus, private consumption growth in 2021 was revised down from 2.5 percent to 0.0 
+percent. Nonetheless, better -than-expected vaccination progress, the relaxation of containment measures since the beginning of S eptember 2021, and various 
+relief measures and fiscal stimulus measures would foster confidence, help boost consumption in the fourth quarter of 2021, a nd support consumption 
+recovery in 2022 . 
+Private investment in 2021 would expand at a lower rate than previously assessed. The spread of Delta variant resulted in weakened demand and 
+business confidence. Investment in the construction sector was also impacted by strict containment measures in certain constr uction sites. As a result, private 
+investment forecast for 2021 was revised down to 4.2 percent. However, private investment would continue to expand from end -2021 to 2022 as private 
+consumption gradually picks up .
+35
+The Thai EconomyHeadline inflation would were additionally impacted by the higher -than-expected
+impact of government measures and supply -side factors. 
+•Core inflation would be largely unchanged from the previous projection 
+and stay low in tandem with weakened recovery.
+•The energy and fuel inflation would rise slightly in the short run owing 
+to rising global crude oil prices, although this would be partially offset by the 
+impacts of an extension of the government’s electricity bill subsidy measure. 
+However, crude oil prices would decline to the level that was previously 
+expected. Thus, the forecast for 2022 was largely unchanged.
+•Fresh food inflation would decline in 2021 in line with the lower -than-
+expected vegetable and fruit prices, as well as the lower rice prices from 
+domestic oversupply. This was attributed to high shipping costs that caused 
+difficulties to drain the excess stock and favorable weather conditions, resulting
+in increased agricultural outputs. Such problems were expected to gradually 
+subside in 2022, thus causing an increase in fresh food inflation from the 
+lower base effect .%YoY 2020* 2021 2022
+Headline inflation -0.81.0(1.2)1.4(1.2)
+-Core inflation 0.30.2(0.2)0.3(0.3)
+-Energy inflation -11.6 10.4 (10.1) 4.2 (4.2)
+-Fresh food inflation 1.7 -1.5(-0.5) 3.1 (2.5)
+Note:* Outturn
+( ) Previous projection in Monetary Policy Report (June 2021)
+Source: Ministry of Commerce, estimated by BOTInflation forecastThe Thai Economy
+Inflation forecast :Headline inflation isprojected todecline in2021 andstayclose tothelower bound ofthetarget
+range at1.0percent .Thedownward revision ismainly duetotheoversupply offresh food.However, theforecast for
+headline inflation in2022 isrevised upto1.4percent astheoversupply problem isexpected tosubside andalsodueto
+thelower base effect .
+36
+-16-12-8-40481216
+-16-12-8-40481216
+2019 2020 2021 2022 2023%YoYRisktogrowth andinflation forecasts :Risks toThailand’s growth outlook aremore balanced asprogress onvaccination
+would lessen theneed toreimpose strict containment measures .Risks totheinflation forecast tilted tothedownside .
+Key issues that warrant monitoring
+•Outbreak situation and virus mutations
+•Containment measures and the re -opening plan to admit 
+foreign tourists
+•Household and business confidence after the relaxation of 
+containment measures
+•Continuity of government stimulus
+•Supply disruption problems
+GDP
+Headline Inflation Core Inflation
+37
+The Thai Economy
+%YoY
+Headline inflation target: 1.0 -3.0%%YoY
+2019 2020 2021 2022 2023 2019 2020 2021 2022 2023Summary of key forecast assumptions
+•Trading partner economies would slow down in 2021 due to the prolonged outbreak of 
+COVID -19 Delta variant in many countries and the ongoing supply disruption exacerbated by 
+more stringent containment measures imposed as the outbreak became more severe. 
+However, many countries have achieved their vaccination targets. Thus, growth among 
+trading partner economies would pick up in 2022. 
+•The Federal Funds Rate assumption was unchanged at 0.00 -0.25percent
+•Regional currencies (excluding the Chinese yuan) would weaken slightly due to 
+an increased possibility of QE tapering by the Federal Reserve and the more severe 
+outbreak of COVID -19 Delta variant among ASEAN countries. 
+•Dubai crude oil prices were revised up due to a temporary decline in supply in the 
+second half of 2021 from a delay in OPEC+ negotiations to increase oil production 
+and the impacts of Hurricane Ida on U.S. oil output. Looking ahead, the oil market 
+would become less tight, and oil prices would return to normal in 2022.
+•Farm income (excluding government support measures) was revised down for 
+2021 on account of lower rice prices owing to domestic oversupply. Rice exporters have
+faced logistical issues, resulting in a large stockpile of rice domestically . Off-season 
+rice production was also higher than expected due to favorable weather conditions. 
+The situation was expected to gradually improve in 2022, and farm income would 
+expand at about the same rate as previously assessed.
+•Public spending at current price was revised down. Government consumption was revised
+down due to lower -than-expected budget disbursements in the second quarter of 2021. 
+Public investment was revised down because of the shift in investment expenditures 
+under the Emergency Decree to public health expenditures.
+•Additional assumptions that underpin the latest recovery prospects include 
+(1)Current containment measures are sufficient to reduce the number of severe cases to be within the 
+capacity of the public health system. Thus, there is no need to tighten the containment measures. 
+(2)The government can procure and administer two COVID -19 vaccine doses to more than 80% of high -risk 
+groups and more than 70% of general population by the end of 2021. This would allow the government 
+to relax all containment measures within the first quarter of 2022. 
+(3)Additional fiscal stimulus would be forthcoming under the new Emergency Decree that authorized 500 
+billion baht of government borrowing. Annual percentage change 2020* 2021 2022
+Trading partners’ GDP growth (% YoY)1/ -3.4 5.6(6.0) 4.3(4.1)
+Fed funds rate (% at year end ) 0.00-0.250.00-0.25(0.00-0.25)0.00-0.25(0.00-0.25)
+Regional currencies (excl.China) vis-à-visthe U.S. dollar 
+(index)2/157.1 153.1(152.9) 154.3(153.1)
+Dubai crude oil price (U.S. dollar per barrel ) 42.2 66.4(62.3) 65.5(65.5)
+Farm income (% YoY) -0.3 6.5(6.9) 0.6(0.6)
+Government consumption at current price (billion baht)3/2,780 2,927(2,948) 2,973(2,980)
+Public investment at current price (billion baht)3/ 1,011 1,107(1,120) 1,192(1,199)
+Note: 1/Weighted by each trading partner’s share in Thailand’s total exports
+2/Increasing index represents depreciation, decreasing index represents appreciation
+3/ Assumption includes spending on infrastructure investment plans
+* Outturn
+( ) Projection as of Monetary Policy Report June 2021
+38
+The Thai Economy4. Monetary Policy Decision
+≡
+The implementation public 
+health measures that could 
+contain the outbreak while 
+allowing economic activities 
+to recover is currently the most 
+important issue facing 
+the Thai economyMonetary Policy
+must help contribute to 
+accommodative financial 
+conditions and does not impede 
+economic recoveryFiscal measures
+should prioritize providing relief 
+to affected groups and supporting 
+the economic recovery. 
+The government should also 
+prepare measures to restore 
+economic growth and uplift
+long-term growth potentialFinancial and credit measures
+have made significant progress
+and should be followed through 
+to ensure they are effective 
+and have broader impacts
+Monetary Policy Decision: Summary of Key ConsiderationsMonetary Policy Decision
+40
+Theimplementation ofpublic health measures thatcould contain theoutbreak while allowing economic activities torecove r
+iscurrently themost important issue facing theThai economy .Thegovernment policies should focus onlong-term
+results ,byprioritizing thedistribution ofappropriate vaccines inabroad -based andtimely manner .
+Monetary Policy Decision
+41Susceptible
+(S)Exposed
+(E)Infected
+(I)
+Transmission 
+rateRecovered
+(R)
+Short-term
+containment 
+measuresLong-term
+VaccinationPublic health situation 
+determines the response 
+measures (1) Transmission rate and severity of the cases
+(2) Intervention Policy: Sociological & pharmaceuticalAssessing the outlook of the COVID -19 outbreak: SEIR model
+The outbreak trajectory would depend on ( 1) the transmission rate and severity of the 
+casesand (2) intervention policyVirus mutations have led to more severe and widespread outbreaks in of 
+new cases outpaced recoveries, resulting in a marked increase in cThailand 
+during the earlier parts of the third quarter of 2021. The number umulative 
+cases. Government policy thus focused on strict containment measures to 
+reduce the number of COVID -19 patients and sustain capacity of the public 
+health system given that vaccination was still progressing slowly at the time. 
+The strict containment measures had significant impacts on economic 
+activities, employment, and income.  
+Going forward, the implementation of public health measures  to contain 
+the outbreak should facilitate economic activities and income recovery. 
+The policies should focus on long -term results, by prioritizing the procurement
+of appropriate vaccines to be distributed in a broad -based and timely 
+manner. Higher vaccination rates would reduce the number of severe hospitalization
+even as the number of new cases continues to rise. This would reduce the 
+need for stringent containment measures and thus allow economic activities 
+to resume normalcy for both businesses and households.  
+Source: Thailand’s COVID -19 Integrated Systems Simulation Modeling (Borwornsom, et al.)020406080100120
+May-21
+Jun-21
+Jul-21
+Aug-21
+Sep-21
+Oct-21
+Nov-21
+Dec-21
+Jan-22
+Feb-22
+Mar-22
+Apr-22
+May-22
+Jun-22Higher vaccination rates would reduce thenumber ofsevere cases, lower theneed forstringent containment measures ,and
+preserve both monetary andfiscal policy space forother downside risksthatmayariseinthefuture
+Monetary Policy Decision
+70%
+Note:* according to CCSA
+** Total population (include commuter and non -registered population) = 72,081,042
+Source: Department of Disease Control, forecast by the Bank of ThailandVaccine supply 2021 2022
+MPC August 2021 80 million doses 70 million doses
+MPC September 2021 140 million doses 110 million doses% of total population**Vaccination timeline*
+MPC Aug 2021
+42
+Forecast period
+MPC Sep 2021Assumptions*
+Note: * according to CCSA Monetary Policy Decision
+Monetary policy contributed toaccommodative financial conditions .Theoverall costs offinancing forbusinesses through
+both banks andbond markets remained low.
+Overall private sector financing costs through 
+commercial banks and bond markets remained 
+low. The minimum loan rate (MLR) of commercial 
+banks remained below pre -COVID levels. The new 
+loan rate (NLR) declined from the end of the second 
+quarter of 2021, especially for loan contracts smaller 
+than 100 million baht in the manufacturing and trade 
+sectors. The decline in NLR was partly due to progress 
+made with the soft loan facility.
+The credit spread between corporate and government
+bonds (corporate credit spread) with maturity of 
+3 years or less was largely unchanged from the end 
+of the second quarter of 2021 across all credit ratings . 
+However, the corporate credit spread for BBB -rated bonds 
+remained elevated. Overall, the private sector was 
+still able to obtain financing through the bond market 
+as normal. 0246810
+Jan-06
+Jan-07
+Jan-08
+Jan-09
+Jan-10
+Jan-11
+Jan-12
+Jan-13
+Jan-14
+Jan-15
+Jan-16
+Jan-17
+Jan-18
+Jan-19
+Jan-20
+Jan-21%YoY
+MLR NLR Policy rate
+Note: 1/  Monthly average of 14 commercial banks 
+(data as of 23 Sep 2021) 
+2/New Loan Rate (NLR ) (data as of Jul 2021)
+Source: Bank of Thailand1/ 2/
+3.02
+0.506.04
+0100200300400
+Jan-20
+Mar-20
+May-20
+Jul-20
+Sep-20
+Nov-20
+Jan-21
+Mar-21
+May-21
+Jul-21
+Sep-21
+AAA AA A BBB23Sep 2021
+342.7
+92.0
+25.055.3
+Source: Thai Bond Market Association (data as of 23 Sep 2021) Basis points
+43Commercial bank lending rates Corporate credit spreads (maturity of 3 years or less) 
+Thebaht depreciated anddidnotimpede economic recovery .However, thebaht would remain highly volatile inthe
+period ahead .
+In July, the baht depreciated more sharply than other regional currencies due to capital outflows from the Thai bond market driven in part by concerns over the COVID -19 outbreak in 
+Thailand. Towards the end of August, the baht appreciated due to capital inflows returning into the Thai stock market and short -term government bonds. This was in line with capital 
+flows development in other regional markets as investors’ concerns have subsided after the Fed signaled a dovish tone at the Jackson Hole Economic Symposium. However, in late 
+September, the baht depreciated further. The depreciation was driven by capital outflows from the Thai bond market after the Ministry of Finance announced a larger -than-expected 
+issuance of Thai government bonds under the Fiscal Year 2022 Budget, and the stronger U.S. dollar after the Fed signaled a ta pering of its asset purchases amidst improved U.S. economic 
+outlook. Looking ahead, the baht exchange rate would remain highly volatile due to QE tapering by the Fed and thus must be monitored closely.Monetary Policy Decision
+44
+-1.0-0.8-0.6-0.4-0.20.00.20.40.60.81.01.2
+6-Jan-21
+27-Jan-21
+17-Feb-21
+10-Mar-21
+31-Mar-21
+21-Apr-21
+12-May-21
+2-Jun-21
+23-Jun-21
+14-Jul-21
+4-Aug-21
+25-Aug-21
+15-Sep-21Equity Short-term bonds Long-term bondsCapital flows into Thai securities (weekly)
+Source: ThaiBMA and  BloombergBillion USD 
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38 859095100105110115120125130
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+Jul
+Oct
+Jan
+Apr
+JulREERBaht per U.S . dollar (USDTHB), Nominal Effective Exchange Rate (NEER), 
+and the U.S. Dollar Index (DXY)
+Baht per U.S. dollar Index
+Source: Bank of Thailand, Bloomberg, and Reuters (data as of 23 September 2021)USDTHB (RHS)
+DXYNEERappreciation
+2017 2018 2019 2020 2021Theimplementation offinancial andcredit relief measures helped todistribute liquidity toaffected businesses andhouseholds .Notwithstanding, there
+remained theneed tocontinue expediting additional measures thataremore effective andwell-targeted, namely thesoftloanfacility, theasset warehousin g
+scheme, anddebt restructuring programs thatarewell-tailored tothelong-term debt repayment serviceability ofdifferent groups ofborrowers .
+Large corporates were still able to obtain financing throughout 
+the second quarter of 2021. Corporate bond issuance has increased , 
+mostly to rollover existing debt. Bank lending to large corporates 
+(credit limit over 500 million baht) slowed down somewhat due 
+to a higher base in the previous year but was still expanding 
+across many sectors in part due to liquidity needs during the third 
+wave of COVID -19 outbreak. 
+Bank lending to SMEs (credit limit less than 500 million baht) 
+turned positive in the second quarter of 2021. This was in part 
+supported by the soft loan facility which improved credit extension
+to businesses in the trade and services sectors. Monetary Policy Decision
+Soft loan facility
+34,538
+Number of recipients
+106 billion baht
+Approved amount 
+Asset warehousing
+Value of assets transferred
+ Number of recipients
+106
+Note: Data as of 20 Sep 2021        Source: Bank of Thailand15 billion baht
+45
+2019 2020 20213.7
+0.7
+-1.38.2
+-1001020
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2Corporate fundraisingCorporate loans with contract
+amount > 500 million THB*
+Corporate loans with contract 
+amount  ≤ 500 million THB*
+Exclude soft loans and
+rehabilitation loans
+Corporate bonds
+* Credit limit at each commercial bank
+Source: Bank of Thailand% YoYThe Bank of Thailand enhanced its soft loan facility to improve credit access for borrowers with high credit risks
+1. Increased credit limit 2. Increased credit guarantee 
+for borrowers with high credit risk
+Existing 
+borrowersNew 
+borrowersNot exceeding 
+20 million baht
+(across all financial institutions)Not exceeding 
+50 million baht
+(across all financial institutions)Existing limit New limit
+30% of credit limit*
+(not exceeding 
+150 million baht)30% of credit limit*
+(not exceeding 150 million baht)
+Or maximum not exceeding 
+50 million baht 
+(if 30% of existing credit limit does not 
+exceed 50 million baht)
+Note: Effective 1 September 2021 (BOT announcement FPG.1 3 /2564)
+*credit limit at each financial institutions as of 31 Dec 2019 or 28 Feb 2021, whichever is higher
+**existing borrowers with credit limit not exceeding 50 million baht and received addition credit limit not 
+exceeding 15 million baht, or new borrowers that received credit limit not exceeding 15 million baht
+***existing borrowers with credit limit exceeding 50 -500 million baht and received additional credit limit 
+exceeding 15 million baht, or new borrowers that received credit limit exceeding 15 million bahtLower guarantee fees for borrowers 
+significantly affected by COVID -19**
+Lower guarantee payments during 
+the first 2 years (total guarantee fee 
+unchanged) for other borrowers* **1
+2
+46
+Monetary Policy DecisionFiscal measures should prioritize providing relief to affected groups and supporting economic recovery.
+The government should also prepare measures to restore economic growth and uplift long -term growth potential.Monetary Policy Decision
+Fiscal measures should prioritize providing relief to the affected groups and supporting the economy to better suit the current situation. Measures should aim at supporting 
+employment and businesses that are most vulnerable in a sufficient and timely matter. The government should also prepare measures to restore economic growth and uplift long -term
+growth potential going forward so that they could be implemented once the pandemic subsides. 
+Raising the public debt ceiling to 70 percent of GDP and growing public debt levels do not pose significant risks to fiscal s ustainability because (1) Thailand’s public debt stood at 
+57 percent in August 2021 which was still low compared to advanced economies and EM Asia at 120 percent and 70 percent, respe ctively; (2) large portion of Thailand’s public debt are 
+domestic debt and have low financing costs; and (3) risks that Thailand’s credit rating would be downgraded are low. 
+Public debt to GDP will eventually decline over the longer term if the budget were to be spent efficiently towards shoring up the economy that remained subject to high degrees of 
+risks in the short -run and implementing structural reforms such as labor upskilling/reskilling. In addition, the government should have clear medium -term fiscal consolidation plans 
+including generating additional government revenues by expanding tax bases and keeping current expenditures in check.
+.
+47
+Public debt to GDP
+41.8 41.8 42.0 41.049.457.0
+304050607080
+2016 2017 2018 2019 2020 Aug 2021FY% of GDP
+Note: Includes borrowing under the new Emergency Decree authorizing 500 
+billion baht of government borrowing.
+1/ As determined by the State Monetary and Fiscal Policy Committee under 
+the Fiscal Responsibility Act in September 2021 
+Source: Ministry of FinancePublic debt ceiling ≤ 70% of GDP1/TheMPCvoted tomaintain thepolicy rate.Themonetary policy stance remained accommodative andtheMPCstands
+ready touseadditional appropriate monetary policy tools ifdeemed necessary .Monetary Policy Decision
+Inthethird quarter of2021,theThaieconomy wasimpacted bytheCOVID -19
+outbreak more than previously assessed .Notwithstanding, theThaieconomy
+hadalready bottomed outandwasexpected tomake astrong recovery
+supported bythesooner -than-expected relaxation ofcontainment measures .The
+most important issue fortheThaieconomy atpresent wastheimplementation
+ofpublic health measures thatwould facilitate economic andincome recovery .
+Despite some progress onfinancial measures, liquidity distribution anddebt
+restructuring should beexpedited further forthose whowere affected asit
+would bemore effective than afurther reduction inthepolicy rate.
+Stand ready touseadditional appropriate monetary policy measures ifneeded
+The MPC voted 4 to2*
+0.50%MPC Meeting 5/2021 
+(4 Aug 2021)
+to maintain the 
+policy rate at MPC Meeting 6/2021 
+(29 Sep 2021)
+The MPC unanimously voted
+*1 MPC member was unable to attend the meeting 
+48
+5. Special Issues
+≡
+1)Summary of “Impact of debt burden on household consumption” 
+2) Summary of “BOT’s latest credit relief measures”Special Issue 1: Impact of debt burden on household consumption
+TheCOVID -19outbreak severely impacted theThaieconomy andcaused household income todecline significantly .Lossinhousehold income between 2020-2021
+wasestimated tobeasmuch 1.81/trillion baht.Households therefore needed toborrow tomaintain purchasing power andconsumption levels .However,
+thegrowing debt burden ofhouseholds would inturnconstrain consumption andeconomic recovery going forward .ThisSpecial Issue seeks toquantify the
+impact ofdebt burden onhousehold consumption in2020-2021.
+Note: 1/compared to 2019
+Source: National Statistics Office, forecast by Bank of Thailand202120202019Income loss from COVID -19 compared to 2019 level Household debt to GDP
+0.8 trillion baht
+1.0 trillion baht%
+79.8 80.283.886.689.4 90.589.3
+72808896
+Q4
+2019Q1
+2020 Q2
+2020Q3
+2020Q4
+2020Q1
+2021Q2
+2021
+Source: Bank of Thailand
+50
+14,00015,00016,00017,00018,00019,00020,00021,000
+051015202530354045505560657075Special Issue 1: Impact of debt burden on household consumption
+The study2/used data from the Household Socio -Economic Survey from 
+2013, 2015, 2017, and 2019 (only households with debt are selected in the 
+sample) to assess the correlation between consumption and debt service 
+ratio (DSR) of households. The study found that debt burden was a factor 
+that would drag household consumption in the period ahead. The 3 key 
+findings were as follow
+1)Prior to COVID -19, household debt levels in Thailand were elevated and 
+the DSR in 2019 was close to 30% which was the turning point where 
+debt burden would start to negatively impact consumption. 
+2)The COVID -19 crisis impacted household income. It was estimated that 
+the DSR increased from 28.6% in 2019 to 34% in 2021. Such increase in 
+debt burden resulted in a 0.2% and 0.6% decline in household consumption
+in 2020 and 2021, respectively. 
+3)Income -support and debt restructuring measures were still needed to 
+prevent debt burden from dragging household consumption to the point 
+that it affects the overall economic recovery. Average consumption (baht per month)
+Debt service ratio (%)2019
+DSR = 28.6% 2020E
+DSR = 32.4%
+Consumption    
+0.2%2021E
+DSR = 34.0%
+Consumption    
+0.6%Average consumption of households with various debt service ratios
+Note: (1) debt service ratio used in this study is at the household level
+(2) E = Estimated 
+(3) grey shaded area reflect the 95% confidence interval
+Source: Household Socio -economic Survey (2013, 2015, 2017, 2019), calculation by Bank of Thailand2/Utilizes non-parametric (local linear regression) toassess thecorrelation between consumptio n
+anddebt service ratio
+51
+Special Issue 2: BOT’s latest debt relief measures
+TheBOTTemporarily relaxing theregulations regarding theretail debtors oncredit cardloans, supervised personal loans
+anddigital personal loans toalleviate thedebt burden ofdebtors andtoprovide additional liquidity tothose debtors
+stillwithability topay.
+52
+Special Issue 2: BOT’s latest debt relief measures
+The BOT enhanced the existing debt restructuring facilities to be more sustainable 
+by encouraging financial institutions to assist debtors via the long -term debt restructuring program.
+53
+Data tables
+≡
+55Thai Economy Dashboard (1/2)
+2020 2021
+Q1 Q2 Q3 Q4 Q1 Q2
+2.3 -6.1 -2.1 -12.1 -6.4 -4.2 -2.6 7.5
+Production
+-0.6 -3.6 -9.9 -3.1 -1.1 0.4 1.3 2.0
+2.5 -6.3 -1.3 -12.9 -6.7 -4.7 -3.0 8.1
+Manufacturing -0.7 -5.7 -2.4 -14.7 -5.3 -0.7 1.0 16.8
+Construction 1.7 2.2 -9.4 7.6 10.3 -0.2 12.9 5.2
+Wholesales and retail trade 4.5 -3.7 3.6 -10.9 -6.1 -3.1 -2.2 5.5
+Transport and storage 3.0 -21.0 -5.5 -36.6 -22.2 -21.1 -17.7 11.6
+Accommodation and Food Service 7.8 -36.6 -23.3 -49.9 -39.3 -35.2 -35.5 13.2
+Information and Communication 12.3 4.6 4.4 4.1 4.5 5.4 4.7 5.8
+Financial intermediation 2.2 2.7 4.3 1.7 1.6 3.3 3.4 2.3
+Real estate and renting 3.8 1.4 1.7 0.9 1.5 1.3 2.2 2.7
+Source: Office of the National Economic and Social Development Board National Statistical Office and Bank of Thailand2019 2020
+GDP growth 
+Agriculture
+Non-agriculturePercent56
+Thai Economy Dashboard (2/2)
+2020 2021
+Q1 Q2 Q3 Q4 Q1 Q2
+2.3 -6.1 -2.1 -12.1 -6.4 -4.2 -2.6 7.5
+Domestic demand 3.0 -1.6 -0.6 -5.6 -0.5 0.3 2.0 4.8
+Private consumption 4.0 -1.0 2.7 -6.7 -0.6 0.9 -0.3 4.6
+Private investment 2.7 -8.4 -5.3 -14.9 -10.6 -3.3 3.0 9.2
+Government consumption 1.7 0.9 -2.5 1.0 2.5 2.2 2.1 1.1
+Public investment 0.1 5.7 -9.1 12.6 17.6 0.6 19.6 5.6
+Imports of goods and services -5.2 -13.3 -3.0 -23.6 -19.3 -7.0 1.7 31.4
+imports of goods -5.8 -11.2 -2.2 -21.2 -18.1 -3.1 6.4 32.2
+imports of services -2.7 -21.1 -6.2 -32.4 -23.9 -22.1 -15.5 28.2
+Exports of goods and services -3.0 -19.4 -5.8 -27.5 -23.3 -21.5 -10.5 27.5
+exports of goods -3.7 -5.8 1.7 -15.8 -7.5 -1.5 3.2 30.7
+exports of services -0.5 -60.1 -26.8 -67.7 -73.1 -75.2 -63.6 -1.9
+Trade balance (billion, U.S. dollars) 26.7 40.9 9.2 8.8 14.1 8.7 7.4 9.7
+Current account (billion, U.S. dollars) 38.0 20.3 11.0 1.6 7.7 0.0 -2.8 -4.4
+Financial account (billion, U.S. dollars) -15.7 -12.0 -9.6 6.0 -6.3 -2.0 -5.1 -0.8
+International reserves (billion, U.S. dollars) 224.3 258.1 226.5 241.6 251.1 258.1 245.5 246.5
+Unemployment rate (%) 1.0 n.a. 1.0 2.0 1.9 1.9 2.0 1.9
+Unemployment rate, seasonally-adjusted (%) n.a. n.a. 1.1 1.8 1.8 1.9 1.9 1.9
+Source: Office of the National Economic and Social Development Board National Statistical Office and Bank of Thailand2019 2020
+GDP growth 
+ExpenditurePercent
+*Data may be subject to change in line with periodic revisions or changes to data collection methodologies  57
+Financial Stability Dashboard (1/3)
+2020 2021
+Q1 Q2 Q3 Q4 Q1 Q2 Jul Aug
+1. Financial market sector
+0.3 0.9 0.6 0.8 0.8 0.9 1.5 1.3 1.1 1.1
+Equity market
+SET index (end of period) 1,590.6 1,449.4 1,125.9 1,339.0 1,237.0 1,449.4 1,587.2 1,587.8 1,521.9 1,638.8
+Actual volatility of SET index1/9.4 30.4 46.9 25.2 13.7 23.0 13.6 12.4 13.1 11.4
+Price to Earnings ratio (P/E ratio) (times) 19.4 28.8 13.0 18.9 21.2 28.8 41.4 30.2 28.7 20.9
+Exchange rate market
+Actual volatility of Thai baht (%annualized )2/4.1 5.4 5.5 5.5 5.3 5.2 4.4 4.4 4.8 4.8
+Nominal Effective Exchange Rate (NEER) 123.2 122.6 123.3 122.5 122.0 122.5 122.8 119.3 115.8 114.3
+Real Effective Exchange Rate (REER) 112.8 110.2 114.4 113.0 111.1 110.4 109.0 106.0 102.4 101.1
+2. Financial institution sector3/
+Minimum Lending Rate (MLR)4/6.08 5.36 5.93 5.36 5.36 5.36 5.36 5.36 5.49 5.49
+12-month fixed deposit rate4/1.33 0.49 0.75 0.49 0.49 0.49 0.44 0.42 0.45 0.45
+Capital adequacy
+Capital funds / Risk-weighted asset (%) 19.6 20.1 18.7 19.2 19.8 20.1 20.0 20.0 n.a. n.a.
+Earning and profitability
+Net profit (billion, Thai baht) 270.8 145.2 67.5 32.4 28.0 17.1 43.8 60.4 n.a. n.a.
+Return on assets (ROA) (times) 1.4 0.7 1.0 0.6 0.5 0.3 0.8 1.1 n.a. n.a.
+Liquidity
+Loan to Deposit and B/E (%) 96.2 92.3 92.5 92.8 93.0 92.3 92.2 92.8 n.a. n.a.
+Note:
+1/ Calculated by 'annualized standard deviation of return ' method
+2/ Daily volatility (using exponentially weighted moving average method )
+3/ Based on data of all commercial banks
+4/ Average value of 5 largest Thai commercial banksIndicators 2019 2020
+Bond market
+Bond spread (10 years - 2 years)58
+Financial Stability Dashboard (2/3)
+2020 2021
+Q1 Q2 Q3 Q4 Q1 Q2 Jul Aug
+3. Household sector
+Household debt to GDP (%) 79.8 89.4 80.2 83.8 86.6 89.4 90.6 89.3 n.a. n.a.
+Financial assets to debt (times) 3.0 2.9 2.8 2.9 2.9 2.9 2.9 n.a. n.a. n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Consumer loans 2.9 2.8 3.2 3.1 2.9 2.9 2.9 2.9 3.0 n.a.
+Housing loans 3.7 3.8 4.0 4.0 3.9 3.8 3.7 3.7 3.7 n.a.
+Auto leasing 1.9 1.4 2.1 1.9 1.6 1.4 1.6 1.6 1.7 n.a.
+Credit cards 2.4 2.4 3.5 3.0 2.4 2.4 3.0 3.5 3.7 n.a.
+Other personal loans 2.3 2.4 2.6 2.5 2.3 2.4 2.5 2.5 n.a. n.a.
+4. Non-financial corporate sector5/
+Operating profit margin (OPM) (%) 6.8 6.5 6.3 4.5 7.5 7.7 9.4 8.5 n.a. n.a.
+Debt to Equity ratio (D/E ratio) (times) 0.7 0.8 0.9 0.9 0.8 0.8 0.8 0.8 n.a. n.a.
+Interest coverage ratio (ICR) (times) 4.4 4.1 3.8 2.7 4.3 5.4 6.5 6.5 n.a. n.a.
+Current ratio (times) 1.6 1.6 1.5 1.5 1.5 1.6 1.6 1.5 n.a. n.a.
+Non-Performing Loans (NPLs) of commercial banks (%)
+Large businesses 2.6 3.1 2.6 3.0 3.1 3.1 3.1 3.0 3.0 n.a.
+SMEs 6.3 6.9 6.7 6.3 6.6 6.9 7.3 7.3 7.3 n.a.
+Note:
+5/ Only listed companies on Stock Exchange of Thailand (median value ); with data revisionsIndicators 2019 202059
+Financial Stability Dashboard (3/3)
+2020 2021
+Q1 Q2 Q3 Q4 Q1 Q2 Jul Aug
+5. Real estate sector
+Number of approved mortgages from commercial banks  (Bangkok and Vicinity) (units)
+Total 70,876        70,950     14,882 17,531 18,977 19,560 15,958 17,238 4,461       n.a.
+ Single-detached and semi-detached houses 16,167        17,367     3,553 4,408 4,790 4,616 4,445 4,954 1,163       n.a.
+ Townhouses and commercial buildings 24,763        23,062     5,314 5,559 6,128 6,061 5,709 6,133 1,587       n.a.
+ Condominiums 29,946        30,521     6,015 7,564 8,059 8,883 5,804 6,151 1,711      n.a.
+Number of new housing units launched for sale (Bangkok and Vicinity) (units)
+Total 118,975      73,022     18,591 11,535 23,122 19,774 10,187 15,050 2,298 3,666
+Single-detached and semi-detached houses 19,683        17,746     3,682 3,495 5,483 5,086 2,306 3,565 167          833          
+Townhouses and commercial buildings 32,925        29,370     8,132 6,046 9,396 5,796 2,788 6,619 1,219       1,921       
+Condominiums 66,367        25,906     6,777 1,994 8,243 8,892 5,093 4,866 912          912          
+Housing price index (2009 = 100)
+Single-detached houses (including land) 144.0 150.3 149.1 151.3 150.51 150.38 152.19 153.52 153.8 n.a.
+Townhouses (including land) 156.4 163.6 164.0 164.7 162.40 163.17 165.31 166.87 167.1 n.a.
+Condominiums 182.3 184.8 190.0 190.2 179.24 179.86 192.67 190.28 190.0 n.a.
+Land 172.8 186.5 181.6 185.1 188.52 190.79 195.25 196.60 197.7 n.a.
+6. Fiscal sector
+Public debt to GDP (%) 41.2 51.8 41.7 45.8 49.4 51.8 54.3 55.2 55.6 n.a.
+7. External sector
+Current account balance to GDP (%)6/7.0 4.0 8.2 1.5 6.2 0.0 -2.1 -3.5 n.a. n.a.
+External debt to GDP (%)7/34.2 36.8 32.5 33.6 33.5 36.8 35.9 36.0 n.a. n.a.
+External debt (billion, U.S. dollars) 171.9 190.7 165.9 171.9 172.2 190.7 186.5 187.8 n.a. n.a.
+Short-term (%) 34.8 39.2 36.1 36.1 36.3 39.2 38.7 38.0 n.a. n.a.
+Long-term (%) 65.2 60.8 63.9 63.9 63.7 60.8 61.3 62.0 n.a. n.a.
+International reserves / Short-term external debt (times) 3.1 3.0 3.1 3.2 3.4 3.0 2.8 2.9 3.0 3.0
+Note:
+6/ Current account / Nominal GDP at the same quarter
+7/ External debt / 3-year average nominal GDPIndicators 2019 2020
+8/ Short-term external debt refers to debt with remaining maturity less than 1 year from each period end 8/60
+Probability distribution of economic growth forecast
+Probability distribution of GDP growth forecast
+2021 2022 2023
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+> 18 0 0 0 0 0 0 0 1
+16.0-18.0 0 0 0 0 1 0 0 1
+14.0-16.0 0 0 0 0 2 0 1 1
+12.0-14.0 0 0 0 1 6 1 2 2
+10.0-12.0 0 0 1 3 12 3 5 4
+8.0-10.0 0 1 2 6 20 8 10 10
+6.0-8.0 0 2 5 13 23 17 19 18
+4.0-6.0 2 6 11 20 18 24 24 23
+2.0-4.0 5 15 20 23 10 23 20 20
+0.0-2.0 12 29 26 18 4 14 10 12
+(-2.0)-0.0 48 29 20 10 2 6 4 5
+(-4.0)-(-2.0) 27 13 10 4 1 2 2 2
+(-6.0)-(-4.0) 5 4 4 2 1 2 1 1
+< -6 1 1 2 1 0 2 2 1Percent61
+Probability distribution of inflation forecast
+Probability distribution of headline inflation forecast Probability distribution of core inflation forecast
+2021 2022 2023
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+> 4 0 0 0 0 2 1 1 1
+3.5-4.0 0 0 1 1 3 1 2 2
+3.0-3.5 0 1 4 2 7 3 4 4
+2.5-3.0 0 5 9 4 12 6 7 7
+2.0-2.5 0 14 17 9 17 11 11 11
+1.5-2.0 0 25 21 15 18 15 15 14
+1.0-1.5 11 27 21 19 16 17 16 15
+0.5-1.0 56 18 15 19 12 16 15 14
+0.0-0.5 31 8 8 15 7 13 12 12
+(-0.5)-0.0 2 2 3 9 3 9 8 8
+(-1.0)-(-0.5) 0 0 1 4 1 5 5 5
+(-1.5)-(-1.0) 0 0 0 2 0 2 3 3
+(-2.0)-(-1.5) 0 0 0 0 0 1 1 1
+< -2 0 0 0 0 0 0 1 1Percent
+2021 2022 2023
+Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+> 2.1 0 0 0 0 0 0 1 1
+1.8-2.1 0 0 0 1 1 1 1 2
+1.5-1.8 0 0 2 3 3 2 3 4
+1.2-1.5 0 2 5 6 6 5 7 8
+0.9-1.2 0 6 10 10 10 10 12 12
+0.6-0.9 3 15 16 15 15 15 16 16
+0.3-0.6 22 24 20 18 18 17 17 17
+0.0-0.3 43 25 19 17 17 17 16 15
+(-0.3)-0.0 26 17 15 14 14 14 12 11
+(-0.6)-(-0.3) 5 8 9 9 9 9 8 7
+(-0.9)-(-0.6) 0 2 4 4 5 5 4 4
+(-1.2)-(-0.9) 0 0 1 2 2 3 2 2
+(-1.5)-(-1.2) 0 0 0 1 1 1 1 1
+< -1.5 0 0 0 0 0 0 0 0Percent
