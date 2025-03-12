@@ -12,6 +12,7 @@ library(shinydashboard)
 library(usmap)
 library(plotly)
 library(dplyr)
+library(igraph)
 
 
 word_count_per_period <- readRDS("rds/word_count_per_period.RDS")
@@ -24,7 +25,22 @@ topic_coords <- readRDS("rds/topic_coords.RDS")
 comparison_data <- readRDS("rds/comparison_data.RDS")
 # usa <- st_as_sf(maps::map("state", fill=TRUE, plot =FALSE))
 
+bigrams_overall <- bigrams_united %>%
+  count(bigram, sort = TRUE) %>%
+  slice_max(n, n = 10) 
 
+edges_df <- as_data_frame(bigram_network, what = "edges")  
+colnames(edges_df) <- c("from", "to", "weight")  # Ensure proper column names
+nodes_df <- data.frame(id = V(bigram_network)$name)
+layout <- layout_with_fr(bigram_network)  # Generates node positions
+nodes_df <- nodes_df %>%
+  mutate(x = layout[, 1], y = layout[, 2])  # Assign x, y positions
+
+edges_df <- edges_df %>%
+  left_join(nodes_df, by = c("from" = "id")) %>%
+  rename(x_start = x, y_start = y) %>%
+  left_join(nodes_df, by = c("to" = "id")) %>%
+  rename(x_end = x, y_end = y)
 
 server <- function(input, output) { 
   
@@ -154,9 +170,7 @@ server <- function(input, output) {
   
   ##### TAB bigrams #########
   
-  bigrams_overall <- bigrams_united %>%
-    count(bigram, sort = TRUE) %>%
-    slice_max(n, n = 10) 
+  
   
   output$plot_common_bigrams <- renderPlotly({
     plot_ly(bigrams_overall, 
@@ -175,34 +189,23 @@ server <- function(input, output) {
       )
   })
   
-  edges <- as_data_frame(bigram_network, what = "edges")  
-  nodes <- as_data_frame(bigram_network, what = "vertices")  
-  
-  layout <- layout_with_fr(bigram_network)  
-  
-  nodes_df <- data.frame(layout)
-  colnames(nodes_df) <- c("x", "y")
-  nodes_df$name <- nodes$name  # Add bigram word labels
-  
-  edges_df <- edges %>%
-    left_join(nodes_df, by = c("from" = "name")) %>%
-    rename(x_start = x, y_start = y) %>%
-    left_join(nodes_df, by = c("to" = "name")) %>%
-    rename(x_end = x, y_end = y)
   
   output$plot_bigram_network <- renderPlotly({
     
     plot_ly() %>%
+      # Add edges (connections between words)
       add_segments(
         x = ~edges_df$x_start, y = ~edges_df$y_start,
         xend = ~edges_df$x_end, yend = ~edges_df$y_end,
-        line = list(color = 'gray', width = 1),
+        line = list(color = 'gray', width = 1, opacity = 0.5),
         hoverinfo = "none"
       ) %>%
+      
+      # Add nodes (words)
       add_trace(
         data = nodes_df,
         x = ~x, y = ~y, 
-        text = ~name, 
+        text = ~id, 
         type = "scatter", mode = "markers+text",
         textposition = "top center",
         marker = list(size = 10, color = "lightblue", opacity = 0.8)
