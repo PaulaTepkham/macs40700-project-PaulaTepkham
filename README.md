@@ -10,7 +10,7 @@ This analysis is a part of master thesis, named "A More Robust Monetary Policy S
 ## Directory
 - Visualization: [Monetary Policy Report: Text Analysis](https://phornchanokt.shinyapps.io/final_project_phornchanokt/)
 ![Shiny App](final_project/img/tab1_shiny.png) 
-- Paper: [Visualization Explaining Documents](https://uchicagoedu-my.sharepoint.com/:w:/g/personal/phornchanokt_uchicago_edu/EbcIjIjuMUxIi1f-o70IIDQBkxvVvoTuZ0FA5EY_bTrXZQ?e=8H9xZm)
+- Paper: [Visualization Explaining Document](https://uchicagoedu-my.sharepoint.com/:w:/g/personal/phornchanokt_uchicago_edu/EbcIjIjuMUxIi1f-o70IIDQBkxvVvoTuZ0FA5EY_bTrXZQ?e=8H9xZm)
 - Data Preperation and Vizualization development: [R Markdown](final_project/prep_rds.Rmd)
 - Code: [UI](final_project/ui.R), [Server](final_project/server.R)
 
@@ -24,7 +24,7 @@ The diagram shows three-step pipeline—spanning data preprocessing, topic model
 
 ## Tab 1 Overview : Text Processing Steps
 
-I read raw text from each document into a computer and process it in the following steps.  Then, I remove stop words using [Loughran-McDonald's Stop Word List](https://sraf.nd.edu/textual-analysis/stopwords/), which includes general stop words, dates, numbers, and names. Then, I tokenize each document by breaking it into single words.
+I read raw text from each document into a computer and process it in the following steps.  Then, I remove stop words using [Loughran-McDonald's Stop Word List](https://sraf.nd.edu/textual-analysis/stopwords/), which includes general stop words, dates, numbers, and names. Then, I tokenize each document by breaking it into single words, bigrams.
 
 ### Types of MPC Documents Used in Analysis
 
@@ -40,7 +40,7 @@ Over the decade, the **average word count per quarterly document** was approxima
 However, a **significant reduction occurred after Q2 2021**, with word counts dropping to below **14,158 words**  
 per document. This shift may indicate **changes in reporting style or content emphasis**, which warrants further investigation.
 
-![Word Count Trends](final_project/img/word_count.png)  
+![Word Count Trends](final_project/img/tab1_shiny_wordcounts.png)  
 
 This figure highlights the declining word count in Monetary Policy Reports from 2013 to 2023, showing a sharp reduction after Q2 2021. This change may indicate a shift in policy communication, reporting style, or content emphasis. A line chart is the best choice for this time-series data, as it effectively captures trends and fluctuations. Dashed horizontal lines represent the average word counts before and after 2021, allowing for an easy comparison. Also, plotly’s interactivity helps storytelling by enabling hover tooltips, zooming, and panning, helping users explore specific time periods dynamically.
 
@@ -49,16 +49,16 @@ This figure highlights the declining word count in Monetary Policy Reports from 
 
 On this Common words tab, these visualizations analyze word frequency and trends in Thailand’s Monetary Policy Reports (MPRs) over time. The bar chart highlights the most common words in a selected year, allowing users to see which terms were emphasized, while the line chart tracks the frequency of selected words across multiple years, revealing shifts in policy focus. For example, “COVID” appears prominently post-2020, reflecting the pandemic’s impact on monetary discussions, while terms like “inflation” and “financial” remain consistently relevant.
 
-![Common Words Analysis](final_project/img/tab1_word_count.png)  
-![Word Trend Analysis](final_project/img/tab1_word_trend.png)  
+![Common Words Analysis](final_project/img/tab2_shiny_mostcommon.png)  
+![Word Trend Analysis](final_project/img/tab2_shiny_trends.png)  
 
 ### Subtab 2.2 Common Bigrams
 
 
 The bigram frequency bar chart and bigram network graph provide complementary insights into the language used in Monetary Policy Reports. The bar chart effectively highlights the most commonly used bigrams, allowing users to quickly compare word pair frequencies. A horizontal layout was chosen to accommodate longer phrases, ensuring readability. Using plot_ly(), the chart enhances user interaction by allowing hovering for exact values, making it easier to explore dominant economic terms over time. The bigram network graph, on the other hand, focuses on semantic relationships, revealing how words connect in the reports. This visualization uncovers clusters of related terms and highlights recurring themes in monetary policy discussions. The force-directed layout groups strongly associated words together, providing a clear structure. Interactive zooming, panning, and tooltips further enhance exploration. By combining these visualizations, users can analyze both the frequency and context of key economic terms, offering a comprehensive view of language trends in monetary policy.
 
-![Most Common Bigrams](final_project/img/tab2_bi_count.png) 
-![Bigrams Network](final_project/img/tab2_bi_net.png) 
+![Most Common Bigrams](final_project/img/tab3_shiny_bigrams.png) 
+![Bigrams Network](final_project/img/tab3_shiny_network.png) 
 
 
 ### Subtab 2.3 Common Trigrams (to be updated)
@@ -66,8 +66,8 @@ The bigram frequency bar chart and bigram network graph provide complementary in
 
 The topic modeling resulting from Thailand’s Monetary Policy Reports helps to understand key themes and word distributions across topics. The t-SNE projection scatter plot provides an intertopic distance map, visually representing how distinct or related topics are. Each topic is labeled for clarity, with color-coded markers enhancing differentiation. This form is effective because it allows users to quickly identify clustering and relationships between topics. The bar chart comparing term frequencies highlights key words within each topic compared to their overall usage. This enables users to see what makes each topic unique. The interactive dropdown selection lets users explore different topics dynamically.
 
-![Intertopic Distance Map](final_project/img/tab4_lda.png) 
-![Term Frequencies](final_project/img/tab4_lda_comparisons.png)  
+![Intertopic Distance Map](final_project/img/tab4_shiny_lda.png) 
+![Term Frequencies](final_project/img/tab4_shiny_compare.png)  
 
 Reference: 
 - https://rstudio.github.io/shinythemes/ 
