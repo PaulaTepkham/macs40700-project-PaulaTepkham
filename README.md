@@ -9,11 +9,10 @@ This analysis is a part of master thesis, named "A More Robust Monetary Policy S
 
 ## Directory
 - Visualization: [Monetary Policy Report: Text Analysis](https://phornchanokt.shinyapps.io/final_project_phornchanokt/)
+![Shiny App](final_project/img/tab1_shiny.png) 
 - Paper: [Visualization Explaining Documents](https://uchicagoedu-my.sharepoint.com/:w:/g/personal/phornchanokt_uchicago_edu/EbcIjIjuMUxIi1f-o70IIDQBkxvVvoTuZ0FA5EY_bTrXZQ?e=8H9xZm)
 - Data Preperation and Vizualization development: [R Markdown](final_project/prep_rds.Rmd)
 - Code: [UI](final_project/ui.R), [Server](final_project/server.R)
-
-![Shiny App](final_project/img/tab1_shiny.png) 
 
 ## A More Robust Monetary Policy Shock: A Natural Language Processing Approach of Thailand’s Monetary Policy Reports
 
