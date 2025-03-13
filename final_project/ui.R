@@ -31,17 +31,17 @@ mytheme <- create_theme(
   ),
   adminlte_sidebar(
     width = "400px",
-    dark_bg = "lightgrey",
-    dark_hover_bg = "darkblue",
+    dark_bg = "#FFF",
+    dark_hover_bg = "#1E3A8A",
     dark_color = "#2E3440",
-    dark_submenu_bg = "lightgrey",
+    dark_submenu_bg = "#FFF",
     dark_submenu_color = "#2E3440",
-    dark_submenu_hover_color = "darkblue"
+    dark_submenu_hover_color = "#1E3A8A"
   ),
   adminlte_global(
     content_bg = "#FFF",
-    box_bg = "#D8DEE9", 
-    info_box_bg = "#D8DEE9"
+    box_bg = "#FFF", 
+    info_box_bg = "#FFF"
   )
 )
 
@@ -49,6 +49,8 @@ ui <- dashboardPage(
   dashboardHeader(title = "Monetary Policy Report: Text Analysis"),
   
   dashboardSidebar(
+    width = 250,  
+    collapsed = FALSE, 
     sidebarMenu(
       menuItem("Overview", tabName = "overview", icon = icon("globe")),
       
@@ -60,33 +62,55 @@ ui <- dashboardPage(
     )
   ),
   
-  ## Body content
+
   dashboardBody(
-    use_theme(mytheme),  
+    tags$head(
+      tags$style(HTML("
+      .main-header {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 1000;
+      }
+      .main-sidebar {
+        position: fixed;
+        width: 250px !important;
+        height: 100% !important;
+        overflow: hidden;
+      }
+      .content-wrapper, .right-side {
+        margin-top: 50px;  
+        margin-left: 250px; 
+      }
+    "))
+    ),
     
     tabItems(
       ##### TAB OVERVIEW: INTERACTIVE PLOTLY PLOT #########
       tabItem(
         tabName = "overview",
         div(
+          style = "background-color: lightblue; color: white; padding: 20px; border-radius: 10px;",
+          
+        div(
           style = "display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;",
           
           div(
-            style = "flex: 1; text-align: left; color: darkblue;",
+            style = "flex: 3; text-align: left; color: #1E3A8A;",
             h2("Text Analysis on A More Robust Monetary Policy Shock: A Natural Language Processing Approach of Thailand’s Monetary Policy Reports"),
             h4(style = "text-align: left; color: gray;", 
                "This analysis is a part of a master's thesis that explores a new approach to measuring monetary policy shocks in Thailand's Monetary Policy Reports.")
           ),
           
           div(
-            style = "flex: 1; text-align: right;",
-            h3("Phornchanok (Paula) Tepkham"),
-            p("MACSS-ECON, University of Chicago"),
+            style = "flex: 2; text-align: right; color: black;",
+            h4("Phornchanok (Paula) Tepkham", tags$br(), "MACSS-ECON", tags$br(),"University of Chicago"),
             p("Last updated: March 12, 2025"),
-            img(src = "img/paula_profile.png", height = "120px", style = "border-radius: 50%;")
+            img(src = "https://raw.githubusercontent.com/PaulaTepkham/macs40700-project-PaulaTepkham/main/final_project/img/paula_profile.png", 
+                height = "120px", style = "border-radius: 80%;")
           )
+        )
         ),
-        
         h3(style = "text-align: left;", "Research Introduction"),
         p(style = "text-align: left;", 
           "In order to study the real effect of monetary policy on the economy, macroeconomists must distinguish changes in interest rates from anticipated responses to economic constraints.
@@ -118,13 +142,15 @@ ui <- dashboardPage(
                    h3("Word Count Trends in Monetary Policy Reports"),
                    plotlyOutput("plot_word_count"),
                    br()
+          ),
+          
+          tabPanel("Code Repository",
+                   h3("Link to Github Repository"),
+                   tags$ul(
+                     tags$li(a("Github Repository",
+                               href="https://github.com/PaulaTepkham/macs40700-project-PaulaTepkham.git", target="_blank"))
+                   )
           )
-        ),
-        
-        h3("Code Repository"),
-        tags$ul(
-          tags$li(a("Github Repository",
-                    href="https://github.com/PaulaTepkham/macs40700-project-PaulaTepkham.git", target="_blank"))
         )
       ),
       
@@ -133,44 +159,143 @@ ui <- dashboardPage(
         tabName = "words",
         h2("Common Words Analysis"),
         
-        sliderInput("selected_year", "Select Year:",
-                    min = min(top_words_q$year), 
-                    max = max(top_words_q$year), 
-                    value = 2020, step = 1, 
-                    animate = TRUE),
-        
-        plotlyOutput("plot_common_words"),
-    
+        fluidRow(
+          # Left side: Text box
+          column(
+            width = 2,
+            div(
+              style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px;",
+              h4("Highlighting the most common words in a selected year"),
+              p("The bar plot allows users to see which terms were emphasized in selected year. For example, word 'covid' is appeared to be top words only in 2020 and 2021.")
+            )
+          ),
+          
+
+          column(
+            width = 10,
+            sliderInput("selected_year", "Select Year:",
+                        min = min(top_words_q$year), 
+                        max = max(top_words_q$year), 
+                        value = 2020, step = 1, 
+                        animate = TRUE),
+            plotlyOutput("plot_common_words")
+          )
+        ),
+        hr(),
         h2("Word Trend Analysis"),
         
-        textInput("selected_words", "Enter Words (comma-separated):", 
-                  value = "inflation, covid, exports"),
-        
-        plotlyOutput("plot_word_trends")
+        fluidRow(
+          column(
+            width = 2,
+            div(
+              style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px;",
+              h4("Revealing shifts in policy focus"),
+              p("The line graph tracks the frequency of selected words across multiple years. For example, “COVID” appears prominently post-2020, reflecting the pandemic’s impact on monetary discussions, while terms like “inflation” and “financial” remain consistently relevant.")
+            )
+          ),
+          
+          column(
+            width = 10,
+            textInput("selected_words", "Enter Words (comma-separated):", 
+                      value = "inflation, covid, exports"),
+            plotlyOutput("plot_word_trends")
+          )
+        )
       ),
       
-      ##### TAB Bigrams #########
+      ##### TAB Bigrams #########       
       tabItem(
         tabName = "bigrams",
         h2("Most Common Bigrams in Monetary Policy Reports"),
-        plotlyOutput("plot_common_bigrams"),
-        br(),
+        
+        fluidRow(
+          # Left side: Text Box
+          column(
+            width = 2,
+            div(
+              style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px;",
+              h4("Economic Terms that come together"),
+              p("The bar chart effectively highlights the most commonly used bigrams, allowing users to quickly compare word pair frequencies. The top three common bigrams are 'headline inflation', 'commercial banks', and 'private consumption'. ")
+            )
+          ),
+          
+          # Right side: Plot
+          column(
+            width = 10,
+            plotlyOutput("plot_common_bigrams")
+          )
+        ),
+        
+        hr(),
         h2("Bigram Network in Monetary Policy Reports"),
-        plotlyOutput("plot_bigram_network")
-      ),
+        
+        fluidRow(
+          # Left side: Text Box
+          column(
+            width = 2,
+            div(
+              style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px;",
+              h4("Highlighting related terms of the top words"),
+              p("The network uncovers clusters of related terms and highlights recurring themes in monetary policy discussions. For example, word 'financial' is connected to 'financial merket', 'financial stability'.")
+            )
+          ),
+          
+          # Right side: Text Input & Plot
+          column(
+            width = 10,
+            textInput("highlight_word", "Enter Word to Highlight:", 
+                      value = "financial", placeholder = "Type a word..."),
+            plotlyOutput("plot_bigram_network")
+          )
+        )
+      )
+      ,
+      
       
       ##### TAB Topic Modeling #########
       tabItem(
         tabName = "topics",
         h2("Intertopic Distance Map (t-SNE Projection)"),
-        plotlyOutput("plot_topic_map"),
-        br(),
+        
+        fluidRow(
+          column(
+            width = 2,
+            div(
+              style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px;",
+              h4("Distinct three economic topics"),
+              p("The topic modeling resulting from Thailand’s Monetary Policy Reports helps to understand key themes and word distributions across topics. The t-SNE projection scatter plot provides an intertopic distance map, visually three economic topics, namyly 'output', 'financial markets', and 'inflation', are pretty distinct.")
+            )
+          ),
+          
+          column(
+            width = 10,
+            plotlyOutput("plot_topic_map")
+          )
+        ),
+        
+        hr(),
         h2("Comparison of Term Frequencies Across Topics"),
-        selectInput("selected_topic", "Select Topic:",
-                    choices = unique(comparison_data$topic_name),  
-                    selected = unique(comparison_data$topic_name)[1]),  
-        plotlyOutput("plot_term_frequencies")
+        
+        fluidRow(
+          column(
+            width = 2,
+            div(
+              style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px;",
+              h4("Unique words in each topics"),
+              p("The bar chart comparing term frequencies highlights key words within each topic compared to their overall usage. For example, topics 'output' contains unique words 'market', 'sector', 'private', while topics 'inflation' contains more words that related to prices.")
+            )
+          ),
+          
+          column(
+            width = 10,
+            selectInput("selected_topic", "Select Topic:",
+                        choices = unique(comparison_data$topic_name),  
+                        selected = unique(comparison_data$topic_name)[1]),  
+            plotlyOutput("plot_term_frequencies")
+          )
+        )
       )
+      
     )
   )
 )

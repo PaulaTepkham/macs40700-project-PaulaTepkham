@@ -1,15 +1,16 @@
-# Assignment 5: Interactive/Animated graphics 
+Final project
 Phornchanok (Paula) Tepkham 
 
-(March 5, 2025) 
+(March 12, 2025) 
 
 This analysis is a part of master thesis, named "A More Robust Monetary Policy Shock: A Natural Language Processing Approach of Thailand’s Monetary Policy Reports"
 ---
 
 ## Directory
-- Shiny App Link: [Monetary Policy Report: Text Analysis](https://phornchanokt.shinyapps.io/final_project_phornchanokt/)
+- Visualization: [Monetary Policy Report: Text Analysis](https://phornchanokt.shinyapps.io/final_project_phornchanokt/)
+- Paper: [Visualization Explaining Documents](https://uchicagoedu-my.sharepoint.com/:w:/g/personal/phornchanokt_uchicago_edu/EbcIjIjuMUxIi1f-o70IIDQBkxvVvoTuZ0FA5EY_bTrXZQ?e=8H9xZm)
 - Data Preperation and Vizualization development: [R Markdown](final_project/prep_rds.Rmd)
-- Shiny Code: [UI](final_project/ui.R), [Server](final_project/server.R)
+- Code: [UI](final_project/ui.R), [Server](final_project/server.R)
 
 ## A More Robust Monetary Policy Shock: A Natural Language Processing Approach of Thailand’s Monetary Policy Reports
 

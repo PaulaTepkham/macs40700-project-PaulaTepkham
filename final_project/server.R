@@ -72,7 +72,7 @@ server <- function(input, output) {
                    type = 'scatter', 
                    mode = 'lines+markers',
                    line = list(color = 'navy', width = 2),
-                   marker = list(color = 'lightgrey', size = 2),
+                   marker = list(color = 'lightgrey', size = 1),  
                    name = "Word Count")
     
     fig <- fig %>%
@@ -95,8 +95,17 @@ server <- function(input, output) {
           text = "<b>Word Count Trend Over Time</b>",
           x = 0.5  # Center title
         ),
-        xaxis = list(title = "Year-Quarter", tickangle = 60),  # Rotate x-axis labels
-        yaxis = list(title = "Word Count"),
+        xaxis = list(
+          title = "Year-Quarter", 
+          tickangle = 0,  
+          showgrid = FALSE,  
+          tickmode = "array", 
+          tickvals = word_count_per_period$year_quarter[seq(1, length(word_count_per_period$year_quarter), by = 4)]  
+        ),
+        yaxis = list(
+          title = "Word Count",
+          showgrid = FALSE 
+        ),
         annotations = list(
           list(x = "2016-Q4", y = avg_early, text = paste0(format(round(avg_early, 0), big.mark = ","), " words"),
                showarrow = FALSE, font = list(color = "grey", size = 12)),
@@ -108,15 +117,19 @@ server <- function(input, output) {
     fig
   })
   
+  
   ##### TAB Words: INTERACTIVE PLOTLY PLOT #########
+  
+  # Filter top words for selected year
   filtered_words_year <- reactive({
     req(input$selected_year)
     
     top_words_q %>%
       filter(year == input$selected_year) %>%
-      slice_head(n = 10)  # select 10 words
+      slice_head(n = 10)  # select top 10 words
   })
   
+  # Filter word trends for selected words
   filtered_words_trends <- reactive({
     req(input$selected_words)  
     
@@ -128,6 +141,7 @@ server <- function(input, output) {
       arrange(year)  
   })
   
+  # Common Words Bar Chart (Remove Grid Lines)
   output$plot_common_words <- renderPlotly({
     data <- filtered_words_year()
     
@@ -140,8 +154,8 @@ server <- function(input, output) {
       layout(
         title = list(text = paste0("<b>Most Common Words in Monetary Policy Report: ", input$selected_year, "</b>"),
                      x = 0.5, font = list(size = 16)),
-        xaxis = list(title = "Count"),
-        yaxis = list(title = ""),
+        xaxis = list(title = "Count", showgrid = FALSE),  # Remove x grid lines
+        yaxis = list(title = "", showgrid = FALSE),  # Remove y grid lines
         margin = list(l = 100),
         plot_bgcolor = "white"
       )
@@ -161,16 +175,14 @@ server <- function(input, output) {
       layout(
         title = list(text = paste0("<b>Word Trends: ", input$selected_words, "</b>"),
                      x = 0.5, font = list(size = 16)),
-        xaxis = list(title = "Year", tickmode = "array", tickvals = unique(data$year), tickangle = 45),
-        yaxis = list(title = "Percentage"),
+        xaxis = list(title = "Year", tickmode = "array", tickvals = unique(data$year), tickangle = 45, showgrid = FALSE),  # Remove x grid lines
+        yaxis = list(title = "Percentage", showgrid = FALSE),  # Remove y grid lines
         margin = list(l = 100),
         plot_bgcolor = "white"
       )
   })
   
   ##### TAB bigrams #########
-  
-  
   
   output$plot_common_bigrams <- renderPlotly({
     plot_ly(bigrams_overall, 
@@ -182,8 +194,8 @@ server <- function(input, output) {
       layout(
         title = list(text = "<b>Most Common Bigrams in Monetary Policy Reports</b>",
                      x = 0.5, font = list(size = 16)),
-        xaxis = list(title = "Count"),
-        yaxis = list(title = ""),
+        xaxis = list(title = "Count", showgrid = FALSE), 
+        yaxis = list(title = "", showgrid = FALSE),  
         margin = list(l = 100),
         plot_bgcolor = "white"
       )
@@ -192,23 +204,37 @@ server <- function(input, output) {
   
   output$plot_bigram_network <- renderPlotly({
     
+    highlight_word <- input$highlight_word
+    nodes_df <- nodes_df %>%
+      mutate(
+        color = ifelse(id == highlight_word, "darkblue", "#ADD8E6"),  
+        border_color = ifelse(id == highlight_word, "darkblue", "#ADD8E6"),  
+        size = ifelse(id == highlight_word, 15, 10)  
+      )
+    
     plot_ly() %>%
-      # Add edges (connections between words)
       add_segments(
         x = ~edges_df$x_start, y = ~edges_df$y_start,
         xend = ~edges_df$x_end, yend = ~edges_df$y_end,
         line = list(color = 'gray', width = 1, opacity = 0.5),
-        hoverinfo = "none"
+        hoverinfo = "none",
+        showlegend = FALSE  
       ) %>%
       
-      # Add nodes (words)
+      
       add_trace(
         data = nodes_df,
         x = ~x, y = ~y, 
         text = ~id, 
         type = "scatter", mode = "markers+text",
         textposition = "top center",
-        marker = list(size = 10, color = "lightblue", opacity = 0.8)
+        marker = list(
+          size = ~size, 
+          color = ~color,  
+          line = list(color = ~border_color, width = 2),  # Border color
+          opacity = 0.8
+        ),
+        showlegend = FALSE  
       ) %>%
       
       layout(
@@ -218,6 +244,7 @@ server <- function(input, output) {
         plot_bgcolor = "white"
       )
   })
+  
   
   ##### TAB LDA #########
   output$plot_topic_map <- renderPlotly({
@@ -233,18 +260,19 @@ server <- function(input, output) {
             marker = list(size = 10, opacity = 0.7)) %>%
       layout(
         title = list(text = "<b>Intertopic Distance Map (t-SNE Projection)</b>", x = 0.5),
-        xaxis = list(title = "t-SNE Dimension 1"),
-        yaxis = list(title = "t-SNE Dimension 2"),
+        xaxis = list(title = "t-SNE Dimension 1", showgrid = FALSE, zeroline = FALSE, showticklabels = TRUE),
+        yaxis = list(title = "t-SNE Dimension 2", showgrid = FALSE, zeroline = FALSE, showticklabels = TRUE),
         legend = list(title = list(text = "Topic")),
         plot_bgcolor = "white"
       )
   })
   
+  
   filtered_terms <- reactive({
-    req(input$selected_topic)  # Ensure input is available
+    req(input$selected_topic)  
     
     comparison_data %>%
-      filter(topic_name == input$selected_topic)  # Filter data for the selected topic
+      filter(topic_name == input$selected_topic)  
   })
   
   output$plot_term_frequencies <- renderPlotly({
@@ -256,7 +284,7 @@ server <- function(input, output) {
             type = 'bar', 
             orientation = 'h',
             name = "Selected Topic",
-            marker = list(color = '#000080', opacity = 0.8)) %>%
+            marker = list(color = 'darkblue', opacity = 0.8)) %>%
       
       add_trace(x = ~overall_beta, 
                 y = ~reorder(term, beta), 
@@ -267,12 +295,13 @@ server <- function(input, output) {
       layout(
         title = list(text = paste0("<b>Term Frequencies for Topic: ", input$selected_topic, "</b>"),
                      x = 0.5, font = list(size = 16)),
-        xaxis = list(title = "Beta Value (Topic Probability)"),
-        yaxis = list(title = "Term"),
-        barmode = "overlay",  # Overlay bars for comparison
-        margin = list(l = 150),  # Adjust left margin for readability
+        xaxis = list(title = "Beta Value (Topic Probability)", showgrid = FALSE, zeroline = FALSE),
+        yaxis = list(title = "Term", showgrid = FALSE, zeroline = FALSE),
+        barmode = "overlay",  
+        margin = list(l = 150),  
         plot_bgcolor = "white",
         legend = list(title = list(text = "Frequency Type"))
       )
   })
+  
 }
